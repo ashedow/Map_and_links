@@ -8,6 +8,39 @@
 - [ ] Sort
 
 
+# Content
+* [Finland](#finland)
+	* [Lappeenranta](#lappeenranta)
+	* [Helsinki](#helsinki)
+* [Estonia](#estonia)
+	* [Tallinn](#tallinn)
+	* [Tartu](#tartu)
+* [Latvia](#latvia)
+	* [Riga](#riga)
+* [Lithuania](#lithuania)
+	* [Vilnius](#vilnius)
+	* [Kaunas](#kaunas)
+	* [Palanga](#palanga)
+	* [Klaipėda](#klaipėda)
+* [Poland](#poland)
+	* [Krakow](#krakow)
+	* [Zakopane](#zakopane)
+	* [Katowice](#katowice)
+	* [Nowy Sącz](#nowy-sącz)
+	* [Lubin](#lubin)
+	* [Lodz](#lodz)
+	* [Gdańsk](#gdańsk)
+	* [Gdynia](#gdynia)
+	* [Sopot](#sopot)
+	* [Malbork](#malbork)
+	* [Żywiec](#zywiec)
+	* [Pszczyna](#pszczyna)
+	* [Warszawa](#warszawa)
+	* [Posnań](#posnań)
+	* [Cieszyn](#cieszyn)
+	* [Wrocław](#wrocław)
+* [Czechia](#czechia)
+
 # Maps, tools and worldwide stuff
 
 **maps**
@@ -236,7 +269,7 @@ Värav - Coffee and Toast— микро-домик с тостами и сока
 
 # Latvia
 
-## Рига/Riga
+## Riga
 
 Артдокфест - фест документального кино
 Архитектура  модерн
@@ -551,7 +584,7 @@ To see and walk
 Лайсвес Алея в центре, старый город с замком (Kauno Pilis). 
 
 
-## Palanga/Паланга
+## Palanga
 
 Очень красивый старинный курортный город.
 
@@ -592,7 +625,7 @@ Curonian Spit National Park/Куршская коса
 В самой Смильтине есть крестьянская усадьба под открытым небом, а также рыбацкий корабль советских времен, вытащенный на берег и превращенный в музей.
 
 
-## Klaipėda/Клайпеда
+## Klaipėda
 
 просто погулять в небольшом, но симпатичном историческом центре, который начинается за Биржевым мостом. Дойдите до порта и "пешего" парома - если идти по улице Žvejų, то можно посмотреть на мостик, который разводят вручную, и скульптуру черного призрака
 
@@ -1510,7 +1543,7 @@ Piotrkowskiej ul - to walk
 технический музей лучше чем в варшаве
 
 
-## Gdansk/Gdańsk
+## Gdańsk
 
 https://pik.gdansk.pl/
 
@@ -1571,7 +1604,7 @@ https://vas3k.club/guide/14976/
 Malbork Castle - https://zamek.malbork.pl
 
 
-## Żywiec
+## Zywiec
 
 Небольшой городок
 Скататься в горы Zar, где катаются на лыжах и прочем. Летают на парапланах
@@ -1855,7 +1888,7 @@ https://pyrkon.pl anime fest
 https://swietoherbaty.pl/pl/o-festiwalu/ tea fest
 
 
-## Wrocław/Вроцлав
+## Wrocław
 
 pik.wroclaw.pl
 http://www.zamek.wroclaw.pl/projekty/festiwal-herbaty-czaisz/czaisz/ tea fest
@@ -5810,3 +5843,5 @@ Kafe Aliye, Yaltinskoye shosse, Топовейшие шашлыки и чебу�
 оранжерея - завтраки, обеды, ужины, кальяны https://gastrosev.ru/place/oranzhereya/ 
 веранда - завтраки, обеды, ужины, кальяны https://veranda-food.com/
 супус - https://www.tripadvisor.ru/Restaurant_Review-g295387-d21314854-Reviews-Sevastopol.html
+
+[Żywiec]: #zywiec
