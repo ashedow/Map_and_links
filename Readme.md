@@ -40,6 +40,10 @@
 	* [Cieszyn](#cieszyn)
 	* [Wrocław](#wrocław)
 * [Czechia](#czechia)
+	* [Prague](#prague)
+	* [Brno](#brno)
+	* [Olomouc](#olomouc)
+* [Croatia](#croatia)
 
 # Maps, tools and worldwide stuff
 
@@ -5843,5 +5847,3 @@ Kafe Aliye, Yaltinskoye shosse, Топовейшие шашлыки и чебу�
 оранжерея - завтраки, обеды, ужины, кальяны https://gastrosev.ru/place/oranzhereya/ 
 веранда - завтраки, обеды, ужины, кальяны https://veranda-food.com/
 супус - https://www.tripadvisor.ru/Restaurant_Review-g295387-d21314854-Reviews-Sevastopol.html
-
-[Żywiec]: #zywiec
