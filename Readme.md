@@ -40,6 +40,10 @@ fosdem.org - FOSDEM is a two-day event organised by volunteers to promote the wi
 https://freewalkingtour.com/find-a-tour
 
 
+**blogs and channels**
+
+https://staskulesh.com/ - блог о Новой Зеландии, Чили, Китае, Шотландии и вообще
+
 **Apartments**
 
 airbnb
@@ -109,6 +113,7 @@ https://latanadelpolpoinfo.wixsite.com/trattoriadimare have to go there smażony
 # Южная Корея.
 
 https://www.reddit.com/r/southkorea/
+https://www.reddit.com/r/koreatravel/
 Ссылка в чат - https://t.me/+DRpohP4-57UxOTRi
 
 before
@@ -130,25 +135,156 @@ before the board Q code - https://cov19ent.kdca.go.kr/cpassportal/biz/beffatstmn
 P.S. У меня два вида частного страхования - один возвращает до 90% от потраченной суммы, продлевается каждый год. Другой - онкологические заболевания, к примеру при онкологии выплачивается ~35k USD + 1k-20k в зависимости от вида онкологии.
 Итого, если я иду в больницу - обследование + прием врача + таблетки = 150 USD, минус госстраховка = 40USD, минус частное страхование = 10USD.
 
+Best times weather-wise are spring (March-May) and fall (September-November). weather is nice, trees are greener and flowers are everywhere.
+Feb - cold. Jun - better
+
+**apartments**
+
+airBnB is still a thing here 
+booking 
+agoda
+hotels.com works great too, but you might be overcharged. 
+
+**maps**
+
+Download some apps: "South Of Seoul" for TripAdvisor-like stuff and it has all kinds of stuff to do. 
+Waze works for navigation 
+Naver Maps - had great public transit routing. https://map.naver.com/
+
 **lang**
 
+Papagao -  best translator between Hangul and English.
 예약 - это расписание запуска и остановки котла
 
 **food**
 
+Mango Plate app
+
 корейские кафе не пускают поесть, если ты один -> все столики минимум на 4-х и все блюда рассчитаны на компанию. Ну либо ты доплачиваешь за 3 места и сидишь один
 
+just in case youre vegan
+https://veganseoul.com/
+Just thinking about what foods (tasty ones) you can look for as a vegan:
+bibim naeonmyun or jjolmyeon and ask for no egg
+bibimbap with no egg or meat
+Japchae with no meat
+I'm sure there are kimbaps at kimbap places that'll have it without egg or meat
+Soon tofu (served like this: https://mp-seoul-image-production-s3.mangoplate.com/1743214_1655885733616853.jpg)
+kong guksu (soy milk and noodles) - one of my fav foods of all times
+kong bijji (ground soybeans soup) - but not 100% sure if you can find it without a meat based broth
+buchujeon (chive pancake) - Also one of my all-time favorite foods
+dotori mukbap - acorn jelly on rice, sometimes with a seaweed based broth (ask for no egg)
+
+**services**
+
+market global
+ssg.com 
+global versions of ticketing sites like melon, interpark, yes24.
+
+shop online
+most online retailers like Coupang, Musinsa, etc. require a phone number linked to an ARC (alien registration card) that is issued to long-term visa holders. Tourist visa or K-ETA are unable to apply for an ARC, there most online shopping will be quite restricted, if not impossible.
+
+**transport**
+
+ transit is EXTREMELY inconvenient in places outside big cities.
 
 ## Сеул/Seul
 
 Ссылка в чат - https://t.me/+gx7-lCA3Ko8xYjNi
 Fire fest -> too much peple arould. Really crowd
 
+**tatoo**
+https://www.instagram.com/oonloooooooo/
+
+
+**apartments**
+
+staying close to the Gyeongui Line Forest Park. It's a beautiful safe green space for toddlers to run around. This park borders Hongdae and Yeonnam.
+staying in places like Gangnam or Hongdae.
+Myeong-dong is a great central location to stay in Seoul. Lots of stuff close by
+The Hamilton Hotel is currently under investigation due to the Itaewon tragedy that occurred on Halloween, I'd recommend staying elsewhere.
+Dragon Hill Lodge in Yongsan. It's a nice western-style hotel put on by the DoD for travelers and walking distance to Itaewon amd the subway to everywhere else.
+
+**to go**
+
+War Memorial
+National Museum
+Seoul National University
+Namdaeumun Market
+Seoul Tower
+Namsan Park Observatory
+Yonsei University
+Gwanghwamun Palace
+Gyeongbokgung Palace
+Gamcheon Culture Village
+Haedong Yonggungsa Temple
+Jagalchi Market
+Busan Tower
+Biff Square
+COEX Mall
+Starfield Library
+Dongdaemun Market
+Dongdaemun Design Plaza
+Korea University
+
+**clubs**
+
+Yeah Aura is really bad. I don't get how it is so popular among koreans. All I'm seeing is people in suits spending hundreds on tables lmao
+From my memory most clubs in Hongdae have pretty small dance floors. It really depends how early you go there. B1 / A:tension / XX dance floors are also pretty small but still a lot of fun if you are into HipHop.
+
+"CakePop" got a pretty big dancefloor if you're into the music they are playing. Club is pretty new and got a cool design. I think it's where Cocoon was originally? NB2 floor is pretty big too if i remember correctly.
+
+
 На Итэвоне кругом одни бары и клубы, а там только алкоголь
 
-## food and drinks
+**food and drinks**
+
+[Dugahun](https://map.naver.com/v5/entry/place/33315120?id=33315120&c=14134912.3184590,4519857.2918631,15,0,0,0,dh)- Dinner option. avg $105, but lunch is only about $50. http://www.dugahun.com/
+Mr Ahns -  you can make a reservation online.
+
+Born and bred - kbbq, if you have unlimited budget 
+chaggo 43  - kbbq
+wangbijib  - kbbq
+경천애인2237 - kbbq
+Doma Hongdae - kbbq. it's extremely popular so make a reservation through Instagram. 
+
+춘자 - really good sushi place over by Korea university for dinner, there’s a  if you’re into that. is also really popular among students for snacks and drinking. There’s also a really popular Japanese place that always has lines, but it’s worth the wait.
+
 
 Greem cafe - https://instagram.com/greem_cafe
+
+The Bread Blue (near Sinchon Station) - vegan bakery
+
+24h
+This is all twenty four hour cafes I could find on their websites. There were a lot so I just wrote them as branch names, couldn't be specific.
+
+Ediya (mangwon station - don't open twenty four on Sundays)
+
+Tom n toms in Seoul, south part (Apgujeong, Apgujeong rodeo street, Nonhyeon, Nonhyeon 1st, Gangnam baroseum, Jamsil saenae, Bangi, Munjeong Rodeo, Seoul national university station, Nangok sageori, Sindorim, Mokdong, Gangseo district office)
+
+Seoul north part (DMC, Shichon rotary, Mapo dohwa, Seongkyunkwan university station, Janghanpyeong station, Janghan 1st, Gwangjin hwayang, Konkuk univ., Wangsimni centlas, Wangsimni station, Hanyang university station, Gongneung station, Changdong, Nowon)
+
+Tom n toms near Seoul (Taepyeong, Jeongja, Guri)
+
+Tom n toms black (Apgujeong, Cheongdam, 그레이트 (in Gui), Sangbong megabox)
+
+Egg tom tom (Yeoksam)
+
+Tom's covery (Cheongdam)
+
+Angelius (Konkuk university station, Guro digital station, Gangnam station, Suyu station, Bulgwang station, Seolleung gold rose, Isu station)
+
+Hollys (Gangnam station 2nd, Sinelim sageori, Hongdae station exit 2, Noryangjin, Seoul national university sageori, Konkun university station, Dangsan station, Gubeundari station, Asia seonsuchon, Mokdong yesurinhoegwan)
+
+투썸 (Nowon cultural street)
+
+Source (there can be updates one day so pls double check it)
+https://www.tomntoms.com/store/domestic_store_search.html
+https://m.angelinus.com/shop/shop.html
+https://www.ediya.com/contents/find_store.html#c
+https://m.hollys.co.kr/store/korStoreDetail2.do
+https://mo.twosome.co.kr/so/storeList.do?scope=all
+
 
 ## Пусан
 
@@ -863,6 +999,8 @@ https://www.gov.pl/web/gov/sprawdz-swoje-punkty-karne найти штрафы з
 Sworn translator - https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html?City=Krak%C3%B3w&Language=13  www.tlumaczenia-columbus24.pl
 
 http://lotosh.1gb.ru/articles/polmanual.html#_Toc481328790
+
+https://puesc.gov.pl/
 
 **transport**
 
