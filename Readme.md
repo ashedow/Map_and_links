@@ -104,6 +104,9 @@ Three Month Freakshake Subscription: https://www.notonthehighstreet.com/honeywel
 
 hackathon.io - hackathon  online/offline events
 
+**tips**
+
+![socket_types](socket_types.jpg)
 
 **to sort**
 
@@ -118,11 +121,11 @@ https://www.reddit.com/r/koreatravel/
 
 before
 Korea Electronic Travel Authorization 2 year, multy (just print it)
-* заполненный опросник https://www.k-eta.go.kr/portal/apply
+* заполненный опросник https://www.k-eta.go.kr/
 * скан или фото основного разворота загранпаспорта (если фото, то с четким изображением без бликов и посторонних элементов);
 * электронная фотография формата 3,5х4,5 см на белом фоне (можно автопортрет, сделанный на телефон, но с хорошим освещением и фокусировкой, без теней на лице.
 
-before the board Q code - https://cov19ent.kdca.go.kr/cpassportal/biz/beffatstmnt/main.do?lang=en 
+before the board Q code - https://cov19ent.kdca.go.kr/cpassportal/biz/beffatstmnt/main.do?lang=en  (several days-hours before)
 
 Граждане РФ могут пребывать в Южной Корее без визы/внж до 60 дней подряд, но не более 90 дней за период в 180 дней.2
 
@@ -186,7 +189,12 @@ most online retailers like Coupang, Musinsa, etc. require a phone number linked 
 
 **transport**
 
- transit is EXTREMELY inconvenient in places outside big cities.
+transit is EXTREMELY inconvenient in places outside big cities.
+
+
+https://www.seoul-airport.com/transportation.php
+https://english.visitkorea.or.kr/enu/TRP/TP_ENG_2_1.jsp
+
 
 ## Сеул/Seul
 
@@ -3389,6 +3397,13 @@ Tate Britain SW1P 4RG, London, Millbank — художественный муз�
 
 # Germany
 
+**Apartment**
+
+buy
+immobilienscout24.de - https://twitter.com/r0mko/status/1600976313866940416?s=52&t=nBm2JgQZDpfbhLP3cDa46w
+
+
+
 ## Berlin
 
 Berlin Braves - run club .
@@ -4602,6 +4617,7 @@ https://instagram.com/zivoy_serbskiy Мария Пантелич, основат
 
 Общественный транспорт берёт визу, но похоже все на это забили и ездят бесплатно. Безнал берут, но только Мастеркард, водители берут наличку, но с большой долей вероятности у них не будет сдачи
 [Общественный транспорт Белграда](https://www.planplus.rs/beograd/gradski-prevoz) - можно посмотреть маршруты общественного транспорта на карте. Или ткнуть в остановку на карте и узнать что там ходит
+http://elektrodistribucija.rs/index.php/planirana-iskljucenja/planirana-bgd - 
 
 [Поезда](https://www.srbvoz.rs/en/timetable/) - расписание поездов внутри Сербии
 [Белградский автовокзал](http://www.bas.rs/en/) - автобусный вокзал Белграда с междугородними автобусами
@@ -4804,7 +4820,12 @@ weather - https://www.hidmet.gov.rs/ciril/osmotreni/radarska3.php снимки �
 
 Также каталог русскоязычных профессионалов доступен здесь: https://serbiainrussian.info/?page=1 
 https://t.me/serbiaspecialists
- 
+
+https://ananas.rs/ 
+https://www.shoppster.rs/
+bazzar.rs
+eponuda.com
+
 Купля/продажа б/у вещей
 https://www.kupujemprodajem.com/
 https://www.kupindo.com/
@@ -4894,9 +4915,6 @@ https://t.me/NewsSerbia
 Гастрономическая поэзия - Сейчас в это сложно поверить, но на протяжении последних 3+ лет я вела этот канал и блог в инстаграме о кафе и ресторанах Белграда, а совсем не о том, как переехать и открыть ИП https://www.instagram.com/food_bgd 
 https://t.me/beograde_dobro_jutro Дарья живет в Белграде и влюбляет в него (Telegram)
 https://t.me/dosugBG - досуг в Белграде
-http://oktobarskisalon.org/en/59th-october-salon/ https://www.instagram.com/oktobarski_salon International biennial exhibition of contemporary art
-
-Whisky Fair Belgrade -  fest from @NewsSerbia
 
 Кошава. Это местный сезонный ветер дующий в холодное время года из "железных ворот Дуная" - Джердапского ущелья.
 
@@ -4922,6 +4940,8 @@ https://t.me/belgrade_apartmens туда ботом скидывают новы�
 
 **events**
 
+http://dev9t.com/ - art fest
+
 https://www.beldocs.rs/ - film fest. Note that all films with sub
 
 <https://www.izletijada.rs/> - сайт с различными фестивалями. Похоже в основном по Центральной Сербии и гастрономической направленности.
@@ -4935,6 +4955,12 @@ Somborski Kotlić - фестиваль паприкаша в городе Сом
 Arsenal Fest Kragujevac - ежегодный музыкальный фестиваль в Крагуеваце. Отличный свет и звук, исполнители мирового уровня и недорогие билеты. Однозначно стоит съездить. Но в 2022 году было очень много народа для той площадки.
 
 Fair Of Ethnic Food and Drinks - https://etnohip.rs/en/
+weekend bazzar - https://www.instagram.com/weekendbazzar/
+http://oktobarskisalon.org/en/59th-october-salon/ https://www.instagram.com/oktobarski_salon International biennial exhibition of contemporary art
+
+Whisky Fair Belgrade -  fest from @NewsSerbia
+street food festival - https://www.instagram.com/streetfoodfestivalbg/
+Terroirs - Wine fest
 
 
 **Money**
@@ -4944,6 +4970,8 @@ Fair Of Ethnic Food and Drinks - https://etnohip.rs/en/
 Trange-Frange Hadži-Đerina 27. 14.04.2022 курс был 1.16 динара за рубль. Их сайт - https://kursnalista.biz
 Menjačnica VIP Аэропорт, терминал 1, зона вылета. 15.04.2022 курс был 1.08 динара за рубль. Их сайт http://www.vipsistem.rs
 Menjačnica Dunav Новый Белград, Булевар Михајла Пупина 5. 17.03.2022 курс был 0.98 динара за рубль.
+
+Бот который помогает находить выгодные курсы в менячницах https://t.me/serbia_exchange_rates
 
 **Med**
 
@@ -4960,6 +4988,7 @@ sportofis.com магазин точно работает в выходные, а
 
 
 **food**
+
 Руска радња — селедка, чай, сгуха и прочие Đorđa Jovanovića 19, Beograd, Serbia https://goo.gl/maps/jA5UEYAQCydNGkh87 
 Bio Market https://g.page/Biomarket-Svetogorska 
 
@@ -4994,10 +5023,10 @@ Nikola Tesla Museum (Крунска 51) - билет: 400 динар, детям
 Museum of Yugoslavia
 Silosi (Dunavski kej 46) - Галерея современного искусства
 Zepter (Knez Mihailova 42) - Музей современного искусства в центре Белграда. Входной билет взрослый - 200 динар, детский 100 динар, Каждое воскресение бесплатный вход https://zeptermuzej.rs/informacije/
+Kula (Cetinjska 15) - art center http://www.kula.org.rs/
 Viline Vode (Viline Vode bb) - Большая галерея современного искусства  https://instagram.com/vilinevode.galerija
 Музей современного искуства (Ušće 10) - https://msub.org.rs
 Stara Ciglana (Slanački put 26) - art space. Заброшенный кирпичный завод на окраине Белграда облюбовали молодые деятели современного искусства и превратили в арт-сквот. Центр цигланской тусовки — клуб-бар Ciglana Klub ljubitelja teske industrije. Приятное место с интересным интерьером, наполненным странными поделками. часто организуются джаз- и блюз-концерты. Если повезёт, можно попасть на концерт какого-нибудь весёлого цыганского оркестра.
-http://dev9t.com/ - art fest 
 
 https://diamondgarden.rs - локация с бассейнами “Diamond garden”
 Tašmajdan (Ilije Garašanina 26) - Открытый бассейн в центре Белграда https://www.instagram.com/tasmajdanbg
@@ -5014,7 +5043,13 @@ TODO https://www.aviasales.ru/guides?ll=44.83272138133745%2C20.44435795599145&pa
 
 [Голубацкая крепость](geo:44.66086727954846,21.677770560654764) - восхитительная крепость на Дунае! Фото легко ищутся в Интернете, но всей красоты не передают! От Белграда до Голубаца ходят автобусы несколько раз в день, идут 2,5 часа. Но наш водитель сказал что у крепости нас не высадить и нам нужно брать такси. Другой местный житель говорил что автобусы у крепости останавливаются. В принципе, от Голубаца до крепости около 4 км по живописнейшему берегу, но бОльшую часть пути - по проезжей части, обочины нет. Поедете на такси - запишите телефон чтобы ехать обратно! Вам потребуется удобная одежда и обувь - никаких каблуков и шпилек! Один из маршрутов по крепости расчитан на неподготовленных, но ступеньки из ячеистых металлических пластин, лестниц много. Есть маршруты для продвинутых - там проверяют насколько одежда и обувь подойдут. Рекомендую как минимум кроссовки. В крепости несколько табличек, предупреждающих о ядовитых змеях. В расписании по состоянию на 14.05.2022 имеется автобус из Голубаца до Белграда в 18.40 ежедневно. В самом Голубаце хорошая набережная с прекрасными видами, на ней есть рестораны. [Сайт крепости](https://tvrdjavagolubackigrad.rs/)
 
+
+Swing dance studio - https://instagram.com/hoppin_swing ~1500din for course
+Dorcol Platz - event/art space https://www.instagram.com/dorcolplatz/ https://www.dorcolplatz.rs/
+
+
 **bar**
+
 belgrad cocktail club (Uzun Mirkova 7) - speak easy bar. Need call before coming in. The best start of the evening - come in, drink rakia based cocktail and ask bartenders about where to go 
 Druid (Cincar Jankova 1) - speak easy bar. Need call before coming in - https://www.facebook.com/profile.php?id=100039975082198
 mama shelter (Garage entrance:, KNEZA MIHAILA 54A, Uzun Mirkova 3) - https://mamashelter.com/belgrade
@@ -5043,7 +5078,7 @@ Beer Pong Bar (Terazije 26) - https://www.facebook.com/beerpongbarbelgrade
 Harat’s (Kralja Petra 18 ) - их сеть https://belgrade.harats.com https://instagram.com/haratspub_belgrade https://belgrade.harats.com/ https://goo.gl/maps/dsfXATPKG52CCbuh8 Классический паб с соответствующим интерьером. Кранов 15 пива, но кажется(?) нет еды… Некоторые бармены говорят по русски.
 Pub 53 (Beogradska 53) - cider, beer, craft cider and beer + wine+food+strong spirits. Dobar pab, vesela atmosfera i prijatni ljudi
 
-BeerSheep(Балканска, 21) - https://beersheep.rs/ https://g.page/Beersheep. Сортов триста пива, есть некоторое количество столиков посидеть. Но закрываются в 9 вечера и курят внутри
+BeerSheep(Балканска, 21) - bar and shop https://beersheep.rs/ https://www.instagram.com/beersheep_/ https://www.facebook.com/BeerSheep1/ https://g.page/Beersheep. Сортов триста пива, есть некоторое количество столиков посидеть. Но закрываются в 9 вечера и курят внутри
 
 Pivnica Zirafa 23 (Будимска, 2) - https://goo.gl/maps/zabigmtdtDmhGUzx9 Хороший выбор бутылочного и разливного пива. Красивые и довольно просторные залы. Есть еда например метр колбасы
 
@@ -5135,14 +5170,16 @@ Chaplin Pizzeria (Višnjićeva 7) - pizza napoleatana made in a wood oven
 Pietra Pizzeria & Cocktail Bar - Врачар. Награждены за лучшую пиццу. no smoking place  https://maps.app.goo.gl/Jib42q88yQvLsQmz7?g_st=ic 
 Gilda - great Italian  restaurant in Belgrade(from Simon)
 [Trattoria Campania](geo:44.81712264218442,20.452682736456936) - Кнеза Симе Марковића 10. Итальянский ресторан с шикарной пиццей!
+Street Pasta Bar (Kralja Milana 52) - good lanch option. https://www.facebook.com/streetpastabar/
 
 Angry Monk (Uzun Mirkova 11) - asian food and cocktails. Nice https://en.angrymonk.rs/menu
 Wagokoro-Japanese mochi dessert and drinks (Carigradska 10) -  https://wagokoro.rs/
 [Asia Food](geo:44.810688795656475,20.462065844631432) - Краља Милана 6. Китайское бистро. Первый раз за много лет я не осилил маленькую(!) порцию в китайке! Неплохой выбор блюд, вкусно, большие порции.
-[X.Wang](geo:44.8128958910193,20.458182411161907) - Kраљице Наталије 4. Настоящий китайский ресторан: туда ходят китайцы, там работают китайцы, меню в том числе на китайском. Очень вкусно!
+[X.Wang](geo:44.8128958910193,20.458182411161907) - Kраљице Наталије 4. Настоящий китайский ресторан: туда ходят китайцы, там работают китайцы, меню в том числе на китайском. Очень вкусно! Hot pot.
 [Restoran kineske hrane Mister Li](https://goo.gl/maps/wFVKYfDms83saBDMA) (Bulevar kralja Aleksandra ) - affordable and nice Chinese fast food restaurant. + store.
 [Oh Dumpling](geo:44.80606369485153,20.468523072530324) - Краља Милутина 4. Небольшая китайская столовка с несколькими видами дамплингов (китайских пельмений). Есть в вареном и жареном варианте, вкусные.
 [YXlanzh](geo:44.814218505252896,20.45543980640579) - Југ Богданова 6. Название непроизносимое, но это халяльная(!) китайская столовка. Интерьер ничего особенного, но меню большое и с картинками. Довольно вкусно.
+Youran Tea House (Prizrenska 6) - Chinese tea house Chinese Tea, Chinese Healthy Food, Bubble Tea, Tea Cakesб dumpling https://www.instagram.com/youranteahouse/
 [Go Sushi](https://gosushi.rs/) (5 точек в городе: Praška 34, Žička 1, Svetozara Markovića 38, Đorđa Stanojevića 9b, Cara Lazara 11) - сеть японских ресторанов, поэтому конкретный не указываю. Роллы с лососем годные, думаю остальное тоже. В меню имеется рамен.
 Angry Monk (Uzun Mirkova 11) - годные суши
 Sushirrito Beograd - europe/americal style rolls https://www.instagram.com/sushirrito_bg/
@@ -5151,6 +5188,8 @@ Ima Sushi (Strahinjića Bana 52)
 Moon Sushi (Makedonska, 31)
 Sakura (Karađorđeva, 2-4)
 Caviar (Dalmatinska 65a)
+Marukoshi (Kapetan-Mišina 37) - Japanese restaurant. traditional Japanese food with serbian size portions. https://marukoshi.rs/
+
 
 
 Red bread  - Обиличев венац. Завтраки, вегетарианская еда, смути и шейки https://maps.app.goo.gl/ECoV5sgRqskAPLJm9?g_st=ic
