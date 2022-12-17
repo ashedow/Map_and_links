@@ -1407,8 +1407,7 @@ Kebab pod 13, на казимеже
 у пана Вишни перекрёсток Wołowa и Dekerta
 
 bar lam hong - несколько филиалов. типичная китайская столовая с немного европейской адаптацией. В некоторых есть въетнамские позиции. https://www.barlamhong.pl/
-Jinling Dumpling (Józefa Dietla 39) - Top notch Chinese food, with an emphasis on Cantonese dishes it seemed.  Authentic flavors and everything was delicious all around.
- http://foodjinling.com/menu.html
+Jinling Dumpling (Józefa Dietla 39) - Top notch Chinese food, with an emphasis on Cantonese dishes it seemed. few tables and open kitchen http://foodjinling.com/menu.html
 URARA SUSHI & HOT POT (Świętego Tomasza 4) - chinese hot pot https://urarasushi.pl/
 Hua he (Wielopole) - hot pot https://huahesushi.pl
 KuKu Taiwanese Food & Bubble tea 台灣麵食 (Szewska 6) - Taiwanese restaurant. Great food and bubble tea
