@@ -127,7 +127,7 @@ hackathon.io - hackathon  online/offline events
 https://latanadelpolpoinfo.wixsite.com/trattoriadimare have to go there smażony płace
 
 
-# Южная Корея.
+# South Korea/Южная Корея.
 
 https://www.reddit.com/r/southkorea/
 https://www.reddit.com/r/koreatravel/
@@ -205,9 +205,14 @@ most online retailers like Coupang, Musinsa, etc. require a phone number linked 
 
 transit is EXTREMELY inconvenient in places outside big cities.
 
-
 https://www.seoul-airport.com/transportation.php
 https://english.visitkorea.or.kr/enu/TRP/TP_ENG_2_1.jsp
+
+**tips**
+
+Korean people can act like rasists, just dont't mind
+
+Use 2 hands to give|recive anything. Using one hand is rude
 
 
 ## Сеул/Seul
@@ -859,6 +864,8 @@ https://www.myheritage.pl/dna
 https://warsaw.ai/
 https://pytechsummit.pl/
 Intel Extreme Masters
+
+Food tends to be sour
 
 https://cocktailfestival.pl/  Święto kultury koktajlowej w całej Polsce https://www.instagram.com/worldclass_cocktailfestival/
 Wine fest https://www.winnicaturnau.pl/en/points
@@ -2726,6 +2733,8 @@ https://github.com/smirnov-am/awesome-dutch
 
 **Services**
 
+bol.com - наверное, самая популярная платформа в Голландии (для всего-всего, как аллегро в Польше)
+
 Оформить музейную карту Нидерландов - https://www.museum.nl/en/museumpass 
 Приложение для поиска и бронирования бьюти услуг Treatwell - https://trea.tw/BTgpDK
 Онлайн доска объявлений - https://www.marktplaats.nl/
@@ -2973,6 +2982,10 @@ Yamazato А это лучшие суши по очень неприличной 
 Ну и не забудьте съесть бутерброд с селедкой, огурцами и луком! Лучше всего делать это у моря :)
 
 UPD_1 из комментов:"Любимая, всенародная уличная едальня называется FEBO. В ней можно прямо на улице расплатиться карточкой, приложенной к отсеку с выбранным типом еды и не контактируя с людьми заточить местный бургер или кроект. Идеально для интровертов.Из моих любимых баров могу назвать Jazz Cafe Alto, где 365 дней в году выступают постоянно сменяющиеся джаз-бэнды. Так же Амстердам знаменит своей джазовой школой, так что разные ивенты тут, до короны, проводились постояно. Если вы, как и я, любите качественное, живое исполнение в маленьком, уютном клубе, то обязательно зайдите."
+
+**Beer**
+
+http://www.morebeer.nl/tour/ 
 
 
 **Store**
@@ -3973,6 +3986,9 @@ Comviq или LycaMobile, их раздают на улицах. Можно их
 
 **food**
 
+Food tends to be sweet and licorice
+
+
 Lidl, Willys, ICA, Coop, Hemköp
 to try: 
 Одна из самых странных пицц, одновременно любимых всеми шведами kebabpizza. thelocal.se/20121229/45334
@@ -4022,6 +4038,12 @@ Xiang Yue — вкусная китайская еда
 Секрет от шведов как пить пиво по-студенчески:Заходите в бар и говорите бармену: «СТУРШТАРК» (большекрепкое!). Самый дешманский, крепкий, местный лагер за наименьшее количество денег вам обеспечен.
 
 Haymarket by Scandic, Häktet, Berns, Spy Bar, Koh Phangan. Чтобы не очень дорого — почти любой бар в районе метро Medborgarplatsen или Rådmansgatan. По пятницам и субботам стоят ограничения по возрасту. Иногда 23+, но чаще всего 21+. После 21:00 приходит фейс-контроль, довольно опасно даже хромать при них — могут не пустить.
+
+Kvaren (Tjärhovsgatan 4) - Beer hall Classic Swedish dishes in an enduring, oak-paneled restaurant with a lively beer hall. https://www.kvarnen.com/
+BrewDog Kungsholmen (Sankt Eriksgatan 56) - No-nonsense chain bar specialising in the Scottish brewery's craft beers, with regular guest brews. https://www.brewdog.com/uk/Kungsholmen
+
+
+Pharmarium (Stortorget 7) - fancy cocktail bar https://pharmarium.se/
 
 **to dance**
 
@@ -4711,6 +4733,7 @@ Chekhoff - Просто крутейший бар, который навсегд
 # Черногория
 
 сборник мест и активностей в Черногории: vas3k.club/question/11210/
+https://t.me/@montenegro_peters
 
 https://sitngo.me/ - rent a car. Район Бечичи-Будва
 
@@ -4726,6 +4749,7 @@ Delta City Podgorica – приложение самого большого то
 
 # Сербия/Serbia
 
+https://www.instagram.com/balkandad/
 https://t.me/o_serbii
 https://t.me/it_serbia
 https://t.me/novisad_ru
@@ -4902,7 +4926,7 @@ https://a1.rs/
 
 **Food**
 
-> meat and sweets
+> meat and sweets/ tends to be fatty and salty
 
 — Купить мясо+хлеб+молоко+овощи на день — 1000 динар (€9).
 — Поесть в ресторане с алкоголем — 3000 динар (€27).
@@ -5149,6 +5173,7 @@ http://oktobarskisalon.org/en/59th-october-salon/ https://www.instagram.com/okto
 Whisky Fair Belgrade -  fest from @NewsSerbia
 street food festival - https://www.instagram.com/streetfoodfestivalbg/
 Terroirs - Wine fest
+Beogradski Noćni Market - https://www.instagram.com/belgradenightmarket/
 
 
 **Money**
@@ -5175,10 +5200,13 @@ ZEKA bicikl-servis https://maps.app.goo.gl/UmcQpA24b4CFPtAS6?g_st=ic - самы�
 sportofis.com магазин точно работает в выходные, а вот у сервиса в межсезонье может быть выходной по субботам. Там на сайте контакты: Marko 064 1557 332 . Пишите ему в Вайбер или звоните. Он по будним дням как я понял с 13 до 20 работает, поэтому лучше позвонить и договорится когда лучше всего прикатить вел, чтобы он все сразу сделал и не пришлось ждать.
 
 
-**food**
+**food services**
 
 Руска радња — селедка, чай, сгуха и прочие Đorđa Jovanovića 19, Beograd, Serbia https://goo.gl/maps/jA5UEYAQCydNGkh87 
-Bio Market https://g.page/Biomarket-Svetogorska 
+Bio Market (Svetogorska 18, Maršala Birjuzova 37) - best opton for asian/healthy/vegan http://www.biomarket.rs/ https://g.page/Biomarket-Svetogorska 
+
+
+Le Nonne (Mileševska 5) - Магазин свежей пасты И немношк итальянских продуктов
 
 На пересечении улиц Топольска и Каленичева есть фирменный магазин Yuhor. Там паштеты, колбасы, мясо, немного молочки. Паштет стоит дешевле, чем в магазине.Вот точка, но на фото нет т.к. карты старые
 https://www.google.com/maps/place/Kaleni%C4%87eva,+Beograd+11000/@44.8005611,20.4764434,3a,75y,327.97h,75.95t/data=!3m6!1e1!3m4!1sYB_xgxjbTH8EesRLKF1ARw!2e0!7i13312!8i6656!4m8!1m2!2m1!1syouhur+topolska!3m4!1s0x475a70759bd06071:0xdad456abac123501!8m2!3d44.8007697!4d20.4765868
@@ -5340,7 +5368,7 @@ PizzaBar у хр св Саввы (внутри все левое крыло не
 St. Mark’s Place на ташмайдане наполовину не курит, кухня норм. 
 Zavičaj на Гаврилы Принципа (тож есть отдельное некурящее помещение).
 BOEMBAR food & drinks (Skadarska 40B) - child room, no smoke http://www.boembar.rs/
-
+Smokvica (Molerova 33) - restaurant and market, https://smokvica.rs/en/smokvica-molerova-2/ at the same time its like full HoReCa company, which catering, hotels, restaurant ... https://smokvica.rs/
 
 Duke (Čika Ljubina 9) - ресторан на крыше малоэтажки в самом центре Белграда Вкусная еда, необычные коктейли, фотогенично https://www.instagram.com/duke_restaurant_belgrade/
 Lorenzo & Kakalamba - Ресторан с необычным интерьером
@@ -5373,18 +5401,22 @@ Wagokoro-Japanese mochi dessert and drinks (Carigradska 10) -  https://wagokoro.
 [Oh Dumpling](geo:44.80606369485153,20.468523072530324) - Краља Милутина 4. Небольшая китайская столовка с несколькими видами дамплингов (китайских пельмений). Есть в вареном и жареном варианте, вкусные.
 [YXlanzh](geo:44.814218505252896,20.45543980640579) - Југ Богданова 6. Название непроизносимое, но это халяльная(!) китайская столовка. Интерьер ничего особенного, но меню большое и с картинками. Довольно вкусно.
 Youran Tea House (Prizrenska 6) - Chinese tea house Chinese Tea, Chinese Healthy Food, Bubble Tea, Tea Cakesб dumpling https://www.instagram.com/youranteahouse/
-[Go Sushi](https://gosushi.rs/) (5 точек в городе: Praška 34, Žička 1, Svetozara Markovića 38, Đorđa Stanojevića 9b, Cara Lazara 11) - сеть японских ресторанов, поэтому конкретный не указываю. Роллы с лососем годные, думаю остальное тоже. В меню имеется рамен.
+[Go Sushi](https://gosushi.rs/) (5 точек в городе: Praška 34, Žička 1, Svetozara Markovića 38, Đorđa Stanojevića 9b, Cara Lazara 11) - сеть японских ресторанов. Роллы с лососем годные, думаю остальное тоже. В меню имеется рамен.
 Angry Monk (Uzun Mirkova 11) - годные суши
 Sushirrito Beograd - europe/americal style rolls https://www.instagram.com/sushirrito_bg/
 Bad Sushi (Šafarikova 11)
 Ima Sushi (Strahinjića Bana 52)
 Moon Sushi (Makedonska, 31)
 Sakura (Karađorđeva, 2-4)
-Caviar (Dalmatinska 65a)
+Caviar (Dalmatinska 65a) - some say it's delicious sushi there. https://caviar.rs/
 Marukoshi (Kapetan-Mišina 37) - Japanese restaurant. traditional Japanese food with serbian size portions. https://marukoshi.rs/
 
+TAO Thai restoran (Krunska 26) - spicy as it should be https://www.instagram.com/tao_bgd
 
-
+Kokos (Nušićeva 7a) - vegan place. Probubly the tasties one
+jazzayoga - vegan coffee bar
+dumbir/Đumbir (Svetozara Markovića 36) - superfood bar vegan place
+ahimsa (Kneginje Zorke 71) - vegan streetfood https://ahimsavegayoga.rs/
 Red bread  - Обиличев венац. Завтраки, вегетарианская еда, смути и шейки https://maps.app.goo.gl/ECoV5sgRqskAPLJm9?g_st=ic
 
 Bloom - в Дорчоле.каши и завтраки. no smoking place https://maps.app.goo.gl/v35yVuAj6yw3vmNf7?g_st=ic
