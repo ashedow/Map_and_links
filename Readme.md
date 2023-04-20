@@ -11284,10 +11284,7 @@ SBB Год по заграннику. откжаут если на кварти�
 
 **Food**
 
-
-
 > meat and sweets/ tends to be fatty and salty
-
 
 
 — Купить мясо+хлеб+молоко+овощи на день — 1000 динар (€9).
@@ -11322,7 +11319,6 @@ Wine - from Prokupac, Krstač, Tamjanika, Vranac, Smederevka grapes
 rubinov vinjak - liquid cocaine, but better or essence of home violence
 
 
-
 — Доставка есть Wolt и Glovo. Возят не только ресторанное, но и просто продукты.
 
 https://misterd.rs/  http://www.donesi.com/ - доставка из ресторанов на дом
@@ -11352,6 +11348,9 @@ Despot https://facebook.com/dexywar
 
 https://www.zlobex.com/
 
+**tea and coffee**
+
+https://chaj.rs/
 
 
 **Banks and money**
