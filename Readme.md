@@ -20,11 +20,7 @@
 
 # Maps, tools and worldwide stuff
 
-
-
 **maps**
-
-
 
 https://goo.gl/maps/x3bGyoqcfSWg5xUX8
 
@@ -44,7 +40,6 @@ HERE WeGo - maps and navigation
 
 hoodmaps.com funny meme maps
 
-
 Поиск билетов в разных странах: самолеты, поезда, автобусы, маршрутки, паромы
 
 Moovit - https://moovitapp.com все варианты транспорта в одном месте.
@@ -57,43 +52,12 @@ Omio - omio.com билеты на поезд, автобус и самолет.
 
 @Bussy_bot — tg билеты на автобусы по международным маршрутам
 
-
-
 https://flightaware.com/
-
-
 
 Карта с авторскими блогами о жизни эмигрантов https://www.google.com/maps/d/u/0/viewer?hl=en&ll=39.81224131501931%2C56.09040536888404&z=3&fbclid=IwAR0aFFQceaUMimrGJALeM1Du9RB1qa0P5JvSkX94BF4-vn2NcUdkmlcGYUA&mid=1JGjMQmg_xNK4aInGlgXgb_ppBwfq8yng
 
 
-
-**housesitting**
-
-
-
-> https://vas3k.club/post/16960/
-
-
-
-https://www.nomador.com/
-
-https://www.housecarers.com/
-
-http://www.luxuryhousesitting.com/
-
-https://www.mindmyhouse.com/
-
-
-
-https://www.trustedhousesitters.com/
-
-
-
-
-
 **festivals, competitions, and links for the services**
-
-
 
 https://www.top500bars.com/ https://www.instagram.com/top500bars/
 
@@ -111,8 +75,6 @@ http://bahfest.com/ BAHFest comics SMBC https://www.facebook.com/BAHFest/
 
 michelin guide https://guide.michelin.com/en/ru/restaurants
 
-
-
 WG fest https://vk.com/wgfest_ru https://www.instagram.com/wgfest/ https://worldoftanks.com/en/news/game-events/wargaming-fest-2019/
 
 
@@ -120,10 +82,11 @@ WG fest https://vk.com/wgfest_ru https://www.instagram.com/wgfest/ https://world
 Austria, Worldwide  Arts Electronica fest  - https://ars.electronica.art/news/en/
 
 
+https://www.fuckupnights.com
+
+wearedevelopers.com
 
 https://www.demoparty.net/ - https://twitter.com/demoparties https://social.cologne/@demoparties https://www.reddit.com/user/demoparty_net demo party events over the world
-
-
 
 meetup.com
 
@@ -131,7 +94,31 @@ https://wearecommunity.io/ - community over the world
 
 fosdem.org - FOSDEM is a two-day event organised by volunteers to promote the widespread use of free and open source software.
 
+https://events.linuxfoundation.org/
 
+https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+
+
+hackathon.io - hackathon  online/offline events
+
+Scala events
+
+Scala Conferences: 
+* Functional Scala (UK/Remote)
+* LambdaConf (USA) 
+* Typelevel Summits (Misc.) 
+* Scala by the Bay (USA) 
+* flatMap (Norway) 
+* Scala Up North (Canada) 
+* Scala Days (USA, Europe) https://www.youtube.com/@ScalaDaysConferences scala days conf
+* Scala World (UK)
+* Scala Swarm (Portugal)
+* Scala.io (France)
+* Scalar (Central Europe) 
+* Scala Sphere (Poland)
+* nescala (USA)
+* LX SCALA (South-West Europe)
+* ScalaConf (Russia)
 
 DS-events all over the world:
 
@@ -186,40 +173,24 @@ DS-events all over the world:
 • Dec • Data Science Summit • Warsaw, Poland • https://dssconf.pl/
 
 
-
-
-
 https://freewalkingtour.com/find-a-tour
-
 
 
 Koachella ~ burning man
 
 https://biohackathon.dk/ - Copenhagen Bioinformatics Hackathon - 2021 Protein Edition
 
-
-
-
-
 https://www.lambdadays.org/lambdadays2022
-
-
 
 gob market online https://nerdsbayfair.com/
 
-
-
 **blogs and channels**
-
-
 
 https://staskulesh.com/ - блог о Новой Зеландии, Чили, Китае, Шотландии и вообще
 
 
 
 **Apartments**
-
-
 
 airbnb
 
@@ -228,12 +199,22 @@ booking
 https://slowhop.com - find Apartments and houses
 
 
+**housesitting**
 
+> https://vas3k.club/post/16960/
+
+https://www.nomador.com/
+
+https://www.housecarers.com/
+
+http://www.luxuryhousesitting.com/
+
+https://www.mindmyhouse.com/
+
+https://www.trustedhousesitters.com/
 
 
 **Sport and travel**
-
-
 
 BeMoreYou - runing club and mental health https://linktr.ee/bemoreyou  https://www.bemoreyoucommunity.co.uk/ https://www.instagram.com/bemore.you/
 
@@ -241,20 +222,13 @@ https://kamchatka.camp/adults - как детский летний лагерь 
 
 http://extremegeorgia.ge/
 
-
-
 https://www.antonskischool.com.ua/
 
-
-
 Лимуд
-
-
 
 https://russiantravelgeek.com/ - туры по миру https://t.me/russiantravelgeek
 
 https://veloschengen.ru/ велошенген
-
 
 
 https://www.komoot.com tracks
@@ -267,29 +241,18 @@ ROAD TRIPS AROUND THE WORLD UA/GB/PL https://www.instagram.com/vabo_trips 10% of
 
 Iceland and over the world ru-lang tours https://www.instagram.com/nonametravelblog
 
-
-
 World wide tours https://www.viator.com/
-
-
-
 
 
 **Bike**
 
-
-
 https://www.bike-components.de/
+
+bike24.com
 
 https://www.sq-lab.com/en/ergonomics/sqlab-measurement-concepts/sit-bone-measurement/ - как померять жопу
 
-
-
-
-
 **ES coffee**
-
-
 
 Gardelli Coffee https://shop.gardellicoffee.com Обычно очень вкусные зерна и классный декаф. Хотя, однажды, взял у них кофе из Бразилии и сильно плевался, не смог допить.
 
@@ -299,47 +262,42 @@ April Coffee Roasters https://www.aprilcoffeeroasters.com Летом у них �
 
 
 
-**Stores**
+**relocation**
 
+salaryaftertax.com - taxes by country
 
+https://www.passportindex.org 
 
-Small cute things
+https://abroadunderhood.ru/
 
-https://flyingtiger.com/
+https://gambala.notion.site/Guide-36afb22b1de147c789a59b03b04282a9
 
-empik.com
+https://ivarus.notion.site/ivarus/80025a7936f54b149d19d7b4d0c88b29
 
-Bookdepository.com
+https://relocate.me/net-pay-calculators/
 
-https://www.healthlabs.care/
+https://gsl.org/en/
 
+numbeo.com
 
-
-https://littlefinland.de/en/ - finland goods over eu
-
+glassdor.com
 
 
 **gov**
-
-
 
 EU SIS 
 
 https://edps.europa.eu/sites/edp/files/publication/16-11-07_sis_ii_guide_of_access_en.pdf
 
-
-
 https://www.fragomen.com/ - immigration service
-
-
 
 https://www.aegee.org/ student association
 
 
+taxes over the world https://taxsummaries.pwc.com/
+
 
 **education**
-
-
 
 Школа анимации Poudriere http://www.poudriere.eu/en
 
@@ -348,8 +306,6 @@ https://www.aegee.org/ student association
 
 
 **strange subscription**
-
-
 
 Bokksu: https://www.bokksu.com jp food 
 
@@ -369,41 +325,38 @@ Three Month World Spice Subscription: https://www.notonthehighstreet.com/thespic
 
 Three Month Freakshake Subscription: https://www.notonthehighstreet.com/honeywellbakes/product/three-month-freakshake-subscription 
 
+**Stores**
 
+Small cute things
 
-hackathon.io - hackathon  online/offline events
+https://flyingtiger.com/
 
+empik.com
+
+Bookdepository.com
+
+https://www.healthlabs.care/
+
+https://littlefinland.de/en/ - finland goods over eu
 
 
 **tips**
 
-
-
 ![socket_types](socket_types.jpg)
 
-
-
 **to sort**
-
-
 
 https://latanadelpolpoinfo.wixsite.com/trattoriadimare have to go there smażony płace
 
 
 
-
-
 # South Korea/Южная Корея.
-
-
 
 https://www.reddit.com/r/southkorea/
 
 https://www.reddit.com/r/koreatravel/
 
 Ссылка в чат - https://t.me/+DRpohP4-57UxOTRi
-
-
 
 before
 
@@ -448,10 +401,7 @@ Best times weather-wise are spring (March-May) and fall (September-November). we
 Feb - cold. Jun - better
 
 
-
 **apartments**
-
-
 
 airBnB is still a thing here 
 
@@ -522,10 +472,7 @@ buchujeon (chive pancake) - Also one of my all-time favorite foods
 dotori mukbap - acorn jelly on rice, sometimes with a seaweed based broth (ask for no egg)
 
 
-
 **services**
-
-
 
 market global
 
@@ -559,21 +506,11 @@ https://english.visitkorea.or.kr/enu/TRP/TP_ENG_2_1.jsp
 
 **tips**
 
-
-
 Korean people can act like rasists, just dont't mind
-
-
 
 Use 2 hands to give|recive anything. Using one hand is rude
 
-
-
-
-
 ## Сеул/Seul
-
-
 
 Ссылка в чат - https://t.me/+gx7-lCA3Ko8xYjNi
 
@@ -585,13 +522,7 @@ Fire fest -> too much peple arould. Really crowd
 
 https://www.instagram.com/oonloooooooo/
 
-
-
-
-
 **apartments**
-
-
 
 staying close to the Gyeongui Line Forest Park. It's a beautiful safe green space for toddlers to run around. This park borders Hongdae and Yeonnam.
 
@@ -2915,8 +2846,6 @@ JoyRide - club rowerowy https://linktr.ee/joyridepl https://mtbacademy.pl/ https
 
 **events and links**
 
-
-
 Krakow guide from Reddit https://www.reddit.com/r/krakow/
 
 https://docs.google.com/document/d/11dIkVPR_YwEQWmAgvhodViZM7IkZsNmbuXKIXDCt3pQ/editKrakow city guide https://www.inyourpocket.com/krakow
@@ -2965,7 +2894,7 @@ https://linktr.ee/frontspot.poland Community of JavaScript enthusiasts from Pola
 
 
 
-Unsound– вот тут (https://www.papermag.com/see-you-there-unsound-2654968669.html) можно немного прочитать о лайнапе этого года https://www.unsound.pl/en/archive/en/dp-authentic.html
+Unsound – вот тут (https://www.papermag.com/see-you-there-unsound-2654968669.html) можно немного прочитать о лайнапе этого года https://www.unsound.pl/en/archive/en/dp-authentic.html
 
 Krakow Live Festival– В 18 году был там на Кендрике Ламаре, Stormzy, Die Antwoord, A$AP Rocky и Jessie Ware. Проходит обычно в августе https://livefestival.pl/
 
@@ -2975,7 +2904,7 @@ HYPE HOP FESTIVAL beer fest https://www.facebook.com/events/1001025000570267
 
 ekotyki - ярмарка эко штук
 
-Старый клепаз - ярмарка, по выходным фестивали и прочие
+Старый клепаж - ярмарка, по выходным фестивали и прочие
 
 sound fest https://www.facebook.com/events/s/drum-and-bass-silence-sound-se/348784943531596/
 
@@ -3009,7 +2938,7 @@ filharmoniakrakow.pl
 
 Festiwal Herbaty "Czaisz?" https://www.facebook.com/events/723574988701302 https://czajowniakrakow.pl/festiwal_herbaty
 
-
+.krakowskifestiwalkomiksu.pl - comic fest
 
 https://hackyeah.pl/ - stationary hackathon in Europe
 
@@ -5325,15 +5254,9 @@ Early Bird Special Prague Towers - discount 50% for towrs
 
 ## Prague
 
-
-
-
-
 Есть уютный чатик в телеге https://t.me/+lbwUe1s1AZlkYjUy датасатанистов. вроде частенько собираются в чайной www.yicha.co
 
 Остановиться ненадолго Hostel Elf https://www.hostelelf.com/ 
-
-
 
 Vinobraní - праздник сбора винограда в сентябре. В разных местах в разные дни проходят фестивали, рекой льется молодое вино - Burčák. Специфический слабоалкогольный напиток, крайне коварный
 
@@ -5341,11 +5264,7 @@ Vinobraní - праздник сбора винограда в сентябре.
 
 **food**
 
-
-
 The Globe Bookstore and cafe Pstrossova 6, Prague 1 110 00 Czech Republic
-
-
 
 Lehká hlava Boršov 280/2 - vegetarian restaurant
 
@@ -5439,11 +5358,7 @@ Brambory (Na Pankráci 1724/129, 140 00 Praha 4-Nusle) - Restaurant focused on p
 
 **beer**
 
-
-
 В ЧР существует несколько вариантов заливания пива, которые лучше знать заранее Самый классический — это Hladinka, по дефолту вам нальют именно так. Многие могут возмутиться, что наливают с пеной, однако пива там действительно 0.5, пена служит в декоративных целях, плюс она довольно вкусная и что самое главное, она несколько препятствует взаимодействию пива с воздухом, так что вы скорее всего допьёте своё пиво раньше, чем оно начнёт кислить. Čochtan — это Hladinka без пены Šnyt — маленькое пиво (0.33) в большом бокале. Считается мужским вариантом маленького пива, просто потому что нужно пить из больших бокалов. Mlíko — это молоко, очень много пены, со временем пена осядет и останется примерно 0.33 пива. Считается женским вариантом, на вкус получается значительно слаще. Рекомендуют пить залпом.
-
-
 
 U Kata, Radnice 6 - cheap and local, central location
 
@@ -5462,8 +5377,6 @@ BeerGeek bar (Vinohradská 988/62) - бар - bottleshop с крафтом и к
 Craft House Prague (Navrátilova 1421/11) -  милая небольшая крафтовня, р барменами энтузиастами, возили всякую дичь из рф в том числе.  https://www.crafthouse.cz/en/
 
 Beer Museum (Husova 241/7) - бар и музей. слишком туристический, но норм. https://beermuseum.cz/
-
-
 
 U Malého Glena (Karmelitská 374/23) - nice pub with the guinnes on tap. jazz club with everyday lives in the cellar. This bar is actually featured in an article on New York Times and in it ,they also mentioned  that the owner, Glenn, actually introduced bagels to the Czech Nation when he opened the first bagel shop in Prague This bar was featured on a Korean TV series https://malyglen.cz/en
 
@@ -5485,14 +5398,9 @@ U Bráchy (Na Hrobci 2034/7) - hidden gem. http://ubrachy.cz/ https://www.facebo
 
 **Wine**
 
-
-
 Исторически сорт винограда в ЧР ровно один: Frankovka. Так что если вы ищите максимально аутентичное вино, то это ваш выбор. Конечно ничего не стоит на месте и сейчас в ЧР выращивается огромное количество сортов винограда и из него делают разнообразные вина. Достойны упоминания сорта: Ryzlink rýnský, Müller Thurgau, Sauvignon, Modrý Portugal, Rulandské modré, Rulandské šedé.
 
-
-
 Cyberdog (Seydlerova, 158 00 Praha 13) - https://www.cyber-dog.cz/en 
-
 
 
 **bar**
@@ -5520,7 +5428,6 @@ Manesova Bar and Books (Mánesova 64) - Клевое место, милый ин
 Medium 48 - great nidnight coffee and bar and chess
 
 
-
 **clubs**
 
 ROXY Prague (Dlouhá 33) - Buzzy club with a warehouse vibe specializing in some of the harder forms of dance music. https://www.roxy.cz/
@@ -5528,8 +5435,6 @@ ROXY Prague (Dlouhá 33) - Buzzy club with a warehouse vibe specializing in some
 Lucerna Music Bar (Vodičkova 36) - Long-standing venue for leading live music performances from local & international artists. https://musicbar.cz/cs/
 
 Chapeau Rouge ( Jakubská 2) - Bar, nightclub & live music venue spread over 3 floors with a lineup of international acts. http://www.chapeaurouge.cz/
-
-
 
 
 
@@ -5545,6 +5450,14 @@ mamacoffee 6, Vodičkova 674 - vegan food and coffee http://www.mamacoffee.cz/
 
 Yicha (Kodaňská 520/31 (Praha 10) - чайная https://www.yicha.co/ 
 
+
+Oliver's Coffee Cup (Karlín - Futurama Bussiness Park / Václavské náměstí - Dům Módy 1. patro) - great coffee, snacks and view https://oliverscoffeecup.cz/ https://www.instagram.com/oliverscoffeecup/
+
+Academia bookshop and caffee (792/34, Václavské nám. 1) - Bi-level shop featuring a large assortment of academic books, plus a quiet coffee shop. Summer place https://www.academia.cz/
+
+Artisan Cafe & Bistrot (Vejvodova 445/1) - https://artisancafe.choiceqr.com/. charming coffee spot nestled in a historic 13th-century building that used to serve as a venue for ball games, now offering a cozy atmosphere and delicious coffee in the heart of Prague's city center.
+
+Lázeňská 4 cafe GROUNDS L4 (Lázeňská 4) - cute hidden caffee closed on Tuseday http://www.grounds.cz/
 
 
 **to go**
@@ -6473,31 +6386,13 @@ NDSM-Plain street art, caffe etc
 
 Westerpark
 
+https://www.rijksmuseum.nl
 
-
-Выберите что-то из этого списка аж в 61 активностей. И посмотрите на сайте, там много всего.
-
-
-
-Подпишитесь на русскоязычный канал про Амстердам и возьмите что-то оттуда. Вот, например.
-
-
-
-Вас может вдохновить одна из необычных карт отсюда
-
-
-
-Погулять по нестандартному маршруту типа такого
-
-
+https://www.rijksmuseum.nl/en/visit in the airport (near the D terminal)
 
 кинотеатр в здании бывшего морга.
 
-
-
 Секонд-хенд
-
-
 
 UPD из комментов:"Лучшая барахолка, работающая каждый день, находится здесь и является по сути огромным ангаром, где продается все, начиная от вещей и кончая картинами и старинной мебелью. Ассортимент постоянно меняется, так что предсказать, что там будет на следующей неделе нетривиальная задача и скорее всего зависит от того, какой магазин неподалеку решил закрыться и сплавить все свое барахло."
 
@@ -8971,11 +8866,7 @@ Gelateria Artigianale (Calle Emo, 1585/1586, 30121) - cheap and cool gelato
 
 ## Milan
 
-
-
 **store techwear**
-
-
 
 SLAM JAM ( Via Giovanni Lanza 1.) "Объединяя сообщества единомышленников по всему миру" – таков главный девиз проекта. Основанный в 1989 году Лукой Бенини, с офисом в Ферраре, магазином и творческой студией в Милане, Slam Jam является центром как местных, так и глобальных сообществ, объединяя и представляя различные проекты из мира моды, уличной и андеграундной культуры и искусства. В их творческом пространстве Spazio Maiocchi проводятся презентации и выставки художников, а в магазине на Виа Джованни Ланца представлен уникальный выбор различных брендов и дизайнеров. Это обязательное место для посещения каждому, кто приезжает в северную столицу Италии. рекомендации по брендам: ACRONYM, Arc'teryx, VEILANCE, and wander, A-Cold Wall*, AFFXWRKS, Arnar Mar Jonsson, DEMON, Eden Power Corp, GR10K, Gramicci, Kiko Kostadinov, Klattermusen, Merrell, Moncler, Nike ACG, paria /FARZANEH, Patagonia, ROA, Salomon, Snow Peak, Stone Island.
 
@@ -9055,6 +8946,12 @@ Wallapop – здесь можно покупать и продавать вся
 
 ## Barcelona
 
+Барселона — собачий город. Вход с собаками разрешен в большинство заведений, но не в продуктовые магазины.
+
+
+**to go**
+
+В Барселоне есть суперкомпьютер внутри часовни. 88 место в мире, MareNostrum. https://en.wikipedia.org/wiki/MareNostrum
 
 
 **bar**
@@ -9068,12 +8965,7 @@ Sons in law
 Dr. Stravinsky - Только коктейли, только авторские. Ребята регулярно участвуют во соревнованиях и их коктейли — это необычное сочетание вкусов и ингридиентов. Бар выглядит как лаборатория с ретортами и химическими штуками на стенах. Атмосфера очень камерная, на вход обычно небольшая очередь. https://www.drstravinsky.cat
 
 
-
-
-
 # Portu
-
-
 
 https://whc.unesco.org/en/list/1046/
 
@@ -9103,10 +8995,6 @@ Language
 
 ## Lissabon
 
-
-
-
-
 Коктейльные и гастрономические клёвые места 
 
 • Monkey Mash
@@ -9126,12 +9014,7 @@ Language
 • Red Frog
 
 
-
-
-
 # Austria
-
-
 
 ## Vienna
 
@@ -9249,8 +9132,6 @@ Weinschenke https://instagram.com/weinschenke
 
 **coffee**
 
-
-
 Хорошие модные спешалти современные и вот это все кофейни:
 
 The Pelican Coffee Company (Pelikangasse 4, 1090 Wien) - https://www.instagram.com/thepelicancoffee/
@@ -9285,13 +9166,7 @@ Comedy Club - https://www.facebook.com/Viennacomedyclub/
 
 # Switzerland
 
-
-
-
-
 ## Zürich
-
-
 
 MAME Seefeldstrasse 19 - https://goo.gl/maps/Cen7DvQhw87mVvy88 - кофе (жарят, делают, две локации - Seefeldstrasse более мелкая, и рядом с HB крупнее)
 
@@ -9316,8 +9191,6 @@ Don Leone https://g.page/donleone-baeckerstrasse?share - неплохая пиц
 
 
 # Sweden
-
-
 
 Праздники:
 
@@ -9369,20 +9242,11 @@ SwedenTaxi, CabOnline
 
 **mobile**
 
-
-
 Comviq или LycaMobile, их раздают на улицах. Можно их купить в магазинах Pressbyrån, SevenEleven. Я рекомендую всем брать Comviq карточку и тариф Fastpris 10Gb. Стоит 195 крон, но зато точно и интернета и звонков хватит.
-
-
 
 **food**
 
-
-
-Food tends to be sweet and licorice
-
-
-
+Food tends to be sweet and licorice and sardinish
 
 
 Lidl, Willys, ICA, Coop, Hemköp
@@ -9421,11 +9285,7 @@ long term:
 
 *Andrahandskontrakt или контракт второй руки*. Это аренда от частного лица. Цены на аренду заметно выше, и вы не можете жить в арендуемом помещении более двух лет (если вам повезет и вы договоритесь о таком сроке). Цены за коммунальные услуги могут уже включаться в арендную плату, и не всегда можно зарегистрироваться по арендуемому адресу.
 
-
-
 **money**
-
-
 
 Финансы. Также до переезда желательно завести себе аккаунты в европейских необанках, например Revolut или N26. В данных банках можно открывать виртуальные карты и добавлять их в GPay или Apple Pay, что будет крайне полезно, так как в Швеции практически никто не пользуется наличкой и, на сколько я знаю, вы даже в общественном транспорте не сможете проехать за наличные средства. Важный нюанс - открыть аккаунт вы сможете только тогда, когда карта ВНЖ будет у вас на руках, чтобы банки смогли вас идентифицировать. Имея верифицированный аккаунт, вы сможете получать зарплату, пока вы не откроете счет в Шведском банке. Для граждан РФ доп. сложностью будет перевод своих рублевых средств на карты этих банков и конвертация валюты.
 
@@ -9469,11 +9329,7 @@ Migrant rules https://www.migrationsverket.se/English/Private-individuals/Workin
 
 *Что нужно сделать для продления ВНЖ*
 
-
-
 Доки выше +
-
-
 
 * Подписанный контракт с работодателем;
 
@@ -9497,15 +9353,11 @@ Migrant rules https://www.migrationsverket.se/English/Private-individuals/Workin
 
 ## Stockholm
 
-
-
 https://vas3k.club/guide/11956/
 
 
 
 метро станции Thorildsplan, Solna - фотогеничные (впрочем как и многие остальные)
-
-
 
 Slussen и первый лифт в Европе —> Старый город —> T-Centralen —> кораблик до Djurgården, там музеи Vasa, Junibaken, Skansen, Nordiska Museet —> Переход на Strandvägen, прогулка по ней —> Hallwylska Museet —> ратуша.
 
@@ -9591,8 +9443,6 @@ Pharmarium (Stortorget 7) - fancy cocktail bar https://pharmarium.se/
 
 **to dance**
 
-
-
 Trädgården/Under Bron — летом открытая площадка с диджеями под мостом, а зимой модный клуб в помещении. Они оба рядом и как-то связаны друг с другом, поэтому через слэш
 
 Eden — ещё одна площадка под открытым небом, где играют очень модные местные диджеи. Вокруг вода, два бара и хорошие вайбы
@@ -9601,19 +9451,13 @@ Patricia — это вообще корабль! Тут мы заходим в �
 
 The Secret Garden — а это, наверное, самый популярный гей-клуб/клуб с --нормальной-- музыкой из нулевых и десятых. Очень мало места, ничего не происходит до 23:00, а потом максимально дружеская атмосфера и песни, которые вы знаете.
 
-
-
 **coffee**
-
-
 
 Drop Coffee
 
 Kaffeverket — атмосфера шведской кофейни
 
 Vete Katten — классика шведской кофейни, одна из первых открытых в современной Швеции.
-
-
 
 **to buy**
 
@@ -9636,10 +9480,6 @@ https://www.skanskchili.com/uncategorized/vara-chilisaser/ — острые чи
 Noma  - ресторан проект лаборатория про локальные продукты https://noma.dk/ 
 
 христиания
-
-
-
-
 
 ## Мальмё
 
@@ -9705,13 +9545,7 @@ PHM SAINTS PERES (50 Rue Des Saints Pères) - По рекомендации на
 
 AU VIEUX CAMPEUR (25 stores around 48 Rue Des Ecoles) - Мы наткнулись на этот магазин случайно, когда искали Picture Organic Store. Вернее сказать, наткнулись на целых 2 квартала магазинов. В Париже, в этом районе, недалеко от станции метро Cluny La Sorbonne, мы насчитали более 17 магазинов. А на самом деле их 25. Впервые открытый в 1941 году, сегодня Au Vieux Campeur представляет более 500 брендов в своих филиалах, и в этом районе Парижа каждый магазин представляет отдельный выбор по видам спорта или категориям: альпинизм, подводное плавание/рыбалка, гребля на каноэ, каньонинг, спортивная/скандинавская ходьба, плавание, дайвинг, катание на лыжах, сноуборде, спелеология, бег по тропам и дорогам, триатлон, парусный спорт/водные виды спорта, велоспорт, hiking/camping/outdoor, путешествия, обувь, одежда, строительный, инструменты, книги и очки. Вероятно, это главный парижский хаб для всего, что связано с активными видами спорта и outdoor индустрией. Обязательно исследуйте район, когда будете поблизости. 
 
-
-
-
-
 # Grees
-
-
 
 Barbarum(это или всё же этот?) by Kolya Kiselyov
 
@@ -9723,17 +9557,9 @@ Odori by Kolya Kiselyov
 
 ## Athens
 
-
-
 Athen bar show - years bar fest https://www.athensbarshow.gr/gr/en/information/ November 9-10 2021
 
-
-
-
-
 # Belgium
-
-
 
 Карта от https://online.synchronize.ru/visitflanders https://www.instagram.com/andrey_dmitriev_radvogin  про моду, историю, культуру и подобное. Подборка музеев, баров, отелей, бутиков в Антверпена
 
@@ -9741,19 +9567,13 @@ https://www.google.com/maps/d/u/1/viewer?mid=1RmKWm3n-z-FkcoDdLmhkdi7K74eOu_lC&l
 
 Brussel
 
-
-
 Delirium caffe
 
 
 
 ## Brugge
 
-
-
 2be barMilan
-
-
 
 Bar recommended by Kolya Kiselyov
 
@@ -9768,12 +9588,7 @@ Bar recommended by Kolya Kiselyov
 Рим: Freni e Frizoni, Jerry Thomas, Drink Kong, La Punta
 
 
-
-
-
 # Hungary/Венгрия
-
-
 
 1. **Переночевать: ** Booking, Airbnb
 
@@ -10783,7 +10598,7 @@ bus
 
 # Canada
 
-
+https://www.cicnews.com/2023/04/march-was-a-historic-month-for-express-entry-0434259.html#gs.u21iul - migration
 
 Flipp – одно из лучших приложений по отслеживанию скидок и промо-акций в продуктовых магазинах. Можно составлять свои списки покупок. Приложение парсит флаеры самых крупных сетевых магазинов и агрегирует это всё для удобства конечного пользователя.
 
@@ -11933,9 +11748,7 @@ https://t.me/+6r67H3IEZ65hYzVi - Сбор мусора Белград, разд�
 https://t.me/belradist радиолюбители 
 
 
-
 Кошава. Это местный сезонный ветер дующий в холодное время года из "железных ворот Дуная" - Джердапского ущелья.
-
 
 
 https://www.facebook.com/groups/biojednomjedanbeograd/ - about Belgrade on seriban lang
@@ -12006,6 +11819,8 @@ street food festival - https://www.instagram.com/streetfoodfestivalbg/
 
 Terroirs - Wine fest
 
+https://www.instagram.com/winestylemagazin/ - wine fest
+
 Beogradski Noćni Market - https://www.instagram.com/belgradenightmarket/
 
 **gov**
@@ -12040,6 +11855,9 @@ Menjačnica Dunav Новый Белград, Булевар Михајла Пу�
 prime dental studio
 
 @eka_polo
+
+
+dentist +381640668471 recommended dental studio helena Ljuba Vuckovica 29
 
 **Dental radiology**
 
@@ -12083,7 +11901,6 @@ https://goo.gl/maps/dpws6MDx5Y3tza4C9 можете ориентироватьс�
 https://maps.app.goo.gl/H24prXav2D3T6qma9 - индивидуальный пошив
 
 
-
 https://maps.app.goo.gl/1QDcYmWTeGC9YQjp7 - там по соседству два помещения - в одном пошив, в другом ремонт
 
 https://www.instagram.com/ekri_design/ 
@@ -12091,6 +11908,9 @@ https://www.instagram.com/ekri_design/
 https://www.instagram.com/kerefeke.rs/
 
 BC Group (Durmitorska 3) - Electronics store https://www.bcgroup-online.com/
+
+Sinđel (Dvadeset sedmog marta 21) - Tattoo and piercing shop
+
 
 
 **to go**
@@ -12135,11 +11955,15 @@ Silosi (Dunavski kej 46) - Галерея современного искусс�
 
 Zepter (Knez Mihailova 42) - Музей современного искусства в центре Белграда. Входной билет взрослый - 200 динар, детский 100 динар, Каждое воскресение бесплатный вход https://zeptermuzej.rs/informacije/
 
+Monolog Gallery (Cetinjska 15) - art gallery https://www.monologgallery.com/
+
 Kula (Cetinjska 15) - art center http://www.kula.org.rs/
 
 Viline Vode (Viline Vode bb) - Большая галерея современного искусства  https://instagram.com/vilinevode.galerija
 
 Музей современного искуства/Belgrade contemporary art museum (Ušće 10) - Free on Wednesday. https://msub.org.rs
+
+https://novembargallery.com/ - gallery
 
 Stara Ciglana (Slanački put 26) - art space. Заброшенный кирпичный завод на окраине Белграда облюбовали молодые деятели современного искусства и превратили в арт-сквот. Центр цигланской тусовки — клуб-бар Ciglana Klub ljubitelja teske industrije. Приятное место с интересным интерьером, наполненным странными поделками. часто организуются джаз- и блюз-концерты. Если повезёт, можно попасть на концерт какого-нибудь весёлого цыганского оркестра.
 
@@ -12148,8 +11972,6 @@ Stara Ciglana (Slanački put 26) - art space. Заброшенный кирпи�
 Stand-UP
 
 Open mic Caviar
-
-
 
 https://diamondgarden.rs - локация с бассейнами “Diamond garden”
 
@@ -12171,6 +11993,10 @@ Penjački klub Granit (Takovska 41) - Rock climbing gym http://www.penjackiklub.
 
 Games.Con Hub Underground (Ruzveltova 1) - Board game club
 
+Black Dragon (Generala Lešjanina 5) - game shop and club. https://www.klubcrnizmaj.com/
+
+Games 4 you - game shop. cash. dices https://games4you.rs/
+
 Anticafe BlackCat (Braće Baruh 6) - Стоимость посещения тайм-кафе: 300дин/час, 900дин/безлимит.
 
 Swing dance studio - https://instagram.com/hoppin_swing ~1500din for course
@@ -12188,21 +12014,16 @@ Sakura shop - https://www.sakurashop.rs/ https://www.instagram.com/sakurashop.bg
 Panda caffee (Bulevar despota Stefana 34) - shop and caffee https://pandacafebeograd.business.site/ https://www.instagram.com/panda_cafe_belgrade/ 
 
 
-
 Mangs comic and books
 
 https://darkwood.co.rs/
 
 https://carobnaknjiga.rs/
 
-
-
 https://maps.app.goo.gl/rzm1TvnqavvTMVSd7 - cats
 
 
-
 https://www.gvint.rs/pivara/ brewery, taproom, tours https://www.instagram.com/gvint_pivara/ https://www.facebook.com/GvintPivara/
-
 
 
 TODO https://www.aviasales.ru/guides?ll=44.83272138133745%2C20.44435795599145&params=MOWBEG1&travel_map_layer=local&z=12.00
@@ -12217,7 +12038,7 @@ KC GRAD (Braće Krsmanović 4) https://www.kcgrad.rs/
 
 Job to be fun - it fest 12Mar https://jobtobe.fun/
 
-
+https://www.fuckupnights.com/city/belgrade community
 
 **bar**
 
@@ -12234,6 +12055,8 @@ Barblija (Milutina Bojića 2) - cocktail place. Very friendly staff. Custom coc
 Boho - Чиловое место на Калемегданской террасе где днём можно лежать в пуфиках, а ночью потусоваться под хорошую музыку https://www.instagram.com/bohobar_belgrade https://www.facebook.com/bohobarbelgrade
 
 Blaznavac (Kneginje Ljubice 18) - Бар в центре города с максимально необычным интерьером и крутыми коктейлями https://instagram.com/blaznavac 
+
+Riddle Bar (Skadarska 9) - как в мицве и мило и  клевая подача https://riddle.bar/
 
 Три (Svetogorska 46) - hidden(?) fancy cocktail bar ракия из лепестков роз http://restorantri.com/  координаты-44.81293, 20.469856  Svetogorska 41. Хипстерский хотспот. Одна из парадных дверей на улице Kosovska, прям за Народной Скупштиной, ведёт во дворик. Посреди дворика стоит старый особняк. В его полуподвальном помещении и находится ресторанчик «Три». Небольшое меню предлагает, в основном, изысканные закуски, типа салатов и брускетти, и десерты. Много предложений для вегетарианцев. Конкретно меня радует наличие пива Krugher & Brent. Интерьер места собран из множества винтажных деталей: кресла, лампы, игрушки, иконки.
 
@@ -12323,6 +12146,8 @@ Baš.ta – Cetinjska 15
 
 **wine**
 
+https://t.me/serbianwine Про сербское виноделие на русском языке и дегустации 
+
 Podrum Wine Art - cool wine bar
 
 Delice (Gospodar Jovanova 47) -  специализирующеся преимущественно на французских винах и гастрономии, открылось в апреле 2019 года в формате бистро с баром и винотекой. Выбор французских вин вполне впечатляющий – в общей сложности более полусотни позиций. 
@@ -12358,6 +12183,40 @@ Vino i Tako To () - vine store https://vinoitakoto.com/
 
 https://www.instagram.com/food_bgd/
 
+https://www.instagram.com/lepa.mesta/
+
+https://www.instagram.com/tablestar.app/
+
+https://www.instagram.com/belgradish/
+
+https://www.instagram.com/twogreedybalkanians/
+
+^ агрегаторы/люди кто выкладывает всякие рестораны
+
+
+https://www.instagram.com/berliner_restoran/
+
+birds (Strahinjića Bana 1) - аккуратное красивое место. Русскоязычный персонал.Типа грузинская. Периодически есть трубочки и орешки с вареной сгущенкой и сырками. Вкусно. https://www.instagram.com/birds.beograd/
+
+Jam bistro - ланчи и коктейли 
+
+https://www.instagram.com/koordinatastreet/
+
+tt bistro (Cara Uroša 19) - недалеко от tt eatery есть чебуреки и коктейли https://www.instagram.com/tt_bistro/
+
+tt eatery (Visokog Stevana 31) - русская кухня солянка как ресторанчик  https://www.instagram.com/tt__eatery/ https://www.opentable.co.uk/r/tt-eatery-beograd?shareReferrer=ios-share
+
+https://www.instagram.com/artist_beograd/
+
+https://www.instagram.com/d59b.belgrade/
+
+https://www.instagram.com/angrymonkbelgrade/
+
+https://www.instagram.com/puffylilpancakesbelgrade/
+
+PRANA Brunch & More (Hilandarska 6) - Если выходить на него слева там живые котики no smoking place http://prana.rs/
+
+
 НЕКУРЯЩИЕ ЗАВЕДЕНИЯ В БЕЛГРАДЕ 
 
 Прекрасные ребята в фейсбук группе «Nepušački lokali u Beogradu» составили карту кафе, баров и ресторанов в Белграде, где полностью запрещено курение, либо есть четкое разделение этих двух зон.https://www.facebook.com/nepusackilokaliubeogradu
@@ -12378,11 +12237,18 @@ Old Hercegovina (Carigradska 36) - http://www.stara-hercegovina.rs/kontakt/ http
 
 [Kod Relje](geo:44.803994089347505,20.455163116351848) - Сарајевска 22. Маленькая поедальня на буквально три столика. Предлагают сараевские чевапы и плескавицы, то есть без свинины. Чевапы в тонкой лепешке, куда можно добавить лук, молотого острого перца и каймака. Перчик действительно острый! [Сайт](https://kodrelje.rs/)
 
+Жућа (Venizelosova 23) - nice serbian fast food
+
+Znak Pitanja/Question Mark (Kralja Petra 6) - homemade coffe and nice food http://www.znakpitanja.rs/
+
 Завичаj - ресторан сербской кухни
 
 Cetinjska 15 - Ресторан с огромными порциями
 
-Iva New Balkan Cuisine (Kneginje Ljubice 11) - https://newbalkancuisine.com/
+Mali Dorćol (Vojvode Dobrnjca 34) - Lunch restaurant отличный гуляш и бычьи хвосты
+
+
+Iva New Balkan Cuisine (Kneginje Ljubice 11) - бронировать и из гайда мишлен клеве завтраки https://newbalkancuisine.com/
 
 Bagel Bejgl (Kneza Danila 39) - http://bagel.rs/
 
@@ -12410,11 +12276,13 @@ Duke (Čika Ljubina 9) - ресторан на крыше малоэтажки �
 
 Lorenzo & Kakalamba - Ресторан с необычным интерьером
 
-Endorfin в Дорчоле. Качественные вина, коктейли, крафтовые пива и изысканная кухня. no smoking place https://maps.app.goo.gl/pMo48HfzwEvP45FA9?g_st=ic
+Endorfin в Дорчоле. Качественные вина, коктейли, крафтовые пива и *изысканная* кухня. no smoking place https://maps.app.goo.gl/pMo48HfzwEvP45FA9?g_st=ic
 
 Gost (Адрес: Maršala Birjuzova 3-5) - грузинский ресторан https://www.instagram.com/cafe_gost
 
-[Burger House Bros.](geo:44.818102592870446,20.453013300336234) - Краља Петра 10. Ресторан со вкусными бургерами. [Сайт](http://www.burgerhouse.rs/)
+[Burger House Bros](Kralja Petra 10 / Mileševska 65) - chain. Ресторан со вкусными бургерами. http://www.burgerhouse.rs/ https://burgerhousebros.com/ 
+https://smashburgers.rs/
+
 
 [Papas](geo:44.8029955716716,20.454519446603292) - Сарајевска 41. Небольшая бургерная. Бургеров много разных, наверное десяток вариантов. И два варианта мяса на выбор - свиноговядина и курица. На момент написания - самые вкусные из того что мы в Белграде ели, цены тоже приятно радуют. Есть еще мексиканская еда. [Сайт](https://burgeri.rs/)
 
@@ -12428,8 +12296,9 @@ cafe gost (Maršala Birjuzova 3-5) - https://www.instagram.com/cafe_gost/ http:/
 djordjija () - https://djordjija.rs/ https://www.instagram.com/restoran_djordjija/
 
 
-
 Skovorodnik (Господар-Јевремова 59) - пельмени https://skovorodnik.restaurant/
+
+https://www.instagram.com/urkitchen.beograd/ пельмени
 
 Mr. Keh (Гаврила Принципа 6) - пельмени, пицца, гирос фастфуд
 
@@ -12443,12 +12312,14 @@ Halo Lescovac -  стритфуд
 
 Pekara Trpkovic - Самая старая пекара с буреками
 
+Marenda (Skerlićeva 30) - good for breakfast marenda.rs
+
 
 Lorenzo & Kakalamba -  необычное заведение . Владельцы ресторана решили сделать ставку на ядерное сочетание всего: флорентийской и пиротской кухонь, китча и садо-мазо в интерьере, безупречности и чудоковатости обслуживания. Танцующий Ленин, попообразные стулья, картины Ботеро, Санта Клаус с газетой на унитазе, стеклянный пол, под которым кухня и виден процесс приготовления блюд и бессчетное множество других приковывающих внимание деталей. Это не ресторан, а какой-то аттракцион. https://lk.rs/en
 
 
 
-Ботако (Nevesinjska 6) - italian food.  Ресторанчик не большой, обязательна резервация https://pizzabotako.rs/sr_Latn/ 
+Ботако (Nevesinjska 6) - italian food. Ресторанчик не большой, обязательна резервация https://pizzabotako.rs/sr_Latn/ 
 
 Chaplin Pizzeria (Višnjićeva 7) - pizza napoleatana made in a wood oven
 
@@ -12461,7 +12332,6 @@ Gilda - great Italian  restaurant in Belgrade(from Simon)
 Street Pasta Bar (Kralja Milana 52) - good lanch option. https://www.facebook.com/streetpastabar/
 
 Campo de Fiori (Njegoševa 35) - шеф работал в Риме 11 лет, пицца - бомба http://campo.rs https://www.facebook.com/CampoDeFioriZemun/
-
 
 
 PizzaBar у хр св Саввы (внутри все левое крыло не курит), и вкусно. 
@@ -12477,12 +12347,14 @@ Toronto Pizza & Bakery (Cara Dušana 10) -  cheap pizza streetfood
 Giovanni's Pizzeria (Nikole Spasića 3) -  nice Pizza restaurant
 
 
-
 Restoran ISTOK (Gospodar-Jevremova 50) - Vietnamese restaurant. Pricier, but great Pho, pasta and other. Good vege option. http://istokrestoran.com/
 
 
+Angry Monk (Uzun Mirkova 11) - дорого, но хуже caviar. asian food and cocktails. Nice https://en.angrymonk.rs/menu
 
-Angry Monk (Uzun Mirkova 11) - asian food and cocktails. Nice https://en.angrymonk.rs/menu
+caviar - ru style really taste sushi
+
+Sushi King (Jurija Gagarina 231 lokal 173) - Суши с интересными сочетаниями вкусов https://www.sushiking.rs/
 
 Wagokoro-Japanese mochi dessert and drinks (Carigradska 10) -  https://wagokoro.rs/
 
@@ -12529,9 +12401,7 @@ Mi Đa House 米家小馆 (Kruševačka 14) - Korean restaurant
 Ahmee (Kumanovska 6) - Korean restaurant (closed ?)
 
 
-
 TAO Thai restoran (Krunska 26) - spicy as it should be https://www.instagram.com/tao_bgd
-
 
 
 Maikhana The Indian cafe bar restaurant (Beogradska 4) - nice indian rest
@@ -12541,6 +12411,7 @@ The Paratha Center (Kneginje Zorke 28) - nice indian rest. kinda hiden gems http
 Miamiam Restaurant & Catering (Kursulina 39) - nice indian rest https://www.facebook.com/Miamiambeograd/ http://www.vinoifino.rs/gastro_vodic/restorani/restoran_miamiam_nova_lokacija_stari_smek_vinski_magazin_vino_i_fino_98?fbclid=IwAR06sGEoNGebRH7McfDqviJPOcQZiYCFm_xWfZhl2XqYhJUuqOOLxJujy2k https://www.instagram.com/restoran_miamiam
 
 
+Zapata Ciudad (Vuka Karadžića 14) - Mexican restaurant http://www.zapatabeograd.rs/
 
 
 
@@ -12570,11 +12441,11 @@ Mandarina Cake Shop (Gracanička 16 pon-ned 09-21h, Palilulska pijaca uto-ned 0
 
 
 
-ice cream
+**ice cream**
 
 Crna Ovca (Kralja Petra, 58) -  почти 40 вариантов! Много отличных сочетаний, которые меняются каждый день: белый шоколад с черникой, зелёный чай с клубникой, крем марсала с рубиновым шоколадом. 
 
-Poslastičarnica (Maršala Birjuzova, 7) - На улицу смотрит витрина с более традиционными вкусами, а внутри стоят холодильники с настоящими находками для гурманов: лаванда, ромашка, белое вино Тамьяника, сливовая ракия, сыр, айвар. 
+~Poslastičarnica (Maršala Birjuzova, 7) - На улицу смотрит витрина с более традиционными вкусами, а внутри стоят холодильники с настоящими находками для гурманов: лаванда, ромашка, белое вино Тамьяника, сливовая ракия, сыр, айвар.~ Closed
 
 Sapore (Cara Lazara, 15) -  Viva Italia, хозяин - итальянец. Некоторые ингредиенты из Италии, но само мороженое делают здесь.
 
@@ -12597,6 +12468,8 @@ Ferdinand knedle (Gavrila Principa 58) - greate knedle
 
 
 **coffee**
+
+https://shop.cafe-factory.net/
 
 Everywhere italy style coffee
 
@@ -12669,8 +12542,6 @@ Pečenjara Baralić (Miše Vujića 2) - Meat products store
 
 Hungarikum centar (Novopazarska 32-34) - market with good products from Hungary, but, the staff does not inovate the prices on the products, thats why the consumers are not sure what are the real price of some products. Meanwile reasonable prices https://www.hungarikumcentar.rs/
 
-
-
 Top Cut (Svetogorska 33) - магазин полностью посвященный новому году и рождеству. Дорохо, но поглазеть и выпить глинтвейн - ок. 
 
 ru/ukr 
@@ -12698,10 +12569,7 @@ Blok 70 中国食品超市 (24 Surčinski Put) - chinese market
 Raffles City - CHINA shopping Centre - the cheapest stuff. Another one offline ali express
 
 
-
 Zemun market (Masarikov trg 17) Пијаца Земун http://www.bgpijace.rs/?page_id=178&lang=en
-
-
 
 Земунский бувляк - Рынок работает только по воскресеньям и состоит из легальной и нелегальной частей. Как говорят местные, лучше приезжать пораньше, в 5–6 утра, потому что нелегальную часть уже к 8-ми разгоняют полицейские.
 
@@ -12714,7 +12582,6 @@ Bajloni - стихийный и небольшой блошиный рынок. 
 Bubanj potok — главный и крупнейший. Он работает строго по субботам и находится за пределами Белграда. Добраться до него на общественном транспорте не представляется возможным
 
 https://www.instagram.com/komunamarket.rs/
-
 
 
 Шмизла (Zmaja od Noćaja 14) - винтаж-бутик. Если вы ищите старые югославские вещи, то вам сюда. Огромный выбор платьев, джинсовых курток и юбок в пол, очков, платков и штук типа ретро-фотоаппарата. Есть мужской отдел
@@ -12736,6 +12603,12 @@ Vintage Lux (Maršala Birjuzova 9) - нет вещей моложе 90-го го
 Vintage Beograd (Kolarceva 7 Podzemni prolaz palata Albanija, izlaz ka čumićevom sokacetu, Beograd) - https://www.instagram.com/vintagebeograd/
 
 
+vape
+
+Smart Vape Shop (Nemanjina 36 / Takovska 13) - Products are fine. Mods, loquid, coils etc https://www.instagram.com/smartvapers/ https://smartvape.store/
+
+Vape and Zla Shop Elektronske cigarete (Carice Milice 11) - Small but well stocked. Good for loquid https://www.vapeizla.rs/ 
+
 
 Среди косметологов многие хвалят: 
 
@@ -12745,6 +12618,17 @@ Vintage Beograd (Kolarceva 7 Podzemni prolaz palata Albanija, izlaz ka čumićev
 
 - https://instagram.com/dr.a.singur?igshid=skm1voe6wwpv 
 
+
+3d print
+
+•Thingiverse 
+•MyMiniFactory  
+•Cults3D  
+•Cgtrader  
+•3dexport 
+ 
+Для связи с нами: https://t.me/bechatdreams 
+Или  напрямую https://t.me/Flapper 
 
 
 Мастера по маникюру:
@@ -12827,6 +12711,9 @@ https://t.me/Novi_sad_for_you_chat
 Stand-UP
 
 open mic iBeer
+
+music fest https://www.exitfest.org
+
 
 
 **food**
@@ -13353,6 +13240,12 @@ BBI, Alta, SCC
 
 TODO: move points from google maps
 
+
+# Турция
+
+# Стамбул
+
+https://www.instagram.com/fthjewelry/?
 
 
 # Кыргызская Республика/Кыргызстан
