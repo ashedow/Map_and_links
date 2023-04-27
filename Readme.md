@@ -3049,16 +3049,12 @@ https://dentystakliny.pl/kontakt/
 Сдать стекло - https://swiatoze.pl/butelki-zwrotne-w-biedronce-siec-wprowadza-swoj-system-kaucji/
 
 
-
 Лайконик - Раз в году, в четверг после праздника Тела Господня, на площади у монастыря сестёр св. Норберта собирается толпа. Все ждут главного героя – Лайконика, начинающего гарцевать именно здесь. Это мужчина, переодетый вождём татар, сидящий на коне (его нынешнее одеяние было спроектировано ещё Станиславом Выспянским). Вместе с сопровождавшей его капеллой «мласкотов» (местных музыкантов) он передвигается по маршруту: улица Косцюшко, ул. Звежинецкая, ул. Францисканская и ул. Гродская, в конце-концов добираясь до Главной площади Рынок. Там городские власти передают ему символическую дань, а Лайконик выпивает за благополучие Кракова. Эта традиция связана с легендой, согласно которой жители Звежиньца, сплавщики леса по Висле, спасли Краков от разрушения, а его жителей – от смерти. Они дали отпор нашествию татар. После победы они пошутили над жителями Кракова – переоделись в татарские одежды, измазали лица сажей и на «трофейных» лошадях въехали в город, притворяясь татарским отрядом. Когда выяснилось, что это была шутка, благодарные жители Кракова устроили в честь сплавщиков пир на всю округу.
-
-
 
 https://krakow.mid.ru
 
 http://www.krakow.so.gov.pl/krajowy-rejestr-karny,m,m1,193,80
 
-	
 
 **bar**
 
@@ -3206,8 +3202,6 @@ Cwane Wino Wine Bar (Bożego Ciała 10) - https://www.facebook.com/profile.php?i
 
 **beer**
 
-
-
 Teatime brewpub (Jozefa Dietla 1) - Pub quiz is on every Monday at 8pm. Don’t know about the Mbassy though. точно есть орешки) и с десяток своих кранов с прикольными механическим насосами
 
 BroPub by Brokreacja (11 Stradomska) - pub https://bropub.pl/  https://untappd.com/v/bropub-by-brokreacja/6733637
@@ -3280,8 +3274,6 @@ wezze crafta, nowy kraftowy, multi-qulti, szklanki - заведения одно
 
 **food and drinks**
 
-
-
 Żarówka (Floriańska 20) - good bagels. Cosy place for a brunch. hipster paradise decore. Service might be a bit slow. Nice garden https://www.facebook.com/%C5%BBar%C3%B3wka-Cafe-574692409320283/ 
 
 Cukiernia francuska Nad & Greg (Rynek Podgórski 11) - bakery near the church. has the best variety of croissants http://cukiernia-nadgreg.pl/en/
@@ -3333,7 +3325,6 @@ CiastoLina (Zwierzyniecka 14) - десерты, пироги и торты, ин
 Pimiento Argentino Restaurant (Józefa 26) - стейки и очень вкусное вино https://pimiento.pl/en/ 
 
 
-
 Garden Grill Straconka - panstwo mamę ukrainkii borsch https://www.facebook.com/grillbielsko/
 
 Soup culture (Świętego Sebastiana 10) - https://www.soupculture.pl/
@@ -3383,6 +3374,17 @@ Restobistro -  еда как в Milk bar, но в солнечную погод�
 Drukarnia
 
 Karakter restaurant
+
+Шава: jamra jamra
+Kebab: Petarda kebab na placu nowym, luna kebab, mazaya falfel(без мяса турецкие блюда), vegab
+Бургеры: burgerija dąbska, beef burger bar ul.warszauera, antler ul. Wislna, farma vegan ul wislna
+Тайские: taj ul. Miodowa, ul szpitalna.
+Вьетнамские: hang hai kapelanka 15a, miodowa, stradomska, silver dragon
+Индийские: bhajan cafe, hello india
+Такосы: mexican food nowy kleparz, tio malo
+Pierogi: uczta krakowska, przystanek pierogarnia
+Столовки: himera на swiętej anny
+Пицца: пиццатопия
 
 Pierogi MR Vincent (Bożego Ciała 12 / Lea 114 / Skośna 10 a / Dywizjonu 303 62C) - polish pierogi https://www.facebook.com/pierogivincent https://www.instagram.com/pierogimrvincent 
 
@@ -11002,6 +11004,8 @@ https://t.me/vinkolozic Полезная бытовая информация о 
 
 https://t.me/serbnews - сербия новости
 
+https://t.me/NewsSerbia - сербия новостиdemon_
+
 https://t.me/+hLTqyYRLlAA5MzQ1 улетаем в Сербию
 
 подкаст о Сербии и внж: https://t.me/pouehavshie/52
@@ -11201,6 +11205,11 @@ https://fruskac.net/en/map
 Deathtrail 45.164103, 19.875971
 
 Vepar 45.168614, 19.873064
+
+Run
+
+https://www.trka.rs/events/ 
+
 
 
 **Apartment**
@@ -11614,6 +11623,11 @@ https://serbia.desertcart.com/ (?)
 Vine
 
 https://www.prodavnica.vino.rs/
+
+Box and storages
+
+https://storagebox.rs/
+
 
 
 **Event**
@@ -12092,7 +12106,7 @@ Beer Pong Bar (Terazije 26) - https://www.facebook.com/beerpongbarbelgrade
 
 Harat’s (Kralja Petra 18 ) - их сеть https://belgrade.harats.com https://instagram.com/haratspub_belgrade https://belgrade.harats.com/ https://goo.gl/maps/dsfXATPKG52CCbuh8 Классический паб с соответствующим интерьером. Кранов 15 пива, но кажется(?) нет еды… Некоторые бармены говорят по русски.
 
-Pub 53 (Beogradska 53) - cider, beer, craft cider and beer + wine+food+strong spirits. Dobar pab, vesela atmosfera i prijatni ljudi
+Pub 53 (Beogradska 53) - cider, beer, craft cider and beer + wine+food+strong spirits. Dobar pab, vesela atmosfera i prijatni ljudi https://www.instagram.com/cider_beograd/ https://t.me/pub_53beo
 
 BeerSheep(Балканска, 21) - bar and shop https://beersheep.rs/ https://www.instagram.com/beersheep_/ https://www.facebook.com/BeerSheep1/ https://g.page/Beersheep. Сортов триста пива, есть некоторое количество столиков посидеть. Но закрываются в 9 вечера и курят внутри
 
@@ -12479,6 +12493,8 @@ Everywhere italy style coffee
 Пржионица (Dobračina, 59b) Дословно означает «обжарочная». в глубине помещения стоит свой аппарат для обжарки зерна. self service концепт. По выходным собирается большая тусовка, за барной стойкой играет диджей, все пьют кофе, весело общаются. 
 
 D59B (Kralja Petra, 70) - Когда-то «Пржионица» и D59B были одним целым, но что-то пошло не так, и они разъехались. Помещение маленькое, два этажа, интерьер «ничего лишнего». В ассортименте так же минимализм: основные способы заварки кофе плюс пиво в холодильнике. Иногда здесь играют диджеи и ведутся стриминги, ведь у кофейни есть собственное радио https://www.radio.d59b.com/ . По вечерам собирается модная тусовка. Определенно, моё любимое кофейное место в городе.
+
+Кофилин (Cara Dušana 29) - coffee and pleasant staff. Besides the classica, they have many coffee specialities, cakes and even Russian cheese pancakes (syrniki). The place inside is tiny, there is one table, but cozy.  https://www.instagram.com/kofilin.beograd/
 
 La Casa De Caffe (Bulevar Vudroa Vilsona 8) - Really nice cafeteria. One of the best coffee. + cocktails like coffee+gin+tonic. http://lacasadecaffe.rs/
 
