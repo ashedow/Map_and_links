@@ -5263,7 +5263,6 @@ Early Bird Special Prague Towers - discount 50% for towrs
 Vinobraní - праздник сбора винограда в сентябре. В разных местах в разные дни проходят фестивали, рекой льется молодое вино - Burčák. Специфический слабоалкогольный напиток, крайне коварный
 
 
-
 **food**
 
 The Globe Bookstore and cafe Pstrossova 6, Prague 1 110 00 Czech Republic
@@ -5303,6 +5302,10 @@ Brasileiro Slovanský dům (Na Příkopě 859/22) - meat place. https://www.bras
 Střídačka/hockey bench (Týnská ulička 2) - service, food, beer are great https://www.stridacka.cz/
 
 
+Vegan's Prague (36, Nerudova 221) - Check classic vegan edition and rooftop place http://www.vegansprague.cz/
+
+
+Vikárka Restaurant (Vikářská 39) - Good pub with chech food, beer and good view http://vikarkarestaurant.cz/
 
 Les Moules (Pařížská 203/19) - Belgian restaurant, musles. good for selebrate BP with your partner https://www.lesmoules.cz/
 
@@ -5330,6 +5333,10 @@ Kavárna co hledá jméno Stroupežnického 493/10 - Beautiful place, coffee and
 
 Celetná Student Club Celetná 562/20 - studentskyklubceletna.cz
 
+Celetná Theater (Celetná 595/17) - Brilliant theater group Kašpar. Don't miss it. Interesting middle-sized venue just ať one of the Prague's famous streets Celetná. https://www.divadlovceletne.cz/ near caffee Coffee and beer and good spot for chell;
+
+
+Kolacherie (Celetná 589/27) - Bakery good coffee and traditions kolači https://www.kolacherie.cz/
 
 
 POCHA Original Korean Restaurant (oldřichova 14, Praha 2) - Korean food place Prague 
@@ -5468,6 +5475,7 @@ Lázeňská 4 cafe GROUNDS L4 (Lázeňská 4) - cute hidden caffee closed on Tus
 
 Пример прогулок https://en.mapy.cz/zakladni?planovani-trasy=&sid=6156f78492102a1e40c887ef&x=14.4206246&y=50.0854678&z=16
 
+Celetná Theater (Celetná 595/17) - Brilliant theater group Kašpar. Don't miss it. Interesting middle-sized venue just ať one of the Prague's famous streets Celetná. https://www.divadlovceletne.cz/ 
 
 
 Krymská - спокойненький хипстерский р-н
@@ -10600,6 +10608,31 @@ bus
 
 # Canada
 
+
+**migration**
+
+https://t.me/pinacanada
+
+При регистрации в Экспресс Энтри вам присваивается определенное количество баллов в зависимости от вашего возраста, образования, опыта работы, знания языков, вашего семейного положения и пр.
+Приглашения получают только те, у кого баллов больше, чем необходимый минимум, который меняется при каждом раунде.
+Список раундов и отборочные баллы можно посмотреть здесь - https://canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html
+
+
+Для того, чтобы прикинуть ваши баллы, не обязательно регистрироваться на портале, достаточно найти калькулятор и ввести ваши данные. 
+
+Калькуляторов в сети масса, вот ссылка на официальный - https://cic.gc.ca/english/immigrate/skilled/crs-tool.asp
+Как понять, что означают ваши баллы:
+* МЕНЬШЕ 300 - скорее всего вы что-то ввели неправильно или указали, что у вас английский на уровне А2-В1. Для регистрации минимально допустимый уровень английского - В2, то есть 6 по каждому навыку в IELTS. Вам придется доучивать язык до нужного уровня, чтобы зарегистрироваться.
+* 350-420 - вы можете зарегистрироваться на портале Экспресс Энтри, но ваш единственный шанс получить приглашение - это приглашение от провинции. Какова вероятность получить приглашение?
+* В Экспресс Энтри зарегистрировано примерно 90,000 человек с такими баллами, а провинции высылают примерно 5,000 приглашений в год, может чуть меньше. Обычно приглашает Альберта, Онтарио, Новая Скоша и Нью Браунсвик.
+* Например, 350 баллов набирают 35-летние семейные заявители с высшим образованием и знанием английского на уровне B2, тремя годами опыта работы, без знания французского, предложения о работе или канадского диплома, чьи супруги также имеют высшее образование и В2 английский.
+* 400 - 450 - это хорошие баллы, с которыми усиливается шанс получить приглашение от провинциальных иммиграционных властей, которые имеют доступ к порталу и периодически ищут там кандидатов в рамках выбранных фильтров по профессии, языку или работодателю.
+* Например, 447 баллов набирают одинокие молодые кандидаты со степенью магистра, хорошим английским и тремя годами опыта работы.
+* 460 - 490 - Это очень хороший балл, при котором можно рассчитывать на получение приглашения от федерального правительства непосредственно, а шансы оцениваются как очень высокие.
+* Молодая пара, где основной заявитель младше 30 лет, у обоих высшее образование и отличный английский, а так же как минимум 3 года опыта работы, могут набрать 481 балл, который был отборочным всего месяц назад.
+
+
+
 https://www.cicnews.com/2023/04/march-was-a-historic-month-for-express-entry-0434259.html#gs.u21iul - migration
 
 Flipp – одно из лучших приложений по отслеживанию скидок и промо-акций в продуктовых магазинах. Можно составлять свои списки покупок. Приложение парсит флаеры самых крупных сетевых магазинов и агрегирует это всё для удобства конечного пользователя.
@@ -11208,7 +11241,7 @@ Vepar 45.168614, 19.873064
 
 Run
 
-https://www.trka.rs/events/ 
+https://www.trka.rs/events/ nigt marathons
 
 
 
