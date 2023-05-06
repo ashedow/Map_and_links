@@ -4368,10 +4368,6 @@ Malbork Castle - https://zamek.malbork.pl
 
 ## Warszawa
 
-
-
-
-
 Варшава IT пиво - https://t.me/WarsawITBeer
 
  lang exch https://t.me/@tandemwarsawinternational Tandem calendar can be consulted from every device at http://calendar.tandeminternational.waw.pl
@@ -4418,6 +4414,7 @@ Motel One Warsaw-Chopin: https://www.booking.com/Share-mb6E9Z Booking.comBooking
 
 **beer**
 
+In Side. Pub (Nowy Świat 23) - мега-помойковый бар со своим шармом, места на улицею фотки из гугла для референса https://maps.app.goo.gl/dCdShuyyPEciZ5xN7
 
 
 Jabeerwocky (ul. Nowogrodzka 12) - brewpub bottleshop merch. beer, food https://www.jabeerwocky.com/pl/puby/warszawa 
@@ -11218,17 +11215,11 @@ maps.me, organic maps, komoot, strava, trailforks, google maps
 
 Кошутняк - горка в Белграде, 130 метров перепада, этакая местная Кашира. Трассы - лошпедка, бананза в Филях, что-то от Каширы есть. По выходным - заброски газелькой. За вечер после работы можно катнуть 3 раза, все закручивается легко
 
-
-
 Нишка Банья ( город Ниш) - 2 дх трассы с перепадом метров 300  - 4 минуты увниз в гоночном режиме. Камни, поворотики, скорость, шмяки в плоскач. Уклонов «наобосрацца» нету. Похоже чем-то на Балаклаву по грунту и трейлам. Есть заброски бусиком
 
 Матарушка банья - 1 дх трасса- крутильная, с прыгулями, плоская, но в середине есть интересный элемент
 
-
-
 Торник/Златибор - дх трасса на горнолыжке  размером с Геш, перепад - чуть меньше 400м. Подъемник - креселка с крюком за переднее колесо. 4 минуты в гоночном режиме у топов. Прямая. Есть абсолютно безыдейная часть - прямой прогон на стальные яйца. Есть немного технично с корешками-камешками, напоминает Собер - Скверную, 1-2-3 в середине- внизу. В целом - найс. Вроде на горнолыжке есть еще 3 трейла «типаэндуро», но мы катали только дхшку.
-
-
 
 Копаоник - 3 синие тропо-трассы, подъемник. едется - прыгается весь
 
@@ -11365,7 +11356,14 @@ Great coffee and Turkish coffee everywere. Try Plazma šejk (Plazma - the most p
 
 Лесковачки/ leskovački - модификатор еды по городу - Лесковацу. Лесковац знаменит своим мясом на гриле! А еще лесковацкое мясо остренькое, они добавляют перец.
 
+
 Wine - from Prokupac, Krstač, Tamjanika, Vranac, Smederevka grapes
+Бермет это название и вина и типа вина, он есть красный и белый, это вино с травами, чисто Сербская тема
+
+https://t.me/serbianwine Про сербское виноделие на русском языке
+
+https://t.me/serbianwine Про сербское виноделие на русском языке и дегустации 
+
 
 rubinov vinjak - liquid cocaine, but better or essence of home violence
 
@@ -11398,6 +11396,11 @@ Lidl https://www.lidl.rs
 Despot https://facebook.com/dexywar
 
 https://www.zlobex.com/
+
+
+**Vine**
+
+https://www.prodavnica.vino.rs/
 
 **tea and coffee**
 
@@ -11526,6 +11529,8 @@ https://komunamarket.rs - local brands
 
 
 Купля/продажа б/у вещей
+
+https://t.me/serbska_baraholka 
 
 https://www.kupujemprodajem.com/
 
@@ -11658,11 +11663,6 @@ https://serbia.desertcart.com/ (?)
 
 Покупаем за границей: особенности сербского законодательства https://www.serbia-home.com/archives/2291
 
-
-
-Vine
-
-https://www.prodavnica.vino.rs/
 
 Box and storages
 
@@ -11890,7 +11890,6 @@ https://t.me/rsdrivers - Чат для бесплатных объявлений
 https://t.me/relocateserbia - еще один канал по релокации.
 https://t.me/belgrade_school_chat - Белград школьный
 https://t.me/+sVat07GmZeJmYTAy - визовой чат
-https://t.me/serbianwine Про сербское виноделие на русском языке
 https://t.me/belgradewinerun - Белград. Забеги. Совместные трени. Немного вина после.
 https://t.me/mastermaindbelgrade - русское бизнес-сообщество в Белграде, Мастер-майнды в Белграде
 https://t.me/rsbusines - Бизнес в Сербии
@@ -12147,6 +12146,9 @@ https://www.instagram.com/winestylemagazin/ - wine fest
 
 Beogradski Noćni Market - https://www.instagram.com/belgradenightmarket/
 
+highload https://highload.rs/2023/
+
+
 **gov**
 
 https://www.beograd.rs/g/gradska-vlast/1980-sekretarijat-za-inspekcijske-poslove_3/
@@ -12335,6 +12337,12 @@ Games.Con Hub Underground (Ruzveltova 1) - Board game club
 Black Dragon (Generala Lešjanina 5) - game shop and club. https://www.klubcrnizmaj.com/
 
 Games 4 you - game shop. cash. dices https://games4you.rs/
+
+https://t.me/RPGSerbia - Платные и бесплатные настольные ролевые игры
+
+https://t.me/+tAl4k_Fm-MZjNGQy - Warhammer в Сербии.
+
+https://t.me/belgrade_boardgames - настолки в Белграде
 
 Anticafe BlackCat (Braće Baruh 6) - Стоимость посещения тайм-кафе: 300дин/час, 900дин/безлимит.
 
