@@ -703,8 +703,19 @@ https://mo.twosome.co.kr/so/storeList.do?scope=all
 Ссылка в чат - https://t.me/c/1776072744/3802
 
 
+# Ch
 
+Alipay tour pass for china pay and transport
 
+Джифубао - слово для алипея 
+Didi - такси удобное
+
+Жилье опция принимать иностранцев
+Trip.com или чунар
+
+Без VPN ничего не работает. Но спросить местных какие работать
+
+Лучше местную китайскую симку. По всему миру симки могут не работать
 
 
 
@@ -4955,17 +4966,18 @@ https://vas3k.club/guide/16857/
 
 **food**
 
-
-
 Ziemniakomat (Bobrza 2a)
-
-
 
 pasibus - норм бургеры
 
 Butchery & Grill (Sukiennice 6) - great place. Good for meetings with friends. Taste meat and good drinks https://www.butcheryandgrill.pl/
 
+**beer**
 
+Szynkarnia (Świętego Antoniego) - Great place for craft beer. Nice options on tap and also good variety of cans available in the fridges, both local and imported. Food was also super. https://szynkarnia.com.pl/
+
+
+**to go**
 
 https://wystawavangogh.pl/
 
@@ -4974,7 +4986,6 @@ https://wystawavangogh.pl/
 панорама Рацлавицкой битвы
 
 hydropolis
-
 
 
 Колейково - если любишь модели городов в миниатюре
@@ -9936,8 +9947,6 @@ Native
 
 # Шри-Ланка
 
-
-
 1. Переночевать: booking.com, airbnb, или спрашивать на месте в гестхаусах (полно свободных номеров)
 
 2. Жильё надолго: airbnb, или спрашивать на месте у локалов
@@ -9965,6 +9974,7 @@ Native
 13. Лайфхаки: приложения местных сотовых операторов - MyDialog для Dialog, Mobitel Selfcare для Mobitel. Для покупки пакетов интернета, пополнения баланса картой, отслеживания оставшегося трафика и т.д.
 
 
+Архитектор на Шри Ланке en.wikipedia.org/wiki/Geoffrey_Bawa
 
 
 
@@ -10986,9 +10996,7 @@ Taxi More +38267019730 и +38267434134
 
 
 
-Ульцинь
-
-
+## Ульцинь
 
 Taxi Centrala +38267019910
 
@@ -10999,7 +11007,16 @@ City Taxi +38267019910
 
 
 
+# Bosnia and Herzegovina
 
+## Sarajevo
+
+
+## Mostar
+
+Короче, я Мостару ставлю твердые 4,5 лапки из 5, снимаю полбалла за отсутствие меньячниц в городе
+
+## Zenica
 
 
 
@@ -11357,7 +11374,7 @@ Great coffee and Turkish coffee everywere. Try Plazma šejk (Plazma - the most p
 
 
 Wine - from Prokupac, Krstač, Tamjanika, Vranac, Smederevka grapes
-Бермет это название и вина и типа вина, он есть красный и белый, это вино с травами, чисто Сербская тема
+Бермет это название и вина и типа вина, он есть красный и белый, это вино с травами, чисто Сербская тема. Medun
 
 https://t.me/serbianwine Про сербское виноделие на русском языке
 
@@ -12248,6 +12265,47 @@ BC Group (Durmitorska 3) - Electronics store https://www.bcgroup-online.com/
 
 Sinđel (Dvadeset sedmog marta 21) - Tattoo and piercing shop
 
+TAKINAKSAVA CONCEPT STORE (Bulevar kralja Aleksandra 160) - nice Jewelry store http://www.takinaksava.rs/
+
+Anime shops
+
+Sakura shop - https://www.sakurashop.rs/ https://www.instagram.com/sakurashop.bg/ https://www.facebook.com/sakurashopserbia
+
+Panda caffee (Bulevar despota Stefana 34) - shop and caffee https://pandacafebeograd.business.site/ https://www.instagram.com/panda_cafe_belgrade/ 
+
+
+Mangs comic and books
+
+https://darkwood.co.rs/
+
+https://carobnaknjiga.rs/
+
+https://maps.app.goo.gl/rzm1TvnqavvTMVSd7 - cats
+
+
+https://www.gvint.rs/pivara/ brewery, taproom, tours https://www.instagram.com/gvint_pivara/ https://www.facebook.com/GvintPivara/
+
+
+Ракия в тюбиках 
+Rakia & co https://shop.rakiabar.com/ 
+Beogradski izlog https://www.kcb.org.rs/premises/beogradski-izlog/
+
+Возможно, будут здесь тоже https://goo.gl/maps/oLeHquFSoaxx5MPm7
+
+
+**parfum**
+
+https://t.me/parfbelgrade
+
+https://t.me/vive_le_parfum
+
+cosmetic
+
+Alexandar Cosmetics - hair mostly
+
+dm - regular 
+
+
 **job**
 
 https://t.me/serbia_jobs - коллекция вакансий в Сербии и для релоцированных
@@ -12331,6 +12389,9 @@ Penjački klub Granit (Takovska 41) - Rock climbing gym http://www.penjackiklub.
 
 Всего разрушенных бомбардировками зданий, ставших историческими объектами, в городе три. Друг напротив друга – Министерство обороны Югославии и Генштаб: геопозиция – 44.80515, 20.46060. На одном из них цитата национального героя Живоина Мишича – "Кто смеет, тот может. Кто не знает страха, тот идёт вперёд". Чуть подальше по этой улице разрушенное гражданское здание телецентра: геопозиция – 44.81133, 20.47041.
 
+https://www.startours.rs/ - агенство поездки на ватобусе. https://www.startours.rs/kalendar-putovanja - их календарь поездок
+
+
 Games.Con Hub Underground (Ruzveltova 1) - Board game club
 
 Black Dragon (Generala Lešjanina 5) - game shop and club. https://www.klubcrnizmaj.com/
@@ -12351,26 +12412,6 @@ Dorcol Platz - event/art space https://www.instagram.com/dorcolplatz/ https://ww
 
 Fijuk sajam - comic fest https://www.facebook.com/FIJUKPRODAVNICA https://www.matrijarsija.com https://www.facebook.com/events/1173093366673831/
 
-TAKINAKSAVA CONCEPT STORE (Bulevar kralja Aleksandra 160) - nice Jewelry store http://www.takinaksava.rs/
-
-Anime shops
-
-Sakura shop - https://www.sakurashop.rs/ https://www.instagram.com/sakurashop.bg/ https://www.facebook.com/sakurashopserbia
-
-Panda caffee (Bulevar despota Stefana 34) - shop and caffee https://pandacafebeograd.business.site/ https://www.instagram.com/panda_cafe_belgrade/ 
-
-
-Mangs comic and books
-
-https://darkwood.co.rs/
-
-https://carobnaknjiga.rs/
-
-https://maps.app.goo.gl/rzm1TvnqavvTMVSd7 - cats
-
-
-https://www.gvint.rs/pivara/ brewery, taproom, tours https://www.instagram.com/gvint_pivara/ https://www.facebook.com/GvintPivara/
-
 
 TODO https://www.aviasales.ru/guides?ll=44.83272138133745%2C20.44435795599145&params=MOWBEG1&travel_map_layer=local&z=12.00
 
@@ -12389,11 +12430,6 @@ https://www.fuckupnights.com/city/belgrade community
 https://t.me/history_dance_Beograd  - исторические танцы в Белграде, некоммерческая группа
 
 
-**parfum**
-
-https://t.me/parfbelgrade
-
-https://t.me/vive_le_parfum
 
 **bar**
 
@@ -12548,7 +12584,6 @@ https://www.instagram.com/twogreedybalkanians/
 
 ^ агрегаторы/люди кто выкладывает всякие рестораны
 
-
 https://www.instagram.com/berliner_restoran/
 
 birds (Strahinjića Bana 1) - аккуратное красивое место. Русскоязычный персонал.Типа грузинская. Периодически есть трубочки и орешки с вареной сгущенкой и сырками. Вкусно. https://www.instagram.com/birds.beograd/
@@ -12639,8 +12674,13 @@ Endorfin в Дорчоле. Качественные вина, коктейли,
 
 Gost (Адрес: Maršala Birjuzova 3-5) - грузинский ресторан https://www.instagram.com/cafe_gost
 
+
 [Burger House Bros](Kralja Petra 10 / Mileševska 65) - chain. Ресторан со вкусными бургерами. http://www.burgerhouse.rs/ https://burgerhousebros.com/ 
 https://smashburgers.rs/
+
+република/Republika Grill (Braće Jugovića 14) - плескавица, чевапчичи, шопска, все топове https://www.instagram.com/republika_grill
+
+pavle korcagin/павле корчагин - топ, антуражно, топят за косово, но оч накурено, ОЧЕНЬ https://kafanapavlekorcagin.rs/
 
 
 [Papas](geo:44.8029955716716,20.454519446603292) - Сарајевска 41. Небольшая бургерная. Бургеров много разных, наверное десяток вариантов. И два варианта мяса на выбор - свиноговядина и курица. На момент написания - самые вкусные из того что мы в Белграде ели, цены тоже приятно радуют. Есть еще мексиканская еда. [Сайт](https://burgeri.rs/)
@@ -13089,11 +13129,7 @@ music fest https://www.exitfest.org
 
 ## Сремски Карловцы.
 
-
-
 **vinary**
-
-
 
 Мрhанин
 
