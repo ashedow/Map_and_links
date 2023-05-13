@@ -7677,15 +7677,9 @@ Daft.ie – поиск жилья. Можно подписываться на н
 
 # UK
 
-
-
 https://www.officiallifeintheuk.co.uk/shop books live in the UK
 
 tg @fields_of_wheat - Великобритания: политика, культура страны и краткий анализ разных событий.
-
-
-
-
 
 Стрит туры по Лондону и Нью-Йорку http://londopolia.com/
 
@@ -7707,15 +7701,11 @@ Trainline UK – маршруты на поезде, с указанием по�
 
 National Trust – более 500 культурных и природных объектов в Британии принадлежат Национальному Трасту. В приложении список, краткое описание, поиск, время работы и цены.
 
-
-
 29 November- Giving Tuesday is a day of global giving. Giving Tuesday was created in 2012 as a simple idea: a day that encourages people to do good. Over the last decade, this idea has grown into a global movement that inspires millions of people to give, collaborate, and celebrate generosity.
 
 
 
 **service**
-
-
 
 https://www.johnlewis.com/
 
@@ -7723,17 +7713,10 @@ https://www.johnlewis.com/
 
 **Organisations**
 
-
-
 Campaign For Real Ale - So CAMRA came to the pub today.  aim is to get people in pubs and pints in people. https://camra.org.uk/ https://twitter.com/CAMRA_Official https://www.instagram.com/campaignforrealale/ https://www.facebook.com/campaignforrealale https://gbbf.org.uk/?fbclid=IwAR2NpliQPoXDJUDBCvhcuHoMEZe9zI2f7ij1WUH3QcX6bvLrJfH8Sv6OiTo https://linktr.ee/campaignforrealale https://www.youtube.com/@CAMRAOFFICIAL/featured
 
 
-
-
-
 **apartments**
-
-
 
 https://www.zoopla.co.uk/
 
@@ -7759,15 +7742,11 @@ https://www.openrent.co.uk/
 
 **gov**
 
-
-
 Tax calculator https://www.thesalarycalculator.co.uk/salary.php
-
-
 
 **visa**
 
-
+https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals
 
 https://t.me/philosopherssteamboat чат для артист талантов. у них и помощь с документами есть
 
