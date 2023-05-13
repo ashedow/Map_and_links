@@ -7724,9 +7724,7 @@ https://www.rightmove.co.uk/
 
 https://www.openrent.co.uk/
 
-
-
- находишь объявление на местном Циане, смотришь, что квартира доступна для сдачи сейчас (большинство квартир выставляется за месяц-три до дня сдачи)
+находишь объявление на местном Циане, смотришь, что квартира доступна для сдачи сейчас (большинство квартир выставляется за месяц-три до дня сдачи)
 
 звонишь агенту, договариваешься о встрече
 
@@ -7746,19 +7744,31 @@ Tax calculator https://www.thesalarycalculator.co.uk/salary.php
 
 **visa**
 
-https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals
-
 https://t.me/philosopherssteamboat чат для артист талантов. у них и помощь с документами есть
 
+https://42.goncharov.ai/l/uk-global-talent-visa-for-mortals
+
+ОТКАЗ? ПЛАН ДЕЙСТВИЙ:
+
+Посмотрите видео https://youtu.be/o-b303jaN20 
+
+Посмотрите видео https://www.youtube.com/watch?v=-p7kqTx5cNI 
+
+Найдите ошибки в своем кейсе, основываясь на этих материалах: 
+https://t.me/globaltalenthowto/7585
+https://t.me/globaltalenthowto/7587
+https://globaltalentvisauk.com/withagency
+
+Посмотрите примеры документов https://drive.google.com/drive/folders/1aTTUBuka0XkLoW7CzDWSSjN2IuiTmJPO
+
+Переделайте письма https://globaltalentvisauk.com/letters
+
+Переделайте и дополните эвиденс https://globaltalentvisauk.com/independetly
 
 
 ## Hull
 
-
-
 **to go**
-
-
 
 Artlink Hull
 
@@ -7770,8 +7780,6 @@ Artlink Hull
 
 ## London
 
-
-
 Лондон в Челси и Лондон в Кройдоне это два разных города с разными обитателями.
 
 Oi mate u got a loicense for ...?
@@ -7779,14 +7787,10 @@ Oi mate u got a loicense for ...?
 Not be earnest rule
 
 
-
 Выбор района для жизни – один из самых сложных моментов при переезде в Лондон. Необходимо учесть местоположение, среднюю арендную плату, уровень преступности. 
 
 
-
 **Районы Лондона по версии Zoopla**
-
-
 
 Доступные и безопасные районы Лондона: Bexley, Havering, Sutton, Enfield (средняя стоимость аренды квартиры-студии ~ £1,120; 1-2 комнатные квартиры ~ £2,200). 
 
@@ -7797,8 +7801,6 @@ Not be earnest rule
 
 
 Студенты и молодые пары предпочитают Camden, Shoreditch, Islington, Brixton (средняя стоимость аренды квартиры-студии ~ £1,250; 1-2 комнатные квартиры ~ £2,400). 
-
-
 
 ЖКХ
 
