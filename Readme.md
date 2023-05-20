@@ -96,6 +96,8 @@ fosdem.org - FOSDEM is a two-day event organised by volunteers to promote the wi
 
 https://events.linuxfoundation.org/
 
+https://www.ai-expo.net/northamerica/
+
 https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 
 
@@ -282,6 +284,8 @@ numbeo.com
 
 glassdor.com
 
+https://logocytes.substack.com/p/solving-immigration-with-zero-policy?sd=pf
+
 
 **gov**
 
@@ -411,11 +415,7 @@ agoda
 
 hotels.com works great too, but you might be overcharged. 
 
-
-
 **maps**
-
-
 
 Download some apps: "South Of Seoul" for TripAdvisor-like stuff and it has all kinds of stuff to do. 
 
@@ -423,29 +423,17 @@ Waze works for navigation
 
 Naver Maps - had great public transit routing. https://map.naver.com/
 
-
-
 **lang**
-
-
 
 Papagao -  best translator between Hangul and English.
 
 예약 - это расписание запуска и остановки котла
 
-
-
 **food**
-
-
 
 Mango Plate app
 
-
-
 корейские кафе не пускают поесть, если ты один -> все столики минимум на 4-х и все блюда рассчитаны на компанию. Ну либо ты доплачиваешь за 3 места и сидишь один
-
-
 
 just in case youre vegan
 
@@ -492,8 +480,6 @@ most online retailers like Coupang, Musinsa, etc. require a phone number linked 
 
 **transport**
 
-
-
 transit is EXTREMELY inconvenient in places outside big cities.
 
 
@@ -538,8 +524,6 @@ Dragon Hill Lodge in Yongsan. It's a nice western-style hotel put on by the DoD 
 
 **to go**
 
-
-
 War Memorial
 
 National Museum
@@ -582,8 +566,6 @@ Korea University
 
 **clubs**
 
-
-
 Yeah Aura is really bad. I don't get how it is so popular among koreans. All I'm seeing is people in suits spending hundreds on tables lmao
 
 From my memory most clubs in Hongdae have pretty small dance floors. It really depends how early you go there. B1 / A:tension / XX dance floors are also pretty small but still a lot of fun if you are into HipHop.
@@ -592,13 +574,7 @@ From my memory most clubs in Hongdae have pretty small dance floors. It really d
 
 "CakePop" got a pretty big dancefloor if you're into the music they are playing. Club is pretty new and got a cool design. I think it's where Cocoon was originally? NB2 floor is pretty big too if i remember correctly.
 
-
-
-
-
 На Итэвоне кругом одни бары и клубы, а там только алкоголь
-
-
 
 **food and drinks**
 
@@ -620,51 +596,29 @@ wangbijib  - kbbq
 
 Doma Hongdae - kbbq. it's extremely popular so make a reservation through Instagram. 
 
-
-
 춘자 - really good sushi place over by Korea university for dinner, there’s a  if you’re into that. is also really popular among students for snacks and drinking. There’s also a really popular Japanese place that always has lines, but it’s worth the wait.
-
-
-
-
 
 Greem cafe - https://instagram.com/greem_cafe
 
-
-
 The Bread Blue (near Sinchon Station) - vegan bakery
-
-
 
 24h
 
 This is all twenty four hour cafes I could find on their websites. There were a lot so I just wrote them as branch names, couldn't be specific.
 
 
-
 Ediya (mangwon station - don't open twenty four on Sundays)
 
-
-
 Tom n toms in Seoul, south part (Apgujeong, Apgujeong rodeo street, Nonhyeon, Nonhyeon 1st, Gangnam baroseum, Jamsil saenae, Bangi, Munjeong Rodeo, Seoul national university station, Nangok sageori, Sindorim, Mokdong, Gangseo district office)
-
-
 
 Seoul north part (DMC, Shichon rotary, Mapo dohwa, Seongkyunkwan university station, Janghanpyeong station, Janghan 1st, Gwangjin hwayang, Konkuk univ., Wangsimni centlas, Wangsimni station, Hanyang university station, Gongneung station, Changdong, Nowon)
 
 
-
 Tom n toms near Seoul (Taepyeong, Jeongja, Guri)
-
-
 
 Tom n toms black (Apgujeong, Cheongdam, 그레이트 (in Gui), Sangbong megabox)
 
-
-
 Egg tom tom (Yeoksam)
-
-
 
 Tom's covery (Cheongdam)
 
@@ -679,6 +633,13 @@ Hollys (Gangnam station 2nd, Sinelim sageori, Hongdae station exit 2, Noryangjin
 
 
 투썸 (Nowon cultural street)
+
+**anime**
+
+ANIME CLUB 부산 애니메클럽 https://maps.app.goo.gl/qiJBmXqyZq5L8tGF8?g_st=ic
+
+애니메이트 부산점 https://maps.app.goo.gl/Ww2ga9E8eZ7u2KtMA?g_st=ic
+
 
 
 
@@ -698,8 +659,6 @@ https://mo.twosome.co.kr/so/storeList.do?scope=all
 
 ## Пусан
 
-
-
 Ссылка в чат - https://t.me/c/1776072744/3802
 
 
@@ -718,6 +677,10 @@ Trip.com или чунар
 Лучше местную китайскую симку. По всему миру симки могут не работать
 
 Китайское приложение карт Amap строит пеший маршрут с учётом теней — можно пройти чуть дольше, но зато меньше на палящем солнце.
+
+**tips** 
+
+Типичные Китайские имена типа российского Иван Петрович Сначала фамилия потом имя. Li Si, Wang Wu, Zhang San
 
 
 # JP
@@ -10794,6 +10757,9 @@ bus
 
 **migration**
 
+https://youtube.com/@CanadaIn
+
+
 https://t.me/pinacanada
 
 При регистрации в Экспресс Энтри вам присваивается определенное количество баллов в зависимости от вашего возраста, образования, опыта работы, знания языков, вашего семейного положения и пр.
@@ -10987,12 +10953,17 @@ BnB Breakfast Bar - Классные коктейли, особенно днем
 Chekhoff - Просто крутейший бар, который навсегда в сердечке) топовые настойки! https://www.instagram.com/chekhoffs/
 
 
+# Bulgaria
+
+Болгарский рандом
+Мигрантов меньше Болгария к ним внимательно относиться
+Вышка - сильно упрощает переезд
+Ограничение на отправку писем в министерстве иностранных один раз в день
+Часть платить только болгарской картой
 
 
 
 # Черногория
-
-
 
 сборник мест и активностей в Черногории: vas3k.club/question/11210/
 
@@ -11002,15 +10973,9 @@ https://t.me/@montenegro_peters
 
 Maps.me – подробная офлайн-карта Черногории, очень пригодится для самостоятельного передвижения по стране, хороший плюс – наличие пеших маршрутов в горных районах, полезные метки от других путешественников.
 
-
-
 **shop**
 
-
-
 Delta City Podgorica – приложение самого большого торгового центра в стране, полный список магазинов и заведений.
-
-
 
 **food**
 
@@ -11018,33 +10983,17 @@ Delta City Podgorica – приложение самого большого то
 
 Donesi.me – сервис заказа еды на дом из местных кафе, доступен на сербском и английском языках. Также работает в Сербии, Боснии и Хорватии (только Загреб).
 
-
-
-
-
 **apartment**
-
-
 
 Booking – основной сервис по поиску и бронированию жилья, большой выбор, работает эффективнее Airbnb.
 
-
-
-
-
 **transport**
-
-
 
 Busticke4.me – сайт с расписанием автобусов, в том числе во многие страны Европы, можно купить билеты онлайн (есть русский язык).
 
 Zcg-prevoz.me – сайт с расписанием электричек от Бара до Белграда (Сербия), многие поезда видали лучшие времена, но окружающие пейзажи – потрясающие, участок дороги пролегает по самому высокому мосту в Европе (202 метра).
 
-
-
 **car**
-
-
 
 https://sitngo.me/ - rent a car. Район Бечичи-Будва
 
@@ -11064,9 +11013,9 @@ Klik Taxi – приложение для вызова такси различн
 
 
 
-Тиват
+## Тиват
 
-
+**taxi**
 
 Red Taxi +38267019729 и +38267254800
 
@@ -11093,9 +11042,9 @@ Euro taxi +382 691 19708
 BBQ Tanjga (E65) - Delicious and cozy place. Several tables inside, 6-7 tables in the yard under a canopy. Quickly and deliciously prepared. Great price. Free wi-fi. https://www.instagram.com/bbq_tanjga/
 
 
-
-
 ## Подгорица
+
+**taxi**
 
 +382 69 019706 - Lux Taxi
 
@@ -11115,11 +11064,9 @@ Naš Taxi:
 
 +382 67 019755 
 
+## Будва
 
-
-Будва
-
-
+**taxi**
 
 Hello Taxi: +38268019555
 
@@ -11145,17 +11092,17 @@ Gold Taxi: +38268019510
 
 
 
-Бар
+## Бар
 
-
+**taxi**
 
 Taxi Bar +38269034962
 
 
 
-Херцег Нови 
+## Херцег Нови 
 
-
+**taxi**
 
 Maestro +38267019530
 
@@ -11166,6 +11113,8 @@ Taxi More +38267019730 и +38267434134
 
 
 ## Ульцинь
+
+**taxi**
 
 Taxi Centrala +38267019910
 
@@ -12329,6 +12278,14 @@ Terroirs - Wine fest
 
 https://www.instagram.com/winestylemagazin/ - wine fest
 
+Есть только так https://www.instagram.com/zemunskisalonvina/  - wine fest
+
+https://winegarden.rs/ - wine fest
+
+https://instagram.com/wine.jam wine fest
+
+https://www.beofest.com/ burger fest
+
 Beogradski Noćni Market - https://www.instagram.com/belgradenightmarket/
 
 highload https://highload.rs/2023/
@@ -12356,7 +12313,6 @@ Menjačnica VIP Аэропорт, терминал 1, зона вылета. 15.
 Menjačnica Dunav Новый Белград, Булевар Михајла Пупина 5. 17.03.2022 курс был 0.98 динара за рубль.
 
 Бот который помогает находить выгодные курсы в менячницах https://t.me/serbia_exchange_rates
-
 
 
 **Med**
@@ -12400,7 +12356,15 @@ Planeta Sport Outlet (Ustanička 64a)
 
 **food services**
 
-Руска радња — селедка, чай, сгуха, хинкали, пельмени и прочие Đorđa Jovanovića 19, Beograd, Serbia https://goo.gl/maps/jA5UEYAQCydNGkh87 
+
+Руска радња (Đorđa Jovanovića 19) - селедка, чай, сгуха, хинкали, пельмени, коньяк «Арарат», семечки и глазированные сырки и прочие https://goo.gl/maps/jA5UEYAQCydNGkh87 
+
+TR Konfeta - Russian candy store (Golsvordijeva 33) - Сладости от белорусских и российских производителей, и насколько я знаю, морозилки здесь тоже наполняют пельменями. https://www.facebook.com/konfeta.rs 
+
+Sinko (Sloga 2, Palilula, Beograd Sime Igumanova 14, Borivoja Stevanovića 21) https://www.sinko.rs/
+
+instagram.com/ruspovar011/
+
 
 Bio Market (Svetogorska 18, Maršala Birjuzova 37) - best opton for asian/healthy/vegan http://www.biomarket.rs/ https://g.page/Biomarket-Svetogorska 
 
@@ -12419,7 +12383,19 @@ https://www.google.com/maps/place/Kaleni%C4%87eva,+Beograd+11000/@44.8005611,20.
 https://goo.gl/maps/dpws6MDx5Y3tza4C9 можете ориентироваться на галерею, сыр между галереей и французки институт на перекрестке Вот банка Интеза и туда дальше Синий флаг- это институт и как ра за перекрестке как туда подходить стоит деревянный домик с сырами
 
 
+https://www.gvint.rs/pivara/ brewery, taproom, tours https://www.instagram.com/gvint_pivara/ https://www.facebook.com/GvintPivara/
+
+
+Ракия в тюбиках 
+Rakia & co https://shop.rakiabar.com/ 
+Beogradski izlog https://www.kcb.org.rs/premises/beogradski-izlog/
+
+Возможно, будут здесь тоже https://goo.gl/maps/oLeHquFSoaxx5MPm7
+
+
 **service**
+
+Перевозчики всякого из es https://deprevoz.com
 
 https://maps.app.goo.gl/H24prXav2D3T6qma9 - индивидуальный пошив
 
@@ -12431,6 +12407,10 @@ https://www.instagram.com/ekri_design/
 https://www.instagram.com/kerefeke.rs/
 
 BC Group (Durmitorska 3) - Electronics store https://www.bcgroup-online.com/
+
+music
+
+4Audio (Uroša Martinovića 29) - http://www.4audio.rs/
 
 Sinđel (Dvadeset sedmog marta 21) - Tattoo and piercing shop
 
@@ -12452,23 +12432,19 @@ https://carobnaknjiga.rs/
 https://maps.app.goo.gl/rzm1TvnqavvTMVSd7 - cats
 
 
-https://www.gvint.rs/pivara/ brewery, taproom, tours https://www.instagram.com/gvint_pivara/ https://www.facebook.com/GvintPivara/
-
-
-Ракия в тюбиках 
-Rakia & co https://shop.rakiabar.com/ 
-Beogradski izlog https://www.kcb.org.rs/premises/beogradski-izlog/
-
-Возможно, будут здесь тоже https://goo.gl/maps/oLeHquFSoaxx5MPm7
-
-
 **parfum**
 
 https://t.me/parfbelgrade
 
 https://t.me/vive_le_parfum
 
-cosmetic
+Cocoparfemi.com - Сербский магазин оригинальной парфюмерии. сербис сербисом (приготовьтесь к интенсивной переписке по смс), но цены приятные. Какие-то штуки могут резко пропасть из наличия или появиться в другом милилитраже, в другой упаковке или комплектации, поэтому надо с ними плотно быть на связи. Могут принять заказ, подписать договор кровью, потом вернуться с инфой, что половины нет, половина будет тестером, половина приедет через месяц. Работают с несколькими поставщиками из Европы, смотря что у кого есть. Пробников не кладут, картой оплатить нельзя, только налом курьеру. По английски общаются сносно.
+
+Shop for the production of cosmetics and fragrances "Sava" (Kralja Petra 75) - https://pricesadusom.com
+
+DURŌ | Niche perfumery(Булевар Вудроа Вилсона 14) - https://www.parfimerija-duro.rs/
+
+**cosmetic**
 
 Alexandar Cosmetics - hair mostly
 
@@ -12549,6 +12525,11 @@ Lafayette (Karadjordjeva 2-4 Beton hala) - Кабаре https://lafayette.rs/mob
 Кинотека (Ул Узун Миркова 1) - Югославская кинотека в центре города, это место, где хранится ОГРОМНОЕ количество кино-плёнок. В архиве находится кино со всего мира. Часто проводятся кино-фестивали, фото-выставки и тематические показы. http://www.kinoteka.org.rs
 
 Penjački klub Granit (Takovska 41) - Rock climbing gym http://www.penjackiklub.rs/
+
+Veštačka Stena https://goo.gl/maps/4UwE6983xP5MXtgv6
+
+Stena za penjanje https://goo.gl/maps/zjzazBDUfZk2ma2r8
+
 
 [Союз альпинистов Сербии](https://pss.rs/planinarski-objekti-i-tereni/tereni/?tip=planinarski-putevi) - список пешеходных маршрутов, на Сербском
 
@@ -12646,6 +12627,8 @@ Chillton (Katanićeva 7 на последний этаж туда где шум�
 
 Bitters Bar (Kapetan-Mišina 16) - nice Cocktail bar, but the whole place is very small.
 
+null.sociallab - https://instagram.com/null.sociallab cocktail bar by SPB/Ns bartenders, who knows by 1.1/2 room bar and nobody knows I suppose 
+
 
 **beer**
 
@@ -12697,11 +12680,15 @@ Chopper на сараевской - Там красиво, годная музы
 
 THE BLACK TURTLE BREWERY https://theblackturtle.com/home/
 
-The Black Turtle Pub II – Kosančićev venac 30
+The Black Turtle Pub II (Kosančićev venac 30)
 
-Bistro Klemanso – Svetogorska 14
+Bistro Klemanso (Svetogorska 14)
 
-Baš.ta – Cetinjska 15
+Baš.ta (Cetinjska 15)
+
+Gradska Pivnica Terazije (Terazije 28) - пиво и колбасицы https://www.gpterazije.rs/
+
+Beogradski Manijak (Sremska 2) - pub если близок по духу панк-рок https://www.facebook.com/BeogradskiManijak
 
 
 **wine**
@@ -12755,13 +12742,13 @@ https://www.instagram.com/twogreedybalkanians/
 
 https://www.instagram.com/berliner_restoran/
 
-birds (Strahinjića Bana 1) - аккуратное красивое место. Русскоязычный персонал.Типа грузинская. Периодически есть трубочки и орешки с вареной сгущенкой и сырками. Вкусно. https://www.instagram.com/birds.beograd/
 
 Jam bistro - ланчи и коктейли 
 
 https://www.instagram.com/koordinatastreet/
 
-tt bistro (Cara Uroša 19) - недалеко от tt eatery есть чебуреки и коктейли https://www.instagram.com/tt_bistro/
+tt bistro (Cara Uroša 19) - недалеко от tt eatery есть чебуреки и коктейли пельмени coffee | food | wines | oysters | seasonal products https://www.instagram.com/tt_bistro/
+
 
 tt eatery (Visokog Stevana 31) - русская кухня солянка как ресторанчик  https://www.instagram.com/tt__eatery/ https://www.opentable.co.uk/r/tt-eatery-beograd?shareReferrer=ios-share
 
@@ -12806,6 +12793,9 @@ Cetinjska 15 - Ресторан с огромными порциями
 
 Mali Dorćol (Vojvode Dobrnjca 34) - Lunch restaurant отличный гуляш и бычьи хвосты
 
+Gradska Pivnica Terazije (Terazije 28) - пиво и колбасицы https://www.gpterazije.rs/
+
+O.U.R. Pub (Beogradska 71) - колбасицы и пиво https://www.facebook.com/our.pub.bg/
 
 Iva New Balkan Cuisine (Kneginje Ljubice 11) - бронировать и из гайда мишлен клеве завтраки https://newbalkancuisine.com/
 
@@ -12821,6 +12811,8 @@ BOEMBAR food & drinks (Skadarska 40B) - child room, no smoke http://www.boembar.
 
 Smokvica (Molerova 33) - restaurant and market, https://smokvica.rs/en/smokvica-molerova-2/ at the same time its like full HoReCa company, which catering, hotels, restaurant ... https://smokvica.rs/
 
+Павле Корчагин (Ćirila i Metodija 2а) - kafana http://www.kafanapavlekorcagin.rs/
+
 Baltazar (Makenzijeva 78a) - что-то среднее между ларьком с шавермой и пабом http://baltazargrill.rs/
 
 Ognjište (Trg Nikole Pašića 8) - local restaurant kafana with cash only, short operating hours, absolutely no English. Everything is sold by weight. food better than many of the highly rated touristic restaurants. https://www.facebook.com/namineksognjiste/
@@ -12829,19 +12821,33 @@ Lovac (Alekse Nenadovića 19) - здесь много всего вкусног�
 
 Holy Smokes - Texas Style BBQ (Cetinjska 15a) - good barbecue restaurant http://holysmokes.meni.rs/
 
+Milky palačinkarnica (Kneginje Ljubice 20) -  American style pancakes milky.rs
+
+Траттория Пепе паста с кониной
+
 Potkovica - для любителей конины
+
+
+ferdinandknedle - street food. knedle with sweets and salads https://www.ferdinandknedle.com/ https://www.instagram.com/ferdinandknedle/
 
 Duke (Čika Ljubina 9) - ресторан на крыше малоэтажки в самом центре Белграда Вкусная еда, необычные коктейли, фотогенично https://www.instagram.com/duke_restaurant_belgrade/
 
-Red Bread (Obilićev venac 22) - https://redbread.rs/ вкусненько
+Red Bread (Obilićev venac 22) - https://redbread.rs/ вкусненько Завтраки, вегетарианская еда, смути и шейки
+
 
 TRPEZARIJA - Salad Bar (Kraljice Marije 10) - great selection of salads, also some pasta and wraps, and prices are fair. http://trpezarija.rs/
 
 Lorenzo & Kakalamba - Ресторан с необычным интерьером
 
+birds (Strahinjića Bana 1) - аккуратное красивое место. Русскоязычный персонал.Типа грузинская. Периодически есть трубочки и орешки с вареной сгущенкой и сырками. Вкусно. https://www.instagram.com/birds.beograd/
+
+
 Endorfin в Дорчоле. Качественные вина, коктейли, крафтовые пива и *изысканная* кухня. no smoking place https://maps.app.goo.gl/pMo48HfzwEvP45FA9?g_st=ic
 
-Gost (Адрес: Maršala Birjuzova 3-5) - грузинский ресторан https://www.instagram.com/cafe_gost
+Gost (Адрес: Maršala Birjuzova 3-5) - Georgian готовые хинкали и прочая грузинская кухня https://www.instagram.com/cafe_gost http://restorangost.rs/ 
+
+
+Stories (Pjarona De Mondezira 28) - delicious Georgian food. Taste khinkali, qutabs, carrot cake and other cakes and sweets, soups, gazpacho with octopus. https://www.instagram.com/stories.beograd
 
 
 [Burger House Bros](Kralja Petra 10 / Mileševska 65) - chain. Ресторан со вкусными бургерами. http://www.burgerhouse.rs/ https://burgerhousebros.com/ 
@@ -12858,9 +12864,6 @@ Babaroga Steakhouse (Severni bulevar 2) - Great food and service. Есть то�
 
 Steak & Pizza Restoran Dimitrije (Mileševska 39) - maybe overpriced a little. Good food and service http://restorandimitrije.rs/
 
-
-cafe gost (Maršala Birjuzova 3-5) - https://www.instagram.com/cafe_gost/ http://restorangost.rs/ готовые хинкали и прочая грузинская кухня
-
 djordjija () - https://djordjija.rs/ https://www.instagram.com/restoran_djordjija/
 
 Yalla Yalla (Makedonska 11) - A small cafe with Lebanese food, fashionable to take away or to eat inside ( only a few tables and no hooks for bags). nice design. staff nice and friendly. 
@@ -12872,7 +12875,6 @@ https://www.instagram.com/urkitchen.beograd/ пельмени
 
 Mr. Keh (Гаврила Принципа 6) - пельмени, пицца, гирос фастфуд
 
-TT Bistro Belgrade - https://www.instagram.com/tt_bistro/ - пельмени coffee | food | wines | oysters | seasonal products
 
 Restoran Red Queen Belgrade () - https://rqbelgrade.rs/en/ https://www.instagram.com/rqbelgrade/ пельмени International dishes, wine,Korporativne proslave▪, Live music
 
@@ -12886,7 +12888,6 @@ Marenda (Skerlićeva 30) - good for breakfast marenda.rs
 
 
 Lorenzo & Kakalamba -  необычное заведение . Владельцы ресторана решили сделать ставку на ядерное сочетание всего: флорентийской и пиротской кухонь, китча и садо-мазо в интерьере, безупречности и чудоковатости обслуживания. Танцующий Ленин, попообразные стулья, картины Ботеро, Санта Клаус с газетой на унитазе, стеклянный пол, под которым кухня и виден процесс приготовления блюд и бессчетное множество других приковывающих внимание деталей. Это не ресторан, а какой-то аттракцион. https://lk.rs/en
-
 
 
 Ботако (Nevesinjska 6) - italian food. Ресторанчик не большой, обязательна резервация https://pizzabotako.rs/sr_Latn/ 
@@ -12915,6 +12916,7 @@ pizza botako (Šantićeva 8) - reach pizza, nice place. https://pizzabotako.rs
 Toronto Pizza & Bakery (Cara Dušana 10) -  cheap pizza streetfood 
 
 Giovanni's Pizzeria (Nikole Spasića 3) -  nice Pizza restaurant
+
 
 
 Restoran ISTOK (Gospodar-Jevremova 50) - Vietnamese restaurant. Pricier, but great Pho, pasta and other. Good vege option. http://istokrestoran.com/
@@ -12983,6 +12985,7 @@ Miamiam Restaurant & Catering (Kursulina 39) - nice indian rest https://www.face
 
 Zapata Ciudad (Vuka Karadžića 14) - Mexican restaurant http://www.zapatabeograd.rs/
 
+Restaurant Nachos (Strahinjića Bana 66a) - Mexican restaurant https://nachos.rs/
 
 
 Kokos (Nušićeva 7a) - vegan place. Probubly the tasties one
@@ -12992,9 +12995,6 @@ jazzayoga - vegan coffee bar
 dumbir/Đumbir (Svetozara Markovića 36) - superfood bar vegan place
 
 ahimsa (Kneginje Zorke 71) - vegan streetfood https://ahimsavegayoga.rs/
-
-Red bread  - Обиличев венац. Завтраки, вегетарианская еда, смути и шейки https://maps.app.goo.gl/ECoV5sgRqskAPLJm9?g_st=ic
-
 
 
 Bloom - в Дорчоле.каши и завтраки. no smoking place https://maps.app.goo.gl/v35yVuAj6yw3vmNf7?g_st=ic
@@ -13089,6 +13089,30 @@ Black sugar (Topličin Venac 7) - Taiwan bubble tea, coffee https://blvcksugar.c
 
 Hi bubble tea 嗨茶 (Čika-Ljubina 7) - ok bubble tea
 
+**Matcha**
+
+В Artist Specialty Coffee на кокосовом молоке https://maps.app.goo.gl/BezhypXk4Bb7n5Gb7
+
+Bloom
+065 3262295
+https://maps.app.goo.gl/tB44R91pGdqgPaHd7?g_st=ic 
+
+Wagokoro-Japanese mochi dessert and drinks-
+063 367427
+https://maps.app.goo.gl/9C2Gt6n1YkgEtxXM7?g_st=ic
+
+Starbucks Rajićeva
+064 8730106
+https://maps.app.goo.gl/5x5CkjJN6RgHQM9H7?g_st=ic 
+
+Sweetea 甜茶
+011 4075564
+https://maps.app.goo.gl/YLE9wpaAzbJ8xdUG7?g_st=ic 
+
+в poppy coffee family 
+еще есть точка на Краля Петра 82
+а также неплохая в KOKOS
+
 
 **Jazz places**
 
@@ -13115,14 +13139,6 @@ Pečenjara Baralić (Miše Vujića 2) - Meat products store
 Hungarikum centar (Novopazarska 32-34) - market with good products from Hungary, but, the staff does not inovate the prices on the products, thats why the consumers are not sure what are the real price of some products. Meanwile reasonable prices https://www.hungarikumcentar.rs/
 
 Top Cut (Svetogorska 33) - магазин полностью посвященный новому году и рождеству. Дорохо, но поглазеть и выпить глинтвейн - ок. 
-
-ru/ukr 
-
-No name магазин за рынком Байлони Руска радња ( Ђорђа Јовановића 19) - От черного чая и селедки до сгущенки, коньяка «Арарат», семечек и глазированных сырков
-
-Конфета, Врачар (Голсвордијева 33) - Сладости от белорусских и российских производителей, и насколько я знаю, морозилки здесь тоже наполняют пельменями. https://www.facebook.com/konfeta.rs 
-
-instagram.com/ruspovar011/
 
 asian
 
@@ -13227,6 +13243,10 @@ Tattoo house BGD (Sinđelićeva 22) - Tattoo & piercing studio & shop  http://ww
 
 Dragon’s Nest Tattoo Studio (Hadži-Đerina 17) - https://deki-ink.com/ https://www.instagram.com/deki_ink/ https://www.facebook.com/profile.php?id=1176530092
 
+
+## Zrenjanin Зрењанин
+
+Beer Museum / Muzej piva (Vojvode Petra Bojovića) - The Beer Museum is open to all visitors on weekdays from 8 a.m. to 2 p.m. It doesn't work on weekends.
 
 
 ## Smederevo/
