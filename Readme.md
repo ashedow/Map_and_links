@@ -9935,7 +9935,7 @@ Szimpla Kert - food market
 
 
 
-# Сингапур
+# Singapore/Сингапур
 
 
 
@@ -9946,96 +9946,100 @@ Szimpla Kert - food market
 - AgodaAirBnB официально вне закона ¯_(ツ)_/¯
 
 2. Жильё надолго:
-
-- PropertyGuru
-
-- 99.co
-
-
+* PropertyGuru
+* 99.co
 
 **food**
 
-
-
 Поесть дома:
 
-- Доставка готовой еды:
+Доставка готовой еды:
+* FoodPanda
+* Grab Food
+* Deliveroo
 
-	- FoodPanda
-
-	- Grab Food
-
-	- Deliveroo
-
-- Доставка продуктов:
-
-	- Amazon Prime
-
-	- Lazada Redmart
-
-
+Доставка продуктов:
+* Amazon Prime
+* Lazada Redmart
 
 **job**
 
-
-
-- LinkedIn без особых альтернатив
-
-
+LinkedIn без особых альтернатив
 
 **maps**
-
-
 
 - Google maps
 
 - Waze
 
-
-
 **transport**
 
+**Public Transportation**
 
+Public transportation in Singapore is extensive, covering all areas of the city. In fact, it is recommended that you take air-conditioned public transport because walking around, especially in the humid summer months, can be uncomfortable.
 
-- Citymapper (показывает время прихода автобуса с хорошей точностью)
+Helpful apps to navigate around Singapore 
+* CityMapper
+* GoThere.sg
+* Google Maps.
 
-- Google maps
+Singapore transportation is known to be efficient. It is, after all, a small nation; you can get from Changi Airport in the east to Jurong bird park in the west in around half an hour by car.
+
+Expats enjoy this efficient and easy-to-understand system because it takes very little time to adjust to it. Unlike in huge cities, you can understand the city-state’s layout and ride public transport like a local in very little time.
+
+Commuters should note that public transport can become very busy during rush hour: between 07:00 and 10:00.
+
+Expats in Singapore can purchase an *EZ-Link* Card. This contactless stored value card costs 10 SGD (7 USD) when purchased from a 7-Eleven store. It comes with 5 SGD (4 USD) pre-paid and can be topped up via an app or at 7-Eleven stores and TransitLink ticket offices.
+
+It works across the transport system, including many taxi services. The card can also be used as payment in certain shops and restaurants across the city.
+
+**MRT**
+
+The Mass Rapid Transit (MRT) system has six lines and operates from 05:30 to 00:00 (later on holidays). Trains usually arrive every 2-3 minutes between 07:00 and 09:00, and every 5-7 minutes for the rest of the day.
+
+Price (single trip): 1.40 to 2.50 SGD (1 to 2 USD)
+
+**Buses**
+
+Buses have extensive routes. They run between 05:30 am and 00:00 am and arrive every 5-30 minutes. Night buses are also available along some routes until 02:00.
+
+Price is based on the distance traveled. It will generally be between 0.42 to 1.05 SGD (0.30 to 0.75 USD).
+
+**Trains**
+
+Apart from the MRT, there is no railway network around the city. Only a short section of railway connects Singapore to the Malaysian rail network. Two more international stations are planned.
 
 Платить можно просто через Apple/Google Pay либо купив карточку EZ Link. У этой карточки можно настроить автопополнение.
 
+**taxi**
+
+Singapore has both local taxis and ride-sharing apps. Designated taxi ranks are available around the city. These are the only places where taxis are permitted to stop, although it is possible to flag one down.
+
+Popular ride-sharing and ride-hailing apps include:
+* Grab
+* Gojek
+* Ryde
+* Uber does not operate in Singapore.
+
+Price varies based on the time of day. Keep in mind that local taxis may be subject to different surcharges. Ride-hailing app taxis are generally cheaper. Expect to pay around 10 SGD (7 USD) for a 10 km journey before surcharges.
 
 
-Такси как альтернатива общественному транспорту достаточно дешёвое, можно просто поймать на улице. Принимают оплату картами, всегда ездят по счётчику (им по закому запрещено обманывать клиентов, за это серьёзные штрафы).
+**rent car**
 
-Приложения такси:
+It is possible for foreigners to rent a car in Singapore. International car rental companies found in the city-state include:
 
-- Grab
-
-- GoJek
-
-
-
-Личный транспорт:
-
-- BlueSG- маленькие электрокары, есть абонентская плата $8/мес. Много машин.
-
-- GetGo- более новый каршеринг, меньше машин зато без помесячной платы.
-
-
+* AVIS
+* Europcar
+* Hertz
+* BlueSG - маленькие электрокары, есть абонентская плата $8/мес. Много машин.
+* GetGo - более новый каршеринг, меньше машин зато без помесячной платы.
 
 **store**
 
-
-
-- Lazada- местный амазон, купить можно вообще всё, у многих брендов есть там официальные магазины.
-
-- Shopee- конкурент лазады, я один раз пытался купить там велосипед и наткнулся на какого-то мошенника (впервые в Сингапуре), больше ничего не покупал.
-
-
+* Lazada- местный амазон, купить можно вообще всё, у многих брендов есть там официальные магазины.
+* Shopee- конкурент лазады, я один раз пытался купить там велосипед и наткнулся на какого-то мошенника (впервые в Сингапуре), больше ничего не покупал.
 
 **med**
-
-
 
 Главное правило: имейте страховку. Без страховки медицина ОЧЕНЬ дорогая. Пример: недавно муж одной местной блоггерши порезался и ему зашили руку в emergency за 15,000 USD.
 
@@ -10043,27 +10047,54 @@ Szimpla Kert - food market
 
 Про ковид: правила пока что достаточно жёсткие: все носят маски везде (даже на улице в +33), нельзя собираться группами больше 5 человек.
 
-10. Сервис частных объявлений:
+**Emergency Numbers**
+
+Police 999 Police  SMS  (if unable to call) 71999 Police Hotline 1800 255 0000 Fire 995 Ambulance  (Public) 995 Non-Emergency Ambulance  (Public) 1777 City Gas (leakages and disruptions) 1800 752 1800
+
+**Сервис частных объявлений:**
 
 Carousell
 
 
 
-11. Информация:
+**Notes**
 
 Если нужно перевезти вещи:
 
+* Gogo van
+* LalaMove
+
+**Сервисы рекомендаций:**
+
+* Yelp
 
 
-- Gogo van
 
-- LalaMove
+**Public Holidays**
 
-12. Сервисы рекомендаций:
+Singapore is incredibly diverse and strives to be inclusive and tolerant. Holidays from multiple faiths are celebrated.
 
-- Yelp
+If a holiday falls on a Sunday, then the public holiday will be observed on a  Monday.
+
+The main public holidays are:
+
+New  Years  Day January 1 Chinese New Year January/February (dates vary) Good Friday March/April (dates vary) Labor Day May 1 Vesak Day Usually May (dates vary) Hari Raya  Puasa End of Ramadan (dates vary) Hari Raya Haji 70 days after Ramadan (dates vary) National Day August 9 Deepavali Mid-October to mid-November (dates vary) Christmas Day December 25
 
 
+
+* Singapore is relatively conservative when it comes to public displays of affection (PDA). However, PDA is most often met with stares or confusion, rather than violence.
+* You should seek approval from the Ministry of Manpower before giving a talk on racial, religious, or political topics.
+* It is illegal to drink alcohol in public places from 22:30 to 07:00 (and all day on weekends) in designated areas and Liquor Control Zones. If you are caught being drunk and disorderly, you can face a fine of up to 5,000 SGD (3,600 USD), up to 15 years’ imprisonment, or even caning.
+* Drugs are illegal in Singapore, with severe penalties for offences. Possession of even very small quantities can lead to imprisonment, caning, or possibly the death penalty.
+* LGBT. It is currently illegal for men to engage in homosexual acts in Singapore. This is punishable with a prison sentence of up to two years. This law does not apply to women. Though the government has stated that they will not proactively enforce this law, it is a factor in Singapore being considered an unfriendly place for expat members of the LGBT community.
+
+**Tips**
+
+* Speaking loudly can be seen as being rude, as is maintaining eye contact for too long.
+* People may avoid answering a question with “no.” If someone hesitates or seems to give you an indirect answer, they might be trying to refuse your offer without offending you.
+* Pointing with just your index finger is impolite. Use your whole hand or head to gesture.
+* It is disrespectful to touch someone’s head.
+* It is respectful to remove your shoes when entering into someone’s home.
 
 **bar**
 
