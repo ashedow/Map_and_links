@@ -8398,6 +8398,35 @@ immobilienscout24.de - https://twitter.com/r0mko/status/1600976313866940416?s=52
 Deutschlandticket https://jonworth.eu/explaining-complexity-in-my-usual-way-with-a-diagram-this-time-deutschlandticket/
 
 
+**service**
+
+Geizhals – https://geizhals.de/ Поиск самых низких цен в базе интернет-магазинов. Также можно настроить оповещение о снижении цены на конкретный товар. Аналог: idealo.de.
+
+Nora – Приложение для вызова экстренных служб (полиция, скорая помощь, пожарная охрана). Главный плюс приложения - нет необходимости разговаривать по телефону, как при звонке на 110 или 112. Особенно полезно для тех, кто не уверен в своём немецком языке. https://www.nora-notruf.de/en-en/startpage
+
+Mundraub – Карта общедоступных мест для сбора трав, фруктов и овощей. Возможно, вы удивитесь, как много всего растёт вокруг вас, даже если вы живёте в городе. https://mundraub.org/map#z=7&lat=50.91&lng=11.56
+
+Briefankündigung – Если у вас есть почта на Gmx.de (или Web.de), можно подключить опцию Briefankündigung от Deutsche Post. Это позволит получать скан передней части отправленного вам конверта еще до того, как письмо попадет в ваш почтовый ящик по месту проживания (3 скана в месяц – бесплатно). https://www.deutschepost.de/de/b/briefankuendigung.html
+Также в приложение DeutschePost бесплатно и без ограничений
+
+#Porto – Услуга в приложении Deutsche Post позволяет покупать марки онлайн и просто писать код в углу конверта. https://www.deutschepost.de/de/m/mobile-briefmarke.html
+
+Mitvergnuegen и Rausgegangen – Афиши мероприятий (концерты, выставки, фестивали), а также статьи с подборками локальных мест для жителей Берлина, Мюнхена, Гамбурга, Кёльна, Дортмунда и Дюссельдорфа. https://mitvergnuegen.com/ https://rausgegangen.de/
+
+Omio – Сервис поиска оптимального перемещения общественным транспортом между городами (поезда, автобусы, самолеты). https://www.omio.com/
+
+BuchschrankFinder – Android-приложение с картой для поиска публичных шкафов для обмена книгами. https://play.google.com/store/apps/details?id=de.aditu.buchschrank&hl=de
+
+Komoot – Это платформа планирования и поиска маршрутов для хайкинга, велосипедных поездок и других активностей на свежем воздухе. https://www.komoot.com/
+
+TooGoodToGo – Приложение для покупки остатков продовольствия и блюд у ресторанов и продовольственных магазинов по минимальным ценам. https://www.toogoodtogo.com/
+
+Onleihe – онлайн-библиотека Гёте-института с современной литературой. Легальный способ читать бесплатно свежую прессу, журналы и популярные книги на немецком. https://www.divibib.com/informationen-fuer-nutzerinnen/c-1819
+
+Nebenan – платформа для общения с соседями, (есть приложение или на сайте), чтобы зарегаться нужно получить код по почте, так проверят, что ты действительно живешь в указанном районе. Отличный пример комьюинити добрососедства. https://nebenan.de/
+
+Check24 – Чтобы регулярно менять провайдеров и выбивать из них условия получше https://www.check24.de/
+
 
 ## Berlin
 
@@ -9350,6 +9379,9 @@ kräftskiva (crayfish party) Праздник середины лета
 Самые известные забеги не только для спортсменов: полуночный забег (midnattsloppet) и color run
 
 Неделя, когда всё население столицы перемещается на Готланд называется stockholmsveckan — неделя Стокгольма.
+
+
+Swedish sex federation (SSF) organiserar, utbildar, tilldelar certifikat och stipendier mm. till aktiva medlemmar som tränar och tävlar i sex. https://www.swedishsexfederation.com/
 
 
 
@@ -12852,6 +12884,10 @@ Old Hercegovina (Carigradska 36) - http://www.stara-hercegovina.rs/kontakt/ http
 [Kod Relje](geo:44.803994089347505,20.455163116351848) - Сарајевска 22. Маленькая поедальня на буквально три столика. Предлагают сараевские чевапы и плескавицы, то есть без свинины. Чевапы в тонкой лепешке, куда можно добавить лук, молотого острого перца и каймака. Перчик действительно острый! [Сайт](https://kodrelje.rs/)
 
 Жућа (Venizelosova 23) - nice serbian fast food
+
+Tchevapliya (Ilije Garašanina 7) -  all dishes tasty. Nice casual restaurant  http://www.cevaplija.rs/
+
+Prava Pljeskavica (Takovska https://goo.gl/maps/Bir3tdA8knuzJ7NJ8) - The service is fine and the pljeskavica is one of the better one in Belgrade.
 
 Znak Pitanja/Question Mark (Kralja Petra 6) - homemade coffe and nice food http://www.znakpitanja.rs/
 
