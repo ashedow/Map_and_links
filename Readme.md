@@ -13119,6 +13119,9 @@ Everywhere italy style coffee
 
 D59B (Kralja Petra, 70) - Когда-то «Пржионица» и D59B были одним целым, но что-то пошло не так, и они разъехались. Помещение маленькое, два этажа, интерьер «ничего лишнего». В ассортименте так же минимализм: основные способы заварки кофе плюс пиво в холодильнике. Иногда здесь играют диджеи и ведутся стриминги, ведь у кофейни есть собственное радио https://www.radio.d59b.com/ . По вечерам собирается модная тусовка. Определенно, моё любимое кофейное место в городе.
 
+DRIP (Gospodar-Jevremova 46a) - DRIP Specialty Coffee https://instagram.com/dripbelgrade
+
+
 Кофилин (Cara Dušana 29) - coffee and pleasant staff. Besides the classica, they have many coffee specialities, cakes and even Russian cheese pancakes (syrniki). The place inside is tiny, there is one table, but cozy.  https://www.instagram.com/kofilin.beograd/
 
 La Casa De Caffe (Bulevar Vudroa Vilsona 8) - Really nice cafeteria. One of the best coffee. + cocktails like coffee+gin+tonic. http://lacasadecaffe.rs/
