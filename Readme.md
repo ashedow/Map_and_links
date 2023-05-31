@@ -56,6 +56,36 @@ https://flightaware.com/
 
 Карта с авторскими блогами о жизни эмигрантов https://www.google.com/maps/d/u/0/viewer?hl=en&ll=39.81224131501931%2C56.09040536888404&z=3&fbclid=IwAR0aFFQceaUMimrGJALeM1Du9RB1qa0P5JvSkX94BF4-vn2NcUdkmlcGYUA&mid=1JGjMQmg_xNK4aInGlgXgb_ppBwfq8yng
 
+**sim**
+
+They can charge extras if you use the phone less in the operator's country than in the roaming: https://digital-strategy.ec.europa.eu/en/faqs/roaming-questions-answers
+
+
+https://www.super.ee
+
+**internet**
+
+https://drimsim.com/en - esim, 5g, cost depends on location. all of the setinng in app
+
+https://birka.uk/esim/ - DreamSim's analogue.
+
+https://unisim.net/prices/ - another analogue of DreamSim, but quite expensive.
+
+https://mobimatter.com/ - Mobimatter is a digital channel for telecom services, enabling consumers to find and buy the best mobile offers through their favorite e-commerce platforms. No calls, internet only. cashback system. sometime cheaper than Airalo.  promo DJVAG66440
+
+https://www.airalo.com/ - Airalo the most popular one esim aggr. really nice app cashback system. Promo code ALEXAN6942
+
+https://etravelsim.com/ - there are even 100GB plans here.
+
+https://www.airhubapp.com/ - there are plans with unlimited traffic and seemingly reasonable prices.
+
+A good aggregator of different offers https://esimdb.com/.
+
+**call**
+
+https://www.openphone.com/- ref code https://www.openphone.com/referral/jWCqnAz
+
+ https://hushed.com/ - seems cheaper than openphone
 
 **festivals, competitions, and links for the services**
 
