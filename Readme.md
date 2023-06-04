@@ -320,6 +320,8 @@ https://logocytes.substack.com/p/solving-immigration-with-zero-policy?sd=pf
 
 t.me/@g_jobbot
 
+https://layoffs.fyi/ - в целом тут видно, где увольняют больше всего
+
 
 **gov**
 
@@ -12427,6 +12429,9 @@ Beogradski Noćni Market - https://www.instagram.com/belgradenightmarket/
 
 highload https://highload.rs/2023/
 
+https://nocnibazar.rs/
+
+
 
 **gov**
 
@@ -12470,6 +12475,7 @@ OrtoDent (Njegoševa 42) - cash only https://snimanjezubavracar.rs/
 
 Roorto 3d Digital (Bulevar Oslobođenja 63) - https://www.snimanjezuba.co.rs/
 
+Клиника проверка и коррекция зрения https://maps.app.goo.gl/7xMxNgT2wGrdcyWp8?g_st=it
 
 **pets**
 
