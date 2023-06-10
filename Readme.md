@@ -12423,6 +12423,11 @@ https://winegarden.rs/ - wine fest
 
 https://instagram.com/wine.jam wine fest
 
+Bar show https://instagram.com/belgradebarshow
+
+Džin Vik Fest https://www.instagram.com/dzin_vik_fest/  Gin Festival
+
+
 https://www.beofest.com/ burger fest
 
 Beogradski Noćni Market - https://www.instagram.com/belgradenightmarket/
@@ -12455,6 +12460,10 @@ Menjačnica VIP Аэропорт, терминал 1, зона вылета. 15.
 Menjačnica Dunav Новый Белград, Булевар Михајла Пупина 5. 17.03.2022 курс был 0.98 динара за рубль.
 
 Бот который помогает находить выгодные курсы в менячницах https://t.me/serbia_exchange_rates
+
+https://serbiarus.com/money_exchange/?city=%D0%91%D0%B5%D0%BB%D0%B3%D1%80%D0%B0%D0%B4
+
+https://nbs.rs/en/indeks/
 
 
 **Med**
@@ -12537,6 +12546,7 @@ Beogradski izlog https://www.kcb.org.rs/premises/beogradski-izlog/
 
 DAMAR TARTUFI (Zetska 2) - large selection of truffle products: soy sauce with white truffle, truffle sauce, truffles and olives, honey with truffles... 
 
+vinotekabeograd.com vine shop
 
 **service**
 
@@ -12552,6 +12562,9 @@ https://www.instagram.com/ekri_design/
 https://www.instagram.com/kerefeke.rs/
 
 BC Group (Durmitorska 3) - Electronics store https://www.bcgroup-online.com/
+
+BE SHARP - Japanese knife shop (Požeška 150A) - Japanski nozevi. Well curated selection of japanese knifes for any purpose and budget. https://www.instagram.com/_be_sharp/
+
 
 **music**
 
@@ -12588,6 +12601,10 @@ Cocoparfemi.com - Сербский магазин оригинальной па�
 Shop for the production of cosmetics and fragrances "Sava" (Kralja Petra 75) - https://pricesadusom.com
 
 DURŌ | Niche perfumery(Булевар Вудроа Вилсона 14) - https://www.parfimerija-duro.rs/
+
+Metropoliten - http://www.metropoliten.rs/
+
+belodore.rs
 
 **cosmetic**
 
@@ -12671,10 +12688,11 @@ Lafayette (Karadjordjeva 2-4 Beton hala) - Кабаре https://lafayette.rs/mob
 
 Penjački klub Granit (Takovska 41) - Rock climbing gym http://www.penjackiklub.rs/
 
+Penjački centar Sektor44 (Garaža u, Nehruova 51b) https://www.sektor44.com/
+
 Veštačka Stena https://goo.gl/maps/4UwE6983xP5MXtgv6
 
 Stena za penjanje https://goo.gl/maps/zjzazBDUfZk2ma2r8
-
 
 [Союз альпинистов Сербии](https://pss.rs/planinarski-objekti-i-tereni/tereni/?tip=planinarski-putevi) - список пешеходных маршрутов, на Сербском
 
@@ -12727,10 +12745,6 @@ TODO https://www.aviasales.ru/guides?ll=44.83272138133745%2C20.44435795599145&pa
 https://www.zla-zla.com/ - tabako
 
 https://www.idealno.rs/L3/1704/namestaj/dnevne-sobe/taburei-vrece-za-sedenje - bean bag
-
-Bar show https://instagram.com/belgradebarshow
-
-https://www.instagram.com/dzin_vik_fest/ Džin Vik Fest Gin Festival
 
 KC GRAD (Braće Krsmanović 4) https://www.kcgrad.rs/
 
@@ -12787,6 +12801,8 @@ World travellers club - affordable drink
 Chillton (Katanićeva 7 на последний этаж туда где шумно) - Бар-клуб в большой квартире старого дома недалеко от храма Святого Саввы. Атмосфера домашней вечеринки, всё очень мило и дружелюбно. Есть комната с бильярдом. К тому же здесь одни из самых низких в городе цен на напитки. До бара здесь был хостел, от него осталось название и кое-какие элементы интерьера: карты на стенах, крючки для ключей, сейфы. Место без вывески, и найти его с первого раза может оказаться проблематично. 
 
 Bitters Bar (Kapetan-Mišina 16) - nice Cocktail bar, but the whole place is very small.
+
+Hanky Panky (Kapetan Mišina 2) - cocktail bar https://www.instagram.com/hanky.panky.belgrade/
 
 null.sociallab - https://instagram.com/null.sociallab cocktail bar by SPB/Ns bartenders, who knows by 1.1/2 room bar and nobody knows I suppose 
 
@@ -12948,7 +12964,7 @@ Old Hercegovina (Carigradska 36) - http://www.stara-hercegovina.rs/kontakt/ http
 
 Жућа (Venizelosova 23) - nice serbian fast food
 
-Tchevapliya (Ilije Garašanina 7) -  all dishes tasty. Nice casual restaurant  http://www.cevaplija.rs/
+Tchevapliya (Ilije Garašanina 7) - all dishes tasty. Nice casual restaurant  http://www.cevaplija.rs/
 
 Prava Pljeskavica (Takovska https://goo.gl/maps/Bir3tdA8knuzJ7NJ8) - The service is fine and the pljeskavica is one of the better one in Belgrade.
 
@@ -13001,6 +13017,8 @@ Duke (Čika Ljubina 9) - ресторан на крыше малоэтажки �
 
 Red Bread (Obilićev venac 22) - https://redbread.rs/ вкусненько Завтраки, вегетарианская еда, смути и шейки
 
+Gurme (Kraljice Marije 1) - Самодельный квас и окрошка. Coffee Bakery Food Cocktail https://www.instagram.com/gurme.beograd/
+
 
 TRPEZARIJA - Salad Bar (Kraljice Marije 10) - great selection of salads, also some pasta and wraps, and prices are fair. http://trpezarija.rs/
 
@@ -13036,6 +13054,10 @@ djordjija () - https://djordjija.rs/ https://www.instagram.com/restoran_djordjij
 Yalla Yalla (Makedonska 11) - A small cafe with Lebanese food, fashionable to take away or to eat inside ( only a few tables and no hooks for bags). nice design. staff nice and friendly. 
 
 
+Piter beo - https://instagram.com/piter_beo
+
+Vraperija (Francuska 35а) - URBAN food & breakfast https://www.instagram.com/vraperija/
+
 Skovorodnik (Господар-Јевремова 59) - пельмени https://skovorodnik.restaurant/
 
 https://www.instagram.com/urkitchen.beograd/ пельмени
@@ -13043,9 +13065,8 @@ https://www.instagram.com/urkitchen.beograd/ пельмени
 Mr. Keh (Гаврила Принципа 6) - пельмени, пицца, гирос фастфуд
 
 
-Restoran Red Queen Belgrade () - https://rqbelgrade.rs/en/ https://www.instagram.com/rqbelgrade/ пельмени International dishes, wine,Korporativne proslave▪, Live music
+Restoran Red Queen Belgrade () - https://rqbelgrade.rs/en/ https://www.instagram.com/rqbelgrade/ пельмени International dishes, wine,Korporativne proslave, Live music
 
-https://good-dumplings.business.site/ - Good Chinese Dumplings In Beograd
 
 Halo Lescovac -  стритфуд
 
@@ -13105,6 +13126,8 @@ Wagokoro-Japanese mochi dessert and drinks (Carigradska 10) -  https://wagokoro.
 
 [Oh Dumpling](geo:44.80606369485153,20.468523072530324) - Краља Милутина 4. Небольшая китайская столовка с несколькими видами дамплингов (китайских пельмений). Есть в вареном и жареном варианте, вкусные.
 
+https://good-dumplings.business.site/ - Good Chinese Dumplings In Beograd
+
 Spring Belgrade 春风十里中餐馆 (Dositejeva 22) - nice Chinese restaurant. Asian cuisine and tea house https://www.instagram.com/springbelgrade/
 
 [YXlanzh](geo:44.814218505252896,20.45543980640579) - Југ Богданова 6. Название непроизносимое, но это халяльная(!) китайская столовка. Интерьер ничего особенного, но меню большое и с картинками. Довольно вкусно.
@@ -13140,7 +13163,7 @@ Mi Đa House 米家小馆 (Kruševačka 14) - Korean restaurant
 Ahmee (Kumanovska 6) - Korean restaurant (closed ?)
 
 
-TAO Thai restoran (Krunska 26) - spicy as it should be https://www.instagram.com/tao_bgd
+TAO Thai restoran (Krunska 26) - spicy as it should be. Strongly recommended https://www.instagram.com/tao_bgd
 
 
 Maikhana The Indian cafe bar restaurant (Beogradska 4) - nice indian rest
@@ -13153,6 +13176,8 @@ Miamiam Restaurant & Catering (Kursulina 39) - nice indian rest https://www.face
 Zapata Ciudad (Vuka Karadžića 14) - Mexican restaurant http://www.zapatabeograd.rs/
 
 Restaurant Nachos (Strahinjića Bana 66a) - Mexican restaurant https://nachos.rs/
+
+Tortilla Casa (Čika-Ljubina 6) - It’s a fast food Mexican place. There is limited seating available both inside and outside. The food is tasty and quite big in portion. You have different options of our tortilla from green to spicy as well as choices of different meats.  https://tortilla-casa.com/
 
 
 Kokos (Nušićeva 7a) - vegan place. Probubly the tasties one
@@ -13202,6 +13227,7 @@ Bubamara Gelato: Kosovska, 10
 
 Ferdinand knedle (Gavrila Principa 58) - greate knedle
 
+Moritz Eis Belgrade
 
 
 **coffee**
