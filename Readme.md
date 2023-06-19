@@ -7805,11 +7805,11 @@ Not be earnest rule
 
 ▫️ Сократите использование посудомоечной и стиральной машины хотя бы на 1 цикл в неделю 
 
+narrow boat in London https://www.youtube.com/watch?v=l0mDiFu66xI
 
+Mudlarking: Lost and Found on the River Thames  https://www.amazon.co.uk/Mudlark-Maiklem-Lara/dp/1408889218
 
 **food**
-
-
 
 Cheapest: ASDA, Lidl, Co-op, Aldi
 
@@ -7820,10 +7820,7 @@ Premium: Whole Foods, M&S, Waitrose
 Something strange:  Harrods или Fortnum & Mason. 
 
 
-
 **Ferm markets and streetfood**
-
-
 
 * Berwick Street Market 
 
@@ -7886,11 +7883,6 @@ Gett – приложение для вызова классического ч�
 стоимость литра бензина ~ £1,6. 
 
 каршеринг: Zipcar, Getaround
-
-
-
-
-
 
 
 **strange subscription**
@@ -9011,30 +9003,16 @@ http://qz.com/694340/the-richest-families-in-florence-in-1427-are-still-the-rich
 
 ## Napoli
 
-
-
 best mozzarella
-
-
-
-
 
 ## Liguria
 
-
-
 best rabbit
-
 
 
 Португалия
 
 Мыс Рока
-
-
-
-
-
 
 
 ## Venice/Venezia VE 
@@ -9122,12 +9100,7 @@ Cappelleria Melegari dal 1914 - старейший магазин шляп, ту
 Tong-Tong - единственный в Милане нормальный маникюрный салон, где работает сразу два десятка китаянок и все делают маникюр безупречно (с гигиеной там тоже все хорошо). А потом можно отправиться по китайским магазинам - рассматривать блестящую бижутерию по доллару за килограмм, мерить стриптизерские туфли и купить дикий чехол для айфона с мехом.
 
 
-
-
-
 **bar**
-
-
 
 Camparino
 
@@ -9138,8 +9111,6 @@ Mag Cafe
 Cantine Isola - одна из самых старых энотек. вам нальют такого вина, какого не нальют больше нигде в мире
 
 bar in La Chiesetta Modus Vivendi - бар в бывшей церкви La Chiesetta Modus Vivendi (мистикам понравится - вроде и святотатство, а вроде и не ты это затеял). 
-
-
 
 **Food and drinks**
 
@@ -11669,9 +11640,12 @@ Despot https://facebook.com/dexywar
 https://www.zlobex.com/
 
 
-**Vine**
+**Wine**
 
 https://www.prodavnica.vino.rs/
+
+https://www.podrumtatalovic.rs/sr/ https://www.facebook.com/podrumtatalovic https://www.instagram.com/podrumtatalovic/
+
 
 **tea and coffee**
 
@@ -12010,12 +11984,16 @@ https://instagram.com/goraiderevo Дарья сейчас делает коло�
 
 — Q&A на Телеграфе про Сербию: https://telegra.ph/Voprosy-po-pereezdu-v-Serbiyu-03-03
 
+**visa**
 
-Где можно податься на шенгенскую визу в Сербии?
+https://t.me/ecvaccination
 
-https://docs.google.com/spreadsheets/d/1J-FXBJa9n2ckmvpMXgM3AhFOaJDb-mkGHuQMxlCYHMU/edit?usp=sharing
+https://t.me/pro_visa
 
-Goverment
+https://t.me/visafortravel
+
+Где можно податься на шенгенскую визу в Сербии? https://docs.google.com/spreadsheets/d/1J-FXBJa9n2ckmvpMXgM3AhFOaJDb-mkGHuQMxlCYHMU/edit?usp=sharing
+
 
 Посольство России в Республике Сербия https://serbia.mid.ru/ru
 
@@ -12036,6 +12014,9 @@ http://www.dafna.co.rs/en - единственное агенство в Бел�
 http://www.sudskitumac-srbija.com/ - широкий спектр языков
 
 http://www.puma.vojvodina.gov.rs/tumaci.php - поиск по базе переводчиков
+
+
+Балканские жесты и их значение https://goraiderevo.com/balkanskie-zhesty-i-ih-znachenie/
 
 
 
@@ -12336,6 +12317,8 @@ https://t.me/sta_imas_beograd
 
 https://t.me/NewsSerbia 
 
+https://34travel.me/post/belgrad
+
 Гастрономическая поэзия - Сейчас в это сложно поверить, но на протяжении последних 3+ лет я вела этот канал и блог в инстаграме о кафе и ресторанах Белграда, а совсем не о том, как переехать и открыть ИП https://www.instagram.com/food_bgd 
 
 https://t.me/beograde_dobro_jutro Дарья живет в Белграде и влюбляет в него (Telegram)
@@ -12386,56 +12369,10 @@ https://t.me/serbianguide/288
 
 https://t.me/belgrade_apartmens туда ботом скидывают новые квартиры для аренды с нескольких сайтов сразу
 
+**transport**
 
-**events**
-
-http://dev9t.com/ - art fest
-
-https://www.beldocs.rs/ - film fest. Note that all films with sub
-
-https://www.izletijada.rs/ - сайт с различными фестивалями. Похоже в основном по Центральной Сербии и гастрономической направленности.
-
-https://www.tickets.rs/ - продавцы билетов. Можно смотреть планирующиеся музыкальные выступления и фестивали. Похоже, показывает и окрестные страны.
-
-[Мудрияда](https://ballscup.com/) - название, в принципе, говорящее. Кулинарный фестиваль приготовления тестикул (в простонародии - яиц, не птичьих)
-
-Somborski Kotlić - фестиваль паприкаша в городе Сомбор. Немного странное мероприятие: на центральной площади более 200 участников варят паприкаш - густой суп с большим количеством паприки. Из рыбы в основном. И потом они садятся за столы на этой площади и едят этот суп со своими друзьями и родней. А еще концерт и ярмарка. Такой большой пикник для своих получается.
-
-Arsenal Fest Kragujevac - ежегодный музыкальный фестиваль в Крагуеваце. Отличный свет и звук, исполнители мирового уровня и недорогие билеты. Однозначно стоит съездить. Но в 2022 году было очень много народа для той площадки.
-
-Fair Of Ethnic Food and Drinks - https://etnohip.rs/en/
-
-weekend bazzar - https://www.instagram.com/weekendbazzar/
-
-http://oktobarskisalon.org/en/59th-october-salon/ https://www.instagram.com/oktobarski_salon International biennial exhibition of contemporary art
-
-Whisky Fair Belgrade -  fest from @NewsSerbia
-
-street food festival - https://www.instagram.com/streetfoodfestivalbg/
-
-Terroirs - Wine fest
-
-https://www.instagram.com/winestylemagazin/ - wine fest
-
-Есть только так https://www.instagram.com/zemunskisalonvina/  - wine fest
-
-https://winegarden.rs/ - wine fest
-
-https://instagram.com/wine.jam wine fest
-
-Bar show https://instagram.com/belgradebarshow
-
-Džin Vik Fest https://www.instagram.com/dzin_vik_fest/  Gin Festival
-
-
-https://www.beofest.com/ burger fest
-
-Beogradski Noćni Market - https://www.instagram.com/belgradenightmarket/
-
-highload https://highload.rs/2023/
-
-https://nocnibazar.rs/
-
+в Черногорию на поезде
+Каждый день два поезда дневной и ночной. В ночном есть спальные места, в дневном нет. Купить билет онлайн нельзя.  Можно забронировать по телефону +381 11 3602 899 и потом прийти купить по номеру брони. Купить можно на станции Белград Центр, но и также на станциях пригородных электричек. Например, под памятником Вуку. По телефону бронирования по-английски не говорят, но в целом хватает сербских слов с сайта с ценами https://www.srbvoz.rs/cene-prevoza-medjunarodni/ и знание русских числительных для дат. Удовольствие сидячее стоит 2500 динар на чел в одну сторону, 5000 динар за лежачее
 
 
 **gov**
@@ -12469,6 +12406,7 @@ https://nbs.rs/en/indeks/
 **Med**
 
 https://t.me/vrachivserbii - врачебные услуги в Сербии, дискусии, отзывы
+
 
 **Dental radiology**
 
@@ -12507,7 +12445,6 @@ Planeta Sport Outlet (Ustanička 64a)
 
 
 **food services**
-
 
 Руска радња (Đorđa Jovanovića 19) - селедка, чай, сгуха, хинкали, пельмени, коньяк «Арарат», семечки и глазированные сырки и прочие https://goo.gl/maps/jA5UEYAQCydNGkh87 
 
@@ -12646,6 +12583,8 @@ Kvaka 22 museum
 
 Yugodom museum
 
+Car museum (Majke Jevrosime 30) - Kind of garage museum with interesting collection of old and vintage cars. http://www.automuseumbgd.com/
+
 Savski Park
 
 Silosi (Dunavski kej 46) - https://instagram.com/silosibeograd 
@@ -12754,6 +12693,55 @@ https://www.fuckupnights.com/city/belgrade community
 
 https://t.me/history_dance_Beograd  - исторические танцы в Белграде, некоммерческая группа
 
+**events**
+
+http://dev9t.com/ - art fest
+
+https://www.beldocs.rs/ - film fest. Note that all films with sub
+
+https://www.izletijada.rs/ - сайт с различными фестивалями. Похоже в основном по Центральной Сербии и гастрономической направленности.
+
+https://www.tickets.rs/ - продавцы билетов. Можно смотреть планирующиеся музыкальные выступления и фестивали. Похоже, показывает и окрестные страны.
+
+[Мудрияда](https://ballscup.com/) - название, в принципе, говорящее. Кулинарный фестиваль приготовления тестикул (в простонародии - яиц, не птичьих)
+
+Somborski Kotlić - фестиваль паприкаша в городе Сомбор. Немного странное мероприятие: на центральной площади более 200 участников варят паприкаш - густой суп с большим количеством паприки. Из рыбы в основном. И потом они садятся за столы на этой площади и едят этот суп со своими друзьями и родней. А еще концерт и ярмарка. Такой большой пикник для своих получается.
+
+Arsenal Fest Kragujevac - ежегодный музыкальный фестиваль в Крагуеваце. Отличный свет и звук, исполнители мирового уровня и недорогие билеты. Однозначно стоит съездить. Но в 2022 году было очень много народа для той площадки.
+
+Fair Of Ethnic Food and Drinks - https://etnohip.rs/en/
+
+weekend bazzar - https://www.instagram.com/weekendbazzar/
+
+http://oktobarskisalon.org/en/59th-october-salon/ https://www.instagram.com/oktobarski_salon International biennial exhibition of contemporary art
+
+Whisky Fair Belgrade -  fest from @NewsSerbia
+
+street food festival - https://www.instagram.com/streetfoodfestivalbg/
+
+Terroirs - Wine fest
+
+https://www.instagram.com/winestylemagazin/ - wine fest
+
+Есть только так https://www.instagram.com/zemunskisalonvina/  - wine fest
+
+https://winegarden.rs/ - wine fest
+
+https://instagram.com/wine.jam wine fest
+
+Bar show https://instagram.com/belgradebarshow
+
+Džin Vik Fest https://www.instagram.com/dzin_vik_fest/  Gin Festival
+
+
+https://www.beofest.com/ burger fest
+
+Beogradski Noćni Market - https://www.instagram.com/belgradenightmarket/
+
+highload https://highload.rs/2023/
+
+https://nocnibazar.rs/
+
 
 
 **bar**
@@ -12805,6 +12793,8 @@ Bitters Bar (Kapetan-Mišina 16) - nice Cocktail bar, but the whole place is ver
 Hanky Panky (Kapetan Mišina 2) - cocktail bar https://www.instagram.com/hanky.panky.belgrade/
 
 null.sociallab - https://instagram.com/null.sociallab cocktail bar by SPB/Ns bartenders, who knows by 1.1/2 room bar and nobody knows I suppose 
+
+Nekrasova the Bar - The famous St Peterburg’s bar street vibes in the heart of Belgrade. With love  https://www.instagram.com/nekrasova.belgrade
 
 
 **beer**
@@ -12900,6 +12890,8 @@ Srpska kuća vina (Antifašističke borbe 15) - заведение в Новом
 
 Hrastovina (Bul. kralja Aleksandra 248) - Бар с рестораном с достойной винной картой. Приличное расстояние от центра полностью окупается разумной ценовой политикой: стоимость бокала вина начинается от 280 динар, наливают все еще по-сербски. 
 
+proces - Belgrade Grand Crew Natural wines from Serbia and beyond https://www.instagram.com/proces.winebar/
+
 Fino vino (Pop-Lukina) - vine store http://finovino.rs/
 
 Vino i Tako To () - vine store https://vinoitakoto.com/
@@ -12927,7 +12919,6 @@ Jam bistro - ланчи и коктейли
 https://www.instagram.com/koordinatastreet/
 
 tt bistro (Cara Uroša 19) - недалеко от tt eatery есть чебуреки и коктейли пельмени coffee | food | wines | oysters | seasonal products https://www.instagram.com/tt_bistro/
-
 
 tt eatery (Visokog Stevana 31) - русская кухня солянка как ресторанчик  https://www.instagram.com/tt__eatery/ https://www.opentable.co.uk/r/tt-eatery-beograd?shareReferrer=ios-share
 
@@ -13053,10 +13044,11 @@ djordjija () - https://djordjija.rs/ https://www.instagram.com/restoran_djordjij
 
 Yalla Yalla (Makedonska 11) - A small cafe with Lebanese food, fashionable to take away or to eat inside ( only a few tables and no hooks for bags). nice design. staff nice and friendly. 
 
+PATATAS (Čika Ljubina ulica br 7) - belgian (polish!) style potatoes and chicken https://www.facebook.com/patatasbestfries/
 
 Piter beo - https://instagram.com/piter_beo
 
-Vraperija (Francuska 35а) - URBAN food & breakfast https://www.instagram.com/vraperija/
+Vraperija/ВРАПЕРИJA (Francuska 35а) - Street food. URBAN food & breakfast https://www.instagram.com/vraperija/
 
 Skovorodnik (Господар-Јевремова 59) - пельмени https://skovorodnik.restaurant/
 
@@ -13076,6 +13068,8 @@ Marenda (Skerlićeva 30) - good for breakfast marenda.rs
 
 
 Lorenzo & Kakalamba -  необычное заведение . Владельцы ресторана решили сделать ставку на ядерное сочетание всего: флорентийской и пиротской кухонь, китча и садо-мазо в интерьере, безупречности и чудоковатости обслуживания. Танцующий Ленин, попообразные стулья, картины Ботеро, Санта Клаус с газетой на унитазе, стеклянный пол, под которым кухня и виден процесс приготовления блюд и бессчетное множество других приковывающих внимание деталей. Это не ресторан, а какой-то аттракцион. https://lk.rs/en
+
+San Panino (Kralja Petra 78) - Italian sandwiches in Belgrade by PIETRA Pizzeria https://www.instagram.com/sanpaninobeograd https://sanpanino.rs/
 
 
 Ботако (Nevesinjska 6) - italian food. Ресторанчик не большой, обязательна резервация https://pizzabotako.rs/sr_Latn/ 
@@ -13244,8 +13238,14 @@ Everywhere italy style coffee
 
 D59B (Kralja Petra, 70) - Когда-то «Пржионица» и D59B были одним целым, но что-то пошло не так, и они разъехались. Помещение маленькое, два этажа, интерьер «ничего лишнего». В ассортименте так же минимализм: основные способы заварки кофе плюс пиво в холодильнике. Иногда здесь играют диджеи и ведутся стриминги, ведь у кофейни есть собственное радио https://www.radio.d59b.com/ . По вечерам собирается модная тусовка. Определенно, моё любимое кофейное место в городе.
 
-DRIP (Gospodar-Jevremova 46a) - DRIP Specialty Coffee https://instagram.com/dripbelgrade
+DRIP (Gospodar-Jevremova 46a) - DRIP Specialty Coffee Self-service/No smoking MON-SUN 8AM-5PM Barista tools, coffee gear, beans and more https://instagram.com/dripbelgrade
 
+Drip pržionica - онлайн магазин кофе собственной обжарки https://drip.rs/ https://www.instagram.com/dripbelgrade/
+
+Drop - симпатичный маникюрный салон на Милентьева 
+
+
+Artist (Kondina 26) - Specialty coffee Belgrade Small, but no smoking area, https://www.instagram.com/artist_beograd/
 
 Кофилин (Cara Dušana 29) - coffee and pleasant staff. Besides the classica, they have many coffee specialities, cakes and even Russian cheese pancakes (syrniki). The place inside is tiny, there is one table, but cozy.  https://www.instagram.com/kofilin.beograd/
 
