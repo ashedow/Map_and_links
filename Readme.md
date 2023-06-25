@@ -63,6 +63,9 @@ They can charge extras if you use the phone less in the operator's country than 
 
 https://www.super.ee
 
+esimdb.com database esim
+https://esim.holafly.com International eSIM plans for travel abroad
+
 **internet**
 
 https://drimsim.com/en - esim, 5g, cost depends on location. all of the setinng in app
@@ -2557,6 +2560,10 @@ skapiec.pl
 empik.com своя развитая сеть + как агрегатор продает)
 
 https://allegro.pl/
+
+https://www.temu.com/
+
+https://wszystko.pl/
 
 banggood.com
 
@@ -7563,8 +7570,6 @@ Simonis aan de Haven https://maps.app.goo.gl/TuZyLEp2jQfuwTg39  - дары мо�
 
 **coffee and tea**
 
-
-
 Список топовых кофеен от Вали https://t.me/dreamingdutch/252 
 
 Kaafi (Prinsestraat 25) - кафе, которое открыл в Гааге бывший адвокат. За пару лет из hidden treasure оно превратилось в одно из самых упоминаемых гастроточек города. Но торты все ещё делает мама владельца.
@@ -12226,65 +12231,6 @@ https://t.me/getparcelbot - поиск курьеров и посылок по �
 @Serbia_RCbot - случайное знакомство в Сербии 
 
 
-НОВИ САД
-
-Нови Сад daily (новости): http://t.me/novisadaily 
-Женский чат: http://t.me/+VbgOO7pcyhdhNGM0
-Родительский чат: t.me/novi_sad_parents
-https://t.me/chast_rechi_school - Культурно-образовательный центр Chast-rechi.com. Настолки и квесты для детей, cербский для детей и взрослых, aкварель и графика, лепка и оригами.
-Футбол: http://t.me/novisad_football 
-https://t.me/kvartiranovisad - Недвижимость в Нови Саде
-Спорт (пробежки, воркаут): http://t.me/nssportchat 
-https://t.me/yoga_novisad - Йога Нови Сад. Йога-тичер, проводник гвоздестояния, мероприятия экстатик дэнс, арт-медитации 
-https://t.me/+jtO-m08zzMJmZWVi - Канал студии йоги на Брача Рибникар 1
-https://t.me/+yGkZBKXzpO5jZWRi - Еще одна йога в Нови Саде. Конкуренция, однако
-https://t.me/+llAGYPdR7TYyZDQy  - чат свопа Нови Сада. Обмен одного барахла на другое. Найлой Пиацца для своих
-https://t.me/+0H0JEWVm78piMDYy - QA чат для Новосаджан и им сочувствующих
-Авто: https://t.me/nsautochat
-https://t.me/zurka_novisad- Журка Нови Сада, анонсы мероприятий, список концертов и многое другое
-https://t.me/+8r-UqKxIBsFjYjBi - Идём гулять? Совместные прогулки для детей и с детьми
-https://t.me/eda_rs - Новисадская еда
-https://t.me/+OnUykRmpUtg5MGFi - Novi Sad run chat
-https://t.me/+ygWgXAID-eIwM2Vi - Новисадские кальяны
-https://t.me/teainserbia - Розничная продажа качественного листового чая из Китая, Кении, Японии, Индии, Шри-Ланки, Тайвани, Руанды. 
-https://t.me/coworkingNS - Новисадский коворкинг
-https://t.me/novisad_pref - Преферанс и поэтессы
-https://t.me/KidsLab_chat - Детско-подростковый клуб Нови Сада
-https://t.me/serbia_iliqchuan - Илицюань в Нови Саде
-Художники: http://t.me/+WJPxpZQPeXVkMTA8 
-https://t.me/natali_bakery_ns - заказ всякой выпечки и пельменей в Нови Саде
-https://t.me/+dzYBVRHKtPdhMjZk - Новисадская барахолка
-https://t.me/PriceNaNoC - новисадские рассказы
-Туса: http://t.me/novisad_alky 
-https://t.me/+qyDpgDflTTc1ZjYy - RPG Novi Sad
-https://t.me/CleaningNoviSad - Клининг-услуги в Нови Саде
-https://t.me/teaclubnsserbia - Чайный клуб Нови Сада
-https://t.me/mafia_novisad - Игры в Мафию в Нови Саде
-https://t.me/+5V0BZUlqinFjNjgy - Буккроссинг в Нови Саде
-https://t.me/ods_ns - Data Breakfast и сборища по ML, AI и на потрындеть
-https://t.me/risuem_novi_sad - Анонсы курсов рисования в Нови Саде
-https://t.me/oncraftinnovisad - Крафтовое пиво Нови Сада
-https://t.me/dogsns - собачники Нови Сада
-https://t.me/chast_rechi_school - Russian International Summer School in Serbia
-https://t.me/SrpskiCas - SmartLab - уроки сербского в Нови Саде
-https://t.me/KoshatnikiNoviSad - кошатники и кошатницы Нови Сада
-https://t.me/+OZDR_T_sUiczODgy - Genesis RPG в Новом Саде
-https://t.me/business_breakfast_NS - Маркетинг-завтраки в Нови-Сад: Знакомимся, общаемся, пьем кофе, делимся опытом, кейсами и приёмами
-https://t.me/thehappywizardns - D&D Нови Сад
-https://t.me/specialistinovisada - группа специалистов Нови Сада
-https://t.me/novisad_basketball - баскетбол Нови Сад
-https://t.me/designovisad Дизанеры Нови Сада
-https://t.me/boltns - немодерируемая болталка Нови Сада
-https://t.me/NSvolleyball - волейбол/отбойка
-https://t.me/tennis_novisad - большой теннис для детей и взрослых🎾 Новисад
-https://t.me/izlet_novi_sad - прогулки и пешие походы выходного дня по Фрушкой Горе.
-https://t.me/boardgames_ns - Настолки НС, мафия, нечто, пиво и караоке 
-https://t.me/novisad_ru - основная болталка Новисаджан.
-https://t.me/serbia_progulki - Прогулки по Фрушке-горе, пешие экскурсии по Петроварадинской крепости и прочие пешие активности
-https://t.me/transfer_ns Трансфер Нови Сад - аэропорт + выездные прогулки по достопримечательностям Сербии
-
-
-
 Авито для тех кто не знает язык: https://serbiainrussian.info/ Услуги и товары в Сербии от людей, которые говорят по-русски
 
 ЧЕРНЫЙ СПИСОК МЕСТ, СЕРВИСОВ И СПЕЦИАЛИСТОВ: Чорный список
@@ -12452,7 +12398,12 @@ TR Konfeta - Russian candy store (Golsvordijeva 33) - Сладости от бе
 
 Sinko (Sloga 2, Palilula, Beograd Sime Igumanova 14, Borivoja Stevanovića 21) https://www.sinko.rs/
 
-instagram.com/ruspovar011/
+instagram.com/ruspovar011/ - домашняя еда и полуфабрикаты, комплексные обеды домой и офис, доставка
+
+https://www.instagram.com/akenside_belgrade/ cakes
+
+https://www.instagram.com/jezilcakes/ cakes
+
 
 
 Bio Market (Svetogorska 18, Maršala Birjuzova 37) - best opton for asian/healthy/vegan http://www.biomarket.rs/ https://g.page/Biomarket-Svetogorska 
@@ -12955,6 +12906,8 @@ Old Hercegovina (Carigradska 36) - http://www.stara-hercegovina.rs/kontakt/ http
 
 Жућа (Venizelosova 23) - nice serbian fast food
 
+Loki (Strahinjića Bana 36) - the oldest one small serbian fast food place at the city center,which works till night https://serbian-restaurant-11.business.site/ https://www.horecapropeler.com/index/loki
+
 Tchevapliya (Ilije Garašanina 7) - all dishes tasty. Nice casual restaurant  http://www.cevaplija.rs/
 
 Prava Pljeskavica (Takovska https://goo.gl/maps/Bir3tdA8knuzJ7NJ8) - The service is fine and the pljeskavica is one of the better one in Belgrade.
@@ -13104,14 +13057,6 @@ Giovanni's Pizzeria (Nikole Spasića 3) -  nice Pizza restaurant
 Restoran ISTOK (Gospodar-Jevremova 50) - Vietnamese restaurant. Pricier, but great Pho, pasta and other. Good vege option. http://istokrestoran.com/
 
 
-Angry Monk (Uzun Mirkova 11) - дорого, но хуже caviar. asian food and cocktails. Nice https://en.angrymonk.rs/menu
-
-caviar - ru style really taste sushi
-
-Sushi King (Jurija Gagarina 231 lokal 173) - Суши с интересными сочетаниями вкусов https://www.sushiking.rs/
-
-Wagokoro-Japanese mochi dessert and drinks (Carigradska 10) -  https://wagokoro.rs/
-
 [Asia Food](geo:44.810688795656475,20.462065844631432) - Краља Милана 6. Китайское бистро. Первый раз за много лет я не осилил маленькую(!) порцию в китайке! Неплохой выбор блюд, вкусно, большие порции.
 
 [X.Wang](geo:44.8128958910193,20.458182411161907) - Kраљице Наталије 4. Настоящий китайский ресторан: туда ходят китайцы, там работают китайцы, меню в том числе на китайском. Очень вкусно! Hot pot.
@@ -13130,8 +13075,6 @@ Youran Tea House (Prizrenska 6) - Chinese tea house Chinese Tea, Chinese Healthy
 
 [Go Sushi](https://gosushi.rs/) (5 точек в городе: Praška 34, Žička 1, Svetozara Markovića 38, Đorđa Stanojevića 9b, Cara Lazara 11) - сеть японских ресторанов. Роллы с лососем годные, думаю остальное тоже. В меню имеется рамен.
 
-Angry Monk (Uzun Mirkova 11) - годные суши
-
 Sushirrito Beograd - europe/americal style rolls https://www.instagram.com/sushirrito_bg/
 
 Bad Sushi (Šafarikova 11)
@@ -13140,9 +13083,15 @@ Ima Sushi (Strahinjića Bana 52)
 
 Moon Sushi (Makedonska, 31)
 
-Sakura (Karađorđeva, 2-4)
+Sakura (Karađorđeva, 2-4) - https://sakurarestoran.rs/
 
-Caviar (Dalmatinska 65a) - some say it's delicious sushi there. https://caviar.rs/
+Caviar (Dalmatinska 65a) - ru style really taste sushi. some say it's delicious sushi there. https://caviar.rs/
+
+Angry Monk (Uzun Mirkova 11) - дорого, но хуже caviar. asian food and cocktails. Nice https://en.angrymonk.rs/menu
+
+Sushi King (Jurija Gagarina 231 lokal 173) - Суши с интересными сочетаниями вкусов https://www.sushiking.rs/
+
+Wagokoro-Japanese mochi dessert and drinks (Carigradska 10) -  https://wagokoro.rs/
 
 Marukoshi (Kapetan-Mišina 37) - Japanese restaurant. traditional Japanese food with serbian size portions. https://marukoshi.rs/
 
@@ -13194,8 +13143,6 @@ Fini (Svetozara Miletića 7) - great coffee and small cakes
 Hotel Beograd Café - Балканская улица кофе и круассаны. no smoking place https://maps.app.goo.gl/XuTrKRebGse9jvmeA?g_st=ic
 
 Mandarina Cake Shop (Gracanička 16 pon-ned 09-21h, Palilulska pijaca uto-ned 08-13h, Bul. Zorana Djindjića 125m pon-ned 08-21h. Baba Višnjina 26 pon-ned 08-21h) - https://www.instagram.com/mandarinacakeshop https://mandarinacakeshop.rs/sr/ great cakes. Catering/order options
-
-
 
 **ice cream**
 
@@ -13486,7 +13433,63 @@ Vinarija Ilić (Kneza Miloša, Vodanj 234206)
 Vinarija TRI TACKE (Ponjavička 21, Banatski Brestovac 26234)
 
 
-## Нови Сад
+## Novi sad/Нови Сад
+
+
+Нови Сад daily (новости): http://t.me/novisadaily 
+Женский чат: http://t.me/+VbgOO7pcyhdhNGM0
+Родительский чат: t.me/novi_sad_parents
+https://t.me/chast_rechi_school - Культурно-образовательный центр Chast-rechi.com. Настолки и квесты для детей, cербский для детей и взрослых, aкварель и графика, лепка и оригами.
+Футбол: http://t.me/novisad_football 
+https://t.me/kvartiranovisad - Недвижимость в Нови Саде
+Спорт (пробежки, воркаут): http://t.me/nssportchat 
+https://t.me/yoga_novisad - Йога Нови Сад. Йога-тичер, проводник гвоздестояния, мероприятия экстатик дэнс, арт-медитации 
+https://t.me/+jtO-m08zzMJmZWVi - Канал студии йоги на Брача Рибникар 1
+https://t.me/+yGkZBKXzpO5jZWRi - Еще одна йога в Нови Саде. Конкуренция, однако
+https://t.me/+llAGYPdR7TYyZDQy  - чат свопа Нови Сада. Обмен одного барахла на другое. Найлой Пиацца для своих
+https://t.me/+0H0JEWVm78piMDYy - QA чат для Новосаджан и им сочувствующих
+Авто: https://t.me/nsautochat
+https://t.me/zurka_novisad- Журка Нови Сада, анонсы мероприятий, список концертов и многое другое
+https://t.me/+8r-UqKxIBsFjYjBi - Идём гулять? Совместные прогулки для детей и с детьми
+https://t.me/eda_rs - Новисадская еда
+https://t.me/+OnUykRmpUtg5MGFi - Novi Sad run chat
+https://t.me/+ygWgXAID-eIwM2Vi - Новисадские кальяны
+https://t.me/teainserbia - Розничная продажа качественного листового чая из Китая, Кении, Японии, Индии, Шри-Ланки, Тайвани, Руанды. 
+https://t.me/coworkingNS - Новисадский коворкинг
+https://t.me/novisad_pref - Преферанс и поэтессы
+https://t.me/KidsLab_chat - Детско-подростковый клуб Нови Сада
+https://t.me/serbia_iliqchuan - Илицюань в Нови Саде
+Художники: http://t.me/+WJPxpZQPeXVkMTA8 
+https://t.me/natali_bakery_ns - заказ всякой выпечки и пельменей в Нови Саде
+https://t.me/+dzYBVRHKtPdhMjZk - Новисадская барахолка
+https://t.me/PriceNaNoC - новисадские рассказы
+Туса: http://t.me/novisad_alky 
+https://t.me/+qyDpgDflTTc1ZjYy - RPG Novi Sad
+https://t.me/CleaningNoviSad - Клининг-услуги в Нови Саде
+https://t.me/teaclubnsserbia - Чайный клуб Нови Сада
+https://t.me/mafia_novisad - Игры в Мафию в Нови Саде
+https://t.me/+5V0BZUlqinFjNjgy - Буккроссинг в Нови Саде
+https://t.me/ods_ns - Data Breakfast и сборища по ML, AI и на потрындеть
+https://t.me/risuem_novi_sad - Анонсы курсов рисования в Нови Саде
+https://t.me/oncraftinnovisad - Крафтовое пиво Нови Сада
+https://t.me/dogsns - собачники Нови Сада
+https://t.me/chast_rechi_school - Russian International Summer School in Serbia
+https://t.me/SrpskiCas - SmartLab - уроки сербского в Нови Саде
+https://t.me/KoshatnikiNoviSad - кошатники и кошатницы Нови Сада
+https://t.me/+OZDR_T_sUiczODgy - Genesis RPG в Новом Саде
+https://t.me/business_breakfast_NS - Маркетинг-завтраки в Нови-Сад: Знакомимся, общаемся, пьем кофе, делимся опытом, кейсами и приёмами
+https://t.me/thehappywizardns - D&D Нови Сад
+https://t.me/specialistinovisada - группа специалистов Нови Сада
+https://t.me/novisad_basketball - баскетбол Нови Сад
+https://t.me/designovisad Дизанеры Нови Сада
+https://t.me/boltns - немодерируемая болталка Нови Сада
+https://t.me/NSvolleyball - волейбол/отбойка
+https://t.me/tennis_novisad - большой теннис для детей и взрослых🎾 Новисад
+https://t.me/izlet_novi_sad - прогулки и пешие походы выходного дня по Фрушкой Горе.
+https://t.me/boardgames_ns - Настолки НС, мафия, нечто, пиво и караоке 
+https://t.me/novisad_ru - основная болталка Новисаджан.
+https://t.me/serbia_progulki - Прогулки по Фрушке-горе, пешие экскурсии по Петроварадинской крепости и прочие пешие активности
+https://t.me/transfer_ns Трансфер Нови Сад - аэропорт + выездные прогулки по достопримечательностям Сербии
 
 
 
@@ -13501,6 +13504,8 @@ Stand-UP
 open mic iBeer
 
 music fest https://www.exitfest.org
+
+Bruno bar (Cara Dušana 57) - kraft bar. A lot of strange beer https://t.me/barbruno
 
 
 
