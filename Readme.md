@@ -56,6 +56,8 @@ https://flightaware.com/
 
 Карта с авторскими блогами о жизни эмигрантов https://www.google.com/maps/d/u/0/viewer?hl=en&ll=39.81224131501931%2C56.09040536888404&z=3&fbclid=IwAR0aFFQceaUMimrGJALeM1Du9RB1qa0P5JvSkX94BF4-vn2NcUdkmlcGYUA&mid=1JGjMQmg_xNK4aInGlgXgb_ppBwfq8yng
 
+mundraub.org
+
 **sim**
 
 They can charge extras if you use the phone less in the operator's country than in the roaming: https://digital-strategy.ec.europa.eu/en/faqs/roaming-questions-answers
@@ -6167,11 +6169,9 @@ https://github.com/smirnov-am/awesome-dutch
 Главные супермаркеты для еды Albert Heijn, Jumbo, последний предпочтительнее, если у вас не Maestro. Aldi Liddl + куча локальных лавочек, от турецких до специализированно итальянских.
 
 
-
 **Transport**
 
 Получить скидку на проезд в поездах NS - https://www.ns.nl/en/nsflex/webshop#/bestelling/producten
-
 
 
 **Services**
@@ -6330,6 +6330,9 @@ Manga shops https://www.google.com/maps/@51.61436,5.1887276,8z/data=!4m2!11m1!2s
 vond4daagse - голландская традиция вечерних прогулок. Всё началось в 1940 году. Тогда была организовала первая пешеходная экскурсия. Так как в военное время гулять днем было запрещено, выходили по вечерам. 
 В начале это были прогулки для взрослых, но с 1980-х в них стали учавствовать школы. И как итог, сейчас avond4daagse это, в первую очередь, детский праздник. Обычно в мае-июне во всех городах и весях Нидерландов организуются пешие маршруты. В течение четырех вечеров дети из ближайших школ с мамами-папами, бабушками-дедушками проходят по ним 5 или 10 км (зависит от возраста и желания).
 В настоящее время организуется это действо Koninklijke Wandelbond Nederland (Королевская пешеходная ассоциация Нидерландов). Они разрабатывают маршруты для каждого региона, отвечают за безопасность, контроль и медали. На сайте любой желающий может записаться в своём регионе.
+
+демосцена принята в качестве культурного наследия ЮНЕСКО.
+Демосцена, это когда программисты настолько упарываются, что в 64 килобайта помещают такую красоту (включая музыку): https://youtu.be/QqHTwtXvYW4
 
 
 **job**
@@ -9050,6 +9053,55 @@ Gasometers of Vienna (Guglgasse 6)
 
 Comedy Club - https://www.facebook.com/Viennacomedyclub/
 
+
+## Linz
+
+**food**
+
+Klosterhof - Традиционная австрийская кухня, ну обычная, венский шницель норм. Есть внутренний дворик, зеленей и с фонтанчиком.
+
+Ichi Go Ichi E - Вкусный рамен за 15€. Сам ресторанчик находится в торговом центре, не лакшери, место, где покушать, а не посидеть.
+
+Mr. Wen - китайская забегаловка. Точно норм - Shanghai style chicken (курочка в остром сладком соусе) и маки Tokyo sunrise (вроде, точно не помню название)
+
+Miyako ramen - хороший рейтинг, по факту хз. виношко норм, рамен можно и лучше найти
+
+Antica Locanda - Итальянский ресторан с домашней кухней.
+
+Il Caminetto - клевый итальянский ресторанчик. Из рекомендаций - рыба, запеченная в соли.
+
+Stadtliebe - само заведение приятное, особенно летняя терасса. Коктейли +/-
+
+L’Osteria - Сетевой итальянский ресторан. порции огромные, цены приемлимые, еда вкусная.
+
+Burgerista - Бургерная. Ну обычные вкусные бургеры за свою цену
+
+**bar**
+
+Exxtrablatt - Негрони огонь
+
+HEMINGWAY'S COCKTAIL&MUSIC BAR - Их спэшл это просто великолепно
+
+Frau Dietrich - Классный концепт (вход через секретную дверь)
+
+Lentos Restaurant - Прекрасный вид на Дунай, вкусный Апероль и Hugo. Не всегда комфортно на террасе из-за солнышка
+
+Lennox Bar - норм коктейльный бар. вкусненько
+
+
+**coffee**
+
+Café Barista в Linzerie - Прикольный внутренний дворик и вкусный кофе.
+
+Dunkin‘ donuts - Это мой стандартный вариант - он близко, и я обычно беру кофе с собой.
+
+Cafe Meier - Оплата только наличными, обслуживание так себе. Расположение приятное.
+
+Jack the Ripperl
+Schlosscafe
+Glorious Bastards
+Liesl Tabakfabrik
+2 Raum 
 
 
 # Switzerland
@@ -12149,6 +12201,9 @@ Metropoliten - http://www.metropoliten.rs/
 
 belodore.rs
 
+https://instagram.com/noar.rs на него многие сербки ссылаются
+
+
 **cosmetic**
 
 Alexandar Cosmetics - hair mostly
@@ -12403,6 +12458,9 @@ Hanky Panky (Kapetan Mišina 2) - cocktail bar https://www.instagram.com/hanky.p
 null.sociallab - https://instagram.com/null.sociallab cocktail bar by SPB/Ns bartenders, who knows by 1.1/2 room bar and nobody knows I suppose 
 
 Nekrasova the Bar - The famous St Peterburg’s bar street vibes in the heart of Belgrade. With love  https://www.instagram.com/nekrasova.belgrade
+
+IDOL tiki bar (Strahinjića Bana 61) - tiki cocktail bar + pub food and chinese food https://t.me/idol_rs https://idolbar.rs/
+
 
 
 **beer**
@@ -12949,6 +13007,8 @@ Panda (11000, Masarikova 2) - Ali express offline
 Asian Shopping Center (Jurija Gagarina 155) - looks like Ali express offline https://asian-shopping-center.business.site/  https://www.facebook.com/asianshoppingcenter/  
 
 Blok 70 中国食品超市 (24 Surčinski Put) - chinese market
+
+tea at the blok 70 - Zhengxin https://maps.app.goo.gl/D88B6i72VAQK7Ne3A 
 
 莲花超市 Lotus Chinese Market (Belmax Center, Grmeč Nova 1) - chinese market. A little difficult to get to. Wide choice of true Chinese products/ The staff was very helpful and charming. We talked a bit and gave us cookies as a gift for our purchase. Not to be confused with the neighbouring horeca market
 
