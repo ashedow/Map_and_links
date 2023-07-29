@@ -11703,6 +11703,24 @@ https://www.serbianprivatetours.com/sr/tour/vinska-tura-kraljevim-stopama/
 
 **gov**
 
+1. Сайт с нормативно правовыми актами: https://www.paragraf.rs/
+2. Сайт Министерства Внутренних дел РС http://www.mup.gov.rs/
+3. Сайт Посольства РФ в РС: http://www.ambasadarusije.rs/ru
+4. Сайт Кадастра недвижимости РС:  https://katastar.rgz.gov.rs/
+5. Сайт Агентства по регистрации коммерческих организаций и индивидуальных предпринимателей https://www.apr.gov.rs/
+6. Сайт Министерства образования http://www.mpn.gov.rs/
+7. Сайт Центра нострификации иностранных дипломов http://azk.gov.rs/?page_id=75148
+8. Cайт электронных госуслуг https://euprava.gov.rs  
+
+Законы и другие нормативно-правовые акты, с которыми необходимо ознакомиться иностранным гражданам, прибывшим в Сербию:
+1. Закон об иностранцах https://www.paragraf.rs/propisi/zakon_o_strancima.html
+2. Правила и условия одобрения привременог боравка (ВНЖ) https://www.paragraf.rs/propisi/pravilnik-blizim-uslovima-odobrenje-privremenog-boravka.html
+3. Закон о гражданстве Республики Сербия https://www.paragraf.rs/propisi/zakon_o_drzavljanstvu_republike_srbije.html
+4. Закон о труде https://www.paragraf.rs/propisi/zakon_o_radu.html
+5. Закон о безопасности дорожного движения https://www.paragraf.rs/propisi/zakon_o_bezbednosti_saobracaja_na_putevima.html
+6. Закон об обществах с ограниченной ответственностью https://www.paragraf.rs/propisi/zakon_o_privrednim_drustvima.html
+
+
 https://t.me/SerbiaInMyMind/3441  Контакты тех, кто готов помогать (переводы, заполнение документов, юридическая помощь, поиск места для ночевки, бытовые вопросы)
 
 https://t.me/SerbiaInMyMind/3540 Решение основных потребностей, гладкая релокация
