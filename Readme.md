@@ -17,6 +17,8 @@
 
 # Maps, tools and worldwide stuff
 
+cities and ambitious http://www.paulgraham.com/cities.html https://ideanomics.ru/articles/923
+
 **maps**
 
 https://goo.gl/maps/x3bGyoqcfSWg5xUX8
@@ -1906,12 +1908,7 @@ March 11 is Lithuania Independence Restoration Day
 
 ## Vilnius
 
-
-
-
-
 Городское самоуправление города ВИЛЬНЮС https://vilnius.lt/ru/
-
 
 
 https://vilniuskojoms.lt/ - пешие маршруты Вильнюса
@@ -1923,7 +1920,6 @@ https://www.pamatyklietuvoje.lt Vacations.html - гайд по Вильнюсу
 https://34travel.me/post/vilnyus - гайд по Вильнюсу от 34travel
 
 https://vilnius100km.lt/ - специальный 100-километровый маршрут вокруг Вильнюса
-
 
 
 home internet provider:
@@ -5049,6 +5045,12 @@ Lingea Russian-Czech Dictionary – хороший русско-чешский �
 
 Films and so on
 
+Jízda тут прям пахнет той свободой, которая появилась в Чехии сразу выхода из ссср-зависимости и очень много всяких чешских пасторальных картин.
+Samotáři - это картина скорее про Прагу, как там живёт и чувствует себя молодежь. Фильму двадцать лет, сейчас ко всему этому добавились современные технологии типа мобильников/интернетов, но в целом картинка наверняка такая же
+Cesta z města и вторая часть Cesta do lesa - два фильма про глубинку, как там живут люди, что делают и чем занимаются пражаки, когда едут на выходные на дачи :)
+Евротрип - так это чисто по фану: большая часть снималась в Чехии (Прага и окрестности), и прикольно увидеть это с другой стороны :)
+
+
 https://uloz.to/
 
 https://sites.google.com/site/fluentczech/
@@ -7441,6 +7443,12 @@ Daft.ie – поиск жилья. Можно подписываться на н
 
 www.jobs.ie - A popular job portal in Ireland for different industries
 
+
+**culture**
+
+The Banshees of Inisherin film. Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them. Вайбы Ирландии очень хорошо переданы, даже в Дублине можно поймать кусочек + очень хорошо переданы Ирландские акценты (смотреть строго в оригинале и на большом экране!)
+
+
 # UK
 
 https://www.officiallifeintheuk.co.uk/shop books live in the UK
@@ -8478,6 +8486,11 @@ GATE (Koepenicker Strasse 194) - «GATE – это система простра
 ## Hamburg
 
 
+**culture**
+
+Soul Kitchen is a 2009 German comedy film directed by Fatih Akın, with a screenplay by Akın and Adam Bousdoukos, based on Bousdoukos' story on his own experiences as the owner of a Greek tavern named "Taverna", where Akın was a regular customer. Комедия, которая стала культовой для Гамбурга: настолько в ней хорошо передан дух города, с его эклектичностью, многокультурностью, классной музыкой, ночной жизнью и портовыми приключениями.
+
+
 
 https://www.google.com/maps/d/u/0/viewer?mid=1R5eb-S2DS0273Oty5snxVP1UC5j3lMMD&ll=53.551203337458354%2C9.979894208582886&z=12
 
@@ -8569,8 +8582,6 @@ St. Michaelis -- https://goo.gl/maps/TpbC3UU1DNWb3XFj9 суббота, 12:00
 
 **Food**
 
-
-
 Францбрётхен — где угодно, даже в супермаркете
 
 Лабскаус — в ресторанах с локальной кухней, например, в Daniel Wischer напротив Ратхауса https://goo.gl/maps/YzZdNwLQRiiGccd89
@@ -8649,6 +8660,11 @@ Men vs Maschine. Хвастаются тем что в 6 из 11 Мишелин�
 
 JB Coffee. Какой то там тоже Мюнхенский чемпион. Ихняя rwanda для меня сейчас пожалуй №1 зерна.
 
+
+**culture**
+
+Классический Мюнхен(гедонизм, распиздяйство, алкоголизм) описан в небезызвестном мультике (не пытайтесь все понять - там местами по-баварски – просто поверьте на слово) https://www.youtube.com/watch?v=VvdEgkqei6c
+Echos - An illegal rave in Munich's catacombs goes wrong and reveals a network of social outcasts living underground. про мюнхенские наркокатакомбы
 
 # Denmark
 
@@ -8915,13 +8931,78 @@ www.net-empregos.com - A Portuguese job portal offering job opportunities in var
 
 # Austria
 
+**food**
+
+Foodora (бывший Mjam)
+
+Lieferando 
+
+Gurkerl
+
+Flink
+
+TooGoodToGo - еда со скидками, забирать самостоятельно 
+
+
+🇩🇪 Переводчик 
+Google Translate
+LEO Wörterbuch
+DeepL
+
+**transport**
+
+ÖBB
+
+WESTbahnApp
+
+WienMobil
+
+LinzMobil
+
+
+**appartment**
+
+Willhaben- местное авито, там ещё удобно квартиры смотреть 
+
+ImmoScout24
+
 **job**
 
+LinkedIn
+
 www.karriere.at - A leading job platform in Austria for various industries
+
+**services**
+
+Бьюти-Услуги Treatwell 
+
+Онлайн шоппинг
+
+Amazon
+
+Zalando
+
+HM
+
+Mango
+
+Скидки 
+
+jö Karte (bipa, billa, penny - можно копить баллы и потом списывать на покупки)
+
+Familienkarte App - скидки по семейной карте
+
 
 **tea**
 
 https://haas-haas.at/
+
+**to go**
+
+Oeticket- билеты на концерты
+
+Ivie - гид по Вене
+
 
 ## Vienna
 
@@ -8947,6 +9028,14 @@ ViennaAirport – навигация, парковка и онлайн-табл�
 
 **Bar**
 
+Neundreiviertel - бар в стиле «Гарри Поттера». Вход через газовую стену, коктейли, похожие на волшебные зелья, атмосфера https://www.neundreiviertel.at
+
+Atmosphere Rooftop Bar -  расположен на 8-м этаже. На расслабиться и полюбоваться видом на Вену. https://www.ritzcarlton.com/en/hotels/vierz-the-ritz-carlton-vienna/dining/
+
+360° OCEAN SKY - Ресторан на верхнем этаже Haus des Meeres. Вид на город с круговой террасы https://www.oceansky.at
+
+
+
 Недорогие хорошие бары:
 
 Bruder (Windmühlgasse 20, 1060 Wien) - https://bruder.xyz/  https://instagram.com/bruder.xyz
@@ -8963,7 +9052,6 @@ Krypt (Berggasse, Wasagasse, 1090 Wien) https://krypt.bar
 The Bank (Bognergasse 4, 1010 Wien) https://restaurant-thebank.at
 
 Motto (Schönbrunner Str. 30, 1050 Wien) https://motto.wien
-
 
 
 **food**
@@ -9033,8 +9121,6 @@ The Pelican Coffee Company (Pelikangasse 4, 1090 Wien) - https://www.instagram.c
 Jonas Reindl (Währingerstraße 2-4, 1090 Wien,  and Westbahnstraße 13, 1070 Wien) - https://www.jonasreindl.at/  https://www.instagram.com/jonasreindlcoffeeroasters/ 
 
 Coffee Pirates (Spitalgasse 17, 1090 Wien) - https://coffeepirates.at/  https://instagram.com/coffeepirates_vienna 
-
-
 
 Традиционные венские кафе:
 
@@ -9651,9 +9737,6 @@ www.duapune.com - A leading job platform in Albania for various industries.
 4. Credo - этакая помоечка, но открывает практически всем подряд. Есть проблемы с входящими SWIFTами из-за того, что у них были банки-корреспонденты в РФ.
 
 
-
-
-
 # Singapore/Сингапур
 
 
@@ -9862,17 +9945,20 @@ Native
 
 # Бангкок, Таиланд
 
-
-
 1. Переночевать:
+https://www.booking.com/
 
-https://www.booking.com/https://www.airbnb.com.sg/https://www.agoda.com/
+https://www.airbnb.com.sg/
+
+https://www.agoda.com/
 
 
 
 2. Жильё надолго:
 
-https://propertyhub.in.th/enhttps://www.renthub.in.th/en
+https://propertyhub.in.th/en
+
+https://www.renthub.in.th/en
 
 
 
@@ -9886,25 +9972,17 @@ https://propertyhub.in.th/enhttps://www.renthub.in.th/en
 
 **job**
 
-
-
 linkedin.com
 
 
 
 **maps**
 
-
-
 Google maps
 
 Bangkok Metro
 
-
-
 **transport**
-
-
 
 BTS (над землей), MRT (под землей). На всё свой проездной (даже на разные ветки BTS), но можно купить на станции одиночный проезд до конкретной станции. если у вас не-одноразовая карточка, цена за проезд определяется при выходе через турникет. в Bangkok Metro карты и того, и того -- и можно карту города подложить.
 
@@ -9938,20 +10016,11 @@ https://www.lazada.co.th/ (самое сложное указать свой а�
 
 **med**
 
-
-
 Все крутые и носят маски, почти всюду проверяется температура.По опыту, лучше дойти до Bangkok Hospital (https://www.bangkokhospital.com/en) и разориться: врачи там крутые и прекрасно знают английский. По слухам с переводчиком можно соваться и в обычные госпитали (туда шлет страховая), но без него -- велик шанс, что вас не поймут и будут лечить от чего-то другого. Аптек много, но большая часть не круглосуточные, минимум лекарств можно купить в 7-eleven или аналогах
-
-
 
 **services**
 
-
-
 https://bangkok.craigslist.org/https://www.bahtsold.com/
-
-
-
 
 
 - на https://www.meetup.com/ есть сколько-то международных ивентов
@@ -10033,11 +10102,12 @@ https://www.facebook.com/peppinarestaurantgozo/ - офигенно, дешево
 
 http://www.kuyamalta.com/ - много хорошего пива и еда неплохая (не скажу, что прям вау, но хорошо)
 
+**culture**
+
+«L'ora legale» / «Закону тут не место» - In a Sicilian town signed by countless problems provoked by a rampant dishonesty, the inhabitants elect a major which promises order and legality. But the truth is that the town (and Italy) is corrupted and dishonest beyond redemption. Мальтийский социум и политическая культура очень похожи на южноитальянские
 
 
 # United Arab Emirates
-
-
 
 ## Dubai
 
@@ -13599,7 +13669,9 @@ BBI, Alta, SCC
 
 Подать на испанскую визу в Армении Ереване нет внж ибо оф представительство в центре в Москве
 
+**food**
 
+Topaz Khinkali - Это лучшие хинкали, 10/5 Столик после 20 надо бронировать https://goo.gl/maps/sbggWiSEAjqCs5P29
 
 # Белорусь
 
