@@ -987,36 +987,17 @@ Champion Bar —https://goo.gl/maps/1Vh4QNBQfUdBSpHM7. Он скрыт в под
 
 Нет, это не шины. Это соседний от Токио город, куда легко добраться за 40 минут на экспрессе. Много веков Йокогама была чуть ли не единственным портом, куда разрешали заходить иностранным кораблям. Морякам разрешали ночевать в городе, но не покидать его. Так Япония держала свою изолированность от остального мира.
 
-
-
 Именно из Йокогамы японцы аж только в 19 веке узнали про такие вещи как, например, хлеб, мороженое и уличное освещение.
 
-
-
-Сейчас там можно гулять, есть прикольный китайский квартал (да-да, ехать в Японию, чтобы смотреть Китай — всё логично), а на набережной тоже стоит огромный Гандам, на которого даже можно залезть.
-
-
-
+Сейчас там можно гулять, есть прикольный китайский квартал, а на набережной тоже стоит огромный Гандам, на которого даже можно залезть.
 В горных деревушках всегда можно найти традиционные японские отели — рёканы, где вам прямо на входе выдают тапочки и кимоно, а потом вы во всём этом великолепии идёте в онсен, где моетесь и потом лежите набираетесь силы земли в этом самом горячем источнике. После рекомендовано навернуть саке из чайничка.
-
 Сами онсены бывают очень разными. Какие-то делают прямо на улице, с красивыми видами, другие напоминают просто большой горячий бассейн в помещении. Их объединяет одно — в онсены принято ходить полностью голыми.
 
 
 
 Заклеиваем тату лентой, чтобы пустили в японскую баню
-
-Заклеиваем тату лентой, чтобы пустили в японскую баню
-
 Если онсен публичный, то есть там моются и другие японцы, в нём чаще всего будут запрещены татуировки. Татуировки в Японии считаются знаком Якудз, потому их придётся заклеить специальной лентой, которую нужно заранее купить в магазине или любой аптеке.
-
-
-
-Да, мы проверили, наших девочек реально прогнали за татуировки :)
-
-
-
 В приватных онсенах, которые вы бронируете только на свою компанию, таких правил нет.
-
 
 
 Японский гриль — это когда тебе выдают кучу сырого мяса, в центре стола ставят гриль и ты жаришь всё это себе сам.
@@ -1025,6 +1006,10 @@ Champion Bar —https://goo.gl/maps/1Vh4QNBQfUdBSpHM7. Он скрыт в под
 
 The Restaurant of Mistaken Orders/ Ресторан ошибочных заказов (〒116-0012 Tokyo-to, Arakawa-ku, Higashi Oku 1-1-4) http://www.mistakenorders.com/en/home.html
 
+
+Hub British Pub chain - uk Fish and Chip
+Malins Fish and Chip Shop - uk Fish and Chip
+Hobgoblin Pub - Fish and Chip
 
 
 ## 京都/Киото
@@ -5313,6 +5298,9 @@ Las Adelitas - chain of Mexican restaurant. tacos are outstanding, micheladas ni
 Lokál U Bílé kuželky (Míšeňská 12) - This lively pub is known for its pilsner & simple Czech cooking, as well as its atmospheric cellar. good for selebrate BP with your boss. https://lokal-ubilekuzelky.ambi.cz/en/ https://www.kuzelkadomu.cz/
 
 
+The Cheapest One CHLEBÍČEK: https://goo.gl/maps/4443u3a7akfiBJRF8 (but many more locations, google "Albert supermarket")
+Zlatý kříž (34, Jungmannova 750) - The Most Traditional One CHLEBÍČEK: https://goo.gl/maps/MyYgn9Ao9iTL5KD67 https://www.lahudkyzlatykriz.cz/
+Sisters Bistro (39, Dlouhá 727) -  is also on the party street Dlouhá. The Most "Expensive" One CHLEBÍČEK: https://goo.gl/maps/XujkH9ibuknjJZQg7 https://www.sistersbistro.cz/
 
 
 
@@ -8124,6 +8112,8 @@ this thing of ours (9a Chapel Walks Manchester M2 1AE) - techwear uk shop https:
 
 # Germany
 
+https://github.com/korotko-de/dach-collection/blob/main/ru/telegram-collection.md
+
 **Apartment**
 
 buy
@@ -8200,6 +8190,32 @@ LinkedIn
 
 xing.com
 
+https://www.datacareer.de/
+
+
+**community**
+
+Chaos Computer Club, или коротко CCC — это крупнейшая в Европе ассоциация хакеров, основанная еще в 1981 году. По своей известности в узких кругах она может сравниться с Anonymous, хотя последние скорее движение любых анонов без какой-либо организации, а CCC — официальное сообщество с 7К+ официальных членов, собственной базой в Берлине и регулярными ивентами. Chaos Communication Congress - Leipzig, Chaos Communication Camp - Berlin. https://events.ccc.de/. MOMEM - https://momem.org/produkt/1800-2100/.
+Все сцены транслируются на [streaming.media.ccc.de](https://streaming.media.ccc.de/), а после кемпа видео монтируются и выкладываются на «собственный YouTube» (конечно же хакеры переизобрели всё своё) где-то [вот тут](https://media.ccc.de/c/camp2023).
+
+
+**study**
+
+Studienkolleg - Штудиенколлег является переходной ступенью от школы в родной стране к немецкому университету. Учеба там в течение года позволяет улучшить языковые навыки и поближе познакомиться с культурой Германии. 
+▫️ G - гуманитарные науки;
+▫️ W - экономические науки;
+▫️ M - медицина и биология;
+▫️ T - технические специальности;
+▫️ S - языковое направление.
+
+Также Штудиенколлеги для Fachhochschule предлагает следующие направления:
+▪️ TI — технические и инженерные направления;
+▪️ WW — экономические специальности;
+▪️ GD — творческие и художественные программы;
+▪️ SW — социальные науки.
+
+
+
 ## Berlin
 
 **sport**
@@ -8247,6 +8263,8 @@ Tag des offenen Denkmals https://www.berlin.de/events/2860241-2229501-tag-des-of
 Matrix Club Berlin - https://www.matrix-berlin.de/
 
 Artemis Club
+
+Chaos Computer Club - У CCC в Берлине есть своя «база» — C-base, около Jannowitzbrücke и кит-ката. Там частенько бывают мероприятия, тусы и воркшопы, а на нижнем этаже есть хакспейс «только для своих». Рекомендую сходить как-нибудь, когда у них будет открытое мероприятие. Hack and Tell митапы обычно норм для вкатывания.
 
 
 
@@ -8782,7 +8800,17 @@ A Le tole Spaghetteria pizzeria 6342 (Barbaria de le Tole, 6342) - pizza and pas
 Gelateria Artigianale (Calle Emo, 1585/1586, 30121) - cheap and cool gelato
 
 
+## Genoa/Генуя 
 
+Прикольная историческая часть, грязный порт,много мигрантов, а природа вокруг прямо ок. 
+
+пляж Bocadasse
+
+## Bologna/Metropolitan City of Bologna/Болонья
+
+**food**
+
+Cocoa Bistrot (Via Altabella, 14a) - Bright & lively cafe/bar known for its long cocktail list, snacks & generous sharing platters. https://cocoa-italian-bistrot.business.site/
 
 
 ## Milan
@@ -9474,6 +9502,10 @@ Visby — средневековый город на Готланде
 www.pole-emploi.fr - The French public employment service offering job listings
 
 https://vas3k.ru/world/normandy/ - париж, руан, abbaye de Jumieges, Этрета (захайпованное место) -> Онфлёр, Мон-Сен-Мишель, Омаха Бич, Канкаль (устрицы), Сан-Мало (Прогулка по городской стене), Дорога Сидра (популярная идроварня Pierre Huet)
+
+лавандовые поля в Валенсоль
+
+пляж Метро в Байонне
 
 ## Paris
 
@@ -10813,6 +10845,11 @@ Chekhoff - Просто крутейший бар, который навсегд
 **gob**
 
 www.jobs.bg - A popular job portal in Bulgaria for different sectors
+
+
+## Plovdiv/Пловдив
+
+кластер в старом городе с ресторанами, вокруг места Green Library
 
 # Romania
 
@@ -12228,6 +12265,9 @@ Beogradski izlog https://www.kcb.org.rs/premises/beogradski-izlog/
 
 DAMAR TARTUFI (Zetska 2) - large selection of truffle products: soy sauce with white truffle, truffle sauce, truffles and olives, honey with truffles... 
 
+Gastronaut Srbija (Ugrinovački Put 65) - Restaurant supply store https://gastronaut.rs/
+
+
 vinotekabeograd.com vine shop
 
 **service**
@@ -12317,6 +12357,8 @@ Sava Promenade
 Kosančićev Venac
 
 Skadarlija
+
+Hyde park
 
 Ada Cinganlija
 
@@ -12549,6 +12591,7 @@ Nekrasova the Bar - The famous St Peterburg’s bar street vibes in the heart of
 
 IDOL tiki bar (Strahinjića Bana 61) - tiki cocktail bar + pub food and chinese food https://t.me/idol_rs https://idolbar.rs/
 
+Bife bar (Maršala Birjuzova 2-4) - another one new bar. speakeasy ryumochnaya with the boards games on the 2nd floor of a strange building. https://www.instagram.com/bifebar/ https://t.me/bife_bar
 
 
 **beer**
@@ -12599,7 +12642,7 @@ Draft bar (Žorža Klemansoa 29d) - beer and wine. bar based self service taps a
 
 Krafter Beograd (Страхињића Бана 44) - https://www.facebook.com/kftbeerbar Среднего размера бар в самом центре. 15 кранов местного крафта, есть дегустационный сет по 100 мл! Но цены могут быть немного высоковаты.
 
-Craft Heaven (Kneza Danila 45 Palilula) - craft shop and bar. craft beer + some strong spirit + cocktails, cats Affiliated with local brewery Sindikat, it offers a good variety of canned and bottled craft beer from different breweries, as well as 8 ones on tap. https://www.instagram.com/kraftrajcraftshop
+Craft Heaven (Kneza Danila 45 Palilula) - craft shop and bar. craft beer + some strong spirit + cocktails, cats Affiliated with local brewery Sindikat, it offers a good variety of canned and bottled craft beer from different breweries, as well as 8 ones on tap. Cats nearby. https://www.instagram.com/kraftrajcraftshop
 
 Chopper на сараевской - Там красиво, годная музычка и есть еда.
 
@@ -12614,6 +12657,8 @@ Baš.ta (Cetinjska 15)
 Gradska Pivnica Terazije (Terazije 28) - пиво и колбасицы https://www.gpterazije.rs/
 
 Beogradski Manijak (Sremska 2) - pub если близок по духу панк-рок https://www.facebook.com/BeogradskiManijak
+
+Kossa Bar (Vajara Živojina Lukića 58e) - coffee in the afternoon, and cocktails at night. Nice view on the terrace upstairs
 
 
 **wine**
@@ -12648,6 +12693,8 @@ Hrastovina (Bul. kralja Aleksandra 248) - Бар с рестораном с до
 
 proces - Belgrade Grand Crew Natural wines from Serbia and beyond. Wine + some beer rakija and food/snacks https://www.instagram.com/proces.winebar/
 
+Vinoteka Wine Dog (Đorđa Stanojevića 11b) - wines / spirits / gifts / & more https://www.instagram.com/winedogvinoteka/ https://www.facebook.com/vinotekawinedog/ https://winedog.rs/
+
 Fino vino (Pop-Lukina) - Wine store http://finovino.rs/
 
 Vino i Tako To () - wine store https://vinoitakoto.com/
@@ -12680,6 +12727,12 @@ tt bistro (Cara Uroša 19) - недалеко от tt eatery есть чебур
 
 tt eatery (Visokog Stevana 31) - русская кухня солянка как ресторанчик  https://www.instagram.com/tt__eatery/ https://www.opentable.co.uk/r/tt-eatery-beograd?shareReferrer=ios-share
 
+Homa (Žorža Klemansoa 19) - Michelin Guide 2023 https://www.instagram.com/homa_restoran/ https://www.homa.rs/
+
+Homa bistrot (Nevesinjska 11) - https://www.homa.rs/bistrot/ https://www.instagram.com/homabistrot/
+
+Homa Gourmet Pizza - delivery only - Новый проект от модернистского ресторана Homa. есть пицца с трюфелем, осьминогом и даже говяжьим языком https://www.instagram.com/homa_gourmet__pizza/ https://www.homa.rs/pizza/
+
 https://www.instagram.com/artist_beograd/
 
 https://www.instagram.com/d59b.belgrade/
@@ -12689,6 +12742,9 @@ https://www.instagram.com/angrymonkbelgrade/
 https://www.instagram.com/puffylilpancakesbelgrade/
 
 PRANA Brunch & More (Hilandarska 6) - Если выходить на него слева там живые котики no smoking place http://prana.rs/
+
+Restoran Hyde Park (Botićeva 1 / Bulevar Kneza Aleksandra Karađorđevića 6) - Restaurant -Lounge -Garden Bar -Event Space https://www.instagram.com/hydeparkbeograd/?igshid=YmMyMTA2M2Y%3D
+
 
 
 НЕКУРЯЩИЕ ЗАВЕДЕНИЯ В БЕЛГРАДЕ 
@@ -12702,6 +12758,8 @@ https://www.google.com/maps/d/viewer?mid=1qkPRUNRiCqA-uFugbcuVy9INXgw&ll=44.8160
 enso (Mitropolita Petra 8) - Restaurant from the Michelin guide 2022 https://www.enso.rs/
 
 Kej (Vojvode Stepe bb) - Рибљи ресторан
+
+POSH - Fish & Steak ()Dobrinovićeva 1 - fish and chips https://www.facebook.com/p/POSH-Fish-Steak-100091939359173/?paipv=0&eav=Afai7xeBJ1pGosJmCxvsPGItp74Bwuxcc-nsIrz8kguMFM6Q8ygM8ZtUbriThid5yIk&_rdr http://restoranposh.rs/
 
 Old Hercegovina (Carigradska 36) - http://www.stara-hercegovina.rs/kontakt/ https://guest.kono.bar/vzpgqd
 
@@ -12721,9 +12779,22 @@ Prava Pljeskavica (Takovska https://goo.gl/maps/Bir3tdA8knuzJ7NJ8) - The service
 
 Znak Pitanja/Question Mark (Kralja Petra 6) - homemade coffe and nice food http://www.znakpitanja.rs/
 
+Halo Lescovac -  стритфуд
+
+Pekara Trpkovic - Самая старая пекара с буреками
+
+Pekara Uzitak Vracara (Hadži Melentijeva 25) - nice backery
+
+Marenda (Skerlićeva 30) - good for breakfast marenda.rs
+
 Завичаj - ресторан сербской кухни
 
 Cetinjska 15 - Ресторан с огромными порциями
+
+Duomo Craft (Bulevar despota Stefana 53a) - fast food and beer. freshly baked buns, high quality meat and super friendly stuff, really clean and packed nice.
+
+Čobanov odmor/Чобанов одмор (Vojvode Šupljikca 34) - Traditional Serbian food at very low prices https://cobanovodmor.com/
+
 
 Mali Dorćol (Vojvode Dobrnjca 34) - Lunch restaurant отличный гуляш и бычьи хвосты
 
@@ -12755,7 +12826,7 @@ Lovac (Alekse Nenadovića 19) - здесь много всего вкусног�
 
 Holy Smokes - Texas Style BBQ (Cetinjska 15a) - good barbecue restaurant http://holysmokes.meni.rs/
 
-Milky palačinkarnica (Kneginje Ljubice 20) -  American style pancakes milky.rs
+Milky palačinkarnica (Kneginje Ljubice 20) - American style pancakes milky.rs
 
 Траттория Пепе паста с кониной
 
@@ -12777,6 +12848,8 @@ Lorenzo & Kakalamba - Ресторан с необычным интерьеро�
 
 birds (Strahinjića Bana 1) - аккуратное красивое место. Русскоязычный персонал.Типа грузинская. Периодически есть трубочки и орешки с вареной сгущенкой и сырками. Вкусно. https://www.instagram.com/birds.beograd/
 
+OVO bistro (Svetogorska 17) - Sunny European cuisine / curated wines. Backyard terrace https://www.instagram.com/ovobistro/
+
 
 Endorfin в Дорчоле. Качественные вина, коктейли, крафтовые пива и *изысканная* кухня. no smoking place https://maps.app.goo.gl/pMo48HfzwEvP45FA9?g_st=ic
 
@@ -12785,6 +12858,8 @@ Gost (Адрес: Maršala Birjuzova 3-5) - Georgian готовые хинкал
 
 Stories (Pjarona De Mondezira 28) - delicious Georgian food. Taste khinkali, qutabs, carrot cake and other cakes and sweets, soups, gazpacho with octopus. https://www.instagram.com/stories.beograd
 
+
+Burgers Stepin vajat (Braće Jugovića 21) - nice burgers. They serve burger meals. https://www.burgers.rs/
 
 [Burger House Bros](Kralja Petra 10 / Mileševska 65) - chain. Ресторан со вкусными бургерами. http://www.burgerhouse.rs/ https://burgerhousebros.com/ 
 https://smashburgers.rs/
@@ -12820,13 +12895,6 @@ Mr. Keh (Гаврила Принципа 6) - пельмени, пицца, ги
 Restoran Red Queen Belgrade () - https://rqbelgrade.rs/en/ https://www.instagram.com/rqbelgrade/ пельмени International dishes, wine,Korporativne proslave, Live music
 
 
-Halo Lescovac -  стритфуд
-
-Pekara Trpkovic - Самая старая пекара с буреками
-
-Marenda (Skerlićeva 30) - good for breakfast marenda.rs
-
-
 Lorenzo & Kakalamba -  необычное заведение . Владельцы ресторана решили сделать ставку на ядерное сочетание всего: флорентийской и пиротской кухонь, китча и садо-мазо в интерьере, безупречности и чудоковатости обслуживания. Танцующий Ленин, попообразные стулья, картины Ботеро, Санта Клаус с газетой на унитазе, стеклянный пол, под которым кухня и виден процесс приготовления блюд и бессчетное множество других приковывающих внимание деталей. Это не ресторан, а какой-то аттракцион. https://lk.rs/en
 
 San Panino (Kralja Petra 78) - Italian sandwiches in Belgrade by PIETRA Pizzeria https://www.instagram.com/sanpaninobeograd https://sanpanino.rs/
@@ -12855,9 +12923,9 @@ Bucko (Beogradska 56, Francuska 18) - cheap strange but taste pizza with mayo sa
 
 pizza botako (Šantićeva 8) - reach pizza, nice place. https://pizzabotako.rs
 
-Toronto Pizza & Bakery (Cara Dušana 10) -  cheap pizza streetfood 
+Toronto Pizza & Bakery (Cara Dušana 10) - cheap pizza streetfood 
 
-Giovanni's Pizzeria (Nikole Spasića 3) -  nice Pizza restaurant
+Giovanni's Pizzeria (Nikole Spasića 3) - nice Pizza restaurant
 
 
 
@@ -12879,6 +12947,9 @@ Spring Belgrade 春风十里中餐馆 (Dositejeva 22) - nice Chinese restaurant.
 [YXlanzh](geo:44.814218505252896,20.45543980640579) - Југ Богданова 6. Название непроизносимое, но это халяльная(!) китайская столовка. Интерьер ничего особенного, но меню большое и с картинками. Довольно вкусно.
 
 Youran Tea House (Prizrenska 6) - Chinese tea house Chinese Tea, Chinese Healthy Food, Bubble Tea, Tea Cakes, dumpling https://www.instagram.com/youranteahouse/
+
+SHANGRI LA CHINESE TEA RESTAURANT (Ul. Tresnjinog cveta 9 11070 Novi Beograd, Serbia) - https://www.facebook.com/profile.php?id=100063631117762 https://www.shangrila.rs
+
 
 [Go Sushi](https://gosushi.rs/) (5 точек в городе: Praška 34, Žička 1, Svetozara Markovića 38, Đorđa Stanojevića 9b, Cara Lazara 11) - сеть японских ресторанов. Роллы с лососем годные, думаю остальное тоже. В меню имеется рамен.
 
@@ -12930,6 +13001,10 @@ Zapata Ciudad (Vuka Karadžića 14) - Mexican restaurant http://www.zapatabeogra
 Restaurant Nachos (Strahinjića Bana 66a) - Mexican restaurant https://nachos.rs/
 
 Tortilla Casa (Čika-Ljubina 6) - It’s a fast food Mexican place. There is limited seating available both inside and outside. The food is tasty and quite big in portion. You have different options of our tortilla from green to spicy as well as choices of different meats.  https://tortilla-casa.com/
+
+Cypress Tacos (Makedonska 5, TC Trg Republike/ Balkanska br.9 / Rige od Fere 17) - nice but not greate http://www.cypresstacos.rs/ https://www.instagram.com/cypresstacos/
+
+La Chona (Knjeginje Ljubice 26) - mex food, drinks, cocktails and chill atmosphere. Good margarita, taco al pastor and chicharon https://lachona.rs/meksicka-hrana-meni/
 
 
 Kokos (Nušićeva 7a) - vegan place. Probubly the tasties one
@@ -13090,6 +13165,8 @@ https://www.serbianshop.com/en
 Pečenjara Baralić (Miše Vujića 2) - Meat products store
 
 Hungarikum centar (Novopazarska 32-34) - market with good products from Hungary, but, the staff does not inovate the prices on the products, thats why the consumers are not sure what are the real price of some products. Meanwile reasonable prices https://www.hungarikumcentar.rs/
+
+CENTLI - Tiendita Mexicana (Majora Ilića bb) - Mexican grocery store https://centli-tiendita.com
 
 Top Cut (Svetogorska 33) - магазин полностью посвященный новому году и рождеству. Дорохо, но поглазеть и выпить глинтвейн - ок. 
 
@@ -13362,7 +13439,6 @@ djurdjic того стоит
 https://t.me/rus_nis 
 
 
-
 **to go**
 
 Niš Fortress (Đuke Dinić)
@@ -13429,6 +13505,7 @@ I love Palilula (Vojvode Gojka 23, Niš)
 
 The Nišville Jazz Festival - For four days in the middle of August the city’s fortress puts on the biggest jazz festival in the Balkans.
 
+beer fest https://festivalpiva.com/
 
 **to stay**
 
