@@ -379,8 +379,11 @@ ireland https://www.irishimmigration.ie/coming-to-work-in-ireland/what-are-my-wo
 france - Special case work visas Talent Passport
 
 netherlands
-Austria
+
+Austria - https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/very-highly-qualified-workers/
+
 Japan
+
 Spain
 
 **education**
@@ -9276,7 +9279,7 @@ Flink
 TooGoodToGo - еда со скидками, забирать самостоятельно 
 
 
-🇩🇪 Переводчик 
+Переводчик 
 Google Translate
 LEO Wörterbuch
 DeepL
@@ -9335,6 +9338,9 @@ Oeticket- билеты на концерты
 
 Ivie - гид по Вене
 
+**gov**
+
+https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/very-highly-qualified-workers/
 
 ## Vienna
 
