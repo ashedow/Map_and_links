@@ -346,6 +346,8 @@ t.me/@g_jobbot
 https://layoffs.fyi/ - в целом тут видно, где увольняют больше всего
 
 
+https://www.hcch.net/
+
 **gov**
 
 EU SIS 
@@ -2721,6 +2723,7 @@ https://puesc.gov.pl/
 
 https://rspo.gov.pl/ - Wyszukiwarka szkół i placówek oświatowych Ministerstwa Edukacji i Nauki
 
+zaświadczenie o niekaralności https://ekrk.ms.gov.pl/ep-web/login?invalid  https://poland-consult.com/wp-content/uploads/2023/04/Wykaz_PI_KRK_10052019r.pdf
 
 **Biuro rachunkowe**
 
@@ -8218,6 +8221,8 @@ this thing of ours (9a Chapel Walks Manchester M2 1AE) - techwear uk shop https:
 
 https://github.com/korotko-de/dach-collection/blob/main/ru/telegram-collection.md
 
+https://github.com/ru-de/faq
+
 **Apartment**
 
 buy
@@ -8275,6 +8280,10 @@ Conny https://conny.de/en – компания, которая поможет в
 fraenk.de – оператор сотовой связи. все делается онлайн. тариф довольно недорогой (7gb интернета + unlim звонков и смс за 10евро/ за рефку (DARM23)+ 1gb (до 06.06 +3 gb). если ваш телефон поддерживает eSim, связь вы получите в тот же день, а то и в течение нескольких минут. оплата с paypal. интернет работает по ЕС отлично (проверено в Австрии, Франции, Хорватии) Из минусов звонить можно только на немецкие номера. И нет 5g сетей)
 
 
+**gov**
+
+visa application https://videx.diplo.de/videx/visum-erfassung/#/videx-langfristiger-aufenthalt
+
 **med**
 
 Doctolib – запись ко врачам. https://www.doctolib.de/
@@ -8290,7 +8299,7 @@ https://www.kvbb-arztsuche.de/ases-kvbb/ases.jsf?sort-by=auto&from=0&t=arzt&size
 
 stepstone.de - StepStone is one of the most widely used job sites in Europe and in Germany.
 
-LinkedIn
+https://www.linkedin.com/
 
 xing.com
 
@@ -8298,12 +8307,130 @@ https://www.itrheinland.de/
 
 https://www.datacareer.de/
 
+http://berlinstartupjobs.com/
+
+https://angel.co/jobs
+
+http://de.indeed.com/
+
+http://jobs.meinestadt.de
+
+https://www.moberries.com (заполняете профиль и он вам сам предлагает вакансии)
+
+https://relocate.me/country/germany
+
+https://relocateme.eu/jobs/country-de/
+
+https://www.arbeitnow.com/
+
+https://www.itrheinland.de
+
+stepstone.de
+
+money
+https://www.kununu.com/
+
+https://www.glassdoor.de/
+
+netto/brutto: web: http://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php android OS: https://play.google.com/store/apps/details?id=de.betaapps.bruttonetto
+
+https://www.asdcode.de/
 
 **community**
 
 Chaos Computer Club, или коротко CCC — это крупнейшая в Европе ассоциация хакеров, основанная еще в 1981 году. По своей известности в узких кругах она может сравниться с Anonymous, хотя последние скорее движение любых анонов без какой-либо организации, а CCC — официальное сообщество с 7К+ официальных членов, собственной базой в Берлине и регулярными ивентами. Chaos Communication Congress - Leipzig, Chaos Communication Camp - Berlin. https://events.ccc.de/. MOMEM - https://momem.org/produkt/1800-2100/.
 Все сцены транслируются на [streaming.media.ccc.de](https://streaming.media.ccc.de/), а после кемпа видео монтируются и выкладываются на «собственный YouTube» (конечно же хакеры переизобрели всё своё) где-то [вот тут](https://media.ccc.de/c/camp2023).
 
+
+**language**
+
+school
+По всей Германии (включая Берлин)
+* Berlitz http://www.berlitz.de/en/ Одни из лучших курсов, но в то же время одни из самых дорогих, порядка 700€ за блок.
+* Goethe Institut https://www.goethe.de/ins/de/en/kur.html Институт, ответственный за распространение немецкого языка в мире. Цена порядка 600€ за блок.
+* Deutsche Akademie http://www.deutschakademie.de/, 225€ за блок
+* VHS (Volkshochschule) - есть почти в каждом городе, имеют каждая свой сайт (http://www.berlin.de/vhs/, https://www.vhs.frankfurt.de). В небольших городах предлагают курсы A1-B1, редко B2. В больших есть и B2, C1 - ... Есть интенсивные курсы - 4 раза в неделю, утром или вечером. Цена около 150€ за блок.
+* Inlingua https://www.inlingua.de/en/, глобальная сеть школ по всему Миру, много языков. Качественные пособия, хорошие преподаватели и мотивированные группы.
+
+Только Берлин
+* Kapitel Zwei http://kapitel-zwei.de/, 222€ за блок
+* Sprachsalon http://www.sprachsalon-berlin.de/en/, около 400€ за блок
+* Logo! http://www.logosprachenschule.de/
+
+
+Интеграционные курсы от BAMF (Министерство по делам беженцев и переселенцев)
+Раньше существовала практика посылать свеже прибывших на принудительные или добровольные интеграционные курсы. время, из-за большого количества беженцев, вам скорее всего откажут, но можете попробовать. Вся информация доступна на [официальном сайте](http://www.bamf.de/RU/Willkommen/DeutschLernen/Integrationskurse/integrationskurse-node.html)
+
+Если вы успешно сдадите экзамен после курсов на B1, то вы можете запросить возврат 50% оплаченной стоимости обучения, [заявление на возврат взносов](http://www.bamf.de/SharedDocs/Anlagen/RU/Download/Infothek/Integrationskurse/Kursteilnehmer/AntraegeAlle/630-031_antrag-rueckerstattung-kostenbeitrag_pdf.html). Заявление на возврат будет рассмотрено в течение нескольких месяцев.
+
+На случай острой нехватки времени или желания отойти от традиционного подхода по изучению языков можете попробовать через web/mobile.
+
+* [Babbel](https://www.babbel.com)
+* [Duolingo](https://www.duolingo.com/)
+* [Deutsch-lernen.com](https://www.deutsch-lernen.com)
+* [Курсы от Deutsche Welle](http://www.dw.com/en/learn-german/german-courses/s-2547)
+
+
+Для самостоятельного изучения языка, в помощь к курсам, существуют следующие доступные бесплатные материалы:
+
+Видео-блоги Учебные
+* [Deutsch lernen mit der DW](https://www.youtube.com/channel/UCxUWIEL-USsiPak0Qy6_vVg)
+* [akzentfrei](https://www.youtube.com/channel/UCULt74BL5BEakAftLMbPGvQ)
+* [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)
+* [fröhlich Deutsch](https://www.youtube.com/channel/UCQNR5ZJ8fzyWPvsZGyAVORA)
+* [Немецкий с нуля!](https://www.youtube.com/watch?v=vIjQDsbdiO8&list=PL4qV0jIs7Jaa9Z_QDD9S5YJ8QNtfEdMNw)
+* [musstewissen Deutsch](https://www.youtube.com/channel/UCzOHLoNwbebvEkn7y6x-EWA) - заброшенный, но полезный
+На немецком, для практики восприятия на слух и чтения субтитров
+* [Phil Laude](https://www.youtube.com/channel/UCwCpW0IbR0Z2WJryfENq7jw) - немецкий юмор
+* [vipmagazin](https://www.youtube.com/user/vipmagazin) - трейлеры к фильмам, на немецком
+* [Dinge Erklärt — Kurzgesagt](https://www.youtube.com/channel/UCwRH985XgMYXQ6NxXDo8npw) - научно-популярное
+* [tomatolix](https://www.youtube.com/channel/UCNCktfoFAXtXnMlhjyc9SPA) - автор проводит эксперименты над собой
+* [Schlaumal](https://www.youtube.com/channel/UCUxtY_KdoogRKp9b4ULGsHQ) - на тему окружающей среды, заброшенный но полезный
+* [Dima](https://www.youtube.com/channel/UCFMXOlnLLOKl99KV8YfHk-Q) - развлекательный видео-канал
+* [CrispyRob](https://www.youtube.com/channel/UCvGh4HT9ySBoURt0zSpC0Nw) - развлекательный видео-канал
+* [Comedy & Satire im Ersten](https://www.youtube.com/channel/UCbaK85JuGlk6LXXEUM_QfiQ) - юмор
+* [PULS Reportage](https://www.youtube.com/channel/UCBzai1GXVKDdVCrwlKZg_6Q) - популяризация
+Песни
+* [Das Lumpenpack](https://www.youtube.com/channel/UCmpdi9l37fIJry3D3Z3qtgg)
+* [AnnenMayKantereit](https://www.youtube.com/channel/UCheky_SBEExtbK_T0onuDwg)
+* [Revolverheld](https://www.youtube.com/channel/UCDYeYQJ8EePArcKGne4ZGrA)
+* [Mark Forster](https://www.youtube.com/user/markforstertv)
+* [Haller](https://www.youtube.com/channel/UC_I72FLnB2ubZamEqkQE56A)
+* [Wincent Weiss](https://www.youtube.com/user/WincentWeissMusic)
+* [JORIS](https://www.youtube.com/channel/UC8cbnIyANak8W53NR034Y-g)
+* [Akiho Tsujii](https://www.youtube.com/channel/UC__a6ZD84CD1ojMuDZAKCIA) - фрагменты оперетт на немецком
+* [Digster Pop](https://www.youtube.com/channel/UCorI9V6adKvuIYE7ey9HPQQ)
+
+Каналы в Телеграмм Учебные
+* https://t.me/alles_klar
+* https://t.me/nemand
+* https://t.me/ich_spreche_deutsch
+* https://t.me/germanaccent
+* https://t.me/RandomGerman
+* https://t.me/funnygerman
+* https://t.me/deutschland_meineliebe
+* https://t.me/SingingGerman
+* https://t.me/merkel_style
+* https://t.me/yazykdovedet
+* https://t.me/lingua_strategy - канал лингво-коуча об эффективном изучении языка
+
+Сайты с текстами
+* [Zeit Online](https://www.zeit.de/index) - рекомендовали как часть подготовки к экзамену С1
+* [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/) - Статьи с акцентом на таких темах как культура, литература, музыка, наука. На сайте есть также подкасты и радио. 
+* [Deutschlandfunk](https://www.deutschlandfunk.de/) - Всё как и в предыдущем источнике, но с уклоном в политику, экономику и события в мире.
+* [Umweltbundesamt](https://www.umweltbundesamt.de/) - Сайт Федерального агентства по охране окружающей среды.
+* [Новости Баварии](https://www.br.de/index.html) - Есть также радио, медиотека, телевидение, приложения для телефона и т.п.
+* [Новости Франконии](https://www.infranken.de/)
+
+Подкасты
+* [Auf Deutsch gesagt](https://aufdeutschgesagt.libsyn.com/) - для уровня от B1, подробные тематические повествования с разбором словарного запаса в конце
+* [Deutsch lernen durch Hören](https://www.einfachdeutschlernen.com/) - эпизоды по 2-3 минуты, разбирают многие речевые идиомы и поговорки
+
+Курсы и упражнения онлайн
+* [Deutsche Welle](https://www.dw.com/ru/%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9/s-2559) - бесплатные курсы с упражнениями для различных уровней владения языком
+* [Goethe Institut](https://www.goethe.de/de/spr/ueb.html) - бесплатные мультимедийные курсы, упражнения, тест на определение уровня, игры, мобильные приложения
+Блоги
+* [YourDailyGerman](https://yourdailygerman.com/) - блог на английском языке, где доходчиво и с юмором объясняется применение и значение различных немецких слов. Есть e-mail рассылка раз в неделю.
 
 **study**
 
@@ -8319,6 +8446,10 @@ Studienkolleg - Штудиенколлег является переходной
 ▪️ WW — экономические специальности;
 ▪️ GD — творческие и художественные программы;
 ▪️ SW — социальные науки.
+
+**money**
+
+https://www.check24.de/konto-kredit/ - агрегатор предложений от банков
 
 
 
@@ -11072,6 +11203,8 @@ Kijiji – самая известная в Канаде доска частны
 # USA
 
 
+https://dvprogram.state.gov/ green card
+
 
 Как амиши зарабатывают на жизнь http://amishamerica.com/how-do-amish-make-money/
 
@@ -11830,6 +11963,10 @@ https://www.podrumtatalovic.rs/sr/ https://www.facebook.com/podrumtatalovic http
 
 https://chaj.rs/
 
+https://t.me/teainserbia
+
+https://t.me/tea_environment 
+
 
 **Banks and money**
 
@@ -12444,6 +12581,8 @@ Mefody.org - В Сербии появился еще один каталог р�
 
 ## Belgrade/Белград/Beograd
 
+https://t.me/escapeinbelgrade
+
 http://www.tob.rs/en - виртуальный путеводитель по Белграду
 
 https://t.me/sir_s_gory - blog and notes
@@ -12521,6 +12660,12 @@ https://t.me/belgrade_apartmens туда ботом скидывают новы�
 в Черногорию на поезде
 Каждый день два поезда дневной и ночной. В ночном есть спальные места, в дневном нет. Купить билет онлайн нельзя.  Можно забронировать по телефону +381 11 3602 899 и потом прийти купить по номеру брони. Купить можно на станции Белград Центр, но и также на станциях пригородных электричек. Например, под памятником Вуку. По телефону бронирования по-английски не говорят, но в целом хватает сербских слов с сайта с ценами https://www.srbvoz.rs/cene-prevoza-medjunarodni/ и знание русских числительных для дат. Удовольствие сидячее стоит 2500 динар на чел в одну сторону, 5000 динар за лежачее
 
+
+- https://busticket4.me/EN
+
+- https://www.balkanviator.com/en/
+
+- https://www.flixbus.com/
 
 **gov**
 
@@ -12637,8 +12782,11 @@ DAMAR TARTUFI (Zetska 2) - large selection of truffle products: soy sauce with w
 
 Gastronaut Srbija (Ugrinovački Put 65) - Restaurant supply store https://gastronaut.rs/
 
-
 vinotekabeograd.com vine shop
+
+https://www.korpa-deli-market.com/
+
+https://www.vinotekabeograd.com
 
 **service**
 
@@ -12658,6 +12806,14 @@ BC Group (Durmitorska 3) - Electronics store https://www.bcgroup-online.com/
 BE SHARP - Japanese knife shop (Požeška 150A) - Japanski nozevi. Well curated selection of japanese knifes for any purpose and budget. https://www.instagram.com/_be_sharp/
 
 https://www.instagram.com/hair_polar/ - Hairdresser - Colorist
+
+**apple service**
+
+https://locate.apple.com/rs/en/service?pt=3&lat=44.7435091&lon=20.424965&address=Beograd 
+
+iPhone Srbija Servis (Kosovska 28) - ok https://goo.gl/maps/3hVU15dsmV25PDQx7 https://www.iphone-srbija.com/
+
+Apple Servis - RepairPro (Savski Nasip 9a) - write to watsapp https://itune-apple-servis.business.site/ https://maps.app.goo.gl/MdpcEXGmVwKmV6wf9
 
 **music**
 
@@ -12701,12 +12857,13 @@ belodore.rs
 
 https://instagram.com/noar.rs на него многие сербки ссылаются
 
+https://www.instagram.com/almara.rs арабский парфюм
 
 **cosmetic**
 
 Alexandar Cosmetics - hair mostly
 
-dm - regular 
+dm/lilly - regular 
 
 
 **job**
@@ -13029,6 +13186,8 @@ Gradska Pivnica Terazije (Terazije 28) - пиво и колбасицы https://
 Beogradski Manijak (Sremska 2) - pub если близок по духу панк-рок https://www.facebook.com/BeogradskiManijak
 
 Kossa Bar (Vajara Živojina Lukića 58e) - coffee in the afternoon, and cocktails at night. Nice view on the terrace upstairs
+
+300cuda - 300 čuda Cider & Beer House https://www.instagram.com/300cuda.cider.and.beer.house
 
 
 **wine**
@@ -13468,6 +13627,9 @@ Way Cup kafeterija - Звездара. Вкуснейший кофе и очен
 Salon de thé by Small Tree (Svetog Save, 12 TC, Ušće, нулевой этаж под эскалатором )
 
 Kuća Čaja / Кућа чаја (Golsvordijeva, 5 Bulevar Kralja Aleksandra, 233) - store and space to drink tea http://www.kucacaja.rs/
+
+
+https://t.me/tea_environment 
 
 Youran Tea House (Prizrenska 6) - Chinese tea house Chinese Tea place and store
 
@@ -14122,6 +14284,11 @@ BBI, Alta, SCC
 ## Ереван
 
 Подать на испанскую визу в Армении Ереване нет внж ибо оф представительство в центре в Москве
+
+
+Letters and Numbers — вдохновляющий коворкинг и кофейня для работы в центре Еревана.
+https://lettersandnumbers.am/
+https://www.instagram.com/lan_yerevan/
 
 **food**
 
