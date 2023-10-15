@@ -29,6 +29,8 @@ https://www.sygic.com/travel
 
 https://www.komoot.com/
 
+https://velomapa.pl/
+
 http://www.cityspy.info/index.php/home just great maps over the Europe
 
 Map.me
@@ -142,6 +144,9 @@ wearedevelopers.com
 https://www.demoparty.net/ - https://twitter.com/demoparties https://social.cologne/@demoparties https://www.reddit.com/user/demoparty_net demo party events over the world
 
 meetup.com
+
+https://odsc.com - At ODSC (Open Data Science Conference) we strive to bring together the global data science community, facilitate the exchange of innovative ideas, promote the growth of open source software, and prepare data and AI practitioners of all levels for success in their rapidly changing field.
+
 
 https://wearecommunity.io/ - community over the world
 
@@ -394,7 +399,9 @@ Spain
 
 Мероприятия RSVP https://www.rsvp-popup.com/
 
+**med**
 
+https://pillintrip.com
 
 **strange subscription**
 
@@ -2780,7 +2787,7 @@ www.bikeatelier.pl - велики
 
 https://mbike.pl/ - магазин сервис
 
-
+https://velomapa.pl/
 
 Waszawa, aerotunel, Katowice, Poznań https://monstertruckpoland.pl/  - погонять на траках
 
@@ -12605,9 +12612,9 @@ https://t.me/NewsSerbia
 
 https://34travel.me/post/belgrad
 
-Гастрономическая поэзия - Сейчас в это сложно поверить, но на протяжении последних 3+ лет я вела этот канал и блог в инстаграме о кафе и ресторанах Белграда, а совсем не о том, как переехать и открыть ИП https://www.instagram.com/food_bgd 
+https://www.instagram.com/food_bgd канал и блог в инстаграме о кафе и ресторанах Белграда
 
-https://t.me/beograde_dobro_jutro Дарья живет в Белграде и влюбляет в него (Telegram)
+https://t.me/beograde_dobro_jutro 
 
 https://t.me/SalesInBelgrade - sales in belgrade and not only
 
@@ -12929,7 +12936,7 @@ Viline Vode (Viline Vode bb) - Большая галерея современн�
 
 https://novembargallery.com/ - gallery
 
-Stara Ciglana (Slanački put 26) - art space. Заброшенный кирпичный завод на окраине Белграда облюбовали молодые деятели современного искусства и превратили в арт-сквот. Центр цигланской тусовки — клуб-бар Ciglana Klub ljubitelja teske industrije. Приятное место с интересным интерьером, наполненным странными поделками. часто организуются джаз- и блюз-концерты. Если повезёт, можно попасть на концерт какого-нибудь весёлого цыганского оркестра.
+Stara Ciglana (Slanački put 26) - art space. Заброшенный кирпичный завод на окраине Белграда облюбовали молодые деятели современного искусства и превратили в арт-сквот. Центр цигланской тусовки — клуб-бар Ciglana Klub ljubitelja teske industrije. Приятное место с интересным интерьером, наполненным странными поделками. часто организуются джаз- и блюз-концерты. Если повезёт, можно попасть на концерт какого-нибудь весёлого цыганского оркестра. https://instagram.com/ciglana
 
 Stand-UP
 
@@ -13300,6 +13307,8 @@ Old Hercegovina (Carigradska 36) - http://www.stara-hercegovina.rs/kontakt/ http
 
 Жућа (Venizelosova 23) - nice serbian fast food
 
+Skadarlijske kobasice (Skadarska 4) - Great sausages, fresh soft bread, simple toppings. night fast food
+
 Loki (Strahinjića Bana 36) - the oldest one small serbian fast food place at the city center,which works till night https://serbian-restaurant-11.business.site/ https://www.horecapropeler.com/index/loki
 
 Tchevapliya (Ilije Garašanina 7) - all dishes tasty. Nice casual restaurant  http://www.cevaplija.rs/
@@ -13324,6 +13333,7 @@ Duomo Craft (Bulevar despota Stefana 53a) - fast food and beer. freshly baked bu
 
 Čobanov odmor/Чобанов одмор (Vojvode Šupljikca 34) - Traditional Serbian food at very low prices https://cobanovodmor.com/
 
+Shall we (Kneza Danila 9) - nice lasagne. Ok for lunch https://www.shallweclubltd.com/
 
 Mali Dorćol (Vojvode Dobrnjca 34) - Lunch restaurant отличный гуляш и бычьи хвосты
 
@@ -13379,10 +13389,13 @@ birds (Strahinjića Bana 1) - аккуратное красивое место. 
 
 OVO bistro (Svetogorska 17) - Sunny European cuisine / curated wines. Backyard terrace https://www.instagram.com/ovobistro/
 
+Comunale Caffe e Cucina (Beton Hala, Karađorđeva 2-4) - in the Michelin Guide https://comunale.rs/
 
 Endorfin в Дорчоле. Качественные вина, коктейли, крафтовые пива и *изысканная* кухня. no smoking place https://maps.app.goo.gl/pMo48HfzwEvP45FA9?g_st=ic
 
 Gost (Адрес: Maršala Birjuzova 3-5) - Georgian готовые хинкали и прочая грузинская кухня https://www.instagram.com/cafe_gost http://restorangost.rs/ 
+
+Kaži Važi (Gavrila Principa 56) - Georgian as a street food https://www.instagram.com/kazivazi.bg/
 
 
 Stories (Pjarona De Mondezira 28) - delicious Georgian food. Taste khinkali, qutabs, carrot cake and other cakes and sweets, soups, gazpacho with octopus. https://www.instagram.com/stories.beograd
@@ -13437,7 +13450,9 @@ Pietra Pizzeria & Cocktail Bar (Kumanovska 6) - pizzu Napoletanu. Награжд
 
 Gilda - great Italian  restaurant in Belgrade(from Simon)
 
-[Trattoria Campania](geo:44.81712264218442,20.452682736456936) - Кнеза Симе Марковића 10. Итальянский ресторан с шикарной пиццей!
+Trattoria Campania(Kneza Sime Markovića 10, geo:44.81712264218442,20.452682736456936) - Кнеза Симе Марковића 10. Итальянский ресторан с шикарной пиццей https://trattoriacampania.com/
+
+Emma Pizza & Cocktails (Braće Baruh 24) - Pizza Contemporanea https://www.instagram.com/pizza_emma/
 
 Street Pasta Bar (Kralja Milana 52) - good lanch option. https://www.facebook.com/streetpastabar/
 
@@ -13593,6 +13608,8 @@ Everywhere italy style coffee
 Кафе Šećer - Сеть кафе в Белграде с красочным кофе и необычными десертами. Инстаграмно https://secer.rs
 
 Đura Cafe Bar (Venizelosova 62) - https://www.djurabar.rs/
+
+FLAT Community (Kneginje Ljubice 16) - coffee, sweets, cocktails https://www.instagram.com/flat.beograd/
 
 Пржионица (Dobračina, 59b) Дословно означает «обжарочная». в глубине помещения стоит свой аппарат для обжарки зерна. self service концепт. По выходным собирается большая тусовка, за барной стойкой играет диджей, все пьют кофе, весело общаются. 
 
