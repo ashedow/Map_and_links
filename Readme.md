@@ -5387,6 +5387,15 @@ ZESTANKU - good burgers
 FatFuck Smash Burgers - good burgers
 
 
+San Carlo Malá Strana - italian style
+
+Le Pizze di Frankie - small sicker, nice
+
+Johnny Pizza Bar - ny style sliced pizza
+
+Da Pietro - italian pizza out of Prague
+
+Third Coast Pizza - Detroit style pizza
 
 
 Cukrarna Mysak (710/31, Vodičkova, Nové Město) - https://www.mysak.ambi.cz/ for selebrate BP with grandma
@@ -11148,8 +11157,36 @@ bus
 
 https://youtube.com/@CanadaIn
 
+Полный список Канадских чатов и другая полезная информация:
+https://canadakaknado.info
+
 
 https://t.me/pinacanada
+
+
+**job**
+
+* LinkedIn.com
+* hired.ca
+* Indeed.ca
+* Glassdoor.ca
+
+Таблица с рефералами: https://bit.ly/faang_referrals
+
+Списки потенциальных работодателей с LMIA:
+* https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181dc0b97
+* https://docs.google.com/spreadsheets/d/1y-ygYiVDcg1u5fDvk80I8SBRkInR-ZYBgslk9WCkmPM
+* https://lmia.work
+
+Рекрутинговые компании:
+* vanhack.com
+* globalskills.io
+* globaltalentaccelerator.com
+
+Как торговаться: https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer
+
+
+**visa**
 
 При регистрации в Экспресс Энтри вам присваивается определенное количество баллов в зависимости от вашего возраста, образования, опыта работы, знания языков, вашего семейного положения и пр.
 Приглашения получают только те, у кого баллов больше, чем необходимый минимум, который меняется при каждом раунде.
@@ -12814,6 +12851,18 @@ BE SHARP - Japanese knife shop (Požeška 150A) - Japanski nozevi. Well curated 
 
 https://www.instagram.com/hair_polar/ - Hairdresser - Colorist
 
+куча магазинов помельче, ищутся по запросу "elektronske komponente"
+
+kelco - http://kelco.rs
+
+https://www.digistore.rs/kategorija-proizvoda/arduino/
+
+https://store.comet.rs/en/Catalogue/Product/50988/#e30%3D
+
+https://012lab.com/
+
+mikroprinc (Kralja Milutina 31) - https://maps.app.goo.gl/MW11QxmBsUS4ry7x7 http://www.mikroprinc.com/
+
 **apple service**
 
 https://locate.apple.com/rs/en/service?pt=3&lat=44.7435091&lon=20.424965&address=Beograd 
@@ -13127,6 +13176,9 @@ IDOL tiki bar (Strahinjića Bana 61) - tiki cocktail bar + pub food and chinese 
 
 Bife bar (Maršala Birjuzova 2-4) - another one new bar. speakeasy ryumochnaya with the boards games on the 2nd floor of a strange building. https://www.instagram.com/bifebar/ https://t.me/bife_bar
 
+Demokratija cocktails&coffee bar (Zetska 13) - https://www.instagram.com/bgdemokratija/
+
+World Traveller's Club Belgrade (Bulevar despota Stefana 7) - kinda unusual bar. Club Svetskih Putnika collects different souvenirs from all over the world so it can be also treated like small musium. This place has wonderful big garden with lots of plants and open roof with fresh air.The cafe doesn't have any food or snacks BUT it is extremely customer-oriented that you can bring your own food but not drinks, of course. Both non-alcoholic and alcoholic drinks are highly tasty here https://world-travellers-club.business.site/
 
 **beer**
 
@@ -13550,6 +13602,7 @@ Cypress Tacos (Makedonska 5, TC Trg Republike/ Balkanska br.9 / Rige od Fere 17)
 
 La Chona (Knjeginje Ljubice 26) - mex food, drinks, cocktails and chill atmosphere. Good margarita, taco al pastor and chicharon https://lachona.rs/meksicka-hrana-meni/
 
+elcamionloco - https://www.instagram.com/elcamionloco/
 
 Kokos (Nušićeva 7a) - vegan place. Probubly the tasties one
 
@@ -13610,6 +13663,8 @@ Everywhere italy style coffee
 Đura Cafe Bar (Venizelosova 62) - https://www.djurabar.rs/
 
 FLAT Community (Kneginje Ljubice 16) - coffee, sweets, cocktails https://www.instagram.com/flat.beograd/
+
+Demokratija cocktails&coffee bar (Zetska 13) - https://www.instagram.com/bgdemokratija/
 
 Пржионица (Dobračina, 59b) Дословно означает «обжарочная». в глубине помещения стоит свой аппарат для обжарки зерна. self service концепт. По выходным собирается большая тусовка, за барной стойкой играет диджей, все пьют кофе, весело общаются. 
 
@@ -13945,6 +14000,8 @@ music fest https://www.exitfest.org
 
 Bruno bar (Cara Dušana 57) - kraft bar. A lot of strange beer https://t.me/barbruno
 
+
+enotekapremier.rs - wine shop
 
 
 **food**
