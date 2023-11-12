@@ -8294,6 +8294,7 @@ https://marlonbernardes.github.io/awesome-berlin/en/#awesome-berlin
 
 https://allaboutberlin.com/guides
 
+https://www.reddit.com/r/germany/wiki/culture/etiquette/
 
 Набор интерактивных карт Берлина от Morgenpost: http://bit.ly/berlin-interactive-map
 
