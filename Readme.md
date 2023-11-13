@@ -13861,6 +13861,7 @@ Marukoshi (Kapetan-Mišina 37) - Japanese restaurant. traditional Japanese food 
 Taiyaki Belgrade (Uzun Mirkova 12) - jp style sweets, cakes ice cream etc https://www.facebook.com/taiyakibelgrade/ http://www.taiyaki.rs https://www.instagram.com/taiyaki_belgrade/
 
 
+bibim - https://bibim.rs/ https://instagram.com/bibim.rs
 
 hashtag Seoul RS (Starine Novaka 7) - great korean food and tea https://hashtagseoul.com/ https://www.instagram.com/hashtagseoulinbg/ 
 
