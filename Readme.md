@@ -12283,6 +12283,10 @@ https://t.me/teainserbia
 
 https://t.me/tea_environment 
 
+https://k-teashop.com/ - возит чаи, он админ в PFU коворке новом, можно прям там забирать у него
+
+https://gradskaprzionica.rs/sr/shop/ - но владелец оказался классным, полчаса показывал производство и все подробно рассказал и кофе угостил. для фанатов -- можно даже свой произвольный микс зерен под любой вкус заказать от 1кг, и это при этом бесплатно доставят. там оч классная обжарочная техника и контроль качества. они в 170 кофеен зерно в Белграде поставляют, 60 разных блендов и обжарок, но можно и кастомную сделать от кило. помол кому надо под что угодно
+
 
 **Banks and money**
 
@@ -12508,7 +12512,6 @@ https://www.vitapur.rs/
 Ближайшая "kineska robna kuća"
 
 
-
 Выбор техники в Сербии прискорбно мал, а цены предельно высоки. Знающие френды советуют закупаться электроникой и бытовыми приспособлениями в Венгрии. Для тех, кто хочет все и сразу, работают:
 
 Гигатрон http://www.gigatronshop.com/ https://gigatron.rs/
@@ -12581,14 +12584,9 @@ Nutshell Times - После нескольких лет учебы и жизни
 
 Andjoni Eats - Анджони пишет на сербском, но зато пробует самую вкусную еду в кафе и ресторанах, часто ездит по Сербии и интересно рассказывает о ней - успевайте сохранять локации. https://instagram.com/andjoni
 
-
-
 Belgrade Raw - Коллектив из десятка фотографов, которые с 2009 года пытаются исследовать городскую культуру и социально-политическую жизнь Белграда. Результат можно увидеть в инстаграме или на выставках. https://belgraderaw.rs/ https://instagram.com/belgraderaw
 
-
-
 ML fest https://ml-conference.rs/
-
 
 
 **tours**
@@ -13617,9 +13615,13 @@ Restoran Hyde Park (Botićeva 1 / Bulevar Kneza Aleksandra Karađorđevića 6) -
 
 Прекрасные ребята в фейсбук группе «Nepušački lokali u Beogradu» составили карту кафе, баров и ресторанов в Белграде, где полностью запрещено курение, либо есть четкое разделение этих двух зон.https://www.facebook.com/nepusackilokaliubeogradu
 
+https://lokalibezdima.rs/
+
 Ссылка на гугл карту: 
 
 https://www.google.com/maps/d/viewer?mid=1qkPRUNRiCqA-uFugbcuVy9INXgw&ll=44.816013455029925,20.4492096243896&z=10&mibextid=ubJysA
+
+https://www.google.com/maps/d/u/0/viewer?mid=1yq6XLSHZY61Kg0Ygf-YSrSXa39Cy9Yk&mibextid=9R9pXO&ll=44.80498826777053%2C20.46704411849217&z=12
 
 enso (Mitropolita Petra 8) - Restaurant from the Michelin guide 2022 https://www.enso.rs/
 
