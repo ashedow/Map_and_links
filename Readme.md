@@ -43,6 +43,16 @@ HERE WeGo - maps and navigation
 
 hoodmaps.com funny meme maps
 
+https://www.atlasobscura.com/
+
+keepgoingplaces.com
+
+https://www.zurichbeertour.com
+
+Карта telegram каналов эмигрантов по всему миру https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&ll=41.16888942517209,1.9558068438937148&z=9&mid=1JGjMQmg_xNK4aInGlgXgb_ppBwfq8yng
+
+
+
 Поиск билетов в разных странах: самолеты, поезда, автобусы, маршрутки, паромы
 
 Moovit - https://moovitapp.com все варианты транспорта в одном месте.
@@ -108,6 +118,8 @@ https://www.airhubapp.com/ - there are plans with unlimited traffic and seemingl
 
 A good aggregator of different offers https://esimdb.com/.
 
+Silent Link SIM silent.link/
+
 **call**
 
 https://www.openphone.com/- ref code https://www.openphone.com/referral/jWCqnAz
@@ -138,6 +150,7 @@ Art https://www.teamlab.art/
 
 Austria, Worldwide  Arts Electronica fest  - https://ars.electronica.art/news/en/
 
+https://www.ces.tech
 
 https://www.fuckupnights.com
 
@@ -160,6 +173,7 @@ https://www.ai-expo.net/northamerica/
 
 https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 
+https://altinity.com/events/
 
 hackathon.io - hackathon  online/offline events
 
@@ -259,6 +273,8 @@ airbnb
 booking
 
 https://slowhop.com - find Apartments and houses
+
+www.homeand.co
 
 
 **housesitting**
@@ -844,6 +860,7 @@ https://t.me/conbinilifestyle
 
 https://t.me/japanbreakfast https://instagram.com/nikoniko.douga https://www.youtube.com/@NikoNikoDouga
 
+https://www.sej.co.jp/products/mirai_deli.html
 
 **before trip**
 
@@ -910,7 +927,7 @@ JR Pass:
 
 **Culture tips**
 
-
+How to Spend 14 Days in JAPAN Ultimate Travel Itinerary https://youtu.be/DBVAAnq1dHo
 
 Что делает администрация парка? Анализирует цветение сакуры и составляет календарь когда и откуда нужно фотографировать сакуру так, чтобы ваша фотография получилась самой идеальной для каждого конкретного месяца.
 
@@ -1110,6 +1127,28 @@ The Restaurant of Mistaken Orders/ Ресторан ошибочных зака�
 Hub British Pub chain - uk Fish and Chip
 Malins Fish and Chip Shop - uk Fish and Chip
 Hobgoblin Pub - Fish and Chip
+
+
+**coffee**
+Glitch Coffee & Roasters https://glitchcoffee.com/
+
+Woodberry Coffee Shibuya https://www.instagram.com/woodberry_shibuya
+
+% Arabica Arashiyama https://arabica.coffee/en/
+
+Kurasu https://jp.kurasu.kyoto/
+
+Blue Bottle https://store.bluebottlecoffee.jp/pages/kyoto-rokkaku
+
+Koffee Mameya Kakeru http://koffee-mameya.com/
+
+Latte Art Mania https://instagram.com/latteartmania_tokyo/
+
+Leaves Coffee https://leavescoffee.jp/
+
+Koffee Mameya Omotesando http://koffee-mameya.com/
+
+Coffee Wrights x Higuma Donuts http://coffee-wrights.jp/
 
 
 ## 京都/Киото
@@ -5052,6 +5091,49 @@ pasibus - норм бургеры
 
 Butchery & Grill (Sukiennice 6) - great place. Good for meetings with friends. Taste meat and good drinks https://www.butcheryandgrill.pl/
 
+Итальянская кухня
+https://maps.app.goo.gl/2SA1RBsny4whP5Dx7 - Очень вкусная крафтовая паста, почти всегда очереди
+https://maps.app.goo.gl/7zUKg19zf33XVQNw5 - Очень вкусная пицца и паста,
+https://maps.app.goo.gl/C1irHNU3AHnGbNzs8 - Легендарная пицца во Вроцлаве из дровяной печи, высокий шанс очередей
+
+Польская кухня
+https://maps.app.goo.gl/UScGuRXFjDMiZReZ8 - вкусные пироги разных видов. Рекомендую просить в сваренном и потом слегка обжаренном виде
+https://maps.app.goo.gl/5rXiqueT5YRVbaRLA - Ресторан в оформлении времен военного положения с акцентом на Вроцлавскую ячейку Солидарности. Есть в гайде.
+https://maps.app.goo.gl/JsXjdsft5txErnoS9 - вкусно, огромные порции(я не шучу), 20 кранов пива, мало туристов
+
+Паб (Пиво + закуски)
+https://maps.app.goo.gl/rKtLi2TGXWvMNGgy8 - 10 кранов разного локального пива, вкусные закуски. Доска на 2 человека это скорее на 4, а на 4 это скорее на 6. Кухня с закусками работает после 22 00
+https://maps.app.goo.gl/v9UDtSr5MY7Z3CMAA - ~10 кранов своего пива + пицца
+https://maps.app.goo.gl/RVvA7p3XgNz4i3yK6 - Простая, но вкусная локальная кухня, много разного пива
+
+Бар (Коктейли)
+https://maps.app.goo.gl/CLyFShPecsdubKpB7 - Авторские коктейли под твои пожелания, все по 35 злотых фиксированно. Шикарный аутентичный потолок
+https://maps.app.goo.gl/kf4kcSVXHhbFKKjj6 - Коктейли на заказ, немного пива, небольшая кухня. DJ вечером
+https://maps.app.goo.gl/gUrbtxScxsjkeuj87 - В духе творчества Сальвадора Дали. Широкая коктейльная карта, можно не выдумывать самому (но можно и попросить на заказ)
+
+Бар (Шоты)
+https://maps.app.goo.gl/bB4GyE3rqA7RmhvE9 - хороший выбор вкусных шотов, многие с небольшим шоу при подаче. Если хочется кого то разыграть заказывайте шот Lody🍆
+
+Бар (музыка)
+https://maps.app.goo.gl/jWM9VTBSUGWXLmYB8 - Кубинский бар, латиноамериканская музыка на выходных
+https://maps.app.goo.gl/zu2zVm6yNYmYqXwY8 - Живая музыка, надо смотреть расписание в инсте или фб
+https://maps.app.goo.gl/x6fczzfGAM2Hgf5A9 - Живая музыка, но с большим уклоном в рок. Труъ рокерский паб во Вроцлаве
+
+Фаст-фуд
+https://maps.app.goo.gl/hAVVZapQRkR9TKWT8 - Сеть только во Вроцлаве. Прецели обычные, с начинкой, теплые. Дешево и очень вкусно
+
+Завтраки
+https://maps.app.goo.gl/6wzxYMvzQi8169ZF7
+https://maps.app.goo.gl/WvnwDMhSQ5BM3Yg59
+https://maps.app.goo.gl/4dKzwHVgB3dGBoQA8
+https://maps.app.goo.gl/cfM9Tsb174kfPEdg7 - Баскский чизкейк! 7 из 5, особенно с фисташкой
+
+Вне категории
+https://maps.app.goo.gl/LvkpDbSuz3Q3aY1u5 - фуд корт в здании вокзала по типу Варшавских Фабрики Норблина и Электровни
+https://maps.app.goo.gl/cDvSLK2DQuE9QtPP7 - Очень вкусный и необычный рамэн. Фисташковый 
+https://maps.app.goo.gl/GUzJuRXFSQPAPpz79 - Беларуская кондитерская с привычными тортиками как дома. Очень вкусно и много
+https://maps.app.goo.gl/p7CPjLMdaiKTwcRc9 - богемный и немного безумный бар. Выглядит атмосферно
+
 **beer**
 
 Szynkarnia (Świętego Antoniego) - Great place for craft beer. Nice options on tap and also good variety of cans available in the fridges, both local and imported. Food was also super. https://szynkarnia.com.pl/
@@ -5670,9 +5752,23 @@ Vyšehrad - Fortified castle with a museum, hidden passages, large grounds & rem
 
 Gorlice
 
+Holešovice
+
+Holešovice Market (Bubenské nábř. 306, Prague 7-Holešovice) - https://www.holesovickatrznice.cz/
+
+Hala 22 - https://www.holesovickatrznice.cz/zeleninovy-trh
+
+JATKA 78 (Hala číslo 7 a 8, Bubenské nábř. 306 /13,) - Theater company http://www.jatka78.cz/ 
+
 Fuchs2 (ostrov Štvanice, Holešovice)  - aet space,  bar, night club https://www.fuchs2.cz/ 
 
+jaiko - the best ramen in prague
+
 Žižkov Television Tower/Žižkovská televizní věž (Mahlerovy sady 1) - https://www.towerpark.cz/
+
+Žižkov Tunnel
+
+National Memorial on Vítkov Hill
 
 Riegrovy sady (Vinohrady)
 
@@ -5714,6 +5810,12 @@ The smallest house in Prague (Anežská 1043/4, 110 00 Staré Město) - https://
 
 Tančící dům - Знаменитый "танцующий дом" - его можно увидеть на большинстве туристических фотографий. Внутрь можно зайти, на крыше есть бар.
 
+Karlín Barracks
+
+Parlor café (Křižíkova 197/37) - coffee place espresso bar http://www.parlor.cz/
+
+Garaz (Thámova 2) - coffee place https://www.facebook.com/kavarnagaraz/
+
 Kasárna Karlín (Prvního pluku 20/2) - art space Cultural center Бывшие казармы в районе Karlín, переделанные в публичное пространство с барами, кинотеатром, выставками и так далее. https://kasarnakarlin.cz/
 
 Beer Museum (Husova 241/7) - бар и музей. слишком туристический, но норм. https://beermuseum.cz/
@@ -5727,14 +5829,9 @@ Czech Museum of Cubism (House at the Black Madonna, Ovocný trh 19) -  http://ww
 400 ASA Gallery (Kováků 30, Praha 5-Anděl) - art gallery/events/books/caffee-coffee https://400asa.org/gallery 
 
 
-
 Hybernia Theatre (Náměstí Republiky 3/4) - Repertory theater building on the site of a former 17th-century Irish Franciscan monastery. http://www.hybernia.eu/
 
-
-
 Naše maso (Dlouhá 727/39) - butcher shop - https://www.nasemaso.cz/en/
-
-
 
 Украинский магаз Potraviny MiniMarket NonStop (Husitská 940, 130 00 Praha 3-Žižkov, Czechia)
 
@@ -6212,6 +6309,8 @@ Flink
 
 Сервис заказа еды Too Good To Go - https://toogoodtogo.nl/nl
 
+https://www.heatsupply.nl/ - Hot Sauce
+
 Umba
 
 
@@ -6300,6 +6399,8 @@ https://ind.nl/en/residence-permits/work/highly-skilled-migrant#process-and-cost
 tax rates
 
 https://expatax.nl/tax-rates-in-the-netherlands-2022/
+
+thetax.nl
 
 https://open.overheid.nl/repository/ronl-6f6fcb177e5261a629efa6afbad596e0f65d4ec7/1/pdf/Tabel%20marginale%20druk.pdf
 
@@ -8296,6 +8397,8 @@ https://allaboutberlin.com/guides
 
 https://www.reddit.com/r/germany/wiki/culture/etiquette/
 
+https://www.iamexpat.de/
+
 Набор интерактивных карт Берлина от Morgenpost: http://bit.ly/berlin-interactive-map
 
 Сервис, который облегчает расторжение договоров: https://www.aboalarm.de
@@ -8320,68 +8423,54 @@ https://www.meinestadt.de/ (only available in German)
 
 Berlin, offers by major local housing associations: https://inberlinwohnen.de/ (only available in German)
 
-Fully furnished rooms: 
-
-AirBnB (watch out: most providers on AirBnB do not provide “Anmeldung”): https://www.airbnb.com/
-
-Wunderflats: https://wunderflats.com/
-
-spotahome: https://www.spotahome.com/
-
-Homelike: https://www.thehomelike.com/
-
-HousingAnywhere: https://housinganywhere.com/
-
-Shared flats
-
-WG gesucht: https://www.wg-gesucht.de/en/
-
-WG Suche: https://en.wg-suche.de/
+Shared flats:
+* WG gesucht: https://www.wg-gesucht.de/en/
+* WG Suche: https://en.wg-suche.de/
 
  + Join city-specific groups on Facebook
 
 Student housing: 
+* Berlin: https://www.stw.berlin/en/housing.html 
+* Munich: https://www.studentenwerk-muenchen.de/en/student-accommodation/ 
+* Aachen: https://www.studierendenwerk-aachen.de/en/housing.html 
+* -> (Pro Tip: Google “Studentenwerk” + the city you will move to to find your local student union)
 
-Berlin: https://www.stw.berlin/en/housing.html 
-
-Munich: https://www.studentenwerk-muenchen.de/en/student-accommodation/ 
-
-Aachen: https://www.studierendenwerk-aachen.de/en/housing.html 
-
--> (Pro Tip: Google “Studentenwerk” + the city you will move to to find your local student union)
-
-What are your favorite websites to look for accommodation in Germany? Drop us an email to hallo@hallogermany.com. 
+buy:
+* immobilienscout24.de - https://twitter.com/r0mko/status/1600976313866940416?s=52&t=nBm2JgQZDpfbhLP3cDa46w
+* Deutschlandticket https://jonworth.eu/explaining-complexity-in-my-usual-way-with-a-diagram-this-time-deutschlandticket/
 
 
-buy
-
-immobilienscout24.de - https://twitter.com/r0mko/status/1600976313866940416?s=52&t=nBm2JgQZDpfbhLP3cDa46w
-
-
-Deutschlandticket https://jonworth.eu/explaining-complexity-in-my-usual-way-with-a-diagram-this-time-deutschlandticket/
-
-
-Short term
+Short term:
 * https://www.mrlodge.com/
 * Airbnb
 * booking
 
-Long term
+Long term:
 * https://www.immobilienscout24.de/ aka "скаут", как самый крупный.
-http://www.immonet.de/,
-https://www.immowelt.de/,
-http://www.wg-gesucht.de/,
-http://kleinanzeigen.ebay.de,
-https://www.akelius.de/ - это агентство, которое владеет многоквартирными домами под сдачу, вам помогает их агент, но платить ему не надо. Очень хорошие и говорят по-английски.
+* http://www.immonet.de/,
+* https://www.immowelt.de/,
+* http://www.wg-gesucht.de/,
+* http://kleinanzeigen.ebay.de,
+* https://www.akelius.de/ - это агентство, которое владеет многоквартирными домами под сдачу, вам помогает их агент, но платить ему не надо. Очень хорошие и говорят по-английски.
+* https://www.zillow.com/de/coming-soon/
+* https://www.thehomelike.com/
 
-https://www.coming-home.com/en/ - агентство, цены выше среднего, но квартиры все меблированные,
-https://www.city-wohnen.de/eng/berlin/ - агентство, цены немного выше среднего, как правило в цену уже все включено (газ, вода, свет), квартиры все меблированные, быстро отвечают и хорошо подбирают вариант если точно опишете свои пожелания и район, общение на английском.
+* https://www.coming-home.com/en/ - агентство, цены выше среднего, но квартиры все меблированные,
+* https://www.city-wohnen.de/eng/berlin/ - агентство, цены немного выше среднего, как правило в цену уже все включено (газ, вода, свет), квартиры все меблированные, быстро отвечают и хорошо подбирают вариант если точно опишете свои пожелания и район, общение на английском.
 Группы в фейсбуке, объявлений много, но есть и мошенники: 1, 2, 3, 4, 5,
-Если квартира нужна срочно и меблированная:
 
-https://www.nestpick.com
-http://www.homecompany.de/en/index
-https://wunderflats.com - сервис для поиска квартир на первое время специально для переезжающих в Берлин, Мюнхен или Гамбург. Стоимость выше среднего, но в цену уже включены свет, газ, вода и интернет. Также предоставляется справка для банка (Wohungsgeberbescheinigung)
+Fully furnished rooms: 
+* AirBnB (watch out: most providers on AirBnB do not provide “Anmeldung”): https://www.airbnb.com/
+* Wunderflats: https://wunderflats.com/
+* spotahome: https://www.spotahome.com/
+* Homelike: https://www.thehomelike.com/
+* HousingAnywhere: https://housinganywhere.com/
+
+
+Flat fast and fully furnished: 
+* https://www.nestpick.com
+* http://www.homecompany.de/en/index
+* https://wunderflats.com - сервис для поиска квартир на первое время специально для переезжающих в Берлин, Мюнхен или Гамбург. Стоимость выше среднего, но в цену уже включены свет, газ, вода и интернет. Также предоставляется справка для банка (Wohungsgeberbescheinigung)
 
 * https://www.berlinovo.de/de
 * https://www.central-home.de/en/home/
@@ -8393,6 +8482,7 @@ https://www.city-residence.de/ Квартиры на короткий срок (
 Системы автоматизации поиска и отслеживание обновлений:
 
 https://t.me/BerlinFlatsBot - telegram bot для Берлина, оповещает о появлении новых объявлений на популярных ресурсах;
+
 Агентство или собственники?
 Квартиры можно снимать помимо “частников” также от фирм, например, так называемые Wohnungsgenossenschaften.
 
@@ -8423,6 +8513,47 @@ Conny https://conny.de/en – компания, которая поможет в
 * Mietvertrag - контракт на аренду жилья.
 * WG (Wohngemeinschaft) - жильё для совместного проживания. При поиске комнаты ориентируемся именно на эту аббревиатуру.
 
+German housing terminology:
+* Mieten – Rent
+* Kaufen – Buy
+* Wohnung – Apartment
+* Haus – House
+* Wohnen auf Zeit – Temporary accommodation
+* WG Zimmer – Room in a shared flat
+* Wohngemeinschaft (WG) – Shared flat
+* Wohnfläche – Living space 
+* Zimmer (Zi.) – Room
+* Schlafzimmer – Bedroom
+* Küche – Kitchen
+* Einbauküche – Fitted kitchen
+* Bad / Badezimmer – Bathroom
+* Balkon – Balcony
+* Keller – Basement
+* 1-Zimmerwohnung – Studio flat
+* 2-Zimmerwohnung – Apartment with 2 rooms (either 1 bedroom and 1 lounge or 2 bedrooms and no lounge)
+* Kaution – Deposit
+* Grundrisse – Floor plan
+* Bezugsfrei ab – Available from
+* Ab sofort – Available immediately
+* Altbau – Old building
+* Neubau – New build
+* Baujahr – Year of construction
+* Dachgeschoss – Top floor
+* Erdgeschoss – Ground floor
+* Etage – Floor / Storey
+* Miete – Rental amount
+* Kaltmiete – Basic rent (not including utilities)
+* Nebenkosten – Utilities
+* Warmmiete – Basic rent + utilities
+* Heizkosten – Heating costs
+* Möbliert – Furnished
+* Unmöbliert – Not furnished
+* Haustiere – Pets
+* Stellplatz – Parking space
+* Garage – Garage
+* Zentralheizung (ZH) – Central heating
+* Aufzug – Elevator
+
 
 **service**
 
@@ -8442,19 +8573,18 @@ mydealz.de – всякие скидосики, которые люди сами
 Amazon Warehouse deals
 
 Международные интернет-магазины:
-http://www.ebay.com
-https://www.amazon.de
+* http://www.ebay.com
+* https://www.amazon.de
 
 Локальные интернет барахолки:
 
-https://www.ebay-kleinanzeigen.de - Немецкий аналог "Avito"
+* https://www.ebay-kleinanzeigen.de - Немецкий аналог "Avito"
+* Vinted – как Kleinanzeigen, только для одежды. 
 
 
-Vinted – как Kleinanzeigen, только для одежды. 
-
-Zalando
-Zalando Lounge
-Bestsecret
+* Zalando
+* Zalando Lounge
+* Bestsecret
 
 Nora – Приложение для вызова экстренных служб (полиция, скорая помощь, пожарная охрана). Главный плюс приложения - нет необходимости разговаривать по телефону, как при звонке на 110 или 112. Особенно полезно для тех, кто не уверен в своём немецком языке. https://www.nora-notruf.de/en-en/startpage
 
@@ -8482,6 +8612,7 @@ BSR – приложение немецкой службы переработк�
 
 Check24 – Чтобы регулярно менять провайдеров и выбивать из них условия получше https://www.check24.de/
 
+https://www.ochama.com/ - фышфт ырщз щтдшту
 
 **coffee**
 
@@ -8498,6 +8629,24 @@ Five elephants - https://www.fiveelephant.com/de/collections/coffee/subscription
 Fjord coffee - https://fjord-coffee.de/de/products/office-coffee-subscription
 
 19gramms -  https://19grams.coffee/en/collections/kaffee-abo
+
+
+где заказывать крафтое пиво?
+ • https://www.beyondbeer.de
+ • https://liquidhops.de
+ • https://bierothek.de
+ • https://bierselect.de
+advent календари от дружественных соседей:
+ • https://shop.mikkeller.dk/
+ • https://toolbeer.dk/
+ • https://moersleutel.com/
+ • https://pohjalabeer.com/
+
+
+где наливают хороший и разный виски, что бы подегустриовать вдоволь?
+ • раньше вот тут было норм https://goo.gl/maps/77bUuJWGmaEMoBir8
+ • место с отличным шотландским духом https://g.page/offside-pub-whisky-bar-berlin?share - там сортов 200 кажется(список есть на вебсайте), и цены не кусаются особо. Я туда друга водил показывать/рассказывать какие всякие разные вискари бывают. А вам бармен много чего расскажет и посоветует
+ • Еще место: https://maps.app.goo.gl/kToBW7h7fhvuiEn58
 
 
 **transport**
@@ -8523,7 +8672,14 @@ DB Bahncard – скидочная карта на дойче бан. Отбив
 
 visa application https://videx.diplo.de/videx/visum-erfassung/#/videx-langfristiger-aufenthalt
 
+AusweisApp2 – https://www.ausweisapp.bund.de/home приложение для аутентификации с помощью ID-карточки (вкл. карточки внж и пмж). С помощью него смог получить выписки из [пенсионного фонда](https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html) онлайн за несколько минут, а не ждать пока придет по почте. На смартфоне нужен NFC, а на карточке включенная функция eAT (Elektronischer Aufenthaltstitel).
+
+
+
 **med**
+
+https://finber.de/ FINBER | Экспертное консультирование в области страхования, кредитования и инвестирования в Германии
+
 
 Doctolib – запись ко врачам. https://www.doctolib.de/
 
@@ -8571,6 +8727,11 @@ https://www.kununu.com/
 https://www.glassdoor.de/
 
 **money**
+
+https://www.vrbank-brs.de/privatkunden/altersvorsorge/riester-ruerup-rente.html
+
+https://www.finanztip.de/vermoegenswirksame-leistungen/
+
 
 shufa alert score https://www.schufa.de/themenportal/25-wahrheiten-schufa-score/
 
@@ -8741,9 +8902,16 @@ Studienkolleg - Штудиенколлег является переходной
 ▪️ GD — творческие и художественные программы;
 ▪️ SW — социальные науки.
 
+Umschulung – это профессиональное переобучение (переподготовка) для приобретения признанной профессиональной квалификации с целью дальнейшего трудоустройства. Отличие Umschulung от Ausbildung: ü В большинстве случаев переобучение проходит после получения профессионального образования. 
+
 
 
 ## Berlin
+
+**gov**
+
+https://www.bwb.de/de/wasserqualitaet.php по районам: https://www.bwb.de/de/analysedaten-nach-postleitzahlen.php
+
 
 **sport**
 
@@ -8912,8 +9080,6 @@ maltmaniacs de - клуб виски в берлине
 
 Красные зонтики
 
-
-
 **StandUP**
 
 The Wall Comedy Club (friedrichshain), клуб с хороший расположением и кучей разных шоу не походих друг на друга. По вторникам обычно открытый микрофон в режиме show up to sign up, где приходит очень много новичков, попробовать свои силы - всегда выходит забавно. Стоит идти за разнообразием.
@@ -8948,12 +9114,13 @@ Comedy Cafe Berlin (neukölln) - Немного обманивое назван�
 
 **bar**
 
+Бары Берлина: https://vas3k.club/thread/12621/
+
 The Hat Bar (Lotte-Lenya-Bogen 550, 10623 Berlin-Charlottenburg (прям в эстакаде S-Bahn недалеко от Zoo) - Наливают в основном виски, джин и коктейли на их основе. Бар не большой, но очень уютный. По сути является филиалом питерского бара с одноименным названием. Фишка его в том, что там проводят живые джазовые концерты (из-за этого может быть громковато) и всё это в совокупности с хорошим выбором напитков даёт прекрасную атмосферу.
 
 LIMONADIER Cocktailbar (Kreuzberg ) - Крафтовые авторские коктейли на любой вкус + чистые виски / джины / текилы топовых брендов. Великолепный выбор коктейлей. Есть вкусовая карта, можно выбрать по вкусу. Подача тоже офигенная!
 
 1 Bryk Bar (P-Berg, Sredzkistraße 65, 10405 Berlin) - https://g.page/brykbar?share Классические и авторские коктейли на роме, виски и джине, вино, пиво. Тихо и спокойно. Хорошее место для общения с друзьями. Бармены всегда помогут разобраться в коктейльной карте. Есть снеки
-
 
 
 Fitcher's Vogel (Warschauer Str. 26, 10243 Berlin, Germany (Friedrichshain, U+S Warschauer Str.) - стандартный набор, лагер, IPA от BRLO, какие-то коктейли, какие-то шоты Это такой трушный берлинский бар без вывески (там только птичка на двери как знак), минимумом света внутри, индустриальным интерьером, демократическим ценником, всратыми затэггаными туалетами и городскими сумасшедшими, что иногда заходят в бар.
@@ -8964,6 +9131,7 @@ Barkett (Czeminskistraße 10, 10829 Berlin, Germany (Schöneberg, U Kleistpark) 
 
 **beer**
 
+https://goo.gl/maps/kENmJeYvQMFsNF3k7 - крафтовый бар с много крафтовый пыва
 
 
 PROTOKOLL (Boxhagener Str. 110) - Крафт-крафт-крафт - Бар от Московской пивоварни ZAGOVOR. С виду типичная крафтуха, но максимально уютное место и отличный районный бар для еженедельных посиделок с друзьями. Обязательно стоит зайти если будете рядом.
@@ -8980,77 +9148,46 @@ HERMAN Belgian Bar (Prenzlauer-Berg, Schönhauser Allee 173, 10119 Berlin) - Б�
 
 **food and drinks**
 
+
+Sahara
+
+Oh Panama, это современное прочтение немецкой кухни, рекомендую сет от шефа брать и винца https://goo.gl/maps/UdifJzQBeqhM6RYP9
+
+
 Овсяные каши с фруктами, выпечка, вкусный кофе. Очень много веганских опций.
-Cafe Neundrei
-https://maps.app.goo.gl/YXuzvqRoboWYuhyW7
+Cafe Neundrei https://maps.app.goo.gl/YXuzvqRoboWYuhyW7
+
+https://goo.gl/maps/DWCWk1JtBpWwWJa26 - а вот эти ребята знамениты уже по всей Германии, в выходные тут продают исключительно по предварительному заказу - веганские пончики :3 
 
 если обитаешь недалеко от розенталера, то тут неплохой выбор всяких хамонов, прошутов, колбасов и сыров https://goo.gl/maps/Hk6tWnJvGituo5JVA
 
 https://g.page/frischeparadies-charlottenburg?share когда закроешь хамонный гештальт рекомендую прошуто San Daniele - во фрише почти всегда есть и он не оч дорогой
 
-> ash:
-вот тут посмотри) https://t.me/howtoberlin/357
+https://t.me/howtoberlin/357
 
-> ash:
-Вот это место рекомендую: BOHEA Teehandlung
-030 29350375
-https://maps.app.goo.gl/EujWt761VfehBp7r7
 
-> ash:
-VINH-LOI Asien Supermarkt
-+49 30 23324993
-https://maps.app.goo.gl/UgQnMAnSqbcSs98Z6?g_st=ic
+BOHEA Teehandlung - https://maps.app.goo.gl/EujWt761VfehBp7r7
 
-Вот в этой небольшой сети есть вообще всё азиатское, что только можно представить
+VINH-LOI Asien Supermarkt - https://maps.app.goo.gl/UgQnMAnSqbcSs98Z6?g_st=ic Вот в этой небольшой сети есть вообще всё азиатское, что только можно представить
 
 https://nightkitchenberlin.com/ тоже очень вкусное
 
-Тут чистенько)
 https://maps.app.goo.gl/hmWUGpJR1dUxmabk8?g_st=ic
 
-> ash:
-https://g.page/LIUchengduweidao
+https://g.page/LIUchengduweidao - вкусная забегаловка сычуаньской кухни. Странные часы работы и высоковатые цены. острота еды очень высокая (но можно выбрать при заказе)
 
-> ash:
-Нереально вкусная забегаловка сычуаньской кухни. Странные часы работы и высоковатые цены. Но каждый раз, оказываясь в середине рабочего дня неподалёку, я борюсь с желанием туда заскочить. И желание побеждает.
-
-P.S. острота еды очень высокая (но можно выбрать при заказе)
-
-> ash:
-Вот этот супчик очень недурён
-
-> ash:
-А где в Берлине продают лучшие торты? Нужен к пятнице один 🤔
-
-6spoons
-
-Princess Cheesecake (для любителей сладких чизкейков)
 
 https://www.instagram.com/snezhana_oz/
 
-Сегодня был в интересном китайском ресторане https://maps.app.goo.gl/WBmtLDaXxL6HaTir7
+https://maps.app.goo.gl/WBmtLDaXxL6HaTir7 - Для любителей китайской еды в традиционном китайском интерьере (читай: отделка как у советской столовой). Зато крутящиеся столы.
 
-Для любителей китайской еды в традиционном китайском интерьере (читай: отделка как у советской столовой).
+The Big Dog - https://maps.app.goo.gl/SSgw39o6UHLGDrsP6?g_st=ic — большие вкусные хот-доги, которые невозможно есть аккуратно
 
-Зато крутящиеся столы.
-
-#chinese #restaurant #schoeneberg
-
-> ash:
-🖼 The Big Dog
-+49 30 220005440
-https://maps.app.goo.gl/SSgw39o6UHLGDrsP6?g_st=ic
-
-Сегодня набрёл вот сюда перекусить — большие вкусные хот-доги, которые невозможно есть аккуратно
-
-> ash:
 https://goo.gl/maps/Bxe1zeXrLKAdSFAy9 - Очень вкусная и разнообразная пакистанская/индийская кухня
 
-https://goo.gl/maps/uueyaupBtqHuLWaL6 - один из лучших Падтаев которые я пробовал, но и остальное на уровне
+https://goo.gl/maps/uueyaupBtqHuLWaL6 - пад тай
 
-https://goo.gl/maps/XNraSzxp5FG8KWWcA - если вы любите азиатские супчики,  то стоит заглянуть, без оргазма, но оч достойно
-
-https://goo.gl/maps/gCf79tZ5PHGFfz1ZA - честно я вообще не фанат Итальянской кухни, но тут еды много, соуса много, мяса/морских гадов тоже прилично, так что вполне себе вкусно, хотя скорее все-таки много 😃
+https://goo.gl/maps/XNraSzxp5FG8KWWcA - азиатские супчики
 
 https://goo.gl/maps/Uo25t9STxRwpHo759 - вкуснющие дамплинги и пао-баны 
 
@@ -9058,82 +9195,72 @@ https://goo.gl/maps/684A9KhHAwgZpx626 - если хочется хардкорн
 
 https://g.page/hakokreuzberg?share - если хочется хардкорного японского рамена от японцев x2, но и еще че-нибудь бы пожрать кроме рамена
 
-https://goo.gl/maps/q7UML2SRckBDxSh66 - очень вкусные бургеры 
-
-https://goo.gl/maps/cJc7sHBw7tMiUY3T9 - еще более вкусные бургеры!
-
 https://goo.gl/maps/wYoHVVrqDu6KKzPh8 - добротная азиатская кухня, преимущественно супчики и боулы
 
 https://g.page/pokepelelinakreuzberg?share - а вот это боулы уже близкие к оргазму, количество и качество рыбы как-будто мы у моря живем)
 
-https://goo.gl/maps/Ww5zjtthBwMQz6jh6 - добротная турецкая выпечка, клево заходит на завтрак если хочется разнообразия
-
 https://goo.gl/maps/uAU6Ad57oJzvxkhs9 - корейская острая курочка, если хочется остроты от которой начинаешь забывать как тебя зовут (но есть и неострые опции, их большинство)
 
-https://g.page/comaberlin?share - обалденные роллы и очень вкусный мисо суп
+https://g.page/comaberlin?share - роллы и очень вкусный мисо суп
 
-https://g.page/miss-saigon-berlin?share - вкусная и очень разнообразная вьетнамская еда, особенно когда хочется азии, но лапша и боулы подзаебали 😃 
+https://g.page/miss-saigon-berlin?share - вкусная и очень разнообразная вьетнамская еда, особенно когда хочется азии, но лапша и боулы подзаебали
 
 https://g.page/Ketels?share - легендарный Кройцбергский Карри вурст, стоит попробовать даже ради чекина
 
-https://goo.gl/maps/DWCWk1JtBpWwWJa26 - а вот эти ребята знамениты уже по всей Германии, в выходные тут продают исключительно по предварительному заказу - веганские пончики :3 
-
-https://goo.gl/maps/kENmJeYvQMFsNF3k7 - крафтовый бар с много крафтовый пыва (я не пробовал, но Вастрик и другие знакомые говорили что рили вкусный пивас)
-
-https://g.page/AdanaGrillhaus?share - Много очень вкусного мяса на открытом огне: по турцки душевно, по немецки дорого 😃 Но стил ворз ит
-
-https://goo.gl/maps/7MMZjosJyTZw8Y9Y8 - Суданийский (!!!) стрит-фуд, прямо в самое сердечко, если хочется попробовать АФрику на вкус 🙂
-
-> ash:
-🍻 Бары Берлина: https://vas3k.club/thread/12621/
-☕ Кофейни Берлина  (Гугл-карта из темы и юзер-карта от @tainkrios)
-
-> ash:
-https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2shYvdgBLtSS-5vDL-e8ijTA!3e3?shorturl=1
-
-> ash:
-https://berlin-coffee-map125.pages.dev/
-
-> ash:
-Berlin Coffee Map / Berliner Kaffee-Stadtplan
-https://goo.gl/maps/nv3qVDH6YCDpNZXg7
-
-> ash:
-Coffee Berlin · Alexander
-https://maps.app.goo.gl/28ePsMiVZoMsUiLM9?g_st=ic
-
-> ash:
-https://t.me/c/1179622830/202994?topic=202712
-
-Тип кухни (chinese)
-Тип заведения (restaurant)
-Район (schoeneberg)
-
-> ash:
-отвал башки у меня случился вот от Oh Panama, это современное прочтение немецкой кухни, очень круто. я фотки в чатик постил. рекомендую сет от шефа брать и винца
-
-https://goo.gl/maps/UdifJzQBeqhM6RYP9
 
 
-Sahara
+https://goo.gl/maps/gCf79tZ5PHGFfz1ZA - честно я вообще не фанат Итальянской кухни, но тут еды много, соуса много, мяса/морских гадов тоже прилично, так что вполне себе вкусно, хотя скорее все-таки много
+
+
+https://goo.gl/maps/q7UML2SRckBDxSh66 - очень вкусные бургеры 
+
+https://goo.gl/maps/cJc7sHBw7tMiUY3T9 - еще более вкусные бургеры!
+
+https://goo.gl/maps/7MMZjosJyTZw8Y9Y8 - Суданийский (!!!) стрит-фуд, прямо в самое сердечко, если хочется попробовать АФрику на вкус
+
+
+
+https://goo.gl/maps/Ww5zjtthBwMQz6jh6 - добротная турецкая выпечка, клево заходит на завтрак если хочется разнообразия
+
+https://g.page/AdanaGrillhaus?share - Много очень вкусного мяса на открытом огне: по турцки душевно, по немецки дорого Но стил ворз ит
+
+
+**торты**
+
+6spoons
+
+Princess Cheesecake (для любителей сладких чизкейков)
 
 **coffee**
 
 Fjord Coffee https://fjord-coffee.de Брал несколько разных пачек, особенно понравились Ethiopia Okoluu и El Salvador Pacamara
 
-19Grams https://19grams.coffee/ Брал три кофе из Коста Рики, от всех в восторге. Для знакомой, которая варит в турке, взял зерна Italo Disco (эспрессо) и она была очень довольна.
+19Grams https://19grams.coffee/ Брал три кофе из Коста Рики, от всех в восторге. Для знакомой, которая варит в турке, взял зерна Italo Disco (эспрессо) и она была очень довольна. https://goo.gl/maps/zwfV8iQmBCXgekmN7
 
 The BarnВы про него выше писали. Мне весь кофе из Барна понравился, и обычно все их зерна подходят и для фильтра и для эспрессо.
 
 CoffeeCircle https://www.coffeecircle.com У этих ребят кофе как раз вписывается в ваш бюджет за килограмм и я считаю, что для перехода на хороший кофе – они отличный вариант. Там много разных зерен, можно напробоваться всякого :) На данный момент, их обжарка кажется мне чуть сильнее, чем я люблю, но опять же, для начала самое то.
 
-19grams https://goo.gl/maps/zwfV8iQmBCXgekmN7
+
 Distrikt coffee https://goo.gl/maps/ncRuwjFGdusfnfTR7
+
 44 Brekkie (тут только egg drop) https://g.page/44-brekkie?share
+
 ABC (тут самое хиптерское из списка) https://goo.gl/maps/1gJ3EEKWB81JjNdq9
+
 Nomad Berlin (это недавно советовали тут, сама не была) https://goo.gl/maps/HsUKuRTotsZvmroy8
+
 Steel Vintage Bikes Café https://g.page/SVBC-Auguststr?share
+
 Cafe Bondi https://goo.gl/maps/xdxG3LsWpiXwe2k57
+
+Кофейни Берлина  (Гугл-карта из темы и юзер-карта от @tainkrios) https://www.google.com/maps/@/data=!3m1!4b1!4m3!11m2!2shYvdgBLtSS-5vDL-e8ijTA!3e3?shorturl=1
+
+https://berlin-coffee-map125.pages.dev/
+
+Berlin Coffee Map / Berliner Kaffee-Stadtplan https://goo.gl/maps/nv3qVDH6YCDpNZXg7
+
+Coffee Berlin · Alexander https://maps.app.goo.gl/28ePsMiVZoMsUiLM9?g_st=ic
 
 
 **tea**
@@ -9151,6 +9278,10 @@ STAY HUNGRY SPORTS (Mulackstrasse 37) - Мы впервые услышали о�
 ARYS STORE (Kollwitzstrasse 51) - Первоначально открытый в качестве площадки для презентации берлинского бренда Arys, проект вскоре начал представлять другие бренды аналогичного контекста, постепенно превращаясь в новый хаб для всех энтузиастов функционального дизайна и стиля. Молодая команда также делает концептуальные эдиториалы, знакомя своих клиентов с ассортиментом и рассказывая о новых запусках. Вероятно, самый близкий к нам по селекции брендов магазин, а также единственный дистрибьютор наших друзей из NORDA в Берлине. Заходите посмотреть, когда будете в Кольвицкезе. рекомендации по брендам [скорее, весь список, но вот несколько]: BYBORRE, Cayl, CCP.FM , Descente Allterrain, Helinox, Heimplanet, Houdini, Klattermusen, Norda, ON, Ostrya, Segment, SOAR и другие.
 
 GATE (Koepenicker Strasse 194) - «GATE – это система пространств в центре Берлина, соединяющая моду, искусство и музыку» – так проект описывает себя на главном сайте. Расположенный в арке с собственным двориком, где они проводят различные мероприятия и презентации, магазин представляет собой современный модный бутик и концептуальный магазин с тщательно отобранным ассортиментом брендов, включая некоторые действительно уникальные и редкие коллекции. Определенно должен быть на вашем радаре, для исследования берлинской ритейл-сцены. рекомендации по брендам: A-Cold Wall*, BYBORRE, 11 by Boris Bidjan Saberi, ACRONYM, C2H4, Guerrilla Group, GR10K, Hamcus, Maharishi, NemeN, Nilmance, paria /FARZANEH, ROA, Salomon, Stone Island.
+
+## Dusseldorf
+
+https://holycraft.de/Craftival
 
 
 ## Heidelberg
@@ -9344,7 +9475,11 @@ Echos - An illegal rave in Munich's catacombs goes wrong and reveals a network o
 
 Book shop https://www.thalia.de/shop/home/filialen/showDetails/5471/
 
+Federal Employment Agency (BA) German: Bundesagentur für Arbeit Villemobler Straße 76, 53123 Bonn, Germany - http://www.zav.de/ https://www.arbeitsagentur.de/vor-ort/zav/startseite
 
+**apartment**
+
+https://www.homeand.co/booking/bonn
 
 # Denmark
 
@@ -9524,7 +9659,30 @@ Ravioleria Sarpi - ларек с вонтонами. берите три со с
 
 # Spain
 
-коммьюнити номадов Испании (https://t.me/chatfornomads)
+• коммьюнити номадов Испании (https://t.me/chatfornomads)
+• Все об IT в Испании - https://t.me/IT_Spain
+• Испанские тропы - https://t.me/spain_trails
+• IT no rules - https://t.me/it_spain_norules
+• Каталонский чат - https://t.me/catachat_rus
+• IT сообщество в Барселоне - https://t.me/bcn_ithub
+• Понаехать в Испанию цивильно - https://t.me/espagna
+• Виза D Испания - https://t.me/visadesp
+• Испания. Дом - https://t.me/esp_casa
+• Испания. Деньги - https://t.me/esp_dinero
+• Испания. Авто - https://t.me/drive_es
+• Испания. Здоровье - https://t.me/esp_salud
+• Испания. Образование - https://t.me/esp_educacion
+• Испания. IT, связь, электроника - https://t.me/esp_it
+• Испания. Туризм - https://t.me/esp_turismo
+• Испания. Разговорник - https://t.me/esp_blabla
+• Испания. Хобби - https://t.me/esp_hobby
+• Испания. Инфоботы- https://t.me/infobots_spain
+• Иберейские разборки(юрист про налоги и деньги) - https://t.me/desmontaje_iberico
+• Каталонский вестник - https://t.me/catalunyaTriomfant
+• Испания: Главные новости - https://t.me/noticiaru
+• Разбор испанских идиом и фраз - https://t.me/penelopaa
+• Испанский язык и мероприятия - https://t.me/MoscuEspanol
+
 
 Yego – шеринг электромопедов. Доступен не только как жителям города. Услуга предоставляется ещё в Мадриде и Бордо. Получить в подарок 15 минут каталки можно, указав промо-код 63LGU77ZDX во время регистрации.
 
@@ -9546,6 +9704,17 @@ Wallapop – здесь можно покупать и продавать вся
 **job**
 
 www.infojobs.net
+
+**language**
+
+• подкасты https://podcast.duolingo.com/spanish
+• https://t.me/penelopaa разбор испанский идиом и разговорных фраз
+• решение бытовых квестов в больнице, школе, госорганах итд
+• для ребенка 6 лет брали занятия с https://preply.com/en/tutor/2637662 она была единственное кто говорит по русски и согласилась заниматься
+из странного, учу испанский через английский. это очень необычно - привык на начальных этапах учить через русский язык.
+Из интересного можно учиться бесплатно:
+• https://educaciodigital.cat/cfatarragona/moodle/ Бесплатные (только учебник купить) курсы испанского и каталанского в Таррагоне
+• https://agora.xtec.cat/cfareus/ И такие же Реусе
 
 
 ## Barcelona
@@ -11668,7 +11837,223 @@ BEAR SANCTUARY Belitsa ПАРК ЗА МЕЧКИ Белица - https://www.bears
 
 ## Sofia 
 
+**to go**
+
+
+https://theironicshop.com/product/dominator-conquering-europe-ironically/
+
+Pay by card - everywhere
+
+Средненький отель на одну ночь ~ 30-50-70€
+
+Добраться из аэропорта в центр 1,6 bgn 
+1bgn ~ 0,5€
+Поесть на одного в кафе 7-20bgn
+Кофе ~ 3-4 - 7-10bgn 
+
+Ещё там по всему городу пицца
+Которая после белградской выглядит божественной
+
+Кунефе Это кондитерская вермишель в сиропе,внутри сыр. это дело запекается Посыпают фисташками Едят горячим
+
+Сутлач - Рисовый пуддинг. Едят холодным
+
+Пиде это аналог хачапури
+
+лахмаджун это лепешка на которую что то намазали
+
+Супы там очень аккуратно надо выбирать. Я один раз заказал он был как кипячёный холодец
+
+Çiğ köfte - Это типа хумуса Но очень очень пряно
+
+Боза - напиток
+
+Ракия
+
+Самое норм время, и знакомые и реддит всякий говорят март-май
+
+Sofia
+
+**To go**
+
 кластер в старом городе с ресторанами, вокруг места Green Library
+
+
+National Museum of Military History
+
+St. Sofia Church
+
+Sofia Graffiti Tour
+
+Malashevtsi Flea Market
+
+Golden Bridges
+
+St. Alexander Nevsky Cathedral
+
+Vitosha
+
+bul. "Vitosha"
+
+Women's Market
+
+Television Tower
+
+Children’s Muzeiko interactive museum 
+
+Museum of illusions Sofia/Музей на илюзиите
+
+Na Tamno
+
+Serdica ancient complex
+
+Banya Bashi Mosque
+
+Borisova Gradina
+
+National Palace of Culture Park
+
+Regional History Museum Sofia
+
+The Palace - National Art Gallery
+
+Ivan Vazov National Theater
+
+
+**Food**
+
+Revolutionary room - restaurant 
+
+SATA - restaurant, fireworks 
+
+https://maps.app.goo.gl/GL1SYbSPVQ3dX3oA8 вкусно, много, турецкое
+
+https://maps.app.goo.gl/sAWykf2c6z2Z22EZ7 по концепции прикольное Но по еде там обычно
+
+Moma - restaurant, Bulgarian food and wine
+
+Koftetaria bar a lots of variation of meatballs 
+
+Sliversa bar - Bulgarian style food
+
+Cup and roll - Korean food
+
+Happy - price friendly caffe
+
+Cactus - good restaurant 
+
+Cosmos - restaurant international and Bulgarian food https://cosmosbg.com/en/
+
+
+Corgi's Cafe - dog cafe https://www.facebook.com/corgiscafebulgaria/
+ 
+
+Made In Blue https://www.facebook.com/madeinbluesofia/
+ 
+
+Hummusbar https://hummusbar.bg/
+
+
+Rainbow Factory https://fabrikadaga.bg/
+
+Bistro Pesto 
+
+Mekitsa & Kaffee - mekitsa-and-coffee.business.site
+
+Bonita - street food
+
+Balkan Bites http://www.balkanbites.bg/
+
+Made in Home - https://www.facebook.com/madeinhomesofia
+
+Wonderland Brunch & Cake - https://www.facebook.com/wonderland.sofia/
+
+The Sando Shop - Asian sandwich https://www.facebook.com/thesandoshop/
+
+The Little Things - https://www.facebook.com/TheLittleThingsHouse
+
+The Friendly Bear - bar and food https://the-friendly-bear.business.site/
+
+CRAFT bistro Sofia http://www.craft-bistro.com/
+
+
+**Beer**
+
+Aubergine craft beer https://aubergine.bg/
+
+Cohones Bar https://cohones.beer/
+
+Vitamin B - Craft Beer Bar https://www.facebook.com/beeramin/
+
+KANAAL - craft beer bar https://kanaal.bg/
+
+Fōku - Asian Street Food:  https://www.facebook.com/Foku.StreetFood/
+
+100 BEERS - beer shop https://100beers.bg/
+
+White Stork Republic - beer. Club at the weekend http://whitestorkco.com/
+
+**Bar**
+
+Flip flop
+
+Canal bar - craft beer
+
+Rooftop bar
+
+Piano bar - disco
+
+Barwia bar - coffee and bar. 
+
+Barnacuono - small nice local bar. 
+
+Once upon a time bar near university. Bar and disco
+
+City stage - performance, dance, music, bar
+
+The gin house (Sofia Center, Slavyanska St 36) - gin bar. Only gin. 
+
+Vision - night club
+
+Plaza - night club. Loud music disco 
+
+**Coffee**
+
+Costa coffee
+
+Dabov coffee - chain
+
+Memento coffee bar
+
+Relaks coffee
+
+Coffee Syndicate
+
+Trees coffee cafe
+
+Eight and eight coffee place
+
+
+
+**shops**
+
+k-asia - korean and asian products
+
+Zelen https://zelen.bg/
+
+100 Beers https://www.100beers.bg/ craft beer shop
+
+Kosmos/SoFerments https://cosmosbg.com/en/ https://soferments.com/
+
+Zoya https://www.zoya.bg/
+
+Chilli Hills https://chilli-hills.com/
+
+Bulgarian Pastries
+
+на главной улице есть русский магазин с сырками, берёзовым соком и вареной колбасой Мимо не пройдешь они музыку громко включают
+
+
 
 # Romania
 
@@ -12274,6 +12659,10 @@ https://www.prodavnica.vino.rs/
 
 https://www.podrumtatalovic.rs/sr/ https://www.facebook.com/podrumtatalovic https://www.instagram.com/podrumtatalovic/
 
+teroar.rs https://docs.google.com/document/d/1C03ANmtkWNQeMvMFvwMMyRjnwQ6CShIE_HguFZs9TRU/edit 
+
+Vina Djordjevic - Vocna vina https://www.facebook.com/Djordjevic70/ 
+
 
 **tea and coffee**
 
@@ -12396,6 +12785,96 @@ http://pretraga2.apr.gov.rs/ObjedinjenePretrage/Search/Search - реестр ю�
 
 http://www.parlament.gov.rs/upload/archive/files/lat/pdf/zakoni/2014/3737-14%20LAT.pdf - Закон Сербии "О трудоустройстве иностранцев"
 
+
+**Предузетник и ВНЖ. Паушал/книгаш**
+
+Чат сербских предузетников https://t.me/serbia_self_it
+Регистрация на eid.gov.rs:
+1. Заходим сюды
+https://registracija.eid.gov.rs/en-US/creationaccountwithusernameandpassword?userCategory=Foreign
+2. Заполняем основные поля как в заграннике, в “Foreigner’s Registration Number” (Евиденски Броj Странца) выбираем “Yes” вводим самый длинный цифровой код c налепницы боровака (он вроде с даты рождения начинается)
+3. Прикрепляешь pdf с двумся страницами - фото главного разворота загранника и разворот с налепницей
+4. Ниже username и password от будущего аккаунта (придёт email-подтверждение с ссылкой)
+
+Дальше становится доступна авторизация на https://euprava.gov.rs (авторедирект на eid.gov.rs, как на госуслугах).
+
+- srb.guide
+
+- Опыт открытия предузетника и получение ВНЖ от @oo00oo00oo00oo
+```
+Ну в гайде в клубе этот путь в целом описан, но я распишу, как было у меня, вдруг будет полезно.
+Если твой доход не превышает ~51к EUR в год, то ты можешь открыть ИП по упрощенной схеме Preduzetnik, это самый удобный вариант, так как в этом режиме с тебя не требуют никаких отчетов, чеков и бухгалтерии(для этого ещё и бухгалтера советуют нанимать).
+В режиме Preduzetnik, ты платишь ~400 EUR налогов каждый месяц, в разбивке на 4 разных налога, делать это можно через приложение банка. 
+Платить нужно всегда, даже если нет дохода.
+Дальше, можешь использовать свои деньги, как угодно. 
+НО нельзя снимать наличные евро с бизнес карты, только динары.
+Я получал деньги от работы на сербские личные счета всё врема пока был в Сербии, но налоги начал платить, только с того месяца, как зарегистрировался, как предузетник.
+При этом первый месяц я получал денги всё ещё на личый счёт, со второго уже начал на бизнесс.
+Я делал всё через челика-адвока, контакты которого я скидывал выше.
+Но в целом алгоритм такой:
+1. Подача заявления на Предузетника онлайн, можно сделать и самому, но там всё на сербском и говорят не всегда работает.
+Для этого потребуется белый картон, договор аренды и документы владельцев квартры подтверждающие их собственность.
+Одобрение пришло за пару дней, кажется.
+2. Нужно оформить местную мед.страховку, сойдёт самая минимальная номинальная.
+3. Дальше записываешься на подачу заявление в МВД на ВНЖ по бизнесу, нужны будут фотки, белый картон, загранник, одобрение предузетника, в целом все бумажки, которые только можно.
+Приходишь в нужное время, обязательно в штанах, а не в шортах, отдаешь бумаги и дальше ждёшь 1-2 недели.
+Тебе дадут бумажку, что ты в ожидание и назначат точное время и дату приходу, нужно прийти во время и в штанах.
+С этого момента тебя больше не нужно делать визран.
+4. Приходишь в нужное время, отдаешь свой паспорт и бумажку, через 15 минут получаешь наклейку, обычно дают на год, но мне дали на 6 месяцев т.к. паспорт заканчивается в феврале.
+5. С этого момента можно идти в банк и просить открыть тебе бизнесс счёт. У бизнес счёта нет ограничений, которые есть у личного счёта иностранца, но есть проблемы с card2card. Тебе так же дадут две карты для динаров и для валюты. Ими можно пользоваться, как личными, покупать продукты, оплачивать проезд и т.д.
+Что бы оплатить налоги нужно сделать 4 платежа в местном формате, это можно сделать в любом обменнике, на почте, в банке или в приложухе банка.
+6. Дальше можно отправить документы на разрешение на работу, на добавления тебя в систему здравохранения Сербии, получить подтверждение того, что у тебя есть ВНЖ(не знаю зачем), получить цифровую подпись(Что бы получить доступ в ЛК налоговой и знать, сколько ты переплатил, я пока не сделал).
+ В целом, всё из этого пункта не критично и не помешает тебе использовать ВНЖ, получать деньги и работаь. 
+Но как я понимаю, выполнить эти пункты стоит.
+Как-то так
+```
+
+Гайд о самостоятельном открытии предузетника https://ptica-story.notion.site/Preduzetnik-e476da42f8b7447195b09fa39bd79c23
+
+- В Сербии ставка предузетника перерасчитывается каждый год. Она может и не измениться
+- Как легально снизить оборот предузетника
+```Оборот можно занизить в три раза, если что. 
+Если есть способ получать (и выводить) бабло иначе - можно нологи платить 4 месяца вместо 12.
+Два сразу после боровака и два перед новой подачей. 
+
+Инфа от местного буха. По середине «замораживаешь» ип и не надо платить нологи
+```
+
+- Формы предпринимательства https://www.srb.guide/guides/prologue/forms-of-entrepreneurship/
+- Ещё гайд по открытию ИП в Сербии https://hurricane-poultry-12a.notion.site/06bfdfc2ae3148979318bc2860dcf41c
+- Как понять, сколько платить налогов https://ptica-story.notion.site/52c46fdfe83d47789df874dd757fa18e
+- Частые коды деятельности для IT https://www.srb.guide/guides/prologue/forms-of-entrepreneurship/
+
+
+- https://pausal.rs/ - сервис типа онлайн бухгалтерии как в РФ: отвечают на вопросы по эмейлу, помогают заполнять счета и т.п. Для запроса решения по налогам писать сразу на почту office@pausal.rs на английском, они подскажут как зарегистрироваться и какие документы нужны
+ФАК по итогам вебинара с pausal.rs. Обсуждение отсюда и ниже https://blog.pausal.rs/wp-content/uploads/2023/06/QA.pdf
+- Тестовая версия калькулятора для фрилансера https://www.capernaum.rs/kalkulatori-za-frilensere/
+- Расчёт налогов для книгаша https://docs.google.com/spreadsheets/d/1UbMsPhmCJnZHCb54aXjIRexi8eV49wJ67WokbL4OYcQ/edit#gid=0
+- Паушал-предузетник может оплачивать всё с бизнес-карты до тех пор пока не книгаш
+- Налог самого паушала считается по району где ты зарегистрирован. Чем больше в районе числится людей с твоим кодом предузетника, тем выше налог
+- Тест на самостоятельность не проводится, если заказчик не из Сербии
+
+ВНЖ:
+https://livinginserbia.gov.rs/ - подача на ВНЖ онлайн
+- Управление по делам иностранцев находится по адресу: Новый Белград, СИВ 3, ул. Омладинских бригада 3
+- Соблюдайте дресс-код при походе в МУП!
+- В МУП Нови Сада не принимают без переводчика!
+
+- Про получение ВНЖ через воссоединение семьи
+- В Сербии можно получить ВНЖ по партнёрству, а не по браку, но нужны справки о гражданском состоянии и два свидетеля серба
+- Для получения ВНЖ в Сербии подходят банковские счета, открытые в БиГ/ЧГ
+- Сроки подачи на продление ВНЖ начиная с 3х месяцев и не позднее чем за 30 дней до истечения
+
+- По вопросам продления боровака писать на upravazastrance@mup.gov.rs. Примерная форма письма. Нужно вставить свой номер и дату
+```Письмо на адрес: upravazastrance@mup.gov.rs
+
+Dobar dan
+
+Hteo bih da znam, zahtev br. 00000000 koji sam podneo online 01.01.1970: možda je potrebna dodatna dokumentacija sa moje strane?
+Malo sam zabrinut jer trenutni borovak ističe.
+
+Hvala unapred!
+```
 
 **Services**
 
@@ -12682,7 +13161,6 @@ http://www.puma.vojvodina.gov.rs/tumaci.php - поиск по базе пере�
 https://t.me/chgk_u_bg - ЧтоГдеКогда в Нови Саде и Белграде
 https://t.me/serbocoin - Обмен валют/крипты между частными лицами
 https://t.me/qazchange - Вывод криптовалют и цифровых активов в наличность в Белграде и Нови-Саде
-https://t.me/+pZdfIDH3X1YwOTM6 - консульство РФ в Белграде, вопросы записи и прочая, прочая, прочая
 https://t.me/serbiarusman - Мужской чат. Вся запрещенка в других чатах здесь разрешена: полита, подколки, взаимопомощь. Белград, Нови Сад, Ниш и все все.
 http://t.me/generozova_s - Сербский язык для начинающих Серафима Генерозова
 https://t.me/rabotavserbii - Возможно именно тут прячется ваша будущая работа в Сербии
@@ -12749,7 +13227,7 @@ https://t.me/art_beograd - Art-чат Белграда.
 https://t.me/izbashkiriivserbiu - Башкиры в Сербии
 https://t.me/belgrad_serbia - Барахолка в Белграде
 https://t.me/alcoholic_belgrade - Алкоголики Белграда
-https://t.me/beograd_stan -  Аренда в Белграде
+https://t.me/beograd_stan - Аренда в Белграде
 https://t.me/novisad_stan - Аренда Нови Сад
 https://t.me/people3e - PEOPLE E - Events Emotions Education
 Проект для детей и их родителей, чтобы вместе и интересно проводить время, узнавать что-то новое, исследовать, путешествовать, учиться и отдыхать
@@ -12786,7 +13264,6 @@ https://t.me/vyshee_obrazovanie_v_Serbii - Канал посвященный В�
 https://t.me/zarko_tusic - Тусовки и анонсы Белграда
 https://t.me/snimaem_kvartiru_vmeste - Снимаем квартиру вместе
 https://t.me/interiorserbia - Группа русскоязычных профессионалов в сфере архитектуры и дизайна интерьера в Сербии
-https://t.me/RPGSerbia - Платные и бесплатные настольные ролевые игры 
 https://t.me/becreating - Мы купили 3D принтер, научились им пользоваться и готовы напечатать для вас 3D модели (Белград)
 https://t.me/beograd_service - Белградский Консьерж..
 https://t.me/beogradsadecom - Родители детей и подростков в Белграде. Сады, школы, площадки, кафе, социальная помощь
@@ -12798,7 +13275,6 @@ https://t.me/+kUkFBZAfAeE0YjFi - грузоперевозки Россия-Се�
 https://t.me/rsdrivers - Чат для бесплатных объявлений по трансферу и поиску попутчиков в Сербии
 https://t.me/relocateserbia - еще один канал по релокации.
 https://t.me/belgrade_school_chat - Белград школьный
-https://t.me/+sVat07GmZeJmYTAy - визовой чат
 https://t.me/belgradewinerun - Белград. Забеги. Совместные трени. Немного вина после.
 https://t.me/mastermaindbelgrade - русское бизнес-сообщество в Белграде, Мастер-майнды в Белграде
 https://t.me/rsbusines - Бизнес в Сербии
@@ -13036,6 +13512,8 @@ https://t.me/kuce_beograd
 
 https://t.me/petsittingbelgrade Отдельно передержки и заявки
 
+vet https://maps.app.goo.gl/4KRfS5o6FKiyaBGy7
+
 **sport**
 
 Beosport Sport Service (Kneginje Zorke 6) - https://rs.beosport.com/
@@ -13110,6 +13588,12 @@ https://maps.app.goo.gl/H24prXav2D3T6qma9 - индивидуальный пош�
 
 
 https://maps.app.goo.gl/1QDcYmWTeGC9YQjp7 - там по соседству два помещения - в одном пошив, в другом ремонт
+
+https://tiedup.rs/ - магазин стильных галстуков, бабочек и шарфов
+
+shoes - https://www.mojoshoes.rs/ У них есть смешная опция собери свой дизайн
+
+
 
 https://www.instagram.com/ekri_design/ 
 
@@ -13261,7 +13745,7 @@ Stand-UP
 
 Open mic Caviar
 
-https://diamondgarden.rs - локация с бассейнами “Diamond garden”
+https://diamondgarden.rs - локация# Belgr с бассейнами “Diamond garden”
 
 Tašmajdan (Ilije Garašanina 26) - Открытый бассейн в центре Белграда https://www.instagram.com/tasmajdanbg
 
@@ -13296,7 +13780,7 @@ Games 4 you - game shop. cash. dices https://games4you.rs/
 
 https://t.me/RPGSerbia - Платные и бесплатные настольные ролевые игры
 
-Настольные Ролевые игры - https://t.me/RPGSerbia
+Настольные Ролевые игры - https://t.me/GMsVault
 
 Сложные непатигеймы - https://t.me/+f9eLsInSlks2YWYy
 
@@ -13316,6 +13800,9 @@ https://t.me/belgrade_boardgames - настолки в Белграде
 
 Anticafe BlackCat (Braće Baruh 6) - Стоимость посещения тайм-кафе: 300дин/час, 900дин/безлимит.
 
+Zmajeva Pećina - DnD Café & Pub (Cvijićeva 52) - https://zmajevapecina.rs/ https://www.instagram.com/zmajevapecina/ https://www.facebook.com/zmajevapecinapub
+
+
 Swing dance studio - https://instagram.com/hoppin_swing ~1500din for course
 
 Dorcol Platz - event/art space https://www.instagram.com/dorcolplatz/ https://www.dorcolplatz.rs/
@@ -13324,6 +13811,8 @@ Fijuk sajam - comic fest https://www.facebook.com/FIJUKPRODAVNICA https://www.ma
 
 
 TODO https://www.aviasales.ru/guides?ll=44.83272138133745%2C20.44435795599145&params=MOWBEG1&travel_map_layer=local&z=12.00
+
+Magna Print (Војислава Илића 69) - Быстро делают (с флешки, качество хорошее, умеют в большие постеры) http://magnaprint.rs/
 
 https://www.zla-zla.com/ - tabako
 
@@ -13454,6 +13943,8 @@ Mudno - bar&restaurant https://www.instagram.com/mundo_bar10
 
 JetSet - Bar & fountain area. no reservations. Scene zone https://www.instagram.com/jetset.belgrade
 
+Dvorištance (Cetinjska 15) - https://www.instagram.com/klubdvoristance/
+
 
 **beer**
 
@@ -13496,6 +13987,8 @@ Cigla & Krigla Pub (Далматинска 44) - https://m.facebook.com/ciglakri
 Domaći Pub (Ватрослава Лисинског 12) - https://goo.gl/maps/uyuVPJCUZ8u6UpW19 Небольшой бар с 13 кранами местного крафта. Из еды - орешки.
 
 Oktobar Pub (Војводе Миленка 44) - https://oktobarpub.rs/ https://goo.gl/maps/XXxPcVk56m6x2BJp8 Большой красивый светлый паб с высокими потолками. Есть кухня!
+
+Caffe pub Crveni rak, (Zemun Beogradska 14) - nice pub  https://www.instagram.com/crvenirak/
 
 Pivnica Realist (Далматинска 40) - https://www.facebook.com/Pivnica-Realist-265198067234473/ Темный красивый паб с кухней. Интереснее, чем находящаяся совсем рядом “Цигла и Кригла”
 
@@ -13659,6 +14152,12 @@ Marenda (Skerlićeva 30) - good for breakfast marenda.rs
 
 Завичаj - ресторан сербской кухни
 
+Restoran Vuk (Vuka Karadžića 12) - практически на пешеходке, но не пафосный, аутентичный, старый, в хорошем смысле обычный. Есть некурящий зал https://www.instagram.com/restoran_vuk www.restoranvuk.rs
+
+
+Restoran Grmeč () - Restoran nacionalne kuhinje https://restorangrmec.rs/ https://www.instagram.com/restoran_grmec
+
+
 Cetinjska 15 - Ресторан с огромными порциями
 
 Duomo Craft (Bulevar despota Stefana 53a) - fast food and beer. freshly baked buns, high quality meat and super friendly stuff, really clean and packed nice.
@@ -13703,6 +14202,7 @@ Milky palačinkarnica (Kneginje Ljubice 20) - American style pancakes milky.rs
 
 Potkovica - для любителей конины
 
+Opa foods (Dimitrija Tucovića 78) - curst wraps with pasta https://opafastfood.com/
 
 ferdinandknedle - street food. knedle with sweets and salads https://www.ferdinandknedle.com/ https://www.instagram.com/ferdinandknedle/
 
@@ -13714,6 +14214,8 @@ Gurme (Kraljice Marije 1) - Самодельный квас и окрошка. C
 
 
 TRPEZARIJA - Salad Bar (Kraljice Marije 10) - great selection of salads, also some pasta and wraps, and prices are fair. http://trpezarija.rs/
+
+Minty (Stanoja Glavaša 13) - salads bar
 
 Lorenzo & Kakalamba - Ресторан с необычным интерьером
 
@@ -13827,12 +14329,16 @@ https://good-dumplings.business.site/ - Good Chinese Dumplings In Beograd
 
 Spring Belgrade 春风十里中餐馆 (Dositejeva 22) - nice Chinese restaurant. Asian cuisine and tea house https://www.instagram.com/springbelgrade/
 
-[YXlanzh](geo:44.814218505252896,20.45543980640579) - Југ Богданова 6. Название непроизносимое, но это халяльная(!) китайская столовка. Интерьер ничего особенного, но меню большое и с картинками. Довольно вкусно.
+[YXlanzh](geo:44.814218505252896,20.45543980640579) (Југ Богданова 6) - Chinese restaurant with home made nuddles. Название непроизносимое, но это халяльная(!) китайская столовка. Интерьер ничего особенного, но меню большое и с картинками. Довольно вкусно.
 
-Youran Tea House (Prizrenska 6) - Chinese tea house Chinese Tea, Chinese Healthy Food, Bubble Tea, Tea Cakes, dumpling https://www.instagram.com/youranteahouse/
+Youran Tea House (Prizrenska 6) - Chinese tea house , Chinese Healthy Food, Bubble Tea, Tea Cakes, dumpling https://www.instagram.com/youranteahouse/
 
 SHANGRI LA CHINESE TEA RESTAURANT (Ul. Tresnjinog cveta 9 11070 Novi Beograd, Serbia) - https://www.facebook.com/profile.php?id=100063631117762 https://www.shangrila.rs
 
+
+IKE (Jug Bogdanova 3) some nuddles and chinese buns
+
+Star Buns (Obilićev venac 27) - 
 
 [Go Sushi](https://gosushi.rs/) (5 точек в городе: Praška 34, Žička 1, Svetozara Markovića 38, Đorđa Stanojevića 9b, Cara Lazara 11) - сеть японских ресторанов. Роллы с лососем годные, думаю остальное тоже. В меню имеется рамен.
 
@@ -13845,6 +14351,8 @@ Bad Sushi (Šafarikova 11)
 Ima Sushi (Strahinjića Bana 52)
 
 Moon Sushi (Makedonska, 31)
+
+nice price sushi (Zdravka Čelara 12) - nice
 
 Sakura (Karađorđeva, 2-4) - https://sakurarestoran.rs/
 
@@ -13954,7 +14462,6 @@ FLAT Community (Kneginje Ljubice 16) - coffee, sweets, cocktails https://www.ins
 
 Demokratija cocktails&coffee bar (Zetska 13) - https://www.instagram.com/bgdemokratija/
 
-Пржионица (Dobračina, 59b) Дословно означает «обжарочная». в глубине помещения стоит свой аппарат для обжарки зерна. self service концепт. По выходным собирается большая тусовка, за барной стойкой играет диджей, все пьют кофе, весело общаются. 
 
 D59B (Kralja Petra, 70) - Когда-то «Пржионица» и D59B были одним целым, но что-то пошло не так, и они разъехались. Помещение маленькое, два этажа, интерьер «ничего лишнего». В ассортименте так же минимализм: основные способы заварки кофе плюс пиво в холодильнике. Иногда здесь играют диджеи и ведутся стриминги, ведь у кофейни есть собственное радио https://www.radio.d59b.com/ . По вечерам собирается модная тусовка. Определенно, моё любимое кофейное место в городе.
 
@@ -13976,7 +14483,9 @@ Hotel Beograd (Balkanska, 48) - Кофейня от обжарщика Bloom. Д
 
 Koppa coffee (Nikolaja Krasnova, 14) - Ещё одна кофейня от микрообжарщика с одноименным названием. Пуровер делают в воронке Kalita, что довольно необычно в сравнении с другими кофейнями. Половину помещения занимает магазин кофе собственной обжарки и всякой кофейной снасти: от фильтров до чайников. Цены в целом ниже, чем в аналогичных местах, а качество не хуже. Ещё у них есть киоск Coffee 2 go в подземном переходе в самом начале улицы Knez Mihailova 
 
-Pržionica - в Дорчоле. Качественный кофе собственной обжарки. no smoking place https://maps.app.goo.gl/NBDQhg4qpzXW223fA?g_st=ic
+Koppa specialty coffee BLV (Bulevar kralja Aleksandra 86) - coffee and coffee shop https://koppacoffee.com/
+
+Pržionica/Пржионица (Dobračina, 59b) - Дословно означает «обжарочная». в глубине помещения стоит свой аппарат для обжарки зерна. self service концепт. По выходным собирается большая тусовка, за барной стойкой играет диджей https://maps.app.goo.gl/NBDQhg4qpzXW223fA?g_st=ic
 
 Way Cup kafeterija - Звездара. Вкуснейший кофе и очень красивый интерьер. no smoking place https://maps.app.goo.gl/6wxEpE9UStetab726?g_st=ic
 
@@ -13988,6 +14497,8 @@ Salon de thé by Small Tree (Svetog Save, 12 TC, Ušće, нулевой этаж
 
 Kuća Čaja / Кућа чаја (Golsvordijeva, 5 Bulevar Kralja Aleksandra, 233) - store and space to drink tea http://www.kucacaja.rs/
 
+coffee tea and sympathy ( Balkanska 2, B2 zgrada), www.coffeeteasympathy.com https://www.instagram.com/coffeeteaandsympathy/
+
 
 https://t.me/tea_environment 
 
@@ -13997,9 +14508,9 @@ hashtag Seoul RS (Starine Novaka 7) - korean tea
 
 Apropo (Cara Lazara 10) - котики, книги, чай. Тут живут две замечательные ласковые кошки. У них даже своя кроватка имеется. Но, кажется, они больше предпочитают колени посетителей, столики и книжные полки. В Apropo большой выбор чая, который можно как испить здесь же из причудливых чайничков, так и приобрести особо понравившиеся сорта домой. к чаю можно заказать хэндмэйд-печеньки, есть даже с лавандой. В Apropo прекрасный выбор книг. Есть многое из русской классики, но, конечно, на сербском. А есть специальная полка, где можно оставить какую-то свою книгу и взять любую (только с этой полки, естественно) совершенно бесплатно.
 
-WOOOW Matcha (Zmaj Jovina 15)) - Boba Tea, matcha and cookies, cakes, banana bread + little store inside https://www.instagram.com/wooowmatcha https://www.facebook.com/WoooWMatcha/
+WOOOW Matcha (Zmaj Jovina 15) - Boba Tea, matcha and cookies, cakes, banana bread + little store inside https://www.instagram.com/wooowmatcha https://www.facebook.com/WoooWMatcha/
 
-Sweetea 甜茶 (Zmaj Jovina 15)) - bubble tea matcha
+Sweetea 甜茶 (Zmaj Jovina 15) - bubble tea matcha
 
 Bubble Tea Tree (Ilije Garašanina 12) - bubble tea https://www.instagram.com/bubble_tea_tree
 
@@ -14120,6 +14631,10 @@ vape
 Smart Vape Shop (Nemanjina 36 / Takovska 13) - Products are fine. Mods, loquid, coils etc https://www.instagram.com/smartvapers/ https://smartvape.store/
 
 Vape and Zla Shop Elektronske cigarete (Carice Milice 11) - Small but well stocked. Good for loquid https://www.vapeizla.rs/ 
+
+Shisha
+
+Nargila Bar Šuma Smoke/suma smoke (Balkanska 45) - Hookah bar in the center of Belgrade https://instagram.com/suma_smoke
 
 
 Среди косметологов многие хвалят: 
@@ -16014,6 +16529,10 @@ https://thedropstore.ru/market/alcohol/ - магазин с чудесным б�
 https://servisnaya-lavka.ru/ - запчасти для 3D принтеров
 
 Амперка Лиговский 74д - магазин/место в этажах со всякими ардуинками, 3d принтерами. Заказать чего, напечатать и т п ок.  https://amperka.ru/  https://vk.com/amperkaru https://www.instagram.com/amperkaru/ https://twitter.com/amperka
+
+
+https://t.me/Bldozor Знаменитый дом на Коломяжском...
+
 
 
 
