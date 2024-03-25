@@ -8612,7 +8612,7 @@ BSR – приложение немецкой службы переработк�
 
 Check24 – Чтобы регулярно менять провайдеров и выбивать из них условия получше https://www.check24.de/
 
-https://www.ochama.com/ - фышфт ырщз щтдшту
+https://www.ochama.com/ - asian and korean food market
 
 **coffee**
 
@@ -8628,7 +8628,7 @@ Five elephants - https://www.fiveelephant.com/de/collections/coffee/subscription
 
 Fjord coffee - https://fjord-coffee.de/de/products/office-coffee-subscription
 
-19gramms -  https://19grams.coffee/en/collections/kaffee-abo
+19gramms - https://19grams.coffee/en/collections/kaffee-abo
 
 
 где заказывать крафтое пиво?
