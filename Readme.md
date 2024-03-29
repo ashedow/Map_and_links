@@ -8684,6 +8684,11 @@ visa application https://videx.diplo.de/videx/visum-erfassung/#/videx-langfristi
 AusweisApp2 – https://www.ausweisapp.bund.de/home приложение для аутентификации с помощью ID-карточки (вкл. карточки внж и пмж). С помощью него смог получить выписки из [пенсионного фонда](https://www.deutsche-rentenversicherung.de/DRV/DE/Home/home_node.html) онлайн за несколько минут, а не ждать пока придет по почте. На смартфоне нужен NFC, а на карточке включенная функция eAT (Elektronischer Aufenthaltstitel).
 
 
+https://oet.bamf.de/ords/oetut/f?p=514:1:0
+
+https://oet.bamf.de/ords/oetut/f?p=512:1:0:::::
+
+https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/OnlineTestcenter/online-testcenter-node.html;jsessionid=421ECC9F5AD33E5C762A067F9026F414.intranet241
 
 **med**
 
