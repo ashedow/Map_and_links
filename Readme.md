@@ -8972,6 +8972,13 @@ Studienkolleg - Штудиенколлег является переходной
 Umschulung – это профессиональное переобучение (переподготовка) для приобретения признанной профессиональной квалификации с целью дальнейшего трудоустройства. Отличие Umschulung от Ausbildung: ü В большинстве случаев переобучение проходит после получения профессионального образования. 
 
 
+**events**
+
+**culture**
+
+https://morethanbeerandschnitzel.com/how-to-celebrate-easter-in-germany-maundy-thursday/ Gründonnerstag (lit. green Thursday). Others are Hoher Donnerstag, Weißer Donnerstag, or Palmdonnerstag. It is the fifth day of the Karwoche (Holy Week) that started on Palmsonntag (Palm Sunday). It commemorates the Last Supper of Jesus with his disciples.
+
+
 
 ## Berlin
 
