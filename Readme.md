@@ -8718,6 +8718,45 @@ https://www.onlinedoctor.de/
 https://www.kvbb-arztsuche.de/ases-kvbb/ases.jsf?sort-by=auto&from=0&t=arzt&size=10 список врачей шире, чем на доктолиб.
 
 
+**Insurance**
+
+Insurance is a big deal in Germany
+
+* Personal liability insurance (Private Haftpflichtversicherung)
+
+Personal liability insurance covers the financial costs if you accidentally cause damage to someone else, their property or their assets. 
+
+This type of insurance is so common in Germany that if you spill wine on someone’s trousers on a night out, the wearer may ask you to file a claim with your personal liability insurance to cover the cleaning costs. If your toddler draws all over a friend’s couch, even that friend might ask you to file a claim. It’s not considered rude here, or even a little weird. People simply tend to assume that everyone has personal liability coverage.
+
+The good news is that personal liability insurance isn’t that expensive, especially when you consider that it also covers more serious cases, for example if you accidentally injure someone who becomes unable to work, leaving you financially on the hook for all their lost income. It also covers things like *Mietsachschäden* in a rented flat, which refers to damage to things that are part of the flat itself, like floors, windows, and doors. It even covers accidental damage to holiday apartments!
+
+* Contents insurance (Hausratversicherung)
+
+Contents insurance covers your belongings within your home against insured risks. 'Contents' refers to things like furniture, electronic devices, and clothes. Think of it this way: if you turn your flat or house upside down, anything that falls out normally counts as contents. Insured risks are things like fire, storms, or burglary.
+
+Say a water pipe in your kitchen bursts, your washing machine leaks all over your nice chairs, or you accidentally leave a lit candle unattended and cause a small fire in your bedroom. Contents insurance will cover the financial costs associated with the damage. 
+
+It’s important to note that if you’re renting a furnished apartment, contents insurance doesn’t cover the furnishings that came with the apartment. They’re the landlord’s property, so they’re not covered by your contents policy.
+
+* Private health insurance (Private Krankenversicherung or ‘PKV’)
+
+Whether you’re working or studying in Germany, health insurance is mandatory. The majority of people in Germany have public health insurance (Gesetzliche Krankenversicherung, or ‘GKV’).
+
+Germany’s public health system is highly advanced, and you’ll be well looked after if you get sick or have an accident. However, if you’re a freelancer, or you’re an employee and earn over a certain amount per year (for 2023: €66,600), you have the option of taking out private health insurance instead.
+
+* Income protection insurance (Berufsunfähigkeitsversicherung)
+
+According to the Federal Statistical Office, one in four people in Germany will become unable to work in their current profession for at least six months in a row due to accident or illness over the course of their lives. A significant percentage of people who file an income protection claim are dealing with a mental health issue like depression or burnout. 
+
+You’ll find that many Germans also have income protection insurance to prepare for this eventuality. Income protection insurance covers all your living costs, including regular bills and grocery costs, when you can’t work, giving you peace of mind so you can focus on getting better.
+
+The younger and healthier you are when you take out income protection coverage, the more affordable it will be. It’s a worthwhile investment in an additional personal safety net. 
+
+* Pet health insurance (Tierkrankenversicherung) and dog liability insurance (Hundehaftpflichtversicherung) 
+
+Pet health insurance can be a worthwhile option if you’re a pet parent in Germany. Pet health insurance provides a wealth of benefits. Depending on the level of coverage you choose, you can cover surgeries, additional treatments and preventative care. Some providers also provide virtual 24/7 veterinary appointments when you’re travelling or it’s three in the morning.
+
+
 **job**
 
 stepstone.de - StepStone is one of the most widely used job sites in Europe and in Germany.
