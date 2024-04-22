@@ -6834,7 +6834,15 @@ Wynand fockink - liqueurs
 Flying Dutchmen Cocktails - Singel 460, 1017 AW - cocktail bar
 
 
-Cafe de Druif  Pub Rapenburgerplein 83 https://goo.gl/maps/nA2UWqVMioPPTe2EA? - типа для местных
+Cafe de Druif  Pub Rapenburgerplein 83 https://goo.gl/maps/nA2UWqVMioPPTe2EA? - типа для местных. bruin bruin cafee Бар претендует на звание старейшего в Амсе
+
+Cafe de Laurierboom - bruin cafe Бар, где играют в шахматы  
+
+Cafe Welling - bruin cafe Мекка пенсионеров. Лучшее место, чтобы выпить после Стеделейка
+
+Cafe Langereis. Чуть менее bruin bruin кафе 
+
+
 
 https://mezrab.nl/events/welcome-to-the-playground-24/ - местные эвенты и комики
 
@@ -9607,6 +9615,9 @@ https://www.cologne-tourism.com/
 
 https://www.cologne-tourism.com/service/city-map
 
+pollen calendar https://www.koeln.de/wetter/pollenflug/
+
+
 **bar**
 
 [Atelier - Fine Drinks & Aperitivo](https://maps.app.goo.gl/HcZaQa8zSf3t6eVW8) (Aachener Str. 15, 50674 Köln) - cozy sur terrain http://atelier-aperitiv.de/
@@ -9694,9 +9705,18 @@ Climbing Factory (Oskar-Jäger-Straße 173, 50825 Cologne)
 
 ## Bonn
 
-Book shop https://www.thalia.de/shop/home/filialen/showDetails/5471/
+**gov**
 
 Federal Employment Agency (BA) German: Bundesagentur für Arbeit Villemobler Straße 76, 53123 Bonn, Germany - http://www.zav.de/ https://www.arbeitsagentur.de/vor-ort/zav/startseite
+
+**to go**
+
+rodderberg.net Vulkan
+
+**shop**
+
+Book shop https://www.thalia.de/shop/home/filialen/showDetails/5471/
+
 
 **apartment**
 
