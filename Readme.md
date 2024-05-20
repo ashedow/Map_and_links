@@ -175,6 +175,10 @@ https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
 
 https://altinity.com/events/
 
+https://www.computextaipei.com.tw/en/index.html - Established in 1981, COMPUTEX TAIPEI (also called COMPUTEX) is the leading global ICT and IoT show with a complete supply chain and ecosystems. Co-organized by the Taiwan External Trade Development Council (TAITRA) and Taipei Computer Association (TCA), COMPUTEX, based upon Taiwan’s complete ICT clusters, covers the whole spectrum of ICT industry, from established brands to startups and from ICT supply chain to IoT ecosystems.
+
+
+
 hackathon.io - hackathon  online/offline events
 
 Scala events
@@ -4510,6 +4514,7 @@ Malbork Castle - https://zamek.malbork.pl
 
  lang exch https://t.me/@tandemwarsawinternational Tandem calendar can be consulted from every device at http://calendar.tandeminternational.waw.pl
 
+https://fungiline.eu/ - продукция грибной аптеки Михаила Вишневского
 
 Барахолки
 
@@ -5445,7 +5450,7 @@ Café Neustadt Karlovo nám. 23 - A popular place for locals with nice beer and 
 
 Jazz Dock Janáčkovo nábř. 3249/2 - http://www.jazzdock.cz/ Cool lounge bar for live jazz music in a modern glass building that feels like it is on the river.
 
-Cat Café Vodní 567/7 - http://www.facebook.com/kocicicikavarna/
+[Cat Café](https://maps.app.goo.gl/xdib58C1eKzEvj1eA) (Vodní 567/7) - http://www.facebook.com/kocicicikavarna/
 
 Kozička Kozí 918/1 - http://www.kozicka.cz/
 
@@ -5484,6 +5489,13 @@ Luka Lu (Újezd 33/402) - Croatia style and dishes. Celebrating the former Yugos
 
 
 Pasta Fresca (Celetná 598/11) - italianA little pricey, but well worth it https://pastafresca.ambi.cz/en/
+
+
+[OMG restaurant](https://maps.app.goo.gl/wMGVcN3hwz4JAVpj8) (Myslíkova 2/26, 110 00 Nové Město, Czechia) - anime-cat-themed restaurants, reasonably priced http://omgrestaurant.cz/ https://www.instagram.com/omg_restaurant/ + more places 
+
+@oishipraha V Celnici 1031/4 
+@chiakirestaurant Londýnská 73
+@oishi.house Spálená 45
 
 
 
@@ -6423,7 +6435,9 @@ https://www.degeschillencommissie.nl/ - вот организация, от од
 Пишите в тикете: окей, я вас понял, вы отказываетесь решить проблему на своей стороне.
 Я открою диспут у De Geschillen Commissie
 
+**Education**
 
+![](./NL_education_system.jpg)
 
 **Apartments**
 
@@ -8362,12 +8376,25 @@ www.spiegel.de/international - An English-language website of the popular German
 
 www.expatica.com - Provider of English daily news, features and practical information on living abroad in English for the international community in Germany
 
+TheLocal.de - English-language news from Germany
+
+TheLocal.at - English-language news from Austria
+
 www.dw.com - German national news by Germany’s international broadcaster 'Deutsche Welle'
+
+heise.de Tech news
+
+golem.de Tech news
+
+netzpolitik.org Political blog about the digital world. Critical towards surveillance etc
+
+gulli.com News about the digital world in general. Critical towards surveillance etc.	
 
 
 Reddit list of german boards https://www.reddit.com/r/DACH/wiki/index/
 
 Some of them:
+* https://www.reddit.com/r/DACH/
 * https://www.reddit.com/r/germany/
 * https://www.reddit.com/r/germany/wiki/index/
 * https://www.reddit.com/r/de/
@@ -8553,7 +8580,12 @@ Amazon Warehouse deals
 * http://www.ebay.com
 * https://www.amazon.de
 
+https://www.temu.com/ - aliexpress for eu
 
+cosmetics:
+* notino.de
+* lookfantastic.de
+* douglas.de
 
 Локальные интернет барахолки:
 
@@ -8611,6 +8643,8 @@ Fjord coffee - https://fjord-coffee.de/de/products/office-coffee-subscription
 19gramms - https://19grams.coffee/en/collections/kaffee-abo
 
 
+**beer**
+
 где заказывать крафтое пиво?
  • https://www.beyondbeer.de
  • https://liquidhops.de
@@ -8630,7 +8664,18 @@ advent календари от дружественных соседей:
  • Еще место: https://maps.app.goo.gl/kToBW7h7fhvuiEn58
 
 
+**food**
+
+https://www.reddit.com/r/Germany/wiki/culture/food/
+
+https://www.chefkoch.de/
+
+https://www.reddit.com/r/Kochen/
+
 **transport**
+
+https://www.bahnhof.de/suche - map of train over the Germany
+
 
 VRS Auskunft app
 
@@ -8686,6 +8731,10 @@ https://www.onlinedoctor.de/
 
 https://www.kvbb-arztsuche.de/ases-kvbb/ases.jsf?sort-by=auto&from=0&t=arzt&size=10 список врачей шире, чем на доктолиб.
 
+http://definetz.online/defikataster-hp - Defikataster: Standorte der Defibrillatoren/карта с дефибрилляторами
+
+https://www.organspende-info.de register in first aid help program
+
 
 **Insurance**
 
@@ -8693,6 +8742,8 @@ Insurance is a big deal in Germany
 
 
 links
+* [Types of insurance in Germany](https://allaboutberlin.com/guides/insurance)
+* [What is an IPID?](https://allaboutberlin.com/glossary/IPID) - All EU insurance policies come with an Insurance Product Information Document (IPID).1 This is a one-page summary of what your insurance covers.
 * https://www.expatica.com/de/finance/insurance/insurance-in-germany-100952/
 * https://www.expatica.com/de/healthcare/healthcare-basics/a-guide-to-german-health-insurance-693463/
 
@@ -8714,7 +8765,13 @@ helden.de
 
 House:
 
-* Home contents insurance (Hausratversicherung) which covers movable belongings such as furniture, clothing, jewelry, and equipment
+* Home contents insurance or household insurance (Hausratversicherung) insures your furniture, your appliances, and the other movable things in your house. It costs around 5€ per month.
+
+For example:
+* There is a fire on your building, and you lose everything you have.
+* A water leak destroys your furniture and electronics.
+* A thief breaks into your house and steals your things.
+
 
 * Building insurance, or homeowners insurance (Wohngebäudeversicherung) which covers the fixed property such as walls, floors, ceilings and fitted units
 
@@ -8730,10 +8787,33 @@ Germany’s public health system is highly advanced, and you’ll be well looked
 
 * Personal liability insurance (private haftpflichtversicherung). 
 
+[How to choose liability insurance in Germany](https://allaboutberlin.com/guides/haftpflichtversicherung)
+Declare it on your tax return. Liability insurance payments are tax-deductible.
+
 This covers injury or damage to other persons or their property. You can get single person coverage or choose to cover additional members of your family. This insurance does not cover damages caused by your car, however; you need to take out a separate vehicle insurance for this.
 
-In German law, there is no limit to the amount someone can claim against you. Personal liability insurance helps avoid the risk of a nasty incident causing great financial harm. There are plenty of expat-friendly personal liability insurance options, including:
+In German law, there is no limit to the amount someone can claim against you. Personal liability insurance helps avoid the risk of a nasty incident causing great financial harm. 
+covers:
+* Damage you cause to the apartment you rent (doors, floors and walls, but not your own things) - For example, if your washing machine breaks, floods the apartment you rent, and destroys the wooden floor, the insurance company covers the repairs. It covers most apartment repairs when you move out.
+* Damage you cause to other people’s property - If you accidentally send someone a virus that breaks their computer, or scratch someone’s car with your bicycle, they can sue you for damages. The insurance company will pay for the repairs and the legal fees.
+* Damage caused by your spouse and children - Liability insurance covers your family too, except your children under 7 years old.4 Your children over 6 years old are covered until they finish their studies.
+* Injuries caused to other people - If you accidentally trip someone and they break their leg, or you kick a ball in someone’s face at the park. The insurance company will pay the legal fees and the reparations.
 
+Some insurance policies also cover:
+* Lost keys - If you lose your apartment keys, the landlord might need to replace the locks for the entire building.6 This can get really expensive. You should get insurance that covers this. Some leases require liability insurance that covers lost keys, but that’s not legal.
+* Damage to things you rent or borrow (geliehene Sachen) - For example, you break the couch in your furnished apartment, you damage a hotel room while you are on vacation,8 or you borrow a neighbour’s drill and you break it
+* Damage while helping a friend (Gefälligkeitsschäden) -  If you help your friend to move, and you break their furniture, liability insurance will not pay for it.10 Some new liability insurance policies cover this.11
+* Other people’s insurances not paying you (Forderungsausfall) - If someone else hurts you, and they cannot pay the damages, your liability insurance will pay you.
+
+Most insurance policies do not cover:
+* Damage to your own things - The things you have in your apartment are not covered by the liability insurance. To insure them, get household insurance (Hausratversicherung).Liability insurance does not cover damage to an apartment you that you rent, but not to an apartment that you own. It covers damage to your neighbours’ apartments.
+* Damage caused by your business activities - If you are a freelancer or a business owner, only professional liability insurance (Betriebshaftpflichtversicherung) to cover your business activities.
+* Damage caused by children under 7 years old - Your young children are not covered by most liability insurances.4 You must pay more for this. Your children over 6 years old are covered by your liability insurance until they finish their studies.
+* Damage or injuries caused by your pets - For this, you need dog liability insurance (Hundehaftpflichtversicherung). It’s required for all dog owners in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia.
+* Car accidents - If you drive a car, damage to other people and their cars is covered by your car insurance, not by your personal liability insurance.
+* Legal disputes - If you want to sue someone, your liability insurance won’t protect you. Legal insurance (Rechtsschutzversicherung) can be useful.
+* Piracy and copyright infringement - If you get in trouble for illegally downloading movies, your liability insurance will not cover you.13
+* Locking yourself out - If you lock yourself out of your apartment, and you call a locksmith to open the door, your liability insurance will not pay for it.31 Household insurance (Hausratversicherung) sometimes covers locksmiths.
 ex:
 [debeka](https://www.debeka.de/privatkunden/haftungsrecht/haftpflichtversicherung/privathaftpflichtversicherung.html)
 [AXA](https://www.axa.de/pk/haftpflicht/p/private-haftpflichtversicherung?AKTIONSCODE=14004L&utm_source=awin&utm_medium=affiliate&utm_campaign=phv&sv1=affiliate&sv_campaign_id=666995&awc=15000_1712832458_cb1e8041afedcc32db0895cb638939a3)
@@ -8745,9 +8825,19 @@ ex:
 [GEV](https://www.gev-versicherung.de/?&gevchannel=AW_BR_AL_kwd-296849654060_530874723283_m_g__1017447748&gevcampagne=AW_BR_AL&gad_source=1&gclid=EAIaIQobChMIzN3Pu4K6hQMVY7VoCR0i9AfpEAAYASAAEgIv_PD_BwE&gclsrc=aw.ds)
 [rhion.digital](https://rhion.digital/)
 
+* Disability insurance (Berufsunfähigkeitsversicherung) This translates to “professional disability insurance”. If you have an accident and can’t do your job anymore, this insurance will help you. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It’s also useful for office workers who can suffer from burnout.
 
+* Life insurance (Lebensversicherung)
+Life insurance pays money to your family when you die. It’s not useful for you, but it’s useful for the people who depend on you. If you have people who depend on you financially, then life insurance is really important. Life insurance is cheap when you are young, but more expensive when you get older.
+
+Legal insurance (Rechtsschutzversicherung)
+Legal insurance gives you free access to a lawyer. If you have a problem with your landlord, your employer, the tax office or anyone else, you can call a lawyer. You can ask them questions, they can write letters for you, and they can go to court with you. Legal insurance will pay for it.
+
+Example
+KS-Auxilia or Roland Rechtsschutz 
 
 Work-related insurance:
+
 
 * Unemployment insurance (arbeitslosenversicherung) – payments split between employer and employee. This entitles you to unemployment benefits if you are out of work and meet certain criteria.
 
@@ -8805,8 +8895,6 @@ https://relocateme.eu/jobs/country-de/
 https://www.arbeitnow.com/
 
 https://www.itrheinland.de
-
-stepstone.de
 
 https://www.kununu.com/
 
@@ -8887,6 +8975,8 @@ Chaos Computer Club, или коротко CCC — это крупнейшая �
 
 **language**
 
+Learning guide https://www.reddit.com/r/German/wiki/the_ultimate_link_guide_to_german/
+
 school
 По всей Германии (включая Берлин)
 * Berlitz http://www.berlitz.de/en/ Одни из лучших курсов, но в то же время одни из самых дорогих, порядка 700€ за блок.
@@ -8916,7 +9006,12 @@ school
 
 Для самостоятельного изучения языка, в помощь к курсам, существуют следующие доступные бесплатные материалы:
 
-Видео-блоги Учебные
+Video
+* https://www.reddit.com/r/German/wiki/youtube/
+https://www.reddit.com/r/German/wiki/filmsandseries/
+
+* https://www.youtube.com/@howtogerman69
+* https://www.youtube.com/@ilyaryabenkov https://t.me/ilyaryabenkov instagraminstagram.com/ilyaryabenkov много простых объяснений
 * [Deutsch lernen mit der DW](https://www.youtube.com/channel/UCxUWIEL-USsiPak0Qy6_vVg)
 * [akzentfrei](https://www.youtube.com/channel/UCULt74BL5BEakAftLMbPGvQ)
 * [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)
@@ -8943,7 +9038,7 @@ school
 * [JORIS](https://www.youtube.com/channel/UC8cbnIyANak8W53NR034Y-g)
 * [Akiho Tsujii](https://www.youtube.com/channel/UC__a6ZD84CD1ojMuDZAKCIA) - фрагменты оперетт на немецком
 * [Digster Pop](https://www.youtube.com/channel/UCorI9V6adKvuIYE7ey9HPQQ)
-
+* https://www.youtube.com/@ilyaryabenkov https://t.me/ilyaryabenkov instagraminstagram.com/ilyaryabenkov много простых объяснений
 Каналы в Телеграмм Учебные
 * https://t.me/alles_klar
 * https://t.me/nemand
@@ -8996,6 +9091,8 @@ Umschulung – это профессиональное переобучение 
 **events**
 
 **culture**
+
+https://www.reddit.com/r/germany/wiki/culture/etiquette/
 
 https://morethanbeerandschnitzel.com/how-to-celebrate-easter-in-germany-maundy-thursday/ Gründonnerstag (lit. green Thursday). Others are Hoher Donnerstag, Weißer Donnerstag, or Palmdonnerstag. It is the fifth day of the Karwoche (Holy Week) that started on Palmsonntag (Palm Sunday). It commemorates the Last Supper of Jesus with his disciples.
 
@@ -9682,6 +9779,16 @@ Zülpicher Platz
 
 Nobiko Noodle Bar & Café (Josephskirchstrasse 25, 51103 Cologne) - Homemade udon noodles
 
+**ice cream**
+
+[Eis-Engeln](https://maps.app.goo.gl/Zs7bYHdNThZbTER79) - http://eis-engeln.de/
+
+Liliana
+
+Eiscafe Da Luca
+
+Eiscafé Cortina am Zülpicher Platz bestes Spaghetti-Eis
+
 **to go**
 
 Nippeser Schillplatz
@@ -9711,16 +9818,23 @@ Federal Employment Agency (BA) German: Bundesagentur für Arbeit Villemobler Str
 
 **to go**
 
+Tony Cragg - Mean Average - Sculpture http://www.stiftungkunst.de/kultur/projekt/tony-cragg-mean-average/
+
 rodderberg.net Vulkan
 
 **shop**
 
 Book shop https://www.thalia.de/shop/home/filialen/showDetails/5471/
 
+Polonia Market (Kölnstraße 464, 53117 Bonn) - polish supermarket http://poloniamarket.de/
 
 **apartment**
 
 https://www.homeand.co/booking/bonn
+
+beer
+
+Craftquelle Bonn Craftbeer Bottleshop (Breite Str. 74, 53111 Bonn) - bar and shop http://www.craft-quelle.de/
 
 **coffee**
 
@@ -14737,6 +14851,8 @@ Lovac (Alekse Nenadovića 19) - здесь много всего вкусног�
 
 Holy Smokes - Texas Style BBQ (Cetinjska 15a) - good barbecue restaurant http://holysmokes.meni.rs/
 
+[Mala Moskva](https://maps.app.goo.gl/fWvALrzRdCv5GMhp8) (Kraljice Marije 29) - Barbecue restaurant. Delicious meat, sos, good coctails, beer, kwas. A lot of different salads. Good portion size
+
 Milky palačinkarnica (Kneginje Ljubice 20) - American style pancakes milky.rs
 
 Траттория Пепе паста с кониной
@@ -15353,6 +15469,20 @@ enotekapremier.rs - wine shop
 Špajz Salaša 137 (Trg Republike 18) - Буфет до 11 или 13, кажется По сб и вс. Да, это один из самых популярных пойнтов У них там девиз "может, не лучшая еда в городе, но зато лучшая атмосфера"
 
 Čarda Aqua Doria (Kamenički put bb) - http://carda.rs/ https://www.facebook.com/restoranaquadoria
+
+
+**coffee**
+
+Martin Kafa (Dunavska 23) - https://www.instagram.com/martinkafa
+
+Nolita (Braće Ribnikar 47) - https://www.instagram.com/nolitacoffeeandfood
+
+Drago Mi Je (Jevrejska 12) - https://www.instagram.com/dragomije.coffee
+
+Tiho i Toplo (Slovačka 9) - https://www.instagram.com/tihotoplo
+
+
+Kafetea (Marka Miljanova 12) - https://www.instagram.com/kafeteans
 
 
 
