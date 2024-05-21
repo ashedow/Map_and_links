@@ -8733,7 +8733,8 @@ https://www.kvbb-arztsuche.de/ases-kvbb/ases.jsf?sort-by=auto&from=0&t=arzt&size
 
 http://definetz.online/defikataster-hp - Defikataster: Standorte der Defibrillatoren/карта с дефибрилляторами
 
-https://www.organspende-info.de register in first aid help program
+https://www.organspende-info.de 
+https://firstaed.com/en/ register in first aid help program
 
 
 **Insurance**
@@ -9071,6 +9072,8 @@ https://www.reddit.com/r/German/wiki/filmsandseries/
 * [YourDailyGerman](https://yourdailygerman.com/) - блог на английском языке, где доходчиво и с юмором объясняется применение и значение различных немецких слов. Есть e-mail рассылка раз в неделю.
 
 **study**
+
+vhs - a lot of different cheap courses
 
 Studienkolleg - Штудиенколлег является переходной ступенью от школы в родной стране к немецкому университету. Учеба там в течение года позволяет улучшить языковые навыки и поближе познакомиться с культурой Германии. 
 ▫️ G - гуманитарные науки;
@@ -9715,6 +9718,10 @@ https://www.cologne-tourism.com/service/city-map
 pollen calendar https://www.koeln.de/wetter/pollenflug/
 
 
+**study**
+
+https://vhs-koeln.de/
+
 **bar**
 
 [Atelier - Fine Drinks & Aperitivo](https://maps.app.goo.gl/HcZaQa8zSf3t6eVW8) (Aachener Str. 15, 50674 Köln) - cozy sur terrain http://atelier-aperitiv.de/
@@ -9832,7 +9839,12 @@ Polonia Market (Kölnstraße 464, 53117 Bonn) - polish supermarket http://poloni
 
 https://www.homeand.co/booking/bonn
 
-beer
+**study**
+
+https://www.bonn.de/themen-entdecken/bildung-lernen/volkshochschule.php
+https://www.vhs-bonn.de/programm
+
+**beer**
 
 Craftquelle Bonn Craftbeer Bottleshop (Breite Str. 74, 53111 Bonn) - bar and shop http://www.craft-quelle.de/
 
