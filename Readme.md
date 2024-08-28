@@ -25,6 +25,8 @@ https://goo.gl/maps/x3bGyoqcfSWg5xUX8
 
 Mapy.cz
 
+https://www.opencyclemap.org/ - The OpenCycleMap global cycling map is based on data from the OpenStreetMap project. At low zoom levels it is intended for overviews of national cycling networks; at higher zoom levels it should help with planning which streets to cycle on, where you can park your bike and so on.
+
 https://activetrip.me/ планировщик маршрутов с  кучей плюшек
 
 https://www.sygic.com/travel
@@ -51,6 +53,8 @@ https://www.zurichbeertour.com
 
 Карта telegram каналов эмигрантов по всему миру https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&ll=41.16888942517209,1.9558068438937148&z=9&mid=1JGjMQmg_xNK4aInGlgXgb_ppBwfq8yng
 
+
+https://peakery.com/latest/ - peaks of the world
 
 
 Поиск билетов в разных странах: самолеты, поезда, автобусы, маршрутки, паромы
@@ -345,6 +349,8 @@ April Coffee Roasters https://www.aprilcoffeeroasters.com Летом у них �
 https://taplink.cc/coffeemap.ru
 
 https://europeancoffeetrip.com/
+
+https://www.globalcoffeefestival.com/Other-Events - https://www.amsterdamcoffeefestival.com/
 
 **relocation**
 
@@ -865,6 +871,8 @@ https://t.me/conbinilifestyle
 https://t.me/japanbreakfast https://instagram.com/nikoniko.douga https://www.youtube.com/@NikoNikoDouga
 
 https://www.sej.co.jp/products/mirai_deli.html
+
+Театр с постановками по аниме  https://www.gingeki.jp
 
 **before trip**
 
@@ -2812,7 +2820,6 @@ goldenline.pl
 
 **Gov services**
 
-
 https://pacjent.gov.pl/
 
 mazowieckie.pl — сайт Мазовецкого воеводского управления в Варшаве (Мазовецкий ужонд). Именно в нем все иностранцы решают проблемы с легализацией, трудоустройством, приглашениями и др. в Варшаве.
@@ -2984,8 +2991,6 @@ JoyRide - club rowerowy https://linktr.ee/joyridepl https://mtbacademy.pl/ https
 
 ## Krakow
 
-
-
 **events and links**
 
 Krakow guide from Reddit https://www.reddit.com/r/krakow/
@@ -3028,12 +3033,7 @@ coinsconference.org Collaborative innovation networks, or COINs conf
 
 https://oeaf.pl/wydarzenia/ - Open Eyes Art Festiwal
 
-
-
 https://linktr.ee/frontspot.poland Community of JavaScript enthusiasts from Poland Quiz https://wearecommunity.io/communities/SLUyMJHFOE
-
-
-
 
 
 Unsound – вот тут (https://www.papermag.com/see-you-there-unsound-2654968669.html) можно немного прочитать о лайнапе этого года https://www.unsound.pl/en/archive/en/dp-authentic.html
@@ -3088,15 +3088,11 @@ https://hackyeah.pl/ - stationary hackathon in Europe
 
 **med**
 
-
-
 PCR/COVID test https://medicina.pl/test-covid-19
 
 Artdentina | Centrum stomatologii (Ślusarska 8/lu5) - price a little bit higher than in luxmed. Friendly, nice service and quality https://artdentina.pl/
 
 3G DENTIST Dental Clinic (Kielecka 1) - some staff speak eng, and some not. professional and nice. https://3gdentist.eu/ 
-
-
 
 Контакты психотерапевтов в Кракове - 
 
@@ -3108,41 +3104,24 @@ https://www.b17.ru/psiholog/krakov/
 
 **apart**
 
-
-
 https://t.me/home_Krakow
-
-
 
 Vienna House Easy Cracow (Przy Rondzie 2) - really nice place to stay  http://www.viennahouse.com/easy-cracow/
 
-
-
 **gov and documents**
 
-
-
 Knuplerz&Knuplerz - notariusz po polski i po angelski
-
-
 
 https://www.krakowdlamieszkancow.com/ - Kraków dla Mieszkańców Razem działamy dla dobra Krakowa i jego mieszkańców. Walczymy z betonowaniem, udzielamy bezpłatnych porad prawnych i monitorujemy działania władz miasta.
 
 
-
-
-
 **tattoo, piercing and body modification studios**
-
-
 
 Blackmood https://www.instagram.com/blackmood_studio/ https://linktr.ee/blackmood_studio
 
 Piersing shop https://piercingroom.pl/
 
 W19 - studio, bar, shop https://w19.pl// Ok at least  for small fast tattoo
-
-
 
 **Bikes**
 
@@ -3153,7 +3132,6 @@ Tomar Sport (Częstochowska 6) – sklep i serwis rowerowy Modlnica – rowery U
 https://mbike.pl/ - sklep/servis
 
 
-
 Bike school 
 
 Now I don't know if they have a course in English, but the highest regarded schools in Kraków are Małopolska Szkoła Motocyklowaand Krakowska Szkoła Motocyklistów
@@ -3161,12 +3139,7 @@ Now I don't know if they have a course in English, but the highest regarded scho
 OES Ośrodek Szkolenia Kierowców - выучится на права, можно на английском. Экзамен на польском или с переводчиком
 
 
-
-
-
 **Vets**
-
-
 
 http://modernvet.pl This is where I go. They speak English and you can make appointments online on their website
 
@@ -3187,7 +3160,6 @@ https://www.3gdentist.eu/en/ - flexible
 https://dentystakliny.pl/kontakt/
 
 
-
 Сдать стекло - https://swiatoze.pl/butelki-zwrotne-w-biedronce-siec-wprowadza-swoj-system-kaucji/
 
 
@@ -3199,8 +3171,6 @@ http://www.krakow.so.gov.pl/krajowy-rejestr-karny,m,m1,193,80
 
 
 **bar**
-
-
 
 Mercy Brown, Floriana Straszewskiego 28 - cocktailman recommedndation. Coctails and swing. 50 Best Discoveries 2021 Cocktail Bar of the Year 2017 & 2018 Burlesque, live jazz, come & sink into special atmosphere http://mercybrown.pl/ https://www.instagram.com/mercybrownkrk https://www.ebilet.pl/miejsce/mercy-brown/
 
@@ -3316,11 +3286,7 @@ Puszka Pandory Cocktail BAR & More (Szpitalna 36) - cocktail bar with a cosy atm
 
 
 
-
-
 **wine**
-
-
 
 Stoccaggio (Krupniczej 9) - przychodzimy, czyli degustacja. jest też niezły wybór win - Piemont – Lombardia – Toskania – Abruzzo – Veneto – Sardynia – Sycylia – Korsyka – Douro – Alentejo – La Rioja – Pais Vasco – Argentyna – Nowy Jork – Kalifornia - Poland - chiński. jedzenia - karta jest krótka, ale głodni zostaną nakarmieni https://sites.google.com/view/stoccaggio-wine-bar/ https://www.instagram.com/wine_bar_stoccaggio https://www.facebook.com/StoccaggioWineBar 
 
@@ -3413,7 +3379,6 @@ Browar Nowa Wytwórnia (Fabryczna 13) - beer, ribs + burgers, wine, cocktail and
 wezze crafta, nowy kraftowy, multi-qulti, szklanki - заведения одной сети, поэтому в один день там будут одинаковое пиво на кранах
 
 
-
 **food and drinks**
 
 Żarówka (Floriańska 20) - good bagels. Cosy place for a brunch. hipster paradise decore. Service might be a bit slow. Nice garden https://www.facebook.com/%C5%BBar%C3%B3wka-Cafe-574692409320283/ 
@@ -3439,7 +3404,6 @@ Meho Cafe | ogrodek kawiarniany (Krupnicza 26) - клевый дворик
 Obwarzanek - to try
 
 Skinny Creme (Świętego Jana 2) - тут цветные кофеи и десерты и все фоткаться для инстаграмчика https://www.facebook.com/Skinnycremecafe 
-
 
 
 Good Lood — сеть морожениц, собирающая десятиметровые очереди даже в дождливые дни.
@@ -3581,8 +3545,6 @@ Oyster and Prosecco bar (Grodzka 51) - sea food, frog legs and other strange dis
 
 
 Minoas Greek Tavern — очень похоже на греческую еду в Греции. Дороже среднего, но порции огромные и всегда бывает десерт в качестве комплимента. вымогают сервис +10%, если большой стол. Из плюсов - угощение вначале (гренки) и в конце (йогурт).
-
-
 
 
 
@@ -3768,8 +3730,6 @@ Wilczy dół (Szpitalna 22) - bar/tawerna restauracja z wiedżmina/The Witcher v
 
 **lgbt**
 
-
-
 bars/clubs:
 
 https://www.facebook.com/LindoKrakow/
@@ -3798,8 +3758,6 @@ Papuga - Gay bar · Dance club & nightclub https://www.facebook.com/Club-Papuga-
 
 **Clubs and music**
 
-
-
 Awaria (Mikolajska 9) - underground(?) klub, bar.  Live music. https://www.facebook.com/klub.awaria/
 
 Prozak - club
@@ -3813,8 +3771,6 @@ zoo club (Józefa 6) - LGBTQ+ music. in the historical Kazimierz district. ; 3 r
 
 
 **coffee and tea**
-
-
 
 Somnium Cafe and Bar https://www.facebook.com/SomniumCafeBarCracow/ фантастическое место с вкуснейшим кофе, свежими десертами. Все это можно попробовать лежа на антресоли.
 
@@ -3880,8 +3836,6 @@ czarkę - herbaciarnie i sklep dużo ale w czajownia też pracują moi przyjacie
 
 **Other places**
 
-
-
 MTG place to play
 
 Magic caffee (Torfowa 7 Floor 1) - https://magiccafe.pl/
@@ -3891,8 +3845,6 @@ Shop Gracz - place and game shop https://shopgracz.pl/
 Dragonus - place and game shop https://dragonus.pl/
 
 Vanaheim - place and game shop https://vanaheim.pl/pl/
-
-
 
 Runa Game Cafe & Pub (Brzozowa 4) - game bar pub
 
@@ -3913,12 +3865,9 @@ The Leaky Cauldron / Dziórawy Kocioł (Grodzka 50/1) - Harry Potter cafe and bo
 Ministerstwo Tajemnic (Kanonicza 11/1) - Harry Potter cafe. Beautiful place. https://www.facebook.com/ministerstwoTajemnic/
 
 
-
 Cat Café Kociarnia (Lubicz 1) - cat caffee https://www.kociakawiarniakrakow.pl/ https://www.facebook.com/kociakawiarnia
 
 Rabbit caffee
-
-
 
 Forum Przestrzenie () - https://www.forumprzestrzenie.com/ https://www.facebook.com/forumprzestrzenie 
 
@@ -3955,6 +3904,10 @@ Hello India na Filipa przy Starym Kleparzu
 Little India (Starowiślna 38/lok.c) - indian store https://www.littleindia.pl 
 
 Welcome India (Świętego Filipa 3) -  Sklep indyjski https://welcomeindia.pl/en
+
+
+[DiscountHubs](https://maps.app.goo.gl/zU7wqfu8ZKje9wq98) (Jabłonna 19, 31-231 Kraków) - looks a bit fishy https://t.me/DiscountHubsEU https://www.instagram.com/discount_hubs
+
 
 cosmetic and hairstyle - https://www.hairstore.pl hebe.pl https://www.rossmann.pl
 
@@ -4174,8 +4127,6 @@ Kraków Philharmonic
 
 Live Bagel Museum of Kraków (Ignacego Paderewskiego 4) https://www.muzeumobwarzanka.com/
 
-
-
 main market square
 
 sukiennice  Kraków Cloth Hall (Rynek Główny 1/3). Museum on the top
@@ -4292,25 +4243,16 @@ klub krakowski (Lotnisko Pobiednik Wielki 32-125 Pobiednik Wielki) - flight scho
 
 ## Zakopane
 
-
-
 Termy Szaflary, Osiedle Nowe 20, 34-424 Szaflary - descent price
 
 
 
 ## Katowice
 
-
-
 https://pik.katowice.pl/
 
 
-
-
-
 ## Nowy Sącz
-
-
 
 Winnica Fritz - https://winnicafritz.pl/index.php wines, beautiful place, very nice owners, passionate
 
@@ -5205,9 +5147,9 @@ https://in-poland.com/samye-neobychnye-interesnye-muzei-v-polshi/
 
 # Czechia/Czech Republic
 
-> HONEST GUIDE channel https://www.youtube.com/channel/UCt7oj318jVQi7vRbc1bNjJA
-
 Mapy.cz – подробная карта Чехии, можно выбрать пешеходные туристические маршруты с обозначенными достопримечательностями.
+
+https://www.expats.cz/
 
 Idos – маршруты общественного транспорта. Выстраивает путь от остановки или адреса с точностью до минуты с пересадками и картой пути.
 
@@ -5323,40 +5265,6 @@ https://www.uradprace.cz/  Kontakty Vyberte okres podle trvalého bydliště neb
 www.prace.cz - A Czech Republic job site providing job opportunities
 
 
-**Доставка продуктов (онлайн-супермаркет)**
-
-rohlik.cz
-
-kosik.cz
-
-Не онлайн
-
-
-
-Вьетнамские магазины, они же večerka, обычный набор продуктов, цены чуть выше, но обычно в шаговой доступности — это плюс. В туристическом центре цены во вьетнамках могут быть сильно выше.
-
-
-
-Penny, Albert, Tesco express для повседневного питания.
-
-
-
-Žabka тоже самое, ассортимент меньше и всё чуть дороже, но очень удобные часы работы 6-23 и можно купить кофе to go.
-
-
-
-Tesco/Kaufland гипермаркеты, есть вообще всё.
-
-
-
-**Готовая еда**
-
-damejidlo.cz (есть сервис с очень быстрой доставкой продуктов, но ассортимент слабее, чем у сервисов выше)
-
-wolt.com (доставки продуктов нет, но техподдержка вроде как лучше чем в damejidlo)
-
-
-
 **Карты и навигаторы**
 
 - google maps
@@ -5376,7 +5284,6 @@ if the tram has the yellow bumper yellow front it means that it has air conditio
 metro
 
 
-
 **Личный транспорт/такси**
 
 uber
@@ -5385,10 +5292,38 @@ bolt
 
 Liftago
 
-каршеринг Anytime (местный делимобиль, сервис отличный, очень рекомендую, могу поделиться пром-кодом)
+каршеринг Anytime (местный делимобиль)
 
-каршеринг Car4way (каршеринг со сложным получением доступа через визит в офис и залог, я не осилил)
+каршеринг Car4way (каршеринг со сложным получением доступа через визит в офис и залог)
 
+
+
+**Доставка продуктов (онлайн-супермаркет)**
+
+rohlik.cz
+
+kosik.cz
+
+Не онлайн
+
+Вьетнамские магазины, они же večerka, обычный набор продуктов, цены чуть выше, но обычно в шаговой доступности — это плюс. В туристическом центре цены во вьетнамках могут быть сильно выше.
+
+Penny, Albert, Tesco express для повседневного питания.
+
+Žabka тоже самое, ассортимент меньше и всё чуть дороже, но очень удобные часы работы 6-23 и можно купить кофе to go.
+
+Tesco/Kaufland гипермаркеты, есть вообще всё.
+
+
+**Готовая еда**
+
+damejidlo.cz (есть сервис с очень быстрой доставкой продуктов, но ассортимент слабее, чем у сервисов выше)
+
+wolt.com (доставки продуктов нет, но техподдержка вроде как лучше чем в damejidlo)
+
+**coffee**
+
+MAZELAB COFFEE ROASTERS - Sourcing & Roasting from Prague, est. 2023 @mazelab.origin mazelabcoffee.com
 
 
 **Интернет-магазины**
@@ -5398,21 +5333,18 @@ alza.cz (электроника и всё-всё-всё, быстрая дост
 mall.cz, czc.cz (конкуренты послабее) 
 
 
-
 **Сервис частных объявлений**
 
 bazos.cz
-
-
 
 **Медицина** 
 
 В целом - все неплохо, кроме того, что очень длинные очереди на некритичные приемы. Почти все по страховке, что не по страховке, не сказать, чтобы сильно дорого было. Врачей много русско и англоговорящих. Но если потребуется именно к чешскому врачу и что-то сложное объяснять, то есть хороший медицинский переводчик
 
+**to go**
 
 
 Карта мероприятий https://goout.net/en/
-
 
 
 Water fountain - free water. mapy.cz - shows where to find water (pitko)
@@ -5425,15 +5357,195 @@ Early Bird Special Prague Towers - discount 50% for towrs
 
 
 
-
-
 ## Prague
 
-Есть уютный чатик в телеге https://t.me/+lbwUe1s1AZlkYjUy датасатанистов. вроде частенько собираются в чайной www.yicha.co
+https://www.introducingprague.com/map/
+
+https://www.prague-stay.com/
+
+http://www.cityspy.info/index.php/map/interactive/Prague
+
+https://praguemorning.cz/
+
+Есть чатик в телеге https://t.me/+lbwUe1s1AZlkYjUy датасатанистов. вроде частенько собираются в чайной www.yicha.co
 
 Остановиться ненадолго Hostel Elf https://www.hostelelf.com/ 
 
 Vinobraní - праздник сбора винограда в сентябре. В разных местах в разные дни проходят фестивали, рекой льется молодое вино - Burčák. Специфический слабоалкогольный напиток, крайне коварный
+
+
+**to go**
+
+Пример прогулок https://en.mapy.cz/zakladni?planovani-trasy=&sid=6156f78492102a1e40c887ef&x=14.4206246&y=50.0854678&z=16
+
+Celetná Theater (Celetná 595/17) - Brilliant theater group Kašpar. Don't miss it. Interesting middle-sized venue just ať one of the Prague's famous streets Celetná. https://www.divadlovceletne.cz/ 
+
+Krymská - спокойненький хипстерский р-н
+
+Velke Benatky
+
+Náměstí Republiky - Prašná brána находится именно здесь, так же здесь находится Divadlo Hybernia, и самый дорогой ресторан в Праге. Рядом PALLADIUM один из самых крупных торговых центров.
+
+Nový Svět https://goo.gl/maps/7b2q3HPoSaexJE3X6
+
+Staroměstská mostecká věž Karlův most - downstairs museum  http://muzeumprahy.cz/201-staromestska-mostecka-vez 
+
+Nová radnice  City Hall  Mariánské nám. 2 - http://www.praha.eu
+
+Scout Institute  Staroměstské nám. 1/4 - www.skautskyinstitut.cz/staromak 
+
+[Street V Kotcích](https://goo.gl/maps/5CkozpAgF8tVHMqo8)
+
+[Kubistická lamp post Jungmannovo nám](https://goo.gl/maps/wfmWviV5KJsUcHtv8)
+
+Billiard center V Cípu Kolbenova 1001 - www.billiardpraha.cz
+
+Interior of Klementinum Library in Prague
+
+Náplavka Notable street - very nice ant interesting stop for food and drinks along the river looks like eyes
+
+Kobka
+
+Municipal library Mariánské náměstí 98/1
+
+John Lennon Wall in Prague  Velkopřevorské náměstí,
+
+SEX MACHINE MUSEUM (Melantrichova 476/18, 110 00 Josefov, Czechia) - sexmachinesmuseum.com
+
+Art Museum Kampa U Sovových mlýnů 2, 118 00 Malá Strana, Czechia
+
+CAMP - Centrum architektury a městského plánování Vyšehradská 2075 -  http://www.praha.camp/  A really nice place where you can have a coffee or cake, study, visit a lecture. Generally a fine place for students of architecture, but others as well. 
+
+National Memorial to the Heroes of the Heydrich Terror Resslova 9a - http://www.vhu.cz/muzea/ostatni-expozice/krypta/ Historic church were 7 paratroopers were gunned down in 1942 & still displaying the bullet marks.
+
+Emmaus Monastery Vyšehradská 49/320 - http://www.emauzy.cz/ A modern roof sits on this early Medieval monastery which was damaged by Allied bombing in WWII.
+
+Faust house Na Slovanech
+
+Rudolfinum Alšovo nábř. 12 - Enduring 19th-century cultural venue with concert halls, art gallery and exhibition spaces. http://www.rudolfinum.cz/
+
+Folimanka Na Folimance 2 - sport complex http://www.uskpraha.cz/index.php/usk-praha/sh-folimanka
+
+The Powder Tower (nám. Republiky 5) - City gate built in the 15th century and restored after being damaged in the Battle of Prague. https://www.prague.eu/cs/objekt/mista/102/prasna-brana?back=1
+
+Prague Castle (Hradčany, 119) - Vast castle complex with buildings revealing architecture from Roman-style to Gothic & 20th century. https://www.hrad.cz/
+
+Queen Anne's Summer Palace (Mariánské hradby 52/1) - Now hosting art exhibits, this 16th century, Renaissance-style summer palace has vast gardens. https://www.prague.eu/cs/objekt/mista/880/prazsky-hrad-letohradek-kralovny-anny
+
+Malá Strana, Prague 1 - Malá Strana, also known as Lesser Town, is a hillside area with views across the Vltava river to the old town. Hotels, casual eateries and traditional pubs line its narrow streets, and visitors scribble messages to the late Beatle on the John Lennon Wall. The riverside Kampa area offers fine dining, and exhibits of photos and letters at the Franz Kafka Museum. Peacocks roam freely at Wallenstein Garden.  Станция метро Malostranská, она же остановка трамвая. В округе просто приятно погулять, есть отличные сады Valdštejnská Zahrada и Vojanovy sady, тут можно встретить даже павлинов. Так же здесь есть сад Kampa и музей Кафки.
+
+Valdštejnská zahrada - free concerts exist
+
+Václavské nám. - Тут гуляют все, много всяких магазинов, какого-то стритфуда, сюда же ведут все маршруты. К ней же примыкает улица Na Příkopě, тоже рекомендуется для туристических гуляний.
+
+Staroměstské nám - главная площадь Праги, здесь же на рождество устанавливают главную ёлку, есть астрономические часы, Chrám Matky Boží před Týnem, Kostel sv. Mikuláše и Památník Jana Husa. Есть выход на улицу Pařížská, тут все самые дорогие магазины, лакшари лайф.
+
+Pražský hrad - Одно из главных мест паломничества туристов, здесь же находится самый главный собор в Праге, Katedrála Sv. Víta. Два варианта добраться, можно пешком через 100500 ступенек от остановки Malostranská, либо от этой же остановки доехать до остановки Pražský hrad, второй вариант лучше, ступеньки не очень удобные. Так же можно доехать на метро по зелёной ветке до остановки Pražský hrad, но учтите что это другая остановка, и от неё нужно будет ещё прогуляться минут 10. Совсем рядом находится Letohrádek královny Anny, это очень красивый сад, рекомендуется к посещению.
+
+Charles Bridge, Karlův most - Landmark stone bridge linking Prague's Old & New Towns, with street artists & entertainers. https://www.prague.eu/cs/objekt/mista/93/karluv-most
+
+Zoo Praha - Отличный зоопарк, немного сложно добраться, но это того стоит. Очень дети френдли, но взрослым тоже понравится. Территория огромная, животных много, организовано всё по принципу открытого зоопарка (без клеток).
+
+Petřín Gardens, Petřínské sady - Красивые сады, ведут на гору Petřín, очень большой сад с тысячей маленьких дорожек, сам подъём довольно крутой, так что если не уверены в своих силах — воспользуйтесь фуникулёром, который находится рядом, а обратно можно спуститься пешком. Наверху вас ждёт прекрасный сад, а главное местная "Эйфелева" башня, с которой просто восхитительный вид. Кстати, зима 2021 выдалась довольно снежной и местные быстро сообразили, что это отличный спуск для горнолыжного спорта.
+
+Hillside garden with areas for roses & fruit trees, plus a funicular railway & viewing tower. https://www.prague.eu/en/object/places/504/petrin-gardens-petrinske-sady
+
+Tančící dům /Dancing House (Jiráskovo nám. 1981/) - Curving modern office block by architect Frank Gehry, with top-floor restaurant offering city views. http://www.tancici-dum.cz/
+
+Old Town Square, Staroměstské nám https://www.prague.eu/cs/objekt/mista/183/staromestske-namesti
+
+Letna Park, Letná - Hilltop park with a Baroque-styled pavilion, childrens' play parks & views over the city. Она же просто Letna. Если хотите затусить в парке или почилить почти в центре Праги, то это ваш выбор. Отличный вид на Прагу, пикник френдли, есть стенды с пивом и стритфудом, даже небольшая детская площадка. А в воздухе присутствует запах свободы. Бонусом рядом находятся прекрасный Národní technické muzeum. Там же находится тусовочное летнее кафе Stalin (его легко найти по гигантскому метроному, установленному на месте бывшего памятника Сталину - гуглите Pražský metronom). По вечерам там играют диджеи, все пьют пиво и сидр и наслаждаются видами. https://www.prague.eu/en/object/places/2716/letenska-plan?back=1
+
+Karlín prague 8 - Karlín has transformed from an industrial neighborhood into a trendy dining and nightlife hub. Art nouveau buildings and former factories house sleek global eateries, wine bars and indie galleries. Big-name bands play the modern Forum Karlín, while the ornate Karlín Musical Theatre hosts musicals. Cutting-edge office buildings surround the old port, and the paths along the Vltava River are popular for jogging and biking. Целый район города, где просто отлично погулять, есть прекрасный Kostel sv. Cyrila a Metoděje с парком, отличное заведение Lokál Hamburk. Есть парк Kaizlovy sady. Это самый реновированный район города, потому что пострадал больше всего во время потопов 2002 и 2012, в том же Локале даже есть отметка почти под потолком какой был уровень воды. Посмотрим что будет в 2022. Самое большое скопление хипстеров именно здесь.
+
+Vítkov - A 1929 hilltop memorial on a long stone platform ringed by woods, with a huge equestrian statue.
+
+Štvanice - остров свободы
+
+Vyšehrad - Fortified castle with a museum, hidden passages, large grounds & remains of a medieval basilica. И туристическое место и одновременно нет, чехи сами любят тут гулять. Есть прекрасная церковь Bazilika sv. Vavřince, есть аутентичное кладбище открытое для туристов. Сам Вышеград (да, так и читается) вполне себе пикник-френдли, виды просто отличные. Тот же самый как и в туристических местах, но для тех кто знает здесь можно найти Gorlice это катакомбы храма и прекрасный опен-эйр паб Na Hradbách.  https://www.praha-vysehrad.cz/cs .
+
+Gorlice
+
+Holešovice
+
+Holešovice Market (Bubenské nábř. 306, Prague 7-Holešovice) - https://www.holesovickatrznice.cz/
+
+Hala 22 - https://www.holesovickatrznice.cz/zeleninovy-trh
+
+JATKA 78 (Hala číslo 7 a 8, Bubenské nábř. 306 /13,) - Theater company http://www.jatka78.cz/ 
+
+
+jaiko - the best ramen in prague
+
+Žižkov Television Tower/Žižkovská televizní věž (Mahlerovy sady 1) - https://www.towerpark.cz/
+
+Žižkov Tunnel
+
+National Memorial on Vítkov Hill
+
+Riegrovy sady (Vinohrady)
+
+Kaizlovy sady, Invalidovna
+
+Náplavka nábřeží - Набережная реки Влтавы. Популярное тусовочное место с кучей баров. Сюда ходят и туристы, и местные, а летом именно здесь проходит большое количество фестивалей. Очень приятно сидеть на берегу с бокалом, болтать ногами и кормить лебедей, которых тут просто огромное количество.
+
+Dlouhá - street with bars and so on
+
+Sculptures by David Cerny - Push-up Bus (Praha 11), Dox and other https://tisamsebegid.ru/praha/david-cerny https://davidcerny.cz/
+
+Kafka sculptures, museums and places. Franz Kafka - Rotating Head, Charvátova, https://www.quadrio.cz/en/franz-kafka-statue. Statue of Franz Kafka, Dušní. Path - https://ast.ru/news/nnn-m11-y18-praga-frantsa-kafki/
+
+Church of Saints Cyril and Methodius, Karlínské nám., - The assassins of a Nazi leader were besieged on this site in 1942, as detailed in a basement museum. https://www.farnost-karlin.cz/
+
+National Gallery Prague - Trade Fair Palace (Dukelských Hrdinů 47) - https://www.ngprague.cz/
+
+National technical museum (Kostelní 1320/42) - клевый интерактивный.  Exhibition including vintage vehicles, old astronomical instruments & a coal mining section. https://www.ntm.cz/
+
+Královská obora Stromovka ( Královská obora, Bubeneč) - Vast park featuring playgrounds, picnic areas & jogging paths amid ponds, fields & shade trees. https://www.praha.eu/jnp/cz/co_delat_v_praze/parky/stromovka/index.html
+
+DOX Centre for Contemporary Art ( Poupětova 1) - Art hub with temporary exhibitions, a library, a chic design store & a cafe with an outdoor terrace. https://www.dox.cz/en
+
+MeetFactory (Ke Sklárně 3213/15) - art center. Exhibitions, performances & workshops at a multimedia art complex in a repurposed railyard building. http://www.meetfactory.cz/cs/
+
+Basilica. Lawrence (Soběslavova 14) - Archaeological museum/ https://www.kkvys.cz/
+
+Brown Nosers (Holečkova 789/49) - museum http://www.futuraprague.com/  intersting as DOX or MeetFactory
+
+Mucha Museum (Panská 7, 110 00 Nové Město) - Compact gallery dedicated to Czech artist Mucha, with paintings, posters, drawings & lithographs. https://www.mucha.cz/en/
+
+DSC Gallery (Dlouhá 923) - http://www.dscgallery.com/
+
+FUTURA Gallery (Holečkova 789) - http://futuraprague.com/
+
+National Gallery Prague - Convent of St. Agnes (U Milosrdných 17, 110 00 Staré Město) - Museum showcasing a collection of medieval paintings & statues in a 13th-century Gothic monastery. https://www.ngprague.cz/
+
+The smallest house in Prague (Anežská 1043/4, 110 00 Staré Město) - https://praga-praha.ru/nejmensi-dum/
+
+Karlín Barracks
+
+
+Kasárna Karlín (Prvního pluku 20/2) - art space Cultural center Бывшие казармы в районе Karlín, переделанные в публичное пространство с барами, кинотеатром, выставками и так далее. https://kasarnakarlin.cz/
+
+Beer Museum (Husova 241/7) - бар и музей. слишком туристический, но норм. https://beermuseum.cz/
+
+LEGO museum
+
+Museum Kampa (U Sovových mlýnů 2) - Riverside museum in former mill, housing private collection of modern Czech & central European art. https://www.museumkampa.cz/
+
+Czech Museum of Cubism (House at the Black Madonna, Ovocný trh 19) -  http://www.czkubismus.cz/en/
+
+400 ASA Gallery (Kováků 30, Praha 5-Anděl) - art gallery/events/books/caffee-coffee https://400asa.org/gallery 
+
+
+Hybernia Theatre (Náměstí Republiky 3/4) - Repertory theater building on the site of a former 17th-century Irish Franciscan monastery. http://www.hybernia.eu/
+
+[Strahov Monastery](https://maps.app.goo.gl/vFnoaZRb2TVVoiGp8) - https://www.strahovskyklaster.cz/
+
+**store**
+
+Naše maso (Dlouhá 727/39) - butcher shop - https://www.nasemaso.cz/en/
+
+Украинский магаз Potraviny MiniMarket NonStop (Husitská 940, 130 00 Praha 3-Žižkov, Czechia)
 
 
 **food**
@@ -5483,9 +5595,7 @@ Vikárka Restaurant (Vikářská 39) - Good pub with chech food, beer and good v
 Les Moules (Pařížská 203/19) - Belgian restaurant, musles. good for selebrate BP with your partner https://www.lesmoules.cz/
 
 
-
 Luka Lu (Újezd 33/402) - Croatia style and dishes. Celebrating the former Yugoslavia, an eclectic restaurant with a variety of indoor & outdoor spaces. https://www.lukalu.cz/ good for selebrate BP with your partner
-
 
 
 Pasta Fresca (Celetná 598/11) - italianA little pricey, but well worth it https://pastafresca.ambi.cz/en/
@@ -5599,21 +5709,20 @@ The Dubliner Irish Bar (Týn 639/1) -world wide chain. popular one https://auldd
 
 Durty Nelly's (Melantrichova 472/12) - world wide chain. cule little nice place. But 3 floor, karaoke, pool tabe https://www.durtynellys.cz/
 
-James Joyce (U Obecního dvora 794/4) - world wide chain. oldest one. food is delicious
-
- and beer. lockers for customers drinks. appeared on the  movie that is called Euro Trip (represents London) https://jamesjoyceprague.cz/
+James Joyce (U Obecního dvora 794/4) - world wide chain. oldest one. food is delicious. beer. lockers for customers drinks. appeared on the  movie that is called Euro Trip (represents London) https://jamesjoyceprague.cz/
 
 U Bráchy (Na Hrobci 2034/7) - hidden gem. http://ubrachy.cz/ https://www.facebook.com/ubrachy/photos?ref=page_internal. Sometimes live music. Also they have a chair for a barber that apparently shows up every Wednesday and  Thursday and cuts people's hair and beards
 
 
-
-
+[Restaurant Na Pekle](https://maps.app.goo.gl/DMBTa28NNZh1tPVK8) - Klášterní pivní & vinný sklep https://www.napekle.cz/
 
 **Wine**
 
 Исторически сорт винограда в ЧР ровно один: Frankovka. Так что если вы ищите максимально аутентичное вино, то это ваш выбор. Конечно ничего не стоит на месте и сейчас в ЧР выращивается огромное количество сортов винограда и из него делают разнообразные вина. Достойны упоминания сорта: Ryzlink rýnský, Müller Thurgau, Sauvignon, Modrý Portugal, Rulandské modré, Rulandské šedé.
 
 Cyberdog (Seydlerova, 158 00 Praha 13) - https://www.cyber-dog.cz/en 
+
+Na skleničku Jindřišská 901 - wine bar www.nasklenicku.com 
 
 
 **bar**
@@ -5639,6 +5748,10 @@ Palac Akropolis (Kubelíkova 1548) - Alternative rock bands & live DJs showcased
 Manesova Bar and Books (Mánesova 64) - Клевое место, милый интерьер с картинами, вкусные коктейли, по пятницам-субботам живая музыка иногда с охуенно импозантными музыкантами https://www.barandbooks.cz/manesova/
 
 Medium 48 - great nidnight coffee and bar and chess
+
+Joystick bar Jindřišská 5 - www.joystickbar.cz
+
+Fuchs2 (ostrov Štvanice, Holešovice)  - aкt space,  bar, night club https://www.fuchs2.cz/ 
 
 
 **clubs**
@@ -5672,192 +5785,9 @@ Artisan Cafe & Bistrot (Vejvodova 445/1) - https://artisancafe.choiceqr.com/. ch
 
 Lázeňská 4 cafe GROUNDS L4 (Lázeňská 4) - cute hidden caffee closed on Tuseday http://www.grounds.cz/
 
-
-**to go**
-
-
-
-Пример прогулок https://en.mapy.cz/zakladni?planovani-trasy=&sid=6156f78492102a1e40c887ef&x=14.4206246&y=50.0854678&z=16
-
-Celetná Theater (Celetná 595/17) - Brilliant theater group Kašpar. Don't miss it. Interesting middle-sized venue just ať one of the Prague's famous streets Celetná. https://www.divadlovceletne.cz/ 
-
-
-Krymská - спокойненький хипстерский р-н
-
-Velke Benatky
-
-Náměstí Republiky - Prašná brána находится именно здесь, так же здесь находится Divadlo Hybernia, и самый дорогой ресторан в Праге. Рядом PALLADIUM один из самых крупных торговых центров.
-
-Nový Svět https://goo.gl/maps/7b2q3HPoSaexJE3X6
-
-Staroměstská mostecká věž Karlův most - downstairs museum  http://muzeumprahy.cz/201-staromestska-mostecka-vez 
-
-Nová radnice  City Hall  Mariánské nám. 2 - http://www.praha.eu
-
-Scout Institute  Staroměstské nám. 1/4 - www.skautskyinstitut.cz/staromak 
-
-Street V Kotcích https://goo.gl/maps/5CkozpAgF8tVHMqo8
-
-Kubistická lamp post Jungmannovo nám https://goo.gl/maps/wfmWviV5KJsUcHtv8 
-
-Billiard center V Cípu Kolbenova 1001 - www.billiardpraha.cz
-
-Joystick bar Jindřišská 5 - www.joystickbar.cz
-
-Na skleničku Jindřišská 901 - wine bar www.nasklenicku.com 
-
-Interior of Klementinum Library in Prague
-
-Náplavka Notable street - very nice ant interesting stop for food and drinks along the river looks like eyes
-
-Kobka
-
-Municipal library Mariánské náměstí 98/1
-
-John Lennon Wall in Prague  Velkopřevorské náměstí,
-
-SEX MACHINE MUSEUM  Melantrichova 476/18, 110 00 Josefov, Czechia
-
-Art Museum Kampa U Sovových mlýnů 2, 118 00 Malá Strana, Czechia
-
-CAMP - Centrum architektury a městského plánování Vyšehradská 2075 -  http://www.praha.camp/  A really nice place where you can have a coffee or cake, study, visit a lecture. Generally a fine place for students of architecture, but others as well. 
-
-National Memorial to the Heroes of the Heydrich Terror Resslova 9a - http://www.vhu.cz/muzea/ostatni-expozice/krypta/ Historic church were 7 paratroopers were gunned down in 1942 & still displaying the bullet marks.
-
-Emmaus Monastery Vyšehradská 49/320 - http://www.emauzy.cz/ A modern roof sits on this early Medieval monastery which was damaged by Allied bombing in WWII.
-
-Faust house Na Slovanech
-
-Rudolfinum Alšovo nábř. 12 - Enduring 19th-century cultural venue with concert halls, art gallery and exhibition spaces. http://www.rudolfinum.cz/
-
-Folimanka Na Folimance 2 - sport complex http://www.uskpraha.cz/index.php/usk-praha/sh-folimanka
-
-The Powder Tower (nám. Republiky 5) - City gate built in the 15th century and restored after being damaged in the Battle of Prague. https://www.prague.eu/cs/objekt/mista/102/prasna-brana?back=1
-
-Prague Castle (Hradčany, 119) - Vast castle complex with buildings revealing architecture from Roman-style to Gothic & 20th century. https://www.hrad.cz/
-
-Queen Anne's Summer Palace (Mariánské hradby 52/1) - Now hosting art exhibits, this 16th century, Renaissance-style summer palace has vast gardens. https://www.prague.eu/cs/objekt/mista/880/prazsky-hrad-letohradek-kralovny-anny
-
-Malá Strana, Prague 1 - Malá Strana, also known as Lesser Town, is a hillside area with views across the Vltava river to the old town. Hotels, casual eateries and traditional pubs line its narrow streets, and visitors scribble messages to the late Beatle on the John Lennon Wall. The riverside Kampa area offers fine dining, and exhibits of photos and letters at the Franz Kafka Museum. Peacocks roam freely at Wallenstein Garden.  Станция метро Malostranská, она же остановка трамвая. В округе просто приятно погулять, есть отличные сады Valdštejnská Zahrada и Vojanovy sady, тут можно встретить даже павлинов. Так же здесь есть сад Kampa и музей Кафки.
-
-Valdštejnská zahrada - free concerts exist
-
-Klementium
-
-Václavské nám. - Тут гуляют все, много всяких магазинов, какого-то стритфуда, сюда же ведут все маршруты. К ней же примыкает улица Na Příkopě, тоже рекомендуется для туристических гуляний.
-
-Staroměstské nám -  лавная площадь Праги, здесь же на рождество устанавливают главную ёлку, есть астрономические часы, Chrám Matky Boží před Týnem, Kostel sv. Mikuláše и Památník Jana Husa. Есть выход на улицу Pařížská, тут все самые дорогие магазины, лакшари лайф.
-
-Pražský hrad - Одно из главных мест паломничества туристов, здесь же находится самый главный собор в Праге, Katedrála Sv. Víta. Два варианта добраться, можно пешком через 100500 ступенек от остановки Malostranská, либо от этой же остановки доехать до остановки Pražský hrad, второй вариант лучше, ступеньки не очень удобные. Так же можно доехать на метро по зелёной ветке до остановки Pražský hrad, но учтите что это другая остановка, и от неё нужно будет ещё прогуляться минут 10. Совсем рядом находится Letohrádek královny Anny, это очень красивый сад, рекомендуется к посещению.
-
-Charles Bridge, Karlův most - Landmark stone bridge linking Prague's Old & New Towns, with street artists & entertainers. https://www.prague.eu/cs/objekt/mista/93/karluv-most
-
-Zoo Praha - Отличный зоопарк, немного сложно добраться, но это того стоит. Очень дети френдли, но взрослым тоже понравится. Территория огромная, животных много, организовано всё по принципу открытого зоопарка (без клеток).
-
-Petřín Gardens, Petřínské sady - Красивые сады, ведут на гору Petřín, очень большой сад с тысячей маленьких дорожек, сам подъём довольно крутой, так что если не уверены в своих силах — воспользуйтесь фуникулёром, который находится рядом, а обратно можно спуститься пешком. Наверху вас ждёт прекрасный сад, а главное местная "Эйфелева" башня, с которой просто восхитительный вид. Кстати, зима 2021 выдалась довольно снежной и местные быстро сообразили, что это отличный спуск для горнолыжного спорта.
-
-Hillside garden with areas for roses & fruit trees, plus a funicular railway & viewing tower. https://www.prague.eu/en/object/places/504/petrin-gardens-petrinske-sady
-
-Dancing House (Jiráskovo nám. 1981/) - Curving modern office block by architect Frank Gehry, with top-floor restaurant offering city views. http://www.tancici-dum.cz/
-
-Old Town Square, Staroměstské nám https://www.prague.eu/cs/objekt/mista/183/staromestske-namesti
-
-Letna Park, Letná - Hilltop park with a Baroque-styled pavilion, childrens' play parks & views over the city. Она же просто Letna. Если хотите затусить в парке или почилить почти в центре Праги, то это ваш выбор. Отличный вид на Прагу, пикник френдли, есть стенды с пивом и стритфудом, даже небольшая детская площадка. А в воздухе присутствует запах свободы. Бонусом рядом находятся прекрасный Národní technické muzeum. Там же находится тусовочное летнее кафе Stalin (его легко найти по гигантскому метроному, установленному на месте бывшего памятника Сталину - гуглите Pražský metronom). По вечерам там играют диджеи, все пьют пиво и сидр и наслаждаются видами. https://www.prague.eu/en/object/places/2716/letenska-plan?back=1
-
-Karlín prague 8 - Karlín has transformed from an industrial neighborhood into a trendy dining and nightlife hub. Art nouveau buildings and former factories house sleek global eateries, wine bars and indie galleries. Big-name bands play the modern Forum Karlín, while the ornate Karlín Musical Theatre hosts musicals. Cutting-edge office buildings surround the old port, and the paths along the Vltava River are popular for jogging and biking. Целый район города, где просто отлично погулять, есть прекрасный Kostel sv. Cyrila a Metoděje с парком, отличное заведение Lokál Hamburk. Есть парк Kaizlovy sady. Это самый реновированный район города, потому что пострадал больше всего во время потопов 2002 и 2012, в том же Локале даже есть отметка почти под потолком какой был уровень воды. Посмотрим что будет в 2022. Самое большое скопление хипстеров именно здесь.
-
-Vítkov - A 1929 hilltop memorial on a long stone platform ringed by woods, with a huge equestrian statue.
-
-Štvanice - остров свободы
-
-Vyšehrad - Fortified castle with a museum, hidden passages, large grounds & remains of a medieval basilica. И туристическое место и одновременно нет, чехи сами любят тут гулять. Есть прекрасная церковь Bazilika sv. Vavřince, есть аутентичное кладбище открытое для туристов. Сам Вышеград (да, так и читается) вполне себе пикник-френдли, виды просто отличные. Тот же самый как и в туристических местах, но для тех кто знает здесь можно найти Gorlice это катакомбы храма и прекрасный опен-эйр паб Na Hradbách.  https://www.praha-vysehrad.cz/cs .
-
-Gorlice
-
-Holešovice
-
-Holešovice Market (Bubenské nábř. 306, Prague 7-Holešovice) - https://www.holesovickatrznice.cz/
-
-Hala 22 - https://www.holesovickatrznice.cz/zeleninovy-trh
-
-JATKA 78 (Hala číslo 7 a 8, Bubenské nábř. 306 /13,) - Theater company http://www.jatka78.cz/ 
-
-Fuchs2 (ostrov Štvanice, Holešovice)  - aet space,  bar, night club https://www.fuchs2.cz/ 
-
-jaiko - the best ramen in prague
-
-Žižkov Television Tower/Žižkovská televizní věž (Mahlerovy sady 1) - https://www.towerpark.cz/
-
-Žižkov Tunnel
-
-National Memorial on Vítkov Hill
-
-Riegrovy sady (Vinohrady)
-
-Kaizlovy sady, Invalidovna
-
-Náplavka nábřeží - Набережная реки Влтавы. Популярное тусовочное место с кучей баров. Сюда ходят и туристы, и местные, а летом именно здесь проходит большое количество фестивалей. Очень приятно сидеть на берегу с бокалом, болтать ногами и кормить лебедей, которых тут просто огромное количество.
-
-Dlouhá - street with bars and so on
-
-Sculptures by David Cerny - Push-up Bus (Praha 11), Dox and other https://tisamsebegid.ru/praha/david-cerny
-
-Kafka sculptures, museums and places. Franz Kafka - Rotating Head, Charvátova, https://www.quadrio.cz/en/franz-kafka-statue. Statue of Franz Kafka, Dušní. Path - https://ast.ru/news/nnn-m11-y18-praga-frantsa-kafki/
-
-Church of Saints Cyril and Methodius, Karlínské nám., - The assassins of a Nazi leader were besieged on this site in 1942, as detailed in a basement museum. https://www.farnost-karlin.cz/
-
-National Gallery Prague - Trade Fair Palace (Dukelských Hrdinů 47) - https://www.ngprague.cz/
-
-National technical museum (Kostelní 1320/42) - клевый интерактивный.  Exhibition including vintage vehicles, old astronomical instruments & a coal mining section. https://www.ntm.cz/
-
-Královská obora Stromovka ( Královská obora, Bubeneč) - Vast park featuring playgrounds, picnic areas & jogging paths amid ponds, fields & shade trees. https://www.praha.eu/jnp/cz/co_delat_v_praze/parky/stromovka/index.html
-
-DOX Centre for Contemporary Art ( Poupětova 1) - Art hub with temporary exhibitions, a library, a chic design store & a cafe with an outdoor terrace. https://www.dox.cz/en
-
-MeetFactory (Ke Sklárně 3213/15) - art center. Exhibitions, performances & workshops at a multimedia art complex in a repurposed railyard building. http://www.meetfactory.cz/cs/
-
-Basilica. Lawrence (Soběslavova 14) - Archaeological museum/ https://www.kkvys.cz/
-
-Brown Nosers (Holečkova 789/49) - museum http://www.futuraprague.com/  intersting as DOX or MeetFactory
-
-Mucha Museum (Panská 7, 110 00 Nové Město) - Compact gallery dedicated to Czech artist Mucha, with paintings, posters, drawings & lithographs. https://www.mucha.cz/en/
-
-DSC Gallery (Dlouhá 923) - http://www.dscgallery.com/
-
-FUTURA Gallery (Holečkova 789) - http://futuraprague.com/
-
-National Gallery Prague - Convent of St. Agnes (U Milosrdných 17, 110 00 Staré Město) - Museum showcasing a collection of medieval paintings & statues in a 13th-century Gothic monastery. https://www.ngprague.cz/
-
-The smallest house in Prague (Anežská 1043/4, 110 00 Staré Město) - https://praga-praha.ru/nejmensi-dum/
-
-Tančící dům - Знаменитый "танцующий дом" - его можно увидеть на большинстве туристических фотографий. Внутрь можно зайти, на крыше есть бар.
-
-Karlín Barracks
-
 Parlor café (Křižíkova 197/37) - coffee place espresso bar http://www.parlor.cz/
 
 Garaz (Thámova 2) - coffee place https://www.facebook.com/kavarnagaraz/
-
-Kasárna Karlín (Prvního pluku 20/2) - art space Cultural center Бывшие казармы в районе Karlín, переделанные в публичное пространство с барами, кинотеатром, выставками и так далее. https://kasarnakarlin.cz/
-
-Beer Museum (Husova 241/7) - бар и музей. слишком туристический, но норм. https://beermuseum.cz/
-
-LEGO museum
-
-Museum Kampa (U Sovových mlýnů 2) - Riverside museum in former mill, housing private collection of modern Czech & central European art. https://www.museumkampa.cz/
-
-Czech Museum of Cubism (House at the Black Madonna, Ovocný trh 19) -  http://www.czkubismus.cz/en/
-
-400 ASA Gallery (Kováků 30, Praha 5-Anděl) - art gallery/events/books/caffee-coffee https://400asa.org/gallery 
-
-
-Hybernia Theatre (Náměstí Republiky 3/4) - Repertory theater building on the site of a former 17th-century Irish Franciscan monastery. http://www.hybernia.eu/
-
-Naše maso (Dlouhá 727/39) - butcher shop - https://www.nasemaso.cz/en/
-
-Украинский магаз Potraviny MiniMarket NonStop (Husitská 940, 130 00 Praha 3-Žižkov, Czechia)
-
-
 
 
 
@@ -6335,6 +6265,22 @@ https://www.heatsupply.nl/ - Hot Sauce
 
 Umba
 
+**coffee**
+
+https://fivewayscoffee.com/
+
+https://friedhats.com/
+
+https://claycoffee.nl/
+
+https://amatterofconcrete.com/
+
+https://shop.kawa.coffee/en/
+
+https://www.saintjean.nl/
+
+https://shop.scandinavianembassy.nl/
+
 
 **Language**
 
@@ -6696,8 +6642,7 @@ Electric Ladyland - небольшой музей в Амстердаме, гд�
 
 3d printed bridge https://www.dezeen.com/2021/07/19/mx3d-3d-printed-bridge-stainless-steel-amsterdam/amp/
 
-
-музей внутри человека (corpus)
+[BODY WORLDS: The Happiness Project](https://maps.app.goo.gl/fF5oAM27qqnjwkyf9) (Damrak 66, 1012 LM Amsterdam) - https://www.bodyworlds.nl/ музей внутри человека (corpus)
 
 самолётики (aviadrome)
 
@@ -6785,7 +6730,9 @@ Zaanse Schans - Zaanse Schans is a neighborhood in the Dutch town of Zaandam, ne
 
 15. Ещё военно-морской музей хорош
 
+ARTZUID: https://artzuid.nl fest
 
+https://festival.liquicity.com/ dnb fest
 
 **store**
 
@@ -6908,6 +6855,10 @@ Café Soundgarden (Marnixstraat 164-166, 1016 TG Amsterdam, Niederlande) - bar c
 
 http://www.morebeer.nl/tour/ 
 
+https://www.beertemple.nl/en/american-beer-bar-amsterdam/
+
+https://craft-quelle.de/im-craft-bierhimmel/
+
 Heineken experience - музей от завода Хайникен. Это как Guinness в Дублине, только в пять раз хуже. Не надо, просто не надо.
 
 в Хайнекен музее делать нечего, но если таки хочется посмотреть на пивоварню, то есть https://www.brouwerijhetij.nl/ Это одна из самых крупных пивоварен Амстердама, находится в мельнице, туда водят экскурии и есть бар с относительно дешевым пивом.
@@ -6915,6 +6866,9 @@ Heineken experience - музей от завода Хайникен. Это ка
 Если хочется попить пива в церкви, то можно сходить вот сюда https://www.anna-amstelveen.nl , тут очень красиво.
 
 Если хочется попить пива в церкви, которое сделано в той же церкви, можно доехать до Харлема и сходить вот сюда https://www.jopenkerk.nl/haarlem/
+
+Oedipus Brewery in Amsterdam - The taproom of the Oedipus brewery in Amsterdam's Noord district is unique. A colorful, lively location that also hosts music and cultural events - and with an open view of the brewery's beer tanks at the back of the hall. The outdoor area in the middle of a commercial area is huge. 
+
 
 
 https://www.templebar-amsterdam.com/#sectionContact - Если вы любитель пива Заведение знаковое, с огромным выбором. Там даже кормят (ну точно кормили до того как мир стал другим), но идут туда за пивом и разговорами с барменом.От этого заведения начинается дорожка "трамвайных баров" - бархоппинг по-Амстердамски, одна остановка на трамвае - один бар. Дальше трёх продвинуться сложно.Детали - у бармена.
@@ -7006,6 +6960,8 @@ Pendergast — еще одна коптильня, помоднее предыд
 Il Sogno — отличная пицца.  https://goo.gl/maps/vwQZyPufRnrbyFL98
 
 The Seafood Bar (Ferdinand Bolstraat 32, 1072 LK Amsterdam, Netherlands) — ресторан морепродуктов. Очень-очень вкусно. https://goo.gl/maps/7X9UvGchYtjgr1dcA https://www.theseafoodbar.com/menu
+
+Wow crab - sea food be-nl chain (Amsterdam/Rotterdam/DenHaag) https://www.wowcrab.nl/ https://www.instagram.com/wowcrab_nl https://www.tiktok.com/@wowcrab_nl
 
 
 Sea Palace Restaurant (Oosterdokskade 8, 1011 AE Amsterdam) - Chinese restaurant https://maps.app.goo.gl/vkxg3SsFx2A7xsR68?g_st=ic
@@ -7609,6 +7565,27 @@ Arket (Wagenstraat 14) - Шведские булочки в кафе при ма
 - Kompaan - тоже пивоварня в доках, но на отшибе
 
 
+## Zwolle
+
+https://portalzwolle.nu/
+
+работы художницы Iris Le Rütte: https://www.irislerutte.nl/
+
+крепость Sassenpoort: https://sassenpoortzwolle.nl/
+
+Museum De Fundatie: https://www.museumdefundatie.nl/
+
+Попасть на смотровую площадку Церкви Святого Михаила: https://www.academiehuis.nl/en/hanze
+
+https://www.facebook.com/Zwollepeperbus/
+
+магазин в Van der Velde in de Broeren: https://www.vanderveldeindebroeren.nl/
+
+**food**
+
+Dunnik: https://www.brasseriedunnik.nl/
+
+
 
 # Scotland
 
@@ -7629,6 +7606,10 @@ EAT. – в случае, если вы проголодались, а из до
 Amazon – для покупки всего. Как-то раз сестра моего парня спросила меня «в смысле в России нет Амазона, а где же вы тогда всё покупаете?!»
 
 Monzo – если вы останавливаетесь на достаточно длительное время у друга, и хотите местную банковскую карту (карта идёт 7-10 дней, обязательно указание адреса не отеля для ее оформления).
+
+## Edinburgh
+
+https://www.edfringe.com/ The Edinburgh Festival Fringe is one of the greatest celebrations of arts and culture on the planet and takes place every August in Edinburgh, Scotland’s capital city. Find out more about how to make the most of the Fringe.
 
 
 
@@ -7680,6 +7661,11 @@ We Croak - мобильное приложение https://itunes.apple.com/us/a
 **service**
 
 https://www.johnlewis.com/
+
+https://www.reagent-tests.uk/shop/
+
+coffee https://kissthehippo.com/
+
 
 **food**
 
@@ -7838,6 +7824,9 @@ Mudlarking: Lost and Found on the River Thames  https://www.amazon.co.uk/Mudlark
 Музей почты, Лондон. Там даже можно покататься на почтовом метро-поезде: https://www.postalmuseum.org
 
 https://www.londoncoffeefestival.com/ coffee festival
+
+Bramah Tea and Coffee Museum - https://www.britainexpress.com/London/Bramah_Tea_and_Coffee_Museum.htm
+
 
 
 **food**
@@ -8265,14 +8254,8 @@ Tate Britain SW1P 4RG, London, Millbank — художественный муз�
 
 ## Glasgow
 
-Glasgow awaits! Part 1
 
-В рубрике #realpricesuk мы рассматриваем стоимость жизни в городах Великобритании, и Глазго — следующая точка на нашем пути. 
-
-IT-сектор Глазго стремительно растет и привлекает все больше частных инвестиций (около £100.000 за 2022 год). В tech-секторе (в том числе в Amazon, IBM, Apple, Google, Dell, Cisco, SAS, Skyscanner, etc.) работает около 34.000 человек, но рынок продолжает расширяться и нуждается в новых талантах. 
-
-
-Аренда жилья  
+**apart**
 
 Средняя стоимость месячной аренды квартиры в Глазго на 60% ниже, чем в Лондоне. Снять студию в центре Глазго будет стоить ~ £825 / мес., дома с 2-3 спальнями в пригороде –  ~ £1.150 / мес.
 
@@ -8301,7 +8284,7 @@ IT-сектор Глазго стремительно растет и привл
 
 Безлимитный высокоскоростной интернет обойдется еще в ~ £29 / мес.
 
-Продукты
+**food**
 
 Сетевые супермаркеты те же, что и в других городах UK:
 
@@ -8315,7 +8298,7 @@ IT-сектор Глазго стремительно растет и привл
 
 💡Помимо традиционных блюд местной кухни (например, куропатки или знаменитого песочного печенья Shortbread) здесь любят готовить свежую рыбу и морепродукты — шотландский лосось, крабы, устрицы и мидии ценятся во всем мире.
 
-Попробуйте Cullen skink — густой суп из копченой пикши, лука-порея и картофеля.
+Cullen skink — густой суп из копченой пикши, лука-порея и картофеля.
 
 Также существует теория, что Глазго — родина известнейшего блюда индийской кухни Чикен Тикка Масала.
 
@@ -8333,23 +8316,32 @@ IT-сектор Глазго стремительно растет и привл
 
 За ярко-оранжевый цвет вагонов метро Глазго прозвали «Заводным апельсином».
 
-Развлечения 
+**to do** 
 
 В Глазго более 20 музеев и галерей, часть из которых бесплатны для посещения.
 
-
 Здесь также проходит множество театральных, кино- и музыкальных фестивалей. Например, в этом году отмечает свое десятилетие Riverside (билет на оба дня — £119.90), а в июле состоится TRNSMT (билет на три дня — £182.50).
+
+
+Missing Records -  has been serving the city's music fans for four decades, has just been named the Best Record Store in the country.
+
+record store
+
 
 ## Manchester
 
 this thing of ours (9a Chapel Walks Manchester M2 1AE) - techwear uk shop https://www.facebook.com/thisthingofoursclothing/ https://www.instagram.com/this.thing.of.ours/ https://thisthingofours.co.uk/ We're a proudly independent mens and lifestyle store stocking a curated selection of brands from around the globe. We grew increasingly frustrated with huge retailers and copycat stores all stocking the same products dominating the UK high street, so we decided to set up a store to sell the kind of things we wanted to buy. We work with brands from many countries including Japan, Korea, Taiwan and the USA to bring you hard to find, high quality clothing thats ahead of the curve. 
 
 
-# Germany
+# Germany/Германия
 
 https://github.com/korotko-de/dach-collection/blob/main/ru/telegram-collection.md
 
 https://github.com/ru-de/faq
+
+https://handbookgermany.de
+
+finanztip.de
 
 https://marlonbernardes.github.io/awesome-berlin/en/#awesome-berlin
 
@@ -8359,8 +8351,6 @@ https://www.reddit.com/r/germany/wiki/culture/etiquette/
 
 https://www.iamexpat.de/
 
-Набор интерактивных карт Берлина от Morgenpost: http://bit.ly/berlin-interactive-map
-
 Сервис, который облегчает расторжение договоров: https://www.aboalarm.de
 
 Расторгнуть договор с Vodafone: https://www.vodafone.de/hilfe/vertrag/vertrag-laufzeit.html#wie-kuendige-ich-meinen-vertrag
@@ -8369,8 +8359,6 @@ https://www.iamexpat.de/
 www.howtogermany.com - A useful website which tells you everything you need to know about living and working in Germany as a foreigner.
 
 www.toytowngermany.com - An information resource, a meeting point, and a communication platform for English speakers throughout Germany
-
-www.general-anzeiger-bonn.de - An English-language website of Bonn´s local newspaper
 
 www.spiegel.de/international - An English-language website of the popular German magazine
 
@@ -8404,6 +8392,8 @@ Some of them:
 
 
 **Apartment**
+
+https://www.mietrecht.de/ usefull artikles
 
 List of websites to find housing in Germany
 Unfurnished long-term apartments:
@@ -8441,6 +8431,9 @@ Short term:
 * https://www.mrlodge.com/
 * Airbnb
 * booking
+* Spot a Home
+* Wunderflats
+* Coming Home
 
 Long term:
 * https://www.immobilienscout24.de/ aka "скаут", как самый крупный.
@@ -8448,13 +8441,13 @@ Long term:
 * https://www.immowelt.de/,
 * http://www.wg-gesucht.de/,
 * http://kleinanzeigen.ebay.de,
-* https://www.akelius.de/ - это агентство, которое владеет многоквартирными домами под сдачу, вам помогает их агент, но платить ему не надо. Очень хорошие и говорят по-английски.
+* akelius - это агентство, которое владеет многоквартирными домами под сдачу, вам помогает их агент, но платить ему не надо. Очень хорошие и говорят по-английски.
 * https://www.zillow.com/de/coming-soon/
 * https://www.thehomelike.com/
 
 * https://www.coming-home.com/en/ - агентство, цены выше среднего, но квартиры все меблированные,
 * https://www.city-wohnen.de/eng/berlin/ - агентство, цены немного выше среднего, как правило в цену уже все включено (газ, вода, свет), квартиры все меблированные, быстро отвечают и хорошо подбирают вариант если точно опишете свои пожелания и район, общение на английском.
-Группы в фейсбуке, объявлений много, но есть и мошенники: 1, 2, 3, 4, 5,
+Группы в фейсбуке, объявлений много, но есть и мошенники: 
 
 Fully furnished rooms: 
 * AirBnB (watch out: most providers on AirBnB do not provide “Anmeldung”): https://www.airbnb.com/
@@ -8557,8 +8550,6 @@ https://shop.deutschepost.de/shop/nachsenden-lagern/nachsendeservice.jsp?tid=DP_
 - бесплатный сервис уведомляет сторонних отправителей из некоторого списка (банки, госуха там, мб что ещё). Уведомил - и всё. Те могут принять к сведению, не поверить и продолжать слать на старый. А ещё кучи отправителей вашей почты там просто нет; например, медицинские счета или результаты из лабораторий.
 - платный сервис фактически перенаправляет все письма, посылаемые DP и дочерними сервисами, на новый адрес. Если кто-то отправил письмо на старый адрес этими сервисами, они его автоматически перенаправят на новый
 
-
-
 **service**
 
 https://www.idealo.de - крупный агрегатор цен на всевозможные товары, Помогает найти нужный товар по наименьшей цене.
@@ -8571,8 +8562,28 @@ mydealz.de – всякие скидосики, которые люди сами
 
 
 Локальные крупные физические магазины электроники:
-* https://www.mediamarkt.de
+* https://www.mediamarkt.de / saturn
 * http://www.saturn.de
+
+coolblue.de
+
+rebuy.de
+
+https://nyfter.com/ - gaming Erlebnis
+https://www.byowave.com/ - Byowave Limited Get started with the Proteus Controller
+
+https://nzxt.com/ - Prep for success with a prebuilt PC.
+Playseat BV - gaming chair
+KARNOX - Pro Gaming Chair
+https://www.andaseat.com/ - Gaming Chair
+https://www.dxracer-germany.de/ - Gaming Chair
+Ergorest Oy - ergonimic chair
+jsaux.com - Shop Now & Save — The best docking station for steam deck explore a new way to play with the Steam deck. Provide the high-quality Steam Deck accessories, give you the best gaming experience.
+https://de.idgaming.co.uk/ - pads, cabels, keycaps, keyboards, mouses etc
+https://www.corsair.com/us/en
+https://www.bequiet.com/de - be quiet! is a premium brand manufacturer of power supplies, cases and cooling solutions for your desktop PC.
+https://www.blackmagicdesign.com/products - Explore Blackmagic Design Products
+
 
 Amazon Warehouse deals
 
@@ -8580,12 +8591,25 @@ Amazon Warehouse deals
 * http://www.ebay.com
 * https://www.amazon.de
 
-https://www.temu.com/ - aliexpress for eu
+otto.de
+baur
+etsy
+shein
+
 
 cosmetics:
 * notino.de
 * lookfantastic.de
 * douglas.de
+
+Glückskind – если у вас есть дети и вы хотите покупать косметику, подгузники и стиральный порошок в dm со скидками.
+
+
+Payback – делаешь покупки, накапливаешь баллы, которые потом тоже можно потратить.
+
+
+https://www.temu.com/ - aliexpress for eu
+
 
 Локальные интернет барахолки:
 
@@ -8596,9 +8620,21 @@ cosmetics:
 * Zalando Lounge
 * Bestsecret
 
-Nora – Приложение для вызова экстренных служб (полиция, скорая помощь, пожарная охрана). Главный плюс приложения - нет необходимости разговаривать по телефону, как при звонке на 110 или 112. Особенно полезно для тех, кто не уверен в своём немецком языке. https://www.nora-notruf.de/en-en/startpage
 
-Mundraub – Карта общедоступных мест для сбора трав, фруктов и овощей. Возможно, вы удивитесь, как много всего растёт вокруг вас, даже если вы живёте в городе. https://mundraub.org/map#z=7&lat=50.91&lng=11.56
+Utry.me - YOUR TEST MARKET WITHOUT PRICES
+
+
+
+NINA App for warnings about bomb findings, storms, fires, evacuations,...
+
+KATWARN App for warnings about bomb findings, storms, fires, evacuations,... https://www.katwarn.de/anmeldung-app.php
+
+DWD - App for warnings about bomb findings, storms, fires, evacuations,...
+https://www.dwd.de/DE/service/dwd-apps/dwdapps_node.html;jsessionid=81298053D979A8DF4150AA190F6CE11C.live21073
+
+Toiletten scout. - Shows a map listing all public Toilettes in the area. You can filter for only payed, only free or both Toilettes. unfortunately database is not very up to date
+
+Flush - map listing all public Toilettes in the area
 
 Briefankündigung – Если у вас есть почта на Gmx.de (или Web.de), можно подключить опцию Briefankündigung от Deutsche Post. Это позволит получать скан передней части отправленного вам конверта еще до того, как письмо попадет в ваш почтовый ящик по месту проживания (3 скана в месяц – бесплатно). https://www.deutschepost.de/de/b/briefankuendigung.html
 Также в приложение DeutschePost бесплатно и без ограничений
@@ -8610,25 +8646,26 @@ Mitvergnuegen и Rausgegangen – Афиши мероприятий (конце�
 
 BuchschrankFinder – Android-приложение с картой для поиска публичных шкафов для обмена книгами. https://play.google.com/store/apps/details?id=de.aditu.buchschrank&hl=de
 
-Komoot – Это платформа планирования и поиска маршрутов для хайкинга, велосипедных поездок и других активностей на свежем воздухе. https://www.komoot.com/
 
-TooGoodToGo – Приложение для покупки остатков продовольствия и блюд у ресторанов и продовольственных магазинов по минимальным ценам. https://www.toogoodtogo.com/
+Geocashing – развлекательное приложение для путешественников. Нужно по GPS-координатам искать спрятанные другими участниками секреты.
+
 
 Onleihe – онлайн-библиотека Гёте-института с современной литературой. Легальный способ читать бесплатно свежую прессу, журналы и популярные книги на немецком. https://www.divibib.com/informationen-fuer-nutzerinnen/c-1819
 
-Nebenan – платформа для общения с соседями, (есть приложение или на сайте), чтобы зарегаться нужно получить код по почте, так проверят, что ты действительно живешь в указанном районе. Отличный пример комьюинити добрососедства. https://nebenan.de/
 
 BSR – приложение немецкой службы переработки мусора, показывает локации мусорных контейнеров и календарь вывоза, еще в нем можно ввести в поиске продукт и понять, в какой бак его выкидывать https://apps.apple.com/ru/app/bsr-berliner-stadtreinigung/id510910166?l=en
 
 Check24 – Чтобы регулярно менять провайдеров и выбивать из них условия получше https://www.check24.de/
 
-https://www.ochama.com/ - asian and korean food market
 
-zamnesia.com
+zamnesia.com - online retailer offering a wide variety of smart shop and headshop products, such as cannabis seeds, dried plants and herbs, vaporizers, magic truffles, and mushroom grow kits. We strive for the highest level of professionalism, reliability and service. This, combined with solid teamwork and passion, mean we’ve grown into an indispensable brand across the industry—an achievement we’re incredibly proud of!
+
+
+
 
 **coffee**
 
-Coffee circle - https://www.coffeecircle.com/de/e/kaffee-abo
+Coffee circle - https://www.coffeecircle.com/de
 
 Röststätte - https://www.roeststaette.com/shop/kaffee-abo/
 
@@ -8641,6 +8678,14 @@ Five elephants - https://www.fiveelephant.com/de/collections/coffee/subscription
 Fjord coffee - https://fjord-coffee.de/de/products/office-coffee-subscription
 
 19gramms - https://19grams.coffee/en/collections/kaffee-abo
+
+дважды roasitng champion германии seekind.coffee
+
+https://www.xenia-espresso.de/ - geek coffee machine
+
+lalibee.de
+
+wild-kaffee.com
 
 
 **beer**
@@ -8672,12 +8717,54 @@ https://www.chefkoch.de/
 
 https://www.reddit.com/r/Kochen/
 
+
+Mundraub – Карта общедоступных мест для сбора трав, фруктов и овощей. Возможно, вы удивитесь, как много всего растёт вокруг вас, даже если вы живёте в городе. https://mundraub.org/map#z=7&lat=50.91&lng=11.56
+
+TooGoodToGo – Приложение для покупки остатков продовольствия и блюд у ресторанов и продовольственных магазинов по минимальным ценам. https://www.toogoodtogo.com/
+
+Flink
+
+https://picnic.app/de/
+
+Neotaste - https://neotaste.com/en
+
+Paprika - Lets you save recipes from almost any website, usually divides them automatically into ingredients and preparation and you can easily edit them. It has even worked from a Reddit comment, although it wasn't categorised by ingredients and preparation.
+
+Lieferando – приложение для заказа еды из кафе и ресторанов.
+
+https://www.ochama.com/ - asian and korean food market
+
+
+**A Taste of the Tauber** is the name of this gourmet initiative highlighting locally resourced fruits, vegetables, and meats as well as traditional foods and historic preparations. https://howtogermany.com/culture/cuisine/a-taste-of-the-tauber/
+
+
+
+
+**sport**
+
+urban sport card
+
+https://www.stay-focused.com/
+
+myfit24.de
+
+https://www.bodylab24.de
+
+https://www.bulk.com/
+
+de.animalpak.com
+
+Komoot – Это платформа планирования и поиска маршрутов для хайкинга, велосипедных поездок и других активностей на свежем воздухе. https://www.komoot.com/
+
+
+
 **transport**
 
 https://www.bahnhof.de/suche - map of train over the Germany
 
 
-VRS Auskunft app
+VRS Auskunft – приложение городского транспорта KVB, где можно построить маршрут и купить билет дешевле, чем в автомате.
+
 
 https://www.bvg.de
 
@@ -8689,9 +8776,20 @@ ultimate навигатор по транспорту https://play.google.com/st
 
 Omio – Сервис поиска оптимального перемещения общественным транспортом между городами (поезда, автобусы, самолеты). https://www.omio.com/
 
-db navigator – приложение дойче бана. Наверное, каждый, кто катался на поезде про него знает.
+db navigator – приложение дойче бана. Наверное, каждый, кто катался на поезде про него знает. приложение немецких железных дорог, можно отслеживать скидки, строить маршруты и покупать билет в приложении.
+
 
 DB Bahncard – скидочная карта на дойче бан. Отбивается почти сразу, если в год ездить больше один раз на ICE по германии. Наверное, c Дойчландстикетом сейчас будет не так актуально https://www.bahn.de/angebot/bahncard
+
+FlixBus – если захотите дешево и без комфорта скататься в Гамбург/Амстердам/Париж на автобусе.
+
+
+Mobile.de – если вы хотите купить или продать транспортное средство, то вам сюда.
+
+car2go – если вы сам себе водитель и хотите автомобиль напрокат.
+
+Richtig-tanken.de – приложение, которое показывает автозаправки рядом с вами и цены на топливо на них.
+
 
 
 **gov**
@@ -8709,23 +8807,51 @@ https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/OnlineTestcen
 
 
 The identifikationsnummer, or Tax ID, is an 11-digit number assigned to each individual person as soon as they register as a resident in Germany.
+Persönliche Identifikationsnummer (12 456 789 123) - единый номер, назначающийся каждому жителю Германии, включая новорожденных детей. Паспорт, ВНЖ - меняются несколько раз за жизнь и имеют разные серийные номера, но Identifikationsnummer один на всю жизнь.
+
 
 
 The Steuernummer, or Tax Number, is assigned to self-employed individuals, freelancers, and business owners. This is a 10- or 11-digit number assigned by the Finanzamt for a specific type of work. This means that if you do more than one type of work, you’ll have more than one Steuernummer.
+Steuernummer (12/345/06789) - используется немецкой налоговой для учета налогов субъекта, платящего налог: отдельного человека, компании или семьи. Т.е. у меня и супруги два разных Persönliche Identifikationsnummer, но один Steuernummer на двоих. Если я зарегистрирую три компании - у них у каждой тоже будет свой Steuernummer. При регистрации как ИП финанцамт дополнительно присылает ещё один Steuernummer - для учёта НДС. Т.е. у меня есть один Steuernummer на двоих с супругой для налога на доход (например, мой фриланс и её доход от консультаций), и ещё один - только мой, для НДС от моего фриланса. Налогом на доход и НДС занимаются разные, совсем отдельные департаменты финанцамта.
+
+USt-IdNrn / Umsatzsteuer / VAT ID (DE123456789) - код плательщика НДС, использующийся для платежей в пределах ЕС.
+
 
 Источник: https://www.archer-relocation.com/steuernummer-vs-identifikationsnummer/
 
 
 **med**
 
+[Gesundheit für alle ](./LF_Gesundheitsprojekt_D.pdf)
+
 https://finber.de/ FINBER | Экспертное консультирование в области страхования, кредитования и инвестирования в Германии
 
 health insurance calculator - https://allaboutberlin.com/tools/health-insurance-calculator
 
+https://www.migration-gesundheit.bund.de/de/startseite - about German Health care system
 
-Doctolib – запись ко врачам. https://www.doctolib.de/
 
-https://www.onlinedoctor.de/
+https://www.zanzu.de/ - Zanzu, my body in words and images
+
+Nora – Приложение для вызова экстренных служб (полиция, скорая помощь, пожарная охрана). Главный плюс приложения - нет необходимости разговаривать по телефону, как при звонке на 110 или 112. Особенно полезно для тех, кто не уверен в своём немецком языке. https://www.nora-notruf.de/en-en/startpage
+
+Dermanostic - take a picture of your skin issue, answer some questions and you usually get feedback and a prescription(if needed) within 24h. Does cost a fee of 25€ per case, though. If your insurance doesn't cover it, that is.
+
+find doctors:
+* https://www.doxter.de/
+* Doctolib to find doctors. https://www.doctolib.de/
+* https://www.onlinedoctor.de/
+* http://jameda.de - некоторые врачи себя “раскручивают”, с рейтингами стоит быть осторожным, рейтинг на пятерочку и до десяти отзывов как индикатор
+* https://www.weisse-liste.de
+* https://www.kvberlin.de/60arztsuche/suche.php,
+* https://berlin24.ru/ru/firm/vraci-v-berline/terapevty-v-berline/1-9-0.html
+* http://www.aerzte-berlin.de/_php/therapie30/fach.php - удобный поиск врача по району города, языку на котором говорит врач (можно указать русский) и типу врача
+* https://en.doctena.de/
+* https://www.koeln.de/branchen/aerzte-allgemeinmediziner/k/1768
+
+
+https://www.bundesaerztekammer.de/arztsuche - The German Medical Association (Bundesärztekammer) is the central organisation in the system of medical self-administration in Germany. 
+
 
 для поиска врачей можно еще использовать местные сайты поиска врачей. Например для Бранденбурга artzsuche <название земли> https://www.kvbb-arztsuche.de/ases-kvbb/ases.jsf?sort-by=auto&from=0&t=arzt&size=10
 
@@ -8736,6 +8862,8 @@ http://definetz.online/defikataster-hp - Defikataster: Standorte der Defibrillat
 https://www.organspende-info.de 
 https://firstaed.com/en/ register in first aid help program
 
+
+https://www.zahnzusatzversicherung-direkt.de/ - Additional dental insurance comparison
 
 **Insurance**
 
@@ -8901,7 +9029,21 @@ https://www.kununu.com/
 
 https://www.glassdoor.de/
 
+
+For Freiberufler
+
+https://www.freelancermap.de/ - все проекты можно смотреть без премиум аккаунта. Премиум позволяет создавать больше одного алерта о проектах, отвечать на неограниченное количество объявлений и помечает профиль галочкой, мол, “premium”. После регистрации на бирже в почту и на телефон начинают регулярно приходить хедхантеры с предложениями контрактной работы. Чаще всего - нерелевантными, но всё равно приятно.
+
+https://www.freelance.de/ - еще одна из крупных бирж
+
+https://colayer.io/ - совсем молодая платформа; пытаются построить не просто биржу, а коммьюнити - со слэком, рекомендациями друг другу и разноцветными галочками.
+
+https://fratch.io/en/ - 
+
+
 **money**
+
+https://perfinex.de/calculator/tax-return-estimator/#calculator
 
 https://www.vrbank-brs.de/privatkunden/altersvorsorge/riester-ruerup-rente.html
 
@@ -8936,6 +9078,9 @@ https://www.c24.de/
 netto/brutto: web: http://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php android OS: https://play.google.com/store/apps/details?id=de.betaapps.bruttonetto
 
 https://www.asdcode.de/
+
+Payback – делаешь покупки, накапливаешь баллы, которые потом тоже можно потратить.
+
 
 **mobile**
 
@@ -8972,6 +9117,23 @@ https://www.asdcode.de/
 
 Chaos Computer Club, или коротко CCC — это крупнейшая в Европе ассоциация хакеров, основанная еще в 1981 году. По своей известности в узких кругах она может сравниться с Anonymous, хотя последние скорее движение любых анонов без какой-либо организации, а CCC — официальное сообщество с 7К+ официальных членов, собственной базой в Берлине и регулярными ивентами. Chaos Communication Congress - Leipzig, Chaos Communication Camp - Berlin. https://events.ccc.de/. MOMEM - https://momem.org/produkt/1800-2100/.
 Все сцены транслируются на [streaming.media.ccc.de](https://streaming.media.ccc.de/), а после кемпа видео монтируются и выкладываются на «собственный YouTube» (конечно же хакеры переизобрели всё своё) где-то [вот тут](https://media.ccc.de/c/camp2023).
+
+ehrenamt + city name - Volunteering
+
+https://www.letsact.de/ - Engagiere dich ganz einfach zusammen mit Menschen, die einen Unterschied machen möchten oder finde kostenlos Freiwillige für deine Organisation.
+
+https://flexhero.de/ Über die FlexHero Plattform ehrenamtliche Helfer finden!
+
+Verein - club for everything in the country: charities, environmental or human rights organizations, sports clubs, groups for hobbies of all kinds, artistic associations, garden allotments, citizens' initiatives, self-help groups, remembrance committees, carnival clubs, parent-organized kindergartens and schools — the list goes on. Stands for "eingetragener Verein," which translates as registered association or incorporated society.
+
+ZiviZ ("Zivilgesellschaft in Zahlen" - Civil Society in Numbers).
+
+Ferienpass - Der Ferienpass gehört im Landkreis Würzburg zum Sommer wie Eis essen oder ins Freibad springen. Ganze Generationen sind mit ihm groß geworden! https://www.landkreis-wuerzburg.de/B%C3%BCrger-Politik-Verwaltung/Landratsamt-Fachbereiche/Jugend-Soziales-Gesundheit/Jugendamt/Jugendarbeit/Ferienpass-Sommerferienprogramm
+
+
+Nebenan – платформа для общения с соседями, (есть приложение или на сайте), чтобы зарегаться нужно получить код по почте, так проверят, что ты действительно живешь в указанном районе. Отличный пример комьюинити добрососедства. https://nebenan.de/
+
+Jodel – гиперлокальная анонимная соцсеть, интересно читать и писать о том, что происходит вокруг.
 
 
 **language**
@@ -9071,6 +9233,8 @@ https://www.reddit.com/r/German/wiki/filmsandseries/
 Блоги
 * [YourDailyGerman](https://yourdailygerman.com/) - блог на английском языке, где доходчиво и с юмором объясняется применение и значение различных немецких слов. Есть e-mail рассылка раз в неделю.
 
+www.akelius.de
+
 **study**
 
 vhs - a lot of different cheap courses
@@ -9130,6 +9294,8 @@ kraftrunners - кафе откуда начинали бегать
 
 https://pornfilmfestivalberlin.de/en/  post porn fest
 
+https://www.ifa-berlin.com/ - The world's largest consumer and electronics show
+
 https://www.ravetheplanet.com/
 
 https://www.instagram.com/bvg_weilwirdichlieben - inst of berlin
@@ -9140,6 +9306,7 @@ Vas3k about Berlin https://vas3k.club/guide/berlin/
 
 Main part - Ringban
 
+Набор интерактивных карт Берлина от Morgenpost: http://bit.ly/berlin-interactive-map
 
 
 https://i.vas3k.ru/full/55daf85c00b9b13adc15840c3086c69c491c31f9b24ba088065ad4e06b7876f3.jpg
@@ -9166,55 +9333,17 @@ Artemis Club
 
 Chaos Computer Club - У CCC в Берлине есть своя «база» — C-base, около Jannowitzbrücke и кит-ката. Там частенько бывают мероприятия, тусы и воркшопы, а на нижнем этаже есть хакспейс «только для своих». Рекомендую сходить как-нибудь, когда у них будет открытое мероприятие. Hack and Tell митапы обычно норм для вкатывания.
 
+Uber – самое дешёвое, но всё равно очень дорогое такси в Берлине.
 
-BVG Fahrinfo – приложение, которое позволяет строить маршруты наземным/подземным транспортом, видеть время в пути и все варианты возможных поездок.
 
 Berlin Subway – отдельное приложение, которое прокладывает маршруты исключительно для метро (удобно, если вам нужно не 200 вариантов поездки, а один).
+
+
+BVG Fahrinfo – приложение, которое позволяет строить маршруты наземным/подземным транспортом, видеть время в пути и все варианты возможных поездок.
 
 Lieferheld – приложение для заказа еды, которое вам пригодится, когда все магазины закроют – то есть в любое воскресенье.
 
 Tinder – главный, а возможно и единственный инструмент социализации в городе.
-
-FlixBus – если захотите дешево и без комфорта скататься в Гамбург/Амстердам/Париж на автобусе.
-
-Uber – самое дешёвое, но всё равно очень дорогое такси в Берлине.
-
-ImmobilienScout24 – самое популярное приложение для поиска и аренды жилья.
-
-N26 – если вы переехали и вам нужно завести человеческий банк, а не шпаркассе.
-
-Ebay Kleinanzeigen – сервис частных объявлений от Ebay, аналог российского «Авито».
-
-Nina (Notfall-Informations- und Nachrichten-App) – приложение для оповещения о происшествиях и катастрофах. Типа, МЧС предупреждает.
-
-Mobile.de – если вы хотите купить или продать транспортное средство, то вам сюда.
-
-Richtig-tanken.de – приложение, которое показывает автозаправки рядом с вами и цены на топливо на них.
-
-Xing – немецкий аналог LinkedIn, профессиональной социальной сети.
-
-Payback – делаешь покупки, накапливаешь баллы, которые потом тоже можно потратить.
-
-Lieferando – приложение для заказа еды из кафе и ресторанов.
-
-Geocashing – развлекательное приложение для путешественников. Нужно по GPS-координатам искать спрятанные другими участниками секреты.
-
-VRS Auskunft – приложение городского транспорта KVB, где можно построить маршрут и купить билет дешевле, чем в автомате.
-
-DB Navigator – приложение немецких железных дорог, можно отслеживать скидки, строить маршруты и покупать билет в приложении.
-
-NS – приложение голландских железных дорог. Кельн соседствует с Нидерландами, поэтому выезд на выходные или в отпуск туда – это норма. Доехали-то вы через DB, а вот перемещаться по стране с очень развитой сетью ЖД вам поможет NS.
-
-mytaxi – вместо Uber, которого в Кельне нет.
-
-car2go – если вы сам себе водитель и хотите автомобиль напрокат.
-
-Jodel – гиперлокальная анонимная соцсеть, интересно читать и писать о том, что происходит вокруг.
-
-Glückskind – если у вас есть дети и вы хотите покупать косметику, подгузники и стиральный порошок в dm со скидками.
-
-Amazon – самые выгодные покупки всего на свете вплоть до музыки, видео и голосовых помощников. Немцы просто не представляют, как живут люди в странах без Amazon!
-
 
 
 **To Visit**
@@ -9259,11 +9388,11 @@ Prenzlauer Berg.
 
 Charlottenburg
 
-
+urban-nation.com - politically engaged contpmpory art museum
 
 maltmaniacs de - клуб виски в берлине
 
-
+Хольцмаркт
 
 Берлин остров музеев и выставка истории Берлина
 
@@ -9285,7 +9414,7 @@ maltmaniacs de - клуб виски в берлине
 
 Красные зонтики
 
-Зексенхаузен в Берлине - Это бывший концентрационный лагерь, и я была во многих из них в европе (в музеях, а не в лагерях). Пока он запомнился больше всех тем, что это условно 60+ км от Берлина, рядом находится городок, где люди с семьями проводят и проводили в 30х-40х годах лето с детьми и всем так было похер что в нескольких метрах от них убивают пачками людей. 
+Зексенхаузен в Берлине - Это бывший концентрационный лагерь, это условно 60+ км от Берлина, рядом находится городок, где люди с семьями проводят и проводили в 30х-40х годах лето с детьми и всем так было похер что в нескольких метрах от них убивают пачками людей. 
 
 **StandUP**
 
@@ -9358,7 +9487,7 @@ HERMAN Belgian Bar (Prenzlauer-Berg, Schönhauser Allee 173, 10119 Berlin) - Б�
 
 Sahara
 
-Oh Panama, это современное прочтение немецкой кухни, рекомендую сет от шефа брать и винца https://goo.gl/maps/UdifJzQBeqhM6RYP9
+Oh Panama, это современное прочтение немецкой кухни, сет от шефа брать и винца https://goo.gl/maps/UdifJzQBeqhM6RYP9
 
 
 Овсяные каши с фруктами, выпечка, вкусный кофе. Очень много веганских опций.
@@ -9426,7 +9555,6 @@ https://goo.gl/maps/cJc7sHBw7tMiUY3T9 - еще более вкусные бур�
 https://goo.gl/maps/7MMZjosJyTZw8Y9Y8 - Суданийский (!!!) стрит-фуд, прямо в самое сердечко, если хочется попробовать АФрику на вкус
 
 
-
 https://goo.gl/maps/Ww5zjtthBwMQz6jh6 - добротная турецкая выпечка, клево заходит на завтрак если хочется разнообразия
 
 https://g.page/AdanaGrillhaus?share - Много очень вкусного мяса на открытом огне: по турцки душевно, по немецки дорого Но стил ворз ит
@@ -9485,11 +9613,6 @@ STAY HUNGRY SPORTS (Mulackstrasse 37) - Мы впервые услышали о�
 ARYS STORE (Kollwitzstrasse 51) - Первоначально открытый в качестве площадки для презентации берлинского бренда Arys, проект вскоре начал представлять другие бренды аналогичного контекста, постепенно превращаясь в новый хаб для всех энтузиастов функционального дизайна и стиля. Молодая команда также делает концептуальные эдиториалы, знакомя своих клиентов с ассортиментом и рассказывая о новых запусках. Вероятно, самый близкий к нам по селекции брендов магазин, а также единственный дистрибьютор наших друзей из NORDA в Берлине. Заходите посмотреть, когда будете в Кольвицкезе. рекомендации по брендам [скорее, весь список, но вот несколько]: BYBORRE, Cayl, CCP.FM , Descente Allterrain, Helinox, Heimplanet, Houdini, Klattermusen, Norda, ON, Ostrya, Segment, SOAR и другие.
 
 GATE (Koepenicker Strasse 194) - «GATE – это система пространств в центре Берлина, соединяющая моду, искусство и музыку» – так проект описывает себя на главном сайте. Расположенный в арке с собственным двориком, где они проводят различные мероприятия и презентации, магазин представляет собой современный модный бутик и концептуальный магазин с тщательно отобранным ассортиментом брендов, включая некоторые действительно уникальные и редкие коллекции. Определенно должен быть на вашем радаре, для исследования берлинской ритейл-сцены. рекомендации по брендам: A-Cold Wall*, BYBORRE, 11 by Boris Bidjan Saberi, ACRONYM, C2H4, Guerrilla Group, GR10K, Hamcus, Maharishi, NemeN, Nilmance, paria /FARZANEH, ROA, Salomon, Stone Island.
-
-## Dusseldorf
-
-https://holycraft.de/Craftival
-
 
 ## Bad Friedrichshall/Бад-Фридрихсхалль
 
@@ -9707,7 +9830,68 @@ JB Coffee. Какой то там тоже Мюнхенский чемпион. 
 Классический Мюнхен(гедонизм, распиздяйство, алкоголизм) описан в небезызвестном мультике (не пытайтесь все понять - там местами по-баварски – просто поверьте на слово) https://www.youtube.com/watch?v=VvdEgkqei6c
 Echos - An illegal rave in Munich's catacombs goes wrong and reveals a network of social outcasts living underground. про мюнхенские наркокатакомбы
 
+
+## Dessau/Дессау
+
+**to go**
+
+https://www.ferropolis.de/
+
+[Bauhaus Museum Dessau](https://maps.app.goo.gl/Dw4rqPp4cT4Mc6u49) (Mies-van-der-Rohe-Platz 1, 06844 Dessau-Roßlau) - http://www.bauhaus-dessau.de/
+
+[Tiergartenbrücke „Der Eierschneider“](https://maps.app.goo.gl/4WxMucJnkrZFRTVs9) (Tiergartenbrücke, 06842 Dessau-Roßlau)
+
+
+
+**aero**
+
+aero fest https://www.flugplatz-dessau.de/flugbegeisterte/#fest 
+
+[airport](https://maps.app.goo.gl/5wvZ3DiEaMrUXDGs9) http://www.flugplatz-dessau.de/
+
+
+## Frankfurt
+
+https://www.frankfurt-coffee-festival.de/
+
+## Dusseldorf
+
+https://holycraft.de/Craftival
+
+https://www.japantag-duesseldorf-nrw.de/en
+
+https://www.25hours-companion.com/en/guide/neighbourhoods/duesseldorf/japanese-district
+
+https://www.lifeinduesseldorf.com/duesseldorf-green-parrots/
+
+https://www.visitduesseldorf.de/
+
+Japanese Club Düsseldorf (Oststraße, 40211 Düsseldorf) - http://www.jc-duesseldorf.de/index.php/de/ The Japanese Club which has more than 5,000 members and is one of the biggest such organisations in the city, was founded in 1964. One year later a Japanese Consulate opened, and was soon upgraded to a Consulate-General. Finally, in 1966, the Japanese Chamber of Commerce and Industry in Düsseldorf was founded. It started off with 60 corporate members and now has over 500 ordinary and extraordinary members.
+
+https://www.dokomi.de/en - Join us at Germany's biggest Anime and Japan Expo!
+
+Shochiku (Immermannstraße 15 40210 Düsseldorf) jp shop  https://www.facebook.com/shochikuonline
+
+Kyoto - Japan Art Deco (Immermannstraße 26, 40210 Düsseldorf) - http://www.kyoto-japan.de/ https://www.facebook.com/kyotobyjapan/
+
+Hanaro Markt (Immermannstraße 45c, 40210 Düsseldorf) - Supermarket with a large selection of sweets and fresh food to-go. https://www.kimsasia.de/deutsch/hanaro-supermarkt/
+
+Dae-Yang (Immermannstraße 21, 40210 Düsseldorf) - Small supermarket with Japanese & Korean delicacies, groceries and household goods. https://www.dae-yang.online/ https://www.facebook.com/DaeyangATARIYA/
+
+ANMO ART/CHA (endemannstraße 18, 40210 Düsseldorf) - An oasis of peace, in the midst of the station district. The Anmo Art/Cha by Motoko Dobashi and Anna Friedel is a combination of a teashop and an art gallery. https://anmo-art-cha.com/ https://www.facebook.com/anmomotoko https://www.instagram.com/anmo_art_cha/
+
+
+Manga-Mafia (Immermannstraße 59, 40210 Düsseldorf) - Anime & manga shop https://manga-mafia.de/store-duesseldorf https://www.facebook.com/MangaMafia/ https://www.instagram.com/mangamafia/ https://x.com/mangamafia_de/
+
+
+
 ## Cologne/Köln
+
+NS – приложение голландских железных дорог. Кельн соседствует с Нидерландами, поэтому выезд на выходные или в отпуск туда – это норма. Доехали-то вы через DB, а вот перемещаться по стране с очень развитой сетью ЖД вам поможет NS.
+
+mytaxi – вместо Uber, которого в Кельне нет.
+
+koeln.de
 
 https://koeln.mitvergnuegen.com/
 
@@ -9715,12 +9899,37 @@ https://www.cologne-tourism.com/
 
 https://www.cologne-tourism.com/service/city-map
 
+https://www.instagram.com/visit_koeln/
+
+https://rausgegangen.de/en/cologne/
+
 pollen calendar https://www.koeln.de/wetter/pollenflug/
+
+köln timeride - https://timeride.de/ VR travel over the city
+
+https://nacht-der-technik.de/koeln/
+
+https://www.instagram.com/odonien/
 
 
 **study**
 
 https://vhs-koeln.de/
+
+**med**
+
+https://allgemeinarzt-koeln.de/#praxis
+
+**game**
+
+Köln am Hansaring 3000qm, 2 Etagen, Arena mit 150 Sitzplätzen https://www.mediamarkt.de/de/specials/xperion/xperion-locations
+
+https://www.xn--cd-andr-cxa.de/pages/standorte/koeln.php
+
+https://lostlevel.bar/
+
+[Giga-Center Köln](https://maps.app.goo.gl/CS3iKqtmmrh8vgFo7?g_st=ic) - Video arcade http://www.giga-center.info/
+
 
 **bar**
 
@@ -9732,7 +9941,7 @@ Monkey bar - roof top. have a nice View, but  tourist kindish
 
 Osman 30 - have a nice View, but tourist kindish
 
-Little link
+[Little link](https://maps.app.goo.gl/TFFMftLbixMdu4kp9) (Maastrichter Str. 20, 50672 Köln) - nice bar. http://www.littlelink.de/ menu - https://www.littlelink.de/wp-content/uploads/Cocktail-Atlas-2022-05.pdf
 
 The Grid Bar is pretty fancy.
 
@@ -9765,6 +9974,10 @@ Der Stiefel (Zülpicher Str. 16, 50674 Köln) - berlin vibe https://stiefelkneip
 
 [Königsblut](https://maps.app.goo.gl/Xb83HVw7wJRjyeUt7) - is hip and has very comfy Sofas :)
 
+Craftbeer Corner Köln
+
+
+
 **coffee**
 
 Manulit (Limburger Straße 37, 50672 Cologne) - Browse and drink coffee at Manulit. bookstore + coffee
@@ -9789,6 +10002,8 @@ Nobiko Noodle Bar & Café (Josephskirchstrasse 25, 51103 Cologne) - Homemade udo
 **ice cream**
 
 [Eis-Engeln](https://maps.app.goo.gl/Zs7bYHdNThZbTER79) - http://eis-engeln.de/
+
+[ais](https://maps.app.goo.gl/m19zgVBVQX8Brbr49?g_st=ic) (Bonner Str. 10, 50677 Köln) - https://www.ais.baby
 
 Liliana
 
@@ -9817,23 +10032,31 @@ Climbing Factory (Oskar-Jäger-Straße 173, 50825 Cologne)
 
 
 
-## Bonn
+## Bonn/Бонн
+
+https://www.radiobonn.de/index.html
+
+www.uni-bonn.de
+
+www.general-anzeiger-bonn.de - An English-language website of Bonn´s local newspaper
+
+https://www.pridebonn.de/
+
+https://www.radiobonn.de/index.html
+
 
 **gov**
 
 Federal Employment Agency (BA) German: Bundesagentur für Arbeit Villemobler Straße 76, 53123 Bonn, Germany - http://www.zav.de/ https://www.arbeitsagentur.de/vor-ort/zav/startseite
 
-**to go**
+[Dr. Timm Starke und Dr. Dirk Solveen](https://maps.app.goo.gl/BeK4ypBBrLX7k2gn8) (Münsterstraße 20, 53111 Bonn) - Notary DE/EN http://www.notare-starke-solveen.de/
 
-Tony Cragg - Mean Average - Sculpture http://www.stiftungkunst.de/kultur/projekt/tony-cragg-mean-average/
+**med**
 
-rodderberg.net Vulkan
+https://www.zae-bonn.de/
 
-**shop**
+https://www.zahnarzt-lehmann.de/
 
-Book shop https://www.thalia.de/shop/home/filialen/showDetails/5471/
-
-Polonia Market (Kölnstraße 464, 53117 Bonn) - polish supermarket http://poloniamarket.de/
 
 **apartment**
 
@@ -9844,13 +10067,76 @@ https://www.homeand.co/booking/bonn
 https://www.bonn.de/themen-entdecken/bildung-lernen/volkshochschule.php
 https://www.vhs-bonn.de/programm
 
+**to go**
+
+[Arithmeum](https://maps.app.goo.gl/hwZUWRoRZiJANzPh7) (Lennéstraße 2, 53113 Bonn) - Modern math museum showcasing the history of calculating machines like calculators & slide rules. http://www.arithmeum.uni-bonn.de/
+
+Tony Cragg - Mean Average - Sculpture http://www.stiftungkunst.de/kultur/projekt/tony-cragg-mean-average/
+
+rodderberg.net Vulkan
+
+https://www.parkrun.com.de/rheinaue/ - Rheinaue parkrun a free 5 km run that happens every Saturday at 9 am in the Rheinaue (near the halfpipe). 
+
+[Blossom Street](https://maps.app.goo.gl/MniF3G9qXGubDdh97) - https://instagram.com/kirschbluetebonn?utm_medium=copy_link
+
+Beethoven House 
+
+Rhine Promenade 
+
+Bonner Münster (Bonn Minster) 
+
+Altstadt (Old Town) 
+
+Bundeskunsthalle (Art and Exhibition Hall) 
+
+Haus der Geschichte (House of the History) 
+
+Bonn Botanical Garden 
+
+Rheinaue Park 
+
+Drachenfels (Dragon's Rock) 
+
+Drachenburg Castle 
+
+
+**shop**
+
+Book shop https://www.thalia.de/shop/home/filialen/showDetails/5471/
+
+Polonia Market (Kölnstraße 464, 53117 Bonn) - polish supermarket http://poloniamarket.de/
+
+Flomarket - https://www.bonn.de/veranstaltungskalender/veranstaltungen/hauptkalender/flohmarkt-rheinaue.php
+
+**food**
+
+https://www.studierendenwerk-bonn.de/en/food-drink/
+
+[60 seconds to napoli Bonn](https://maps.app.goo.gl/4BaqfV425EUYepUQ9) (Kaiserpl. 11, 53113 Bonn) - https://60secondstonapoli.de/
+
+
+
 **beer**
 
-Craftquelle Bonn Craftbeer Bottleshop (Breite Str. 74, 53111 Bonn) - bar and shop http://www.craft-quelle.de/
+[Craftquelle Bonn Craftbeer Bottleshop](https://maps.app.goo.gl/2pkvWfrT8iK5b2DC7) (Breite Str. 74, 53111 Bonn) - bar and shop http://www.craft-quelle.de/
+
+www.brauwerkstatt-bonn.de
+www.hoppy-friends.de
+www.steinhauerkom.de
+
+[Bar Balthasar Bonn](https://maps.app.goo.gl/rYjZshAFhVaUkHzz8) (Brüdergasse 6, 53111 Bonn) - http://www.brauhotel.com/craftbier-bar-balthasar 
+
+[Limes Musikcafe](https://maps.app.goo.gl/CCNgXQfiDvvjuP9D8) (Theaterstraße 2, 53111 Bonn)- local pub http://www.limes-musikcafe-bonn.de/getraenke.html
 
 **coffee**
 
+[Der Kaffeeladen](https://maps.app.goo.gl/AGJNF89aEWKUsj7g7) (Friedrichstraße 37, 53111 Bonn) - good coffee and beans https://derkaffeeladen.de/
+
+[ROESTEREI | Kaffee Provokateur](https://maps.app.goo.gl/QmLTGHEQtK56LkZSA) (Kölnstraße 112-114, 53757 Sankt Augustin) - https://www.kaffee-provokateur.de/
+
 Black Coffee Pharmacy (Bonner Talweg 46, B)
+
+conditory
 
 
 # Denmark
@@ -9906,9 +10192,33 @@ Tiramisu World Cup - https://tiramisuworldcup.com/ https://italeaveneto.com/en/e
 
 Галерея Уффици - коллекция искусства Ренессанса. Очень крутая коллекция скульптур, одна из самых больших, что я встречал. Ну и интерьеры 16 века выглядят шикарно, можно просто разглядывать мебель, стены и потолки
 
+**ice cream**
+
+Gelateria https://www.lastreganocciola.it/
+
 ## Napoli
 
 best mozzarella
+
+**food**
+
+Pizzeria Pavia (Via Solitaria, 34, 80132 Napoli NA, Italy)
+Espressioni Popolari (Via Toledo, 236, 80132 Napoli NA, Italy)
+Signora Bettola (Vico Satriano, 3B, 80121 Napoli)
+Antica Pizza Fritta Sorbillo (Piazza Trieste e Trento, 53, 80132 Napoli
+Da Mario (Via Diocleziano, 149, 80124 Napoli NA, Italy)
+Gran Caffè Gambrinus (Via Chiaia, 1, 80132 Napoli NA, Italy)
+
+La Fabbrica Delle Meraviglie (Via Verdi, 35, 80133 Napoli NA, Italy) - Candy store. https://www.lafabbricadellemeraviglie.it/ candy fromscratch
+
+
+**ice cream**
+
+Casa Infante (Address: Via Toledo, 371, 80134 Napoli NA, Italy) - sweets and snaks.  italian chain. exist in netherlands https://www.casainfante.it/
+
+
+**bar**
+
 
 ## Liguria
 
@@ -9980,6 +10290,8 @@ Gelateria Artigianale (Calle Emo, 1585/1586, 30121) - cheap and cool gelato
 пляж Bocadasse
 
 ## Bologna/Metropolitan City of Bologna/Болонья
+
+city of food? 
 
 **food**
 
@@ -10453,6 +10765,11 @@ Gasometers of Vienna (Guglgasse 6)
 
 Comedy Club - https://www.facebook.com/Viennacomedyclub/
 
+## Herrnbaumgarten
+
+[Nonseum](https://maps.app.goo.gl/g6qKKWRecgS2ivG69) (Poysbrunner Str. 9, 2171 Herrnbaumgarten, Austria) - The world's largest collection of intentionally useless inventions. http://www.nonseum.at/ https://www.atlasobscura.com/places/nonseum 
+
+
 
 ## Linz
 
@@ -10785,8 +11102,11 @@ Noma  - ресторан проект лаборатория про локаль
 
 христиания
 
-## Мальмё
+## Malmo/Мальмё
 
+**beer**
+
+Malmö Brewing Co & Taproom - bear and mead https://malmobrewing.com/ https://www.instagram.com/malmobrewing/ https://untappd.com/v/malmo-brewing-co-and-taproom/2701221
 
 
 ## Visby
@@ -10910,13 +11230,31 @@ Odori by Kolya Kiselyov
 
 Athen bar show - years bar fest https://www.athensbarshow.gr/gr/en/information/ November 9-10 2021
 
-
+# Liechtenstein
 
 # Luxembourg
 
-**gob**
+**job**
 
 www.jobs.lu - A popular job portal in Luxembourg for different sectors
+
+**to go**
+
+https://peakery.com/luxembourg-mountains/luxembourg/
+
+[Camping du Nord](https://maps.app.goo.gl/tekAqaTofyC2YfcZ7) - https://campingdunord.lu/nl/
+
+[Bourscheid Castle](https://maps.app.goo.gl/gfTEuDSnDbp7yZk9A) () https://www.castle-bourscheid.lu/
+
+Viewpoint Castle Bourscheid (9140 Bourscheid, Luxembourg)
+
+[Burgruine Brandenbourg](https://maps.app.goo.gl/1HfQNZtnZwKeoJVN9)
+
+
+[National Museum of Military History (MNHM) Asbl](https://maps.app.goo.gl/v4hKfWy8Y2NaDpCy7) - http://www.mnhm.net/mnhm/
+
+[Copper Mine Museum](https://maps.app.goo.gl/orU6wtxCpqhey3SM9) - https://www.stolzembourg.lu/mine-de-cuivre/
+
 
 # Belgium
 
@@ -10989,8 +11327,6 @@ Ellis. Сеть бургерных ресторанов (не фастфуд) с
 
 Если хочется фаст-фуда, то можно попробовать Бельгийскую версию МакДональдса Quick https://www.quick.be/nl
 
-
-
 ## Brussel
 
 **to go**
@@ -11036,7 +11372,6 @@ https://auvieuxsaintmartin.be/en/
 https://auxarmesdebruxelles.com/en/home-2/
 
 
-
 **beer**
 
 Delirium Cafe - Совершенно туристический бар, но это бар с самым большим выбором пива в мире (занесены в книгу рекордов Гиннеса за свой выбор пива). https://www.deliriumvillage.com/bar/delirium-cafe/ https://maps.app.goo.gl/VcMbSBeLCohxFv4K8?g_st=ic
@@ -11074,14 +11409,25 @@ https://ruien.be/en/
 
 музей моды (открылся после реставрации недавно)
 
-Rubens Huis (там скорее дом Рубенса, самих его полотен там мало) и 
+MAS - музей
+
+Дом Мясников
+
+Собор Антверпенской Богоматери
+
+Памятник Нелло и Патрашу
+
+Туннель Святой Анны
+
+Дом Гауди в Антверпене
+
+Rubens Huis (там скорее дом Рубенса, самих его полотен там мало)
 
 Plaantin Moretus (дом и мастерская/магазин одного из крупнейших книгопечатников Европы - рекомендуется, если интересна история книгопечатания).
 
 попить пива в Elfde Gebod.
 
 Купить шоколад в Chocolate Line, магазин находится на Meir. Пока что самые интересные конфетки в Бельгии.
-
 
 Het Steen
 
@@ -11092,6 +11438,9 @@ Zoo анверпенский зоопарк, являющийся одним и�
 
 De Kulminator. Винтажное пиво, офигенная терраса, супер милые хозяева. https://www.facebook.com/Kulminator.friends/.
 
+**food**
+
+[Wow crab](https://maps.app.goo.gl/uiLP67Z73TUAUCcA7) (Bataviastraat 19, Antwerp, Belgium 2000) - sea food be-nl chain  https://www.wowcrab.be/ https://www.instagram.com/wowcrab_be https://www.tiktok.com/@wowcrab_be
 
 ## Остенде
 
@@ -11107,7 +11456,7 @@ De Kulminator. Винтажное пиво, офигенная терраса, �
 
 2be barMilan
 
-## Gent
+## Gent/Гент
 
 Вот это - та Бельгия которая нормальная.
 
@@ -12445,6 +12794,10 @@ Rubirosa Ristaronte: https://www.rubirosanyc.com
 
 ## Гонконг
 
+**food**
+
+https://www.google.com/maps/@/data=!4m3!11m2!2sUOP7Q397zKO34aSQBpQU36BivQi3IA!3e3?utm_source=mstt_0&g_ep=CAESCjExLjEyMS4xMDIYACC33wEqLSw5NDIxNjQwNyw5NDIxMjQ5Niw0NzA3NTkxNSw5NDIwNzUwNiw0NzA4NDM5M0ICSEs%3D
+
 WTF - Приятные коктейли с изящной подачей. Камерная обстановка, по определённым дням живая музыка, весь этот ваш вайб. Лучшая вариация кровавой Мэри, которую пробовал в жизни, там называется Don’t Fuck With Mary. Полноценных блюд нет, разве что легкие закуски/тапас. Радушные бармены с испанским бэкграундом, легко завести разговор.  https://instagram.com/wtfbar.hk
 
 
@@ -12917,7 +13270,9 @@ www.mojposao.ba - A Bosnian and Herzegovinian job board offering job opportuniti
 ## Zenica
 
 
-# Израиль
+# Israel/Израиль
+
+Инстаграм с мемами для изучения иврита https://www.instagram.com/howtohebrew 
 
 ## Иерусалим
 
@@ -15119,6 +15474,8 @@ Moritz Eis Belgrade
 
 **coffee**
 
+[Popy Coffee Family](https://maps.app.goo.gl/c3ABc6wwBPwUA1kt8) (Kralja Petra 82, Beograd 11000, Serbia) - https://www.instagram.com/popycoffee/?hl=sr
+
 https://shop.cafe-factory.net/
 
 Everywhere italy style coffee
@@ -15843,8 +16200,42 @@ BBI, Alta, SCC
 
 ## Ереван
 
+
 Подать на испанскую визу в Армении Ереване нет внж ибо оф представительство в центре в Москве
 
+Цены на такси ок, 
+
+Сходить а точнее поездить надо по местным ущельям и горам хотябы на уровне экскурсий, это красиво
+https://hyurservice.com/ru - однодневные трипы 
+
+Улица Сарьяна, она же винная улица. И Grand Hotel, что бы пешком весь центр был доступен
+
+
+**beer**
+
+В основном по пиву крайне посредственно
+
+dargett - свой паб в центре
+
+379 torch and brew - тоже хорошие
+
+**wine**
+
+Вино коктейли - все что понравится на винной улице.
+
+Бамбокашат - Молодые виноделы крутые
+
+in vino - отличные
+
+**cocktails**
+
+banterego
+
+энтропия
+
+Дабу (у каскада)
+
+**coffee**
 
 Letters and Numbers — вдохновляющий коворкинг и кофейня для работы в центре Еревана.
 https://lettersandnumbers.am/
@@ -15852,7 +16243,24 @@ https://www.instagram.com/lan_yerevan/
 
 **food**
 
+По поводу поесть, стандартные рекомендации- Лаваш, seasons, шереп, лахмаджун
+
+
 Topaz Khinkali - Это лучшие хинкали, 10/5 Столик после 20 надо бронировать https://goo.gl/maps/sbggWiSEAjqCs5P29
+
+бар Арев
+
+Все что отдает русскими фаундерами будет в 2 раза дороже армян
+
+
+Из ресторанов "Абовяна 12" это и адрес и название
+
+Degusto - очень годная цена/качество столовка со всеми кухнями типо мексиканской и суши. Есть доставка.
+
+Ost
+Ереван, ул. Сарьяна, 16/16
+https://yandex.ru/maps/org/57494294420
+Ну где ближе туда и заходите оба хорошие
 
 # Белорусь
 
