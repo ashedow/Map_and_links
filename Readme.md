@@ -94,7 +94,9 @@ Airhelp: https://www.airhelp.com/en/
 
 mundraub.org
 
-Locations to find Kilkenny Irish Beer & Ale (all varieties -- Ale; Nitro; Cream; Strong; etc.). - https://www.google.com/maps/d/u/0/viewer?fbclid=IwY2xjawFNXs5leHRuA2FlbQIxMAABHesG2TSvESCMeWoTaeMYNNNT7oY51d4BGiLTzAjNNH1yTkCv86375RyTYw_aem_COksUBrtDzbYz5DqoUH_Vw&mid=1yhlRN5Medkpb9ZzwErvk8bigU_qwQ1U&ll=35.83663053321594%2C-99.53629803443924&z=3
+Locations to find Kilkenny Irish Beer & Ale (all varieties -- Ale; Nitro; Cream; Strong; etc.). - https://www.google.com/maps/d/u/0/viewer?fbclid=IwY2xjawFNXs5leHRuA2FlbQIxMAABHesG2TSvESCMeWoTaeMYNNNT7oY51d4BGiLTzAjNNH1yTkCv86375RyTYw_aem_COksUBrtDzbYz5DqoUH_Vw&mid=1yhlRN5Medkpb9ZzwErvk8bigU_qwQ1U&ll=35.83663053321594%2C-99.53629803443924&z=3 (orig post https://www.facebook.com/groups/bringkilkennybeertotheusa/posts/10160836203845743/)
+
+
 **sim**
 
 They can charge extras if you use the phone less in the operator's country than in the roaming: https://digital-strategy.ec.europa.eu/en/faqs/roaming-questions-answers
