@@ -94,6 +94,7 @@ Airhelp: https://www.airhelp.com/en/
 
 mundraub.org
 
+Locations to find Kilkenny Irish Beer & Ale (all varieties -- Ale; Nitro; Cream; Strong; etc.). - https://www.google.com/maps/d/u/0/viewer?fbclid=IwY2xjawFNXs5leHRuA2FlbQIxMAABHesG2TSvESCMeWoTaeMYNNNT7oY51d4BGiLTzAjNNH1yTkCv86375RyTYw_aem_COksUBrtDzbYz5DqoUH_Vw&mid=1yhlRN5Medkpb9ZzwErvk8bigU_qwQ1U&ll=35.83663053321594%2C-99.53629803443924&z=3
 **sim**
 
 They can charge extras if you use the phone less in the operator's country than in the roaming: https://digital-strategy.ec.europa.eu/en/faqs/roaming-questions-answers
@@ -4243,7 +4244,19 @@ klub krakowski (Lotnisko Pobiednik Wielki 32-125 Pobiednik Wielki) - flight scho
 
 ## Zakopane
 
+https://www.zakopane.pl/strefa-turystyczna
+
+**tour**
+
+https://www.getyourguide.com/zakopane-l1554/
+
+https://www.getyourguide.com/zakopane-l1554/krakow-prywatne-lub-male-grupy-zakopane-tour-thermal-pools-t368025/
+
+**stay**
+
 Termy Szaflary, Osiedle Nowe 20, 34-424 Szaflary - descent price
+
+https://www.goldhotel.eu/ - виды красивые
 
 
 
@@ -10044,6 +10057,14 @@ https://www.pridebonn.de/
 
 https://www.radiobonn.de/index.html
 
+https://www.bonn-region.de
+
+
+https://fkpuema.de/ - market
+
+https://bonnerweihnachtsmarkt.de/
+
+https://wiesenwirte.de/
 
 **gov**
 
@@ -10079,26 +10100,61 @@ https://www.parkrun.com.de/rheinaue/ - Rheinaue parkrun a free 5 km run that hap
 
 [Blossom Street](https://maps.app.goo.gl/MniF3G9qXGubDdh97) - https://instagram.com/kirschbluetebonn?utm_medium=copy_link
 
-Beethoven House 
+[Rhine Promenade Bonner Rheinuferpromenade](https://maps.app.goo.gl/x4eFKd7yJErdxNda6)
 
-Rhine Promenade 
 
-Bonner Münster (Bonn Minster) 
+[Bonner Münster (Bonn Minster)](https://maps.app.goo.gl/XaiKLt7LnJcTmU8s8) - http://www.bonner-muenster.de/
+
+[Münsterplatz](https://maps.app.goo.gl/FyjdjfsEuDtY1pL69)
+
+[Kurfürstliches Schloss](https://maps.app.goo.gl/peDMw6dqgFspr3A77) https://www.uni-bonn.de/de/universitaet/ueber-die-uni/standorte/standorte
+
+[Bonner Wochenmarkt](https://maps.app.goo.gl/WALyUpjgGRE5pW71A) - http://bonn.treffpunkt-wochenmarkt.de/Markt/startseite
+
+[Altes Rathaus Bonn](https://maps.app.goo.gl/J5SEQEyeDCwyc86P9)
+
+[Relief "Szenen aus dem Leben des Heiligen Martin" von Ernemann Sander](https://maps.app.goo.gl/oNLDy6bEZYNLSPWN6) http://www.vanderkrogt.net/statues/object.php
 
 Altstadt (Old Town) 
 
-Bundeskunsthalle (Art and Exhibition Hall) 
+[Sterntor Bonn Innenstadt](https://maps.app.goo.gl/Snuy9fWFk3v5ivU79)
 
-Haus der Geschichte (House of the History) 
+[Hofgarten](https://maps.app.goo.gl/iPWxs4bs6Rv96XLYA)
 
-Bonn Botanical Garden 
+[Walk of Fame Bonn](https://maps.app.goo.gl/joQ9ufzXUeG2Mmmb6)
 
-Rheinaue Park 
+[Beethoven-Haus Bonn](https://maps.app.goo.gl/vfDkonFtNTakAS7v5) - http://www.beethoven.de/
 
-Drachenfels (Dragon's Rock) 
+[blossom street](https://maps.app.goo.gl/1cokAFXVR818PaGHA) - https://instagram.com/kirschbluetebonn
 
-Drachenburg Castle 
+[здание оперы](https://maps.app.goo.gl/bH2D9VMYr8tYmSYB9) [Theater Bonn Opera House](https://www.theater-bonn.de/)
 
+[Stadtbefestigung Alter Zoll](https://maps.app.goo.gl/tG44c5B3EjmYWs917)
+
+[Bundesrechnungshof](https://maps.app.goo.gl/P2pnWaiRSwA74gfk7) - http://www.bundesrechnungshof.de/de
+
+[Bundeskunsthalle (Art and Exhibition Hall)](https://maps.app.goo.gl/JStR8RRsVNhtPtnT6) - http://www.bundeskunsthalle.de/
+
+[Haus der Geschichte (House of the History)](https://maps.app.goo.gl/Geyz1W4XuY3REXdZA) - https://www.hdg.de/haus-der-geschichte/
+
+[Kunst- und Ausstellungshalle der Bundesrepublik Deutschland](https://maps.app.goo.gl/cNM815BYjfheGTCCA) - http://www.bundeskunsthalle.de/
+
+
+[Quay Bonn-Bundeshaus](https://maps.app.goo.gl/K16X39n2Q4PN9KFr5) - https://www.wegderdemokratie.de/bundeshaus
+
+[Bonn Botanical Garden](https://maps.app.goo.gl/eKUG85hjxABAcSBW6) - https://www.botgart.uni-bonn.de/
+
+[KUNST!RASEN](https://maps.app.goo.gl/xTb9ocEU1r8FhoUf7) - http://www.kunstrasen-bonn.de/
+
+[Rheinaue Park](https://maps.app.goo.gl/AvofqScPZi3tzEeY6) - парк где просто приятно погулять и проходят маркеты http://foerderverein-freizeitpark-rheinaue.de/
+
+[Drachenfels](https://maps.app.goo.gl/KPwG4gbVzabnVqLDA) (Dragon's Rock) - http://www.drachenfels.net/
+
+[Drachenburg Castle](https://maps.app.goo.gl/YXVjrEzSj3Cy95sA8) - http://www.schloss-drachenburg.de/
+
+[Löwenburg](https://maps.app.goo.gl/8GqMGBd3sE1ayaAMA) - https://www.burgen-web.de/loewenburg.htm
+
+siebengebirge - https://www.siebengebirge.com/
 
 **shop**
 
@@ -10114,7 +10170,9 @@ https://www.studierendenwerk-bonn.de/en/food-drink/
 
 [60 seconds to napoli Bonn](https://maps.app.goo.gl/4BaqfV425EUYepUQ9) (Kaiserpl. 11, 53113 Bonn) - https://60secondstonapoli.de/
 
+[NOMIYA](https://maps.app.goo.gl/mhz5LUpzD1Agjipw7) - http://www.nomiya-ramen.de/
 
+(Nanking)[https://maps.app.goo.gl/piEHKzkrEkrFx2ke7] - китайская. Есть опция буфета а-ля all-you-can-eat  http://www.nanking-bonn.de/
 
 **beer**
 
@@ -10128,6 +10186,25 @@ www.steinhauerkom.de
 
 [Limes Musikcafe](https://maps.app.goo.gl/CCNgXQfiDvvjuP9D8) (Theaterstraße 2, 53111 Bonn)- local pub http://www.limes-musikcafe-bonn.de/getraenke.html
 
+[Pinte Bonn](https://maps.app.goo.gl/D9PiJnVT85Zgb6K86) (Breite Str. 46, 53111 Bonn) - nice pub, but noisy https://pinte-bonn.de/
+
+[Billa-Bonn](https://maps.app.goo.gl/6BdSJvg3NssntMia6)
+
+[John Barleycorn](https://maps.app.goo.gl/a6KK4woQFJCGx7Pe6) - irish pub
+
+[Das Nyx](https://maps.app.goo.gl/jm9h2AV4CiW8YASz9) - pub http://www.das-nyx.de/
+
+[Pub Musiktruhe](https://maps.app.goo.gl/E3iKiF6vXh9yveAe9) - Mugs of beer offered in a cozy, rustic space with wood paneling, a pool table & darts. http://www.musiktruhe-bonn.de/
+
+[The Quiet Man](https://maps.app.goo.gl/v8XwP9mHqJ646vLn9) - irish pub http://www.the-quiet-man.com/
+
+**wine**
+
+[The protea vinothek](https://maps.app.goo.gl/AKN3Rt4nqppvZDTX7) - http://www.protea.restaurant/
+
+[Brix](https://maps.app.goo.gl/nGot16QYnHr4RVsP9) - http://www.brix-bonn.de/
+
+
 **coffee**
 
 [Der Kaffeeladen](https://maps.app.goo.gl/AGJNF89aEWKUsj7g7) (Friedrichstraße 37, 53111 Bonn) - good coffee and beans https://derkaffeeladen.de/
@@ -10138,6 +10215,11 @@ Black Coffee Pharmacy (Bonner Talweg 46, B)
 
 conditory
 
+[OneZo Bonn](https://maps.app.goo.gl/jjaRceXxPBzmJsuf7) (Am Neutor 3, 53113 Bonn)- Bubble tea https://www.onezo-bubble-tea-bonn.de/
+
+[An's Tea House Bonn](https://maps.app.goo.gl/J5BCnA9gpeXvZtvw5) http://ansteahouse.de/
+
+[PAPER & TEA - Bonn](https://maps.app.goo.gl/v1CMd1AC5ajQobb1A) - https://www.paperandtea.de
 
 # Denmark
 
@@ -11333,6 +11415,39 @@ Ellis. Сеть бургерных ресторанов (не фастфуд) с
 
 Музей музыкальных инструментов в Брюсселе - отличная коллекция музыкальных инструментов со всего мира. Обязательно нужно брать аудиогид - большинство экспонатов можно и нужно услышать. Очень помогает понять, как человечество изобретало и открывало музыку, извлекая звуки из всего, что только в голову придёт.
 
+Районы Ixelles и Saint-Gilles
+
+Maison Hannon
+
+Musée Horta
+
+Архитектор Виктор Орта
+
+Hôtel Tassel
+
+Maison Autrique - https://www.autrique.be/en/
+
+Hôtel Solvay - Забронировать тур по Hôtel Solvay: https://hotelsolvay.be/en/
+
+
+Maison du Peuple
+
+Архитектор Поль Анкар
+
+Maison Saint-Cyr
+
+Архитектор Гюстав Стровен
+
+Galeries royales Saint-Hubert
+
+Брюссельский центр комиксов и брассерия Horta https://www.hortamuseum.be/en/Welcome
+
+Maison Nelissen
+
+Villa De Rooster
+
+Saint-Gilles - смотреть закаты
+
 Музей поездов https://maps.app.goo.gl/CzuF7u6mTPboiAnTA?g_st=ic
 
 Atomium https://maps.app.goo.gl/r8Xum4HovRBCZiYD9?g_st=ic 
@@ -11355,26 +11470,39 @@ Park Laeken
 
 Музей Рене Магритта https://maps.app.goo.gl/UrbFkRFpVA1XXGx88?g_st=ic 
 
-Пожрать:
+**food**
+
+Woodpecker - Brunch restaurant. chain. https://woodpecker.family/
+
+Португальское кафе Forcado
+
  ⁃ 🍻 🍻 🍤 https://maps.app.goo.gl/edGqfdJoMVtrZzjt5?g_st=ic
- ⁃ 🍟 Уличная картоха https://maps.app.goo.gl/zM1vpBn5cZ4jDvFT8
- ⁃ 🧑🏻‍🎨 Кафе художников https://maps.app.goo.gl/ambsH5C9cY1NqDzv9?g_st=ic
- ⁃ 🍕 https://g.page/itsanonalife?share
- ⁃ 🍔 https://maps.app.goo.gl/5oqY2SBnoPnU1h8D9?g_st=ic
- ⁃ 🍺 https://maps.app.goo.gl/U4hzCBe7bqZNv1ne7?g_st=ic
- ⁃ 🥩 от крутого шефа Fin de Siècle или https://g.page/9etvoisins?share
+
+[Fritland](https://maps.app.goo.gl/zM1vpBn5cZ4jDvFT8) Уличная картоха
+
+[La Fleur en Papier Doré](https://maps.app.goo.gl/ambsH5C9cY1NqDzv9?) - Кафе художников https://goudblommekeinpapier.be/
+
+[NONA](https://g.page/itsanonalife?share) -  Neapolitan-style pizza, plus organic wines & craft beer. http://www.nonalife.com/
+
+[Le Clan des Belges](https://maps.app.goo.gl/5oqY2SBnoPnU1h8D9?g_st=ic) - burger https://www.leclandesbelges.be/
+
+[9 et Voisins](https://g.page/9etvoisins?share) - steak/meat http://9-et-voisins.be/
+
+[Fin de Siècle](https://maps.app.goo.gl/V3nrDr2q3CDEhi9D6) - steak and meat https://www.findesiecle.be/
 
 http://lecanterbury.be/?lang=en
 
 https://auvieuxsaintmartin.be/en/
 
-Вот это было отличным, но, слышал, испортилось за последние пару лет.
+Вот это было отличным, но могли испортиться
 https://auxarmesdebruxelles.com/en/home-2/
 
 
 **beer**
 
 Delirium Cafe - Совершенно туристический бар, но это бар с самым большим выбором пива в мире (занесены в книгу рекордов Гиннеса за свой выбор пива). https://www.deliriumvillage.com/bar/delirium-cafe/ https://maps.app.goo.gl/VcMbSBeLCohxFv4K8?g_st=ic
+
+[Nüetnigenough](https://maps.app.goo.gl/U4hzCBe7bqZNv1ne7?g_st=ic) - http://www.nuetnigenough.be/Food.pdf
 
 
 **event**
@@ -16200,6 +16328,46 @@ BBI, Alta, SCC
 
 ## Ереван
 
+Валюта: Армянский драм, AMD, 
+
+Визы: С паспортом РФ можно находиться до 180 дней без визы
+
+Когда лучше всего приезжать?: С марта по июнь и с сентября по ноябрь включительно — летом слишком жарко
+
+Что обязательно взять с собой?
+Если летите из РФ и у вас нет международных карт, то возьмите наличные рубли, доллары или евро, чтобы поменять их на месте на драмы
+
+Как лучше добраться из аэропорта?
+Яндекс.Такси или GG, таксисты на улице будут на машинах хуже, возьмут при этом в три раза больше. Для российских аккаунтов в Яндексе будет работать российская карта. Средняя цена поездки до города — 1500–3000 драм в зависимости от пробок.
+
+Как лучше перемещаться по городу?
+В Ереване очень дешевое такси, есть две ветки метро и не очень приятные автобусы (в основном старые и без кондиционеров для лета). Для навигации по городу рекомендуем пользоваться Яндекс.Картами, они несколько полнее и подробнее, чем гугловые.
+
+Как вызывать такси?
+Яндекс.Такси или GG
+
+Есть ли доставка еды?
+Яндекса.Еда и Glovo
+
+Какую купить туристическую симку?
+Viva MTS, Team (бывший Beeline), Ucom (местный оператор). Киоски всех операторов есть в аэропорту. У Ucom есть безлимитный тариф за 4900 драм (≈1000 рублей) и поддержка eSIM.
+
+Можно ли везде платить картой?
+Картой — но только международной — можно платить почти везде, кроме рынков и каких-нибудь маленьких пекарен. С 30 марта 2024 все армянские банки, кроме российского отделения ВТБ, не работают с картами Мир.
+Можно ли пить воду из крана?
+Да, это безопасно, но не во всех домах и районах вкусно. На улице много питьевых фонтанчиков — пулпулаков — из них тоже безопасно пить воду.
+
+Главные супермаркеты для еды?
+SAS – большая сеть с магазинами почти по всему городу, где-то между Перекрестком и Азбукой Вкуса. Также рекомендуем сеть Yerevan City. Есть несколько Carrefour, выбор там ограниченный. Zovq и Tsiran – сети магазинов попроще.
+
+Говорят ли люди на улице по-английски?
+В основном нет, но отдельные люди будут говорить. Подавляющее большинство армян так или иначе говорит по-русски. В ресторанах, банках и других местах наверняка можно найти англоязычных сотрудников.
+
+Что нужно 100% увидеть и попробовать?
+Пройтись по улице Сарьяна, подняться на Каскад и взглянуть с него на Арарат. Попробовать армянский коньяк (минимум 10-летней выдержки), кебаб и аутентичную лепешку.
+
+Чего остерегаться?
+Водителей. В Ереване достаточно архаичная дорожная система и агрессивные водители, поэтому переходите дорогу аккуратнее. При этом сам город очень безопасный, шанс натолкнуться на агрессию или каких-то карманников минимален.
 
 Подать на испанскую визу в Армении Ереване нет внж ибо оф представительство в центре в Москве
 
@@ -16208,7 +16376,12 @@ BBI, Alta, SCC
 Сходить а точнее поездить надо по местным ущельям и горам хотябы на уровне экскурсий, это красиво
 https://hyurservice.com/ru - однодневные трипы 
 
-Улица Сарьяна, она же винная улица. И Grand Hotel, что бы пешком весь центр был доступен
+Основная часть города, интересная гостям — район Кентрон. Это все, что находится внутри местного «бульварного полукольца», образованного серией бульваров на востоке и ресторанно-барными улицами на севере. 
+* Вино, еда и рестораны — вокруг Каскада и вдоль улицы Сарьяна, она же винная улица.
+* Бары и движ — улица Пушкина и окрестности
+* Туристы и магазины — Каскад, Опера, Северный проспект, Площадь Республики, Вернисаж
+
+Grand Hotel, что бы пешком весь центр был доступен
 
 
 **beer**
@@ -16219,6 +16392,8 @@ dargett - свой паб в центре
 
 379 torch and brew - тоже хорошие
 
+Пиво — в Dors и Dargett (местная крафтовая пивоварня, ее пиво продают везде)
+
 **wine**
 
 Вино коктейли - все что понравится на винной улице.
@@ -16226,6 +16401,9 @@ dargett - свой паб в центре
 Бамбокашат - Молодые виноделы крутые
 
 in vino - отличные
+
+Вино — в Wine Republic
+
 
 **cocktails**
 
@@ -16235,11 +16413,23 @@ banterego
 
 Дабу (у каскада)
 
+Коктейли — в Phoenix, Bird Cage и библиотеке Мирзоян
+
+Настойки — в Дружбе и Борще
+
+
 **coffee**
 
 Letters and Numbers — вдохновляющий коворкинг и кофейня для работы в центре Еревана.
 https://lettersandnumbers.am/
 https://www.instagram.com/lan_yerevan/
+
+Voch Lyus Voch Mut («ни свет ни тьма» с арямнского, она же просто «кофейня в гараже»)
+Vibe (варят на Сварщице Екатерине)
+Звездочка (обязательно попробуйте вишневый пирог и другие десерты)
+Lumen (на Пушкина, рядом с Каскадом — стоит сходить именно сюда ради помещения бывшего книжного магазина 19-го века)
+Afrolab
+Hayk Coffee Roasters (не говорят по-русски)
 
 **food**
 
@@ -16255,12 +16445,100 @@ Topaz Khinkali - Это лучшие хинкали, 10/5 Столик посл�
 
 Из ресторанов "Абовяна 12" это и адрес и название
 
-Degusto - очень годная цена/качество столовка со всеми кухнями типо мексиканской и суши. Есть доставка.
-
 Ost
 Ереван, ул. Сарьяна, 16/16
 https://yandex.ru/maps/org/57494294420
 Ну где ближе туда и заходите оба хорошие
+
+
+Завтраки и бранчи
+
+Food Industry
+
+Juli's
+
+August
+
+Сэндвичи, кофе и закуски с собой
+
+Prepa (возле площади Республики, возле Оперы)
+
+Ground Zero
+
+
+Таверны с местной едой
+
+Таверна Ереван (большая сеть, лучше бронировать и идти в самую северную на карте)
+
+Кавказская пленница (сеть поменьше, тоже лучше бронировать)
+
+Ktoor
+
+Туманян Хинкали
+
+
+Ближневосточная кухня
+
+Byblos (не говорят по-русски)
+
+Lebanon Shawarma
+
+
+Итальянские рестораны и пицца
+
+Pizza Ria
+
+Napoletana Armeni
+
+Cafe Di'Angelo
+
+Pomodoro
+
+Extra Virgin
+
+
+Азиатская кухня
+
+Mehak
+
+Kim Yum
+
+Ramen Ten
+
+OhMeshi (аутентичное место, в котором рамен готовят девушка и Кореи и мужчина из Японии, можно купить саке)
+
+tokyooo (владелец японец, есть прикольный конвеер с едой)
+
+
+Мясо и бургеры
+
+Smoking Chef
+
+Black Angus
+
+
+Мексиканская кухня
+
+Degusto - очень годная цена/качество столовка со всеми кухнями типо мексиканской и суши. Есть доставка.
+
+Cactus
+
+Los Pueblos
+
+Dos Amigos
+
+Muchaho
+
+
+Веганская кухня
+
+2022 (здесь же есть холодильник с российским крафтовым пивом)
+
+Avocado Queen
+
+Hummus Kimchi
+
+Частично Prepa
 
 # Белорусь
 
