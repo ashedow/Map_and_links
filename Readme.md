@@ -94,7 +94,7 @@ Airhelp: https://www.airhelp.com/en/
 
 mundraub.org
 
-Locations to find Kilkenny Irish Beer & Ale (all varieties -- Ale; Nitro; Cream; Strong; etc.). - https://www.google.com/maps/d/u/0/viewer?fbclid=IwY2xjawFNXs5leHRuA2FlbQIxMAABHesG2TSvESCMeWoTaeMYNNNT7oY51d4BGiLTzAjNNH1yTkCv86375RyTYw_aem_COksUBrtDzbYz5DqoUH_Vw&mid=1yhlRN5Medkpb9ZzwErvk8bigU_qwQ1U&ll=35.83663053321594%2C-99.53629803443924&z=3 (orig post https://www.facebook.com/groups/bringkilkennybeertotheusa/posts/10160836203845743/)
+Locations to find Kilkenny Irish Beer & Ale (all varieties -- Ale; Nitro; Cream; Strong; etc.). - https://www.google.com/maps/d/embed?mid=1yhlRN5Medkpb9ZzwErvk8bigU_qwQ1U&ehbc=2E312F (orig post https://www.facebook.com/groups/bringkilkennybeertotheusa/posts/10160836203845743/)
 
 
 **sim**
@@ -153,6 +153,8 @@ michelin guide https://guide.michelin.com/en/ru/restaurants
 
 WG fest https://vk.com/wgfest_ru https://www.instagram.com/wgfest/ https://worldoftanks.com/en/news/game-events/wargaming-fest-2019/
 
+https://tgs.nikkeibp.co.jp/tgs/2024/en/ tokyo game show
+
 Art https://www.teamlab.art/
 
 Austria, Worldwide  Arts Electronica fest  - https://ars.electronica.art/news/en/
@@ -169,6 +171,8 @@ meetup.com
 
 https://odsc.com - At ODSC (Open Data Science Conference) we strive to bring together the global data science community, facilitate the exchange of innovative ideas, promote the growth of open source software, and prepare data and AI practitioners of all levels for success in their rapidly changing field.
 
+
+hytradboi.com - db conf
 
 https://wearecommunity.io/ - community over the world
 
@@ -355,6 +359,7 @@ https://europeancoffeetrip.com/
 
 https://www.globalcoffeefestival.com/Other-Events - https://www.amsterdamcoffeefestival.com/
 
+
 **relocation**
 
 salaryaftertax.com - taxes by country
@@ -372,6 +377,7 @@ https://relocate.me/net-pay-calculators/
 https://gsl.org/en/
 
 numbeo.com
+
 
 **work**
 
@@ -426,15 +432,23 @@ Japan
 
 Spain
 
+
 **education**
 
 Школа анимации Poudriere http://www.poudriere.eu/en
 
 Мероприятия RSVP https://www.rsvp-popup.com/
 
+
 **med**
 
 https://pillintrip.com
+
+
+**Parcel delivery service**
+
+https://topparcel.com/ 
+
 
 **strange subscription**
 
@@ -8737,6 +8751,8 @@ Mundraub – Карта общедоступных мест для сбора т
 
 TooGoodToGo – Приложение для покупки остатков продовольствия и блюд у ресторанов и продовольственных магазинов по минимальным ценам. https://www.toogoodtogo.com/
 
+sonntags - not complete, but app with map of open supermarkets, pharmacies, bike shops and much more 
+
 Flink
 
 https://picnic.app/de/
@@ -11470,15 +11486,32 @@ Park Laeken
 
 Магазин Dille&Kamille https://maps.app.goo.gl/YG5Uowg89mhuSM4R7?g_st=ic
 
-Музей Рене Магритта https://maps.app.goo.gl/UrbFkRFpVA1XXGx88?g_st=ic 
+Музей Рене Магритта https://maps.app.goo.gl/UrbFkRFpVA1XXGx88?g_st=ic
+
+
+CIVA museum https://civa.brussels/en
+
+Забронировать сеанс в La Maison Cauchie: https://cauchie.be/en/the-cauchie-house
+
+Tour&Taxis - https://tour-taxis.com/ historic landmark. Сrossroads of experiences, art and discoveries. Once a central customs facility, this iconic site has been reinvented to offer visitors a deep dive into Brussels culture. From art exhibitions and local markets to gourmet restaurants and cultural events, Tour & Taxis is the must-visit destination to experience Brussels in all its glory. ”
+
+
+
+Harry Potter: Visions of Magic: https://harrypottervisionsofmagic.com/
+
+Увидеть https://www.flowercarpet.brussels/en - цветочные ковры Брюсселя разных лет
+
 
 **food**
 
 Woodpecker - Brunch restaurant. chain. https://woodpecker.family/
 
+Lloyd - Brunch https://lloydcoffee.com/en/home-2/
+
 Португальское кафе Forcado
 
- ⁃ 🍻 🍻 🍤 https://maps.app.goo.gl/edGqfdJoMVtrZzjt5?g_st=ic
+[Brasserie des Alexiens](https://maps.app.goo.gl/edGqfdJoMVtrZzjt5?g_st=ic) - Restaurant
+ https://www.brasseriedesalexiens.be/#la-carte https://www.instagram.com/brasseriedesalexiens/
 
 [Fritland](https://maps.app.goo.gl/zM1vpBn5cZ4jDvFT8) Уличная картоха
 
@@ -11496,8 +11529,11 @@ http://lecanterbury.be/?lang=en
 
 https://auvieuxsaintmartin.be/en/
 
-Вот это было отличным, но могли испортиться
-https://auxarmesdebruxelles.com/en/home-2/
+Вот это было отличным, но могли испортиться - https://auxarmesdebruxelles.com/en/home-2/
+
+Wolf - https://wolf.be/en фуд-маркет и есть пивоварня
+
+Frank: https://www.frank.brussels
 
 
 **beer**
@@ -14641,6 +14677,7 @@ https://nbs.rs/en/indeks/
 
 https://t.me/vrachivserbii - врачебные услуги в Сербии, дискусии, отзывы
 
+Клиника проверка и коррекция зрения https://maps.app.goo.gl/7xMxNgT2wGrdcyWp8?g_st=it
 
 **Dental radiology**
 
@@ -14656,7 +14693,8 @@ OrtoDent (Njegoševa 42) - cash only https://snimanjezubavracar.rs/
 
 Roorto 3d Digital (Bulevar Oslobođenja 63) - https://www.snimanjezuba.co.rs/
 
-Клиника проверка и коррекция зрения https://maps.app.goo.gl/7xMxNgT2wGrdcyWp8?g_st=it
+стоматолог Неманья Телефон +381 64 1105196 Вацап Принимает на Сеньяке. Берет не дорого,делает хорошо, на лишнее не разводит. Говорит по русски
+
 
 **pets**
 
