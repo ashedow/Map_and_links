@@ -96,6 +96,10 @@ mundraub.org
 
 Locations to find Kilkenny Irish Beer & Ale (all varieties -- Ale; Nitro; Cream; Strong; etc.). - https://www.google.com/maps/d/embed?mid=1yhlRN5Medkpb9ZzwErvk8bigU_qwQ1U&ehbc=2E312F (orig post https://www.facebook.com/groups/bringkilkennybeertotheusa/posts/10160836203845743/)
 
+https://www.queeringthemap.com/ - Queering the Map is a community generated counter-mapping platform for digitally archiving LGBTQ2IA+ experience in relation to physical space.
+
+
+
 
 **sim**
 
@@ -1020,6 +1024,13 @@ BOOKOFF — крупнейшая японская сеть б/у товаров.
 *такс-фри* 
 
 Если вы иностранец — его тут сразу вычитают из цены товара прям в магазине и ничего не надо возвращать «потом». Просто покажите паспорт на кассе (работает не везде)
+
+
+**to go**
+Marugame Castle Experience; https://marugame-castle.com/en/home/
+
+Fukuyama Castle Stay: https://fukuyamacastle.com/lp-en/
+
 
 ## Tokyo/Токио/東京
 
@@ -6351,6 +6362,8 @@ https://www.sirva.com
 
 4) https://www.brenger.nl/nl/
 
+https://localie.co/en - local guides
+
 
 
 **Clothes**
@@ -6763,6 +6776,9 @@ ARTZUID: https://artzuid.nl fest
 
 https://festival.liquicity.com/ dnb fest
 
+plantagedok.nl
+
+
 **store**
 
 Kaashuis Tromp (Elandsgracht 27, 1016 TN Amsterdam, Netherlands) - cheese shop https://winkels.zuivelhoeve.nl/zuivelhoeve-by-kaashuis-tromp-amsterdam-elandsgracht/
@@ -6788,9 +6804,14 @@ Hagelslag
 Gideon Лучшая барахолка, работающая каждый день, находится [здесь](https://maps.app.goo.gl/VhsVVtYA4YPsoaze6) и является по сути огромным ангаром, где продается все, начиная от вещей и кончая картинами и старинной мебелью. Ассортимент постоянно меняется, так что предсказать, что там будет на следующей неделе нетривиальная задача и скорее всего зависит от того, какой магазин неподалеку решил закрыться и сплавить все свое барахло."
 
 
+Amazing oriental - азиатские продукты - вот этот большой https://maps.app.goo.gl/or2Fa4N28tcrrEmv6 
+
+Toko Don Yong - огромный этаж еды, потом то ли 3 то ли 4 этажа не еды, а на самом верху столовка! https://maps.app.goo.gl/MeetRZmJPoiGEvW18
+
+[Blin Delicatessen uit Oost-Europa](https://maps.app.goo.gl/a4wcRw4CUkSfvi266) (Plantage Kerklaan 30, 1018 TC Amsterdam) - Странные кринжовые продукты 
 
 
-techwear
+**techwear**
 
 Krakatau (Nieuwe Spiegelstraat 30, 1017 DG Amsterdam, Netherlands) - https://en.krakatauwear.com/
 
@@ -6831,7 +6852,6 @@ Cafe de Laurierboom - bruin cafe Бар, где играют в шахматы
 Cafe Welling - bruin cafe Мекка пенсионеров. Лучшее место, чтобы выпить после Стеделейка
 
 Cafe Langereis. Чуть менее bruin bruin кафе 
-
 
 
 https://mezrab.nl/events/welcome-to-the-playground-24/ - местные эвенты и комики
@@ -6878,6 +6898,10 @@ The Papeneiland Café (Prinsengracht 2, 1015 DV Amsterdam, Niederlande) - кор
 Café De Jonge Wees (Looiersgracht 144, 1016 VT Amsterdam, Netherlands) - коричневое кафе (brown caffe)где до сих пор на полу разбрасывают арахисовую скорлупу. https://dejongewees.nl/ https://maps.app.goo.gl/vfKQvubi6T1hxaqp6
 
 Café Soundgarden (Marnixstraat 164-166, 1016 TG Amsterdam, Niederlande) - bar club http://www.cafesoundgarden.nl/ https://maps.app.goo.gl/xug9JqckTMVnGtQG8
+
+**wine**
+
+[Twee Prinsen](https://maps.app.goo.gl/7nuyuZqL1UQF6zB67). Вайбовое место с табуреточками на канале, изи закусками и натуральным вином http://www.tweeprinsen.nl/
 
 
 **Beer**
@@ -6949,6 +6973,8 @@ Albert Cuyp Markt - этакий московский Депо, только п�
 
 ресторане на горе, откуда, говорят, и Амстердам видно? https://maps.app.goo.gl/uFsij9sXGfxpZzBN6
 
+Zoku Amsterdam (Weesperstraat 105, 1018 VN Amsterdam, Netherlands) - Просто приятное заведение на крыше https://livezoku.com/amsterdam
+
 
 Bakers & Roasters - Eerste Jacob van Campenstraat 54, 1072 BH 
 
@@ -6968,6 +6994,10 @@ Vleminckx Sausmeesters - Voetboogstraat 31, 1012 XK vffels
 FEBO snacks vending machine 
 
 
+[No mans Art gallery](https://maps.app.goo.gl/9vWgL3StibDWHyST6). Классное кафе для завтраков и бранчей, есть большие столы, доступно для больших компаний, есть садик, очень симпатичное место с галереей в отдалении от центра https://www.nomansart.com/
+
+
+
 Leeman Döner (Van Woustraat 160, 1073 LW Amsterdam, Netherlands) - http://www.leemandoner.nl/
 
 Grillroom Shoarma Mesut (De Clercqstraat 59, 1053 AD Amsterdam, Niederlande) - http://www.shoarmamesut.com/ https://maps.app.goo.gl/kY4G5tDfk5WRPX7BA
@@ -6979,16 +7009,23 @@ THE BUTCHER Nine Streets (Paleisstraat 14, 1012 RB Amsterdam, Niederlande) - htt
 
 Selam Afrika Restaurant (Dapperstraat 94H, 1093 BZ Amsterdam, Niederlande) - Тру эфиопский ресторан http://selamafrika.nl/ https://maps.app.goo.gl/AT3Uv3yv7SzsKuBi7
 
-'t Steakhouse ''American BBQ in zuid'' (Amstelveenseweg 170, 1075 XP Amsterdam, Netherlands) - Хорошие ребра По четвергам безлимит http://www.steakhouse.nl/
+Steakhouse American BBQ in zuid (Amstelveenseweg 170, 1075 XP Amsterdam, Netherlands) - Хорошие ребра По четвергам безлимит http://www.steakhouse.nl/
 
 
 Braai — коптильня в южноафриканском стиле. Дешево и вкусно. https://goo.gl/maps/vJ13gSjh2HomNRC58
 
 Pendergast — еще одна коптильня, помоднее предыдущей. Пробовать надо все, очень вкусно. https://goo.gl/maps/JEqwq1xozZtfH7mG7
 
+Cannibale Royale (Handboogstraat 17a, 1012 XM Amsterdam, Niederlande) - За стейками и мясом сюда http://www.cannibaleroyale.nl/
+
+
+
 Il Sogno — отличная пицца.  https://goo.gl/maps/vwQZyPufRnrbyFL98
 
-The Seafood Bar (Ferdinand Bolstraat 32, 1072 LK Amsterdam, Netherlands) — ресторан морепродуктов. Очень-очень вкусно. https://goo.gl/maps/7X9UvGchYtjgr1dcA https://www.theseafoodbar.com/menu
+
+[The Seafood Bar](https://goo.gl/maps/7X9UvGchYtjgr1dcA) (Ferdinand Bolstraat 32, 1072 LK Amsterdam, Netherlands) — ресторан морепродуктов. вкусно.  https://www.theseafoodbar.com/menu
+
+[Brut de mer](https://maps.app.goo.gl/ZXEgnAWKFczXmxAe7). Умеренно фэнси с морепродуктами и устрицами http://www.brutdemer.nl/
 
 Wow crab - sea food be-nl chain (Amsterdam/Rotterdam/DenHaag) https://www.wowcrab.nl/ https://www.instagram.com/wowcrab_nl https://www.tiktok.com/@wowcrab_nl
 
@@ -7000,24 +7037,27 @@ Takumi Ramen Kitchen (Ferdinand Bolstraat 36 H, 1072 LK Amsterdam, Netherlands) 
 Ramen-Kingdom - https://g.page/RamenKingdom?share https://www.ramenkingdom.nl/menus
 
 
-Akitsu Вот лучшие суши в Амстере по средней цене. https://goo.gl/maps/YwbVawjhToYYQsja6
+[Akitsu](https://goo.gl/maps/YwbVawjhToYYQsja6) хорошие суши в Амстере по средней цене.
 
-Yamazato А это лучшие суши по очень неприличной цене. Дорого и вкусно. https://goo.gl/maps/zFXoYtCCgycTtbTt8
+Yamazato - хорошие суши по очень неприличной цене. Дорого и вкусно. https://goo.gl/maps/zFXoYtCCgycTtbTt8
 
-Genki (Reguliersdwarsstraat 26, 1017 BM Amsterdam, Netherlands) - Japanese restaurant Sushi all you can eat - самые нормальные http://www.restaurantgenki.nl/ https://maps.app.goo.gl/zqnCmFYWzRtfTW228
+[Genki](https://maps.app.goo.gl/zqnCmFYWzRtfTW228) (Reguliersdwarsstraat 26, 1017 BM Amsterdam, Netherlands) - Japanese restaurant Sushi all you can eat - самые нормальные http://www.restaurantgenki.nl/ 
 
 
 Poké Bowl Olakino Amsterdam (Ferdinand Bolstraat 6A, 1072 LJ Amsterdam, Netherlands) - Very nice option when you are in the museum area. The service is really fast, so nice if you have a tight schedule. Portions are big even for the medium size.  http://www.olakinobowls.nl/ https://maps.app.goo.gl/j6MouaDZCyenZhei9
 
-SOJU Bar (Ferdinand Bolstraat 13-15, 1072 LA Amsterdam, Netherlands) - Korean restaurant The food is very good and good portions, an 8 piece portion is filling.  https://sojubar.com/amsterdam/menu https://maps.app.goo.gl/s1iuW4U6cTbQaTuP7
+[SOJU Bar](https://maps.app.goo.gl/s1iuW4U6cTbQaTuP7) (Ferdinand Bolstraat 13-15, 1072 LA Amsterdam, Netherlands) - Korean restaurant The food is very good and good portions, an 8 piece portion is filling.  https://sojubar.com/amsterdam/menu 
+
+[The Good Companion](https://maps.app.goo.gl/aC698dxVrd9E4Ev8A) (Westerstraat 264, 1015 MT Amsterdam, Niederlande) - За морской едой идите сюда http://www.thegoodcompanion.nl/ 
 
 
-The Good Companion (Westerstraat 264, 1015 MT Amsterdam, Niederlande) - За морской едой идите сюда http://www.thegoodcompanion.nl/ https://maps.app.goo.gl/aC698dxVrd9E4Ev8A
 
-Cannibale Royale (Handboogstraat 17a, 1012 XM Amsterdam, Niederlande) - За стейками и мясом сюда http://www.cannibaleroyale.nl/
+[Cafe de Luxemburg](https://maps.app.goo.gl/m1GCphQ8L76R9cyt6) Туристическое место в духе старой Европы в самом центре, с дружелюбным персоналом. Попробовать биттерболлен https://www.cafeluxembourg.amsterdam/
 
 
-Zoku Amsterdam (Weesperstraat 105, 1018 VN Amsterdam, Netherlands) - Просто приятное заведение на крыше https://livezoku.com/amsterdam
+[September](https://maps.app.goo.gl/QhoRq46C7z66JS7T8).  Камерное место с авторской кухней и вином в отдалении от центра, true local — даже нет меню на английском) https://septemberamsterdam.nl/
+
+
 
 
 ## Utrecht/Утрехт
@@ -8650,9 +8690,7 @@ https://www.temu.com/ - aliexpress for eu
 * Bestsecret
 
 
-Utry.me - YOUR TEST MARKET WITHOUT PRICES
-
-
+https://www.piercingline.com/ - piercin
 
 NINA App for warnings about bomb findings, storms, fires, evacuations,...
 
@@ -8700,13 +8738,35 @@ Röststätte - https://www.roeststaette.com/shop/kaffee-abo/
 
 The Barn - https://thebarn.de/pages/subscription
 
-Flying roasters - https://www.flyingroasters.de/en/shop/coffee-subscription/
+Flying roasters - https://www.flyingroasters.de/
 
-Five elephants - https://www.fiveelephant.com/de/collections/coffee/subscription
+Five elephants - https://www.fiveelephant.com/
 
 Fjord coffee - https://fjord-coffee.de/de/products/office-coffee-subscription
 
-19gramms - https://19grams.coffee/en/collections/kaffee-abo
+19gramms - https://19grams.coffee/
+
+https://www.neuesschwarz.de/
+
+https://www.cebecoffeeroasters.com/
+
+https://www.quijote-kaffee.de/
+
+https://guentercoffee.com/
+
+https://www.roastmarket.de/
+
+https://www.slurp.coffee
+
+https://kaffeeroester.de/
+
+https://ettli.de/
+
+https://catienda.de/
+
+https://www.kaffee-ottimo.com/
+
+https://amsel-kaffee.de/
 
 дважды roasitng champion германии seekind.coffee
 
@@ -8715,6 +8775,23 @@ https://www.xenia-espresso.de/ - geek coffee machine
 lalibee.de
 
 wild-kaffee.com
+
+https://bonanzacoffee.de/
+
+https://www.machhoerndl-kaffee.de/
+
+kaffeemacher.de
+
+https://thebarn.de/
+
+https://www.jbkaffee.de/
+
+https://www.suedhang.org/
+
+https://europeancoffeetrip.com/
+
+https://www.the-berliner.com/food/the-most-fucked-up-illegal-place-ive-ever-worked-confessions-of-a-berlin-barista/
+
 
 
 **beer**
@@ -8809,8 +8886,13 @@ Omio – Сервис поиска оптимального перемещени
 
 db navigator – приложение дойче бана. Наверное, каждый, кто катался на поезде про него знает. приложение немецких железных дорог, можно отслеживать скидки, строить маршруты и покупать билет в приложении.
 
+https://schon.berlin/feature/2024/03/05/chto-ne-tak-s-deutsche-bahn-i-mozhno-li-esche-chto-to-ispravit - про db
+
 
 DB Bahncard – скидочная карта на дойче бан. Отбивается почти сразу, если в год ездить больше один раз на ICE по германии. Наверное, c Дойчландстикетом сейчас будет не так актуально https://www.bahn.de/angebot/bahncard
+
+[карта региональных перевозчиков](./2024-01-12-Aufgabentraeger-Eisenbahnverkehrsunternehmen-2024.pdf) [online](
+https://www.schienennahverkehr.de/wp-content/uploads/2024/02/2024-01-12-Aufgabentraeger-Eisenbahnverkehrsunternehmen-2024.pdf)
 
 FlixBus – если захотите дешево и без комфорта скататься в Гамбург/Амстердам/Париж на автобусе.
 
@@ -9303,7 +9385,7 @@ https://www.atlas-alltagssprache.de/brotchen
 Для слова "булочка" в Германии существует около десятка разных региональных слов. Вообще, есть много разных карт про то "где как называется какой-то совсем обычный предмет", например, вот. Если долго изучать эти карты, то выяснится, что Эрланген выделяется и тут - у них там свои отдельные слова для очень много чего.
 
 
-
+много что называется созвучно с pommies
 
 
 ## Berlin
@@ -9342,6 +9424,7 @@ Main part - Ringban
 
 https://i.vas3k.ru/full/55daf85c00b9b13adc15840c3086c69c491c31f9b24ba088065ad4e06b7876f3.jpg
 
+https://vcfb.de/2024/ - Vintage Computing Festival Berlin (VCFB)
 
 
 Желтым отмечены места, где тусят активно, но цивилизовано, а красным — где как будто в последний раз.
@@ -9947,6 +10030,10 @@ https://www.instagram.com/odonien/
 
 https://vhs-koeln.de/
 
+https://www.stadt-koeln.de/artikel/62144/index.html - list of all public libraries in Cologne
+
+https://dingfabrik.de/
+
 **med**
 
 https://allgemeinarzt-koeln.de/#praxis
@@ -9961,6 +10048,8 @@ https://lostlevel.bar/
 
 [Giga-Center Köln](https://maps.app.goo.gl/CS3iKqtmmrh8vgFo7?g_st=ic) - Video arcade http://www.giga-center.info/
 
+
+board game meetings https://www.ali-baba-spieleclub.de/koeln/unser-woechentlicher-treff/
 
 **bar**
 
