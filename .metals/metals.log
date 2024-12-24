@@ -1,0 +1,46 @@
+2024.11.24 16:44:17 INFO  Started: Metals version 0.11.12+123-68e76634-SNAPSHOT in folders '/home/ash/Dev/project/selfsite, /home/ash/Dev/project/Map_and_links, /home/ash/Dev/project/docker_help, /home/ash/Dev/project/earthquakes' for client Visual Studio Code 1.95.2.[0m
+Nov 24, 2024 4:44:20 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.015s)
+Nov 24, 2024 4:44:20 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Nov 24, 2024 4:44:20 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.001s)
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Nov 24, 2024 4:44:24 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.028s)
+Nov 24, 2024 4:44:27 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.002s)
+Nov 24, 2024 4:44:27 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Nov 24, 2024 4:44:27 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+Nov 24, 2024 4:44:31 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.001s)
+Nov 24, 2024 4:44:31 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Nov 24, 2024 4:44:31 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2024.11.24 16:44:31 INFO  time: initialize in 13s[0m
+2024.11.24 16:44:34 WARN  Build server is not auto-connectable.[0m
+2024.11.24 16:44:34 WARN  no build tool detected in workspace '/home/ash/Dev/project/selfsite'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.11.24 16:44:34 WARN  Build server is not auto-connectable.[0m
+2024.11.24 16:44:34 WARN  no build tool detected in workspace '/home/ash/Dev/project/Map_and_links'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.11.24 16:44:34 WARN  Build server is not auto-connectable.[0m
+2024.11.24 16:44:34 WARN  no build tool detected in workspace '/home/ash/Dev/project/docker_help'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2024.11.24 16:44:34 WARN  Build server is not auto-connectable.[0m
+2024.11.24 16:44:34 WARN  no build tool detected in workspace '/home/ash/Dev/project/earthquakes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m

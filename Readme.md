@@ -192,7 +192,9 @@ https://altinity.com/events/
 
 https://www.computextaipei.com.tw/en/index.html - Established in 1981, COMPUTEX TAIPEI (also called COMPUTEX) is the leading global ICT and IoT show with a complete supply chain and ecosystems. Co-organized by the Taiwan External Trade Development Council (TAITRA) and Taipei Computer Association (TCA), COMPUTEX, based upon Taiwan’s complete ICT clusters, covers the whole spectrum of ICT industry, from established brands to startups and from ICT supply chain to IoT ecosystems.
 
+https://dev.events
 
+https://www.ces.tech/
 
 hackathon.io - hackathon  online/offline events
 
@@ -278,6 +280,11 @@ https://biohackathon.dk/ - Copenhagen Bioinformatics Hackathon - 2021 Protein Ed
 https://www.lambdadays.org/lambdadays2022
 
 gob market online https://nerdsbayfair.com/
+
+
+https://www.clackycon.com/ - Mechanical Keyboard Meetup nl
+
+https://mechanicon.io/ - Mechanical Keyboard Meetup de
 
 **blogs and channels**
 
@@ -499,6 +506,7 @@ https://littlefinland.de/en/ - finland goods over eu
 
 https://latanadelpolpoinfo.wixsite.com/trattoriadimare have to go there smażony płace
 
+https://xometry.eu/en/
 
 
 # South Korea/Южная Корея.
@@ -7161,31 +7169,19 @@ Antiquariaat Hovinghи Huijsing BooksМагазины б/у книг с цена
 
 ЖД Вокзал. Он великолепен, и снялся в кино "Двенадцать друзей Оушена" в роли вокзала Амстердама.
 
-
-
 Frederikspark - тянется на юг и на западе переходит в Hondenlosloopgebied Haarlemmerhout - настоящий маленький лес с тропинкам.
-
-
 
 В получасе пешком от вокзала (электричка Амстердам-Заандворт подвезет на одну остановку) есть настоящие hidden gems:
 
-
-
 парк Elswout - чудесный камерный парк с тропинками, оранжереей. На обратном пути вы, вероятно, замерзнете - загляните в STACH food
 
-
-
 NZH Vervoer Museumмузей транспорта - трамваи, автобусы. В сувенирной комнатушке есть огромная коробка со старыми открытками на эту тему, отличный сувенир.
-
-
 
 За Хаарлемом начинается Zuid-Kennemerland National Park - для любителей несложного хайкинга. На велосипедах по нему тоже очень здорово - хоть до моря, хоть на север.
 
 
 
 ## Hertogenbosch
-
-
 
 прогулка по каналам (ну Нидерланды же), но... внутри городских стен.https://en.wikipedia.org/wiki/Binnendieze
 
@@ -7194,48 +7190,25 @@ NZH Vervoer Museumмузей транспорта - трамваи, автобу
 взять велосипед и покататься по паркам города и вокруг него. Бесконечные болота северного брабанта. Город известен своими natuurzone (это не организованный парк, а как бы дорожки для людей в естесственной среде для животных) и там много есть что посмотреть.https://www.ivn-s-hertogenbosch.nl/natuurgebieden
 
 
-
-
-
 ## Эйндховен
-
-
 
 не типичный город Нидерландов. Нет каналов и уютных снаружи домиков. Точнее, они есть, но оба канала почти полностью находятся в промзоне, а домики в центре заметно отличаются от типичных амстердамских видов.
 
-
-
 В Эйндховене, помимо музея Phillips есть еще музей грузовиков DAF и музей ван Аббе - абстрактная живопись, Кандинский, Малевич, Лисицкий, вроде Мондриан. Сам еще не был.
-
-
 
 Есть бывшие фабрики Phillips, которые сейчас переделали под хипстотные фудкорты-рестораны-бары. Несколько зданий, с поросшими лесом крышами, трубопроводами, индастриал и брутализм. И конечно же, фестиваль светового исскуства Glow, который проходит в конце ноября.
 
-
-
 любителям футбола еще мб придется по вкусу стадион команды P.S.V. и возможность сходииь на матч.
-
-
 
 В остальном - такой же нидерландский вайб. Велодорожки со скутерами, капсалон и шавуха, субботний рынок, херинг и кибелинг, худеморхен и тот зинс, кубб в парках, псины и псиновладельцы, турки и марроканцы.
 
-
-
 В соседнем Хелмонде внезапно есть такие же кубические дома, как и в Роттердаме, только не веселого жёлтого цвета, а, на мой взгляд, чуть более солидно выглядящего коричневого.
-
-
 
 В Арнеме, кроме внезапного рельефа еще есть единственная в Нидерландах троллейбусная система, но это для ценителей.
 
-
-
 Еще я бы рекомендовал посетить Киндердейк - стаи старых ветряных мельниц под охраной ЮНЕСКО и Гитхорн - поселок с кучей маленьких каналов и мостиков
 
-
-
 ## Leiden/Ляйден
-
-
 
 Третье октября - Главный местный праздник - день освобождения Ляйдена от испанской осады. Не только не уступает Дню короля по уровню кутежа, но и многократно его превосходит. В центре города проводят парад и концерты, на площади у станции разворачивают ярмарку с аттракционами. Местные жители могут по традиции бесплатно получить порцию селедки от муниципалитета.
 
@@ -7350,8 +7323,6 @@ Little V - vietnamese restaurant in The Hague that will hit your every tastebud.
 
 ## Rotterdam
 
-
-
 https://rooftopwalk.nl/?lang=en - можно пошариться по крышам в центре
 
 Роттердам другой. Просто другой. Во время войны его разбомбили в нулину и потому сейчас город - площадка для экспериментов в современной архитектуре.
@@ -7361,19 +7332,11 @@ https://rooftopwalk.nl/?lang=en - можно пошариться по крыш�
 
 ## Dam
 
-
-
 Erasmusbrug Modern suspension bridge known locally as 'The Swan', designed by Ben van Berkel & opened in 1996.
-
-
 
 ## Maastricht
 
-
-
 **to do/to go**
-
-
 
 https://www.exploremaastricht.nl/maastricht-underground
 
@@ -7387,11 +7350,7 @@ https://www.enci-gebied.nl/
 
 Забраться на городскую стену или покататься на кораблике по реке тоже прикольно
 
-
-
 **Food**
-
-
 
 Позавтракать Van Wijck, brandweerkantine, SoDelicious.
 
@@ -7399,17 +7358,10 @@ https://www.enci-gebied.nl/
 
 **beer**
 
-
-
 Пиво норм в Café Forum, наш любимый ресторан — Le Virage. (Район между этими двумя точками вообще стоит изучить на тему поесть-выпить.)
 
 
-
-
-
 ## Texel
-
-
 
 De Slufter national park which is part of the Wadden Sea, a massive UNESCO world heritage site and the largest tidel area in the world.
 
@@ -7420,8 +7372,6 @@ museum Kaap Skil to learn everything about the many Dutch merchant vessels layin
 
 
 ## Eindhoven 
-
-
 
 Intelligentia Taste Rooms (Leidingstraat 27, 5617 AJ) - https://www.intelligentia.nl/
 
@@ -8792,7 +8742,7 @@ https://europeancoffeetrip.com/
 
 https://www.the-berliner.com/food/the-most-fucked-up-illegal-place-ive-ever-worked-confessions-of-a-berlin-barista/
 
-
+copenhagen coffee lab https://copenhagencoffeelab.com/
 
 **beer**
 
@@ -9210,7 +9160,7 @@ Payback – делаешь покупки, накапливаешь баллы, 
 - [yourfone](https://www.yourfone.de) - виртуальный оператор
 - [WinSIM](https://www.winsim.de/) - доступные тарифы, включающие в себя оплаченные минуты и трафик в роуминге.
 - fraenk.de – оператор сотовой связи. все делается онлайн. тариф довольно недорогой (7gb интернета + unlim звонков и смс за 10евро/ за рефку (DARM23)+ 1gb (до 06.06 +3 gb). если ваш телефон поддерживает eSim, связь вы получите в тот же день, а то и в течение нескольких минут. оплата с paypal. интернет работает по ЕС отлично (проверено в Австрии, Франции, Хорватии) Из минусов звонить можно только на немецкие номера. И нет 5g сетей)
-
+- https://www.gmx.net/handy/freephone/ - esim
 
 [Полный список мобильных операторов Германии (нем.)](https://de.wikipedia.org/wiki/Liste_der_Mobilfunkprovider_in_Deutschland)
 
@@ -9968,7 +9918,13 @@ aero fest https://www.flugplatz-dessau.de/flugbegeisterte/#fest
 
 https://www.frankfurt-coffee-festival.de/
 
+## Hattingen
+
+Hattingen is a town in the northern part of the Ennepe-Ruhr-Kreis district, in North Rhine-Westphalia, Germany
+
 ## Dusseldorf
+
+https://www.reddit.com/r/duesseldorf/comments/lki9bs/points_of_interest_in_d%C3%BCsseldorf/
 
 https://holycraft.de/Craftival
 
@@ -9984,19 +9940,124 @@ Japanese Club Düsseldorf (Oststraße, 40211 Düsseldorf) - http://www.jc-duesse
 
 https://www.dokomi.de/en - Join us at Germany's biggest Anime and Japan Expo!
 
+Amesankoh (Immermannstraße 21, 40210 Düsseldorf) - Clothing store
+
 Shochiku (Immermannstraße 15 40210 Düsseldorf) jp shop  https://www.facebook.com/shochikuonline
 
 Kyoto - Japan Art Deco (Immermannstraße 26, 40210 Düsseldorf) - http://www.kyoto-japan.de/ https://www.facebook.com/kyotobyjapan/
 
 Hanaro Markt (Immermannstraße 45c, 40210 Düsseldorf) - Supermarket with a large selection of sweets and fresh food to-go. https://www.kimsasia.de/deutsch/hanaro-supermarkt/
 
-Dae-Yang (Immermannstraße 21, 40210 Düsseldorf) - Small supermarket with Japanese & Korean delicacies, groceries and household goods. https://www.dae-yang.online/ https://www.facebook.com/DaeyangATARIYA/
+[Kim Phi Asia Food GmbH](https://maps.app.goo.gl/bHzhAKqoidnUcZNZ9) - Asian grocery store http://www.kimphiasiafood.de/
+
+[Dae-Yang](https://maps.app.goo.gl/s9UrTzGP6cZMcHG69) (Immermannstraße 21, 40210 Düsseldorf) - Small supermarket with Japanese & Korean delicacies, groceries and household goods. https://www.dae-yang.online/ https://www.facebook.com/DaeyangATARIYA/
 
 ANMO ART/CHA (endemannstraße 18, 40210 Düsseldorf) - An oasis of peace, in the midst of the station district. The Anmo Art/Cha by Motoko Dobashi and Anna Friedel is a combination of a teashop and an art gallery. https://anmo-art-cha.com/ https://www.facebook.com/anmomotoko https://www.instagram.com/anmo_art_cha/
+
+Little Tokyo Düsseldorf https://www.duesseldorf-tourismus.de/en/experience/eating-and-going-out/little-tokyo
+
+EKŌ-Haus der Japanischen Kultur e.V. - Traditional Japanese temple, cultural center & gardens offering tours, events & Buddhist ceremonies.
+
+Carlsplatz
+
+Gustaf-Gründgens-Platz - Town square
+
+Kö-Bogen - Upscale shops & restaurants featured in a sleek facility with striking, ultramodern architecture.
+
+Königsallee
+
+[Stadterhebungsmonument](https://maps.app.goo.gl/msLYFoANmqmuCLHr6) - Bronze relief sculpture commemorating Dusseldorf receiving city rights in the 13th century. http://www.duesseldorf.de/dkult/DE-MUS-042524/138077
+
+[Burgplatz](https://maps.app.goo.gl/dJbgDiLsrGbL2UMt5) Relaxed post-war cobblestone square & community gathering place on the Rhine River.
+
+
+
+[Kunstsammlung K21, Kunstsammlung Nordrhein-Westfalen](https://maps.app.goo.gl/JpdNkef6zyPfEGFUA) - Modern art collection & temporary exhibits in a state-of-the-art update of a 19th-century building.
+
+
+[Kaiserpfalz Kaiserswerth](https://maps.app.goo.gl/zVau1qFb1qwZxy4Z6) - http://www.kaiserpfalz-kaiserswerth.de/
+
+[Insel im Schlosspark Eller](https://maps.app.goo.gl/xq3TYkJ81TELuNsJ6) - https://www.duesseldorf.de/stadtgruen/park/schlosspark-eller.html
 
 
 Manga-Mafia (Immermannstraße 59, 40210 Düsseldorf) - Anime & manga shop https://manga-mafia.de/store-duesseldorf https://www.facebook.com/MangaMafia/ https://www.instagram.com/mangamafia/ https://x.com/mangamafia_de/
 
+
+**food**
+
+
+Schweine Janes Altstadt - булка с загриленным свинным коленом
+
+
+
+[Sakuragiya - Japanese Ramen](https://maps.app.goo.gl/nGdZeqWo7cKYVET86) (Luegallee 118, 40545 Düsseldorf) - Japanese reddit users recommended. small menu, ramen with rich, flavorful broths and perfectly cooked noodles, the karaage chicken is fresh and tasty. https://www.instagram.com/sakuragiya118/
+
+[Takezo](https://maps.app.goo.gl/6oXyZxLap4BTAtrb6) - for nice ramen without long lines and waiting https://takezo.de/
+
+[Kagaya](https://maps.app.goo.gl/qpCY7KwMJwj5tiAZ8) (Charlottenstraße 60, 40210 Düsseldorf) - some Japanese reddit users recommended https://www.facebook.com/kagayadus
+
+
+[Naniwa Noodles & Soups](https://maps.app.goo.gl/fmv73csATsbF7HRw7) (Oststraße 55, 40211 Düsseldorf) - one of the best ramen, but too crouded and too expats http://www.naniwa.de/
+
+[Tokyo Ramen Takeichi](https://maps.app.goo.gl/Lo5xpFD54rJ36Hq19) (Immermannstraße 18, 40210 Düsseldorf) - relaxed sitting https://takeichi-ramen.eu/de/locations/germany/immermannstrasse-18-dusseldorf
+
+[Kushi-Tei of Tokyo](https://maps.app.goo.gl/Jzz8D49FgagNGZ437) - Relaxed restaurant serving Japanese cuisine, plus charcoal-grilled specialties & sushi. https://www.instagram.com/kushiteiduesseldorf/
+
+[Nagomi](https://maps.app.goo.gl/FN32GDQK4HND6D4L7) (Bismarckstraße 53, 40210 Düsseldorf) - Japanese Restaurant. many Japanese people eating at nearby Nagomi and Tokyo Ramen Takeichi  http://nagomi.de/
+
+[Kenny's Kitchen](https://maps.app.goo.gl/W5tpaKe7jbPUpghu8) (Birkenstraße 72, 40233 Düsseldorf) - Japanese restaurant https://www.instagram.com/kenny.s_kitchen
+
+[Hyuga](https://maps.app.goo.gl/N36NJURdBTZnCB2YA) - Elegant, minimalist venture dishing up sushi, tempura & Japanese curry, plus set meals. https://www.facebook.com/HyugaDuesseldorf/
+
+
+
+[Phox - Feine Phớ Küche](https://maps.app.goo.gl/tpG97gRHJrYwtnMN6) (Stresemannstraße 32, 40210 Düsseldorf) - http://www.pho-x.de/
+
+[LêVy](https://maps.app.goo.gl/nyVeaQ6H1ps9MFca9) (Hüttenstraße 47A, 40215 Düsseldorf) - Vietnamese restaurant http://www.levy-dd.com/
+
+
+[Seoul Restaurant](https://maps.app.goo.gl/GisnBKJf24c2cRfz5) (Klosterstraße 45, 40211 Düsseldorf) - korean https://seoulduesseldorf.wixsite.com/website
+
+[Korean BBQ Restaurant Düsseldorf | Yoonsim](https://maps.app.goo.gl/vcV5nTYCr8xRFh139) (Bismarckstraße 83, 40210 Düsseldorf) - nice but expensive kbbq https://yoonsim.de/
+
+[YoGi](https://maps.app.goo.gl/i6Yfur4DP4eexmHF8) (Grupellostraße 5, 40210 Düsseldorf) - korean
+
+[Gogi](https://maps.app.goo.gl/tAzQxJpx9K4868AA8) (Bismarckstraße 33, 40210 Düsseldorf) - korean 
+
+[Bibimcup](https://maps.app.goo.gl/kHNAAKNNsJqbtrXC9) (Friedrich-Ebert-Straße 3, 40210 Düsseldorf) - Korean dumplings, noodle dishes & bimbimbap in a stylish black-toned venue with a terrace. http://www.bibimcup.de/
+
+[Gangnam Dosirak](https://maps.app.goo.gl/qqhkZCCJDP5KaUXk7) (Zimmerstraße 28, 40215 Düsseldorf) - korean https://www.instagram.com/gangnamdosirak_/profilecard/
+
+
+
+[Tengri Tagh Uigur Restaurant](https://maps.app.goo.gl/Z8VBZwKi5qRgaGMZ6) (Oststraße 120, 40210 Düsseldorf) - Uyghur cuisine restaurant http://www.tengri-tagh-uigur-restaurant.eatbu.com/
+
+
+**beer**
+
+[Brewery Schumacher](https://maps.app.goo.gl/q9HPBnCBHyygKqUz9) - http://www.brauerei-schumacher.de/
+
+
+**bar**
+
+[Boothby's Bar](https://maps.app.goo.gl/GmxbAr27Y86LF47G6) - https://www.boothbys-bar.com/
+
+
+**Wine**
+
+[Kakhaber](https://maps.app.goo.gl/xypVkiPsNqsfoNMm9) (Rethelstraße 100, 40237 Düsseldorf) - georgian wines, beer, chacha and delicious appetizers. http://www.kakhaber.de/
+
+
+**tea**
+
+[Sphere Bay Manga Café](https://maps.app.goo.gl/oaP3oYsgUQXFaCVD6) - Bubble tea store http://www.spherebay.de/
+
+
+**coffee**
+
+copenhagen coffee lab - just great https://copenhagencoffeelab.com/
+
+TENTEN COFFEE - coffee and cakes http://tenten-coffee.com/
 
 
 ## Cologne/Köln
@@ -10099,6 +10160,9 @@ Craftbeer Corner Köln
 
 
 **coffee**
+
+
+copenhagen coffee lab - https://copenhagencoffeelab.com/
 
 Manulit (Limburger Straße 37, 50672 Cologne) - Browse and drink coffee at Manulit. bookstore + coffee
 
@@ -10253,6 +10317,8 @@ Altstadt (Old Town)
 
 [KUNST!RASEN](https://maps.app.goo.gl/xTb9ocEU1r8FhoUf7) - http://www.kunstrasen-bonn.de/
 
+[LandesMuseum](https://maps.app.goo.gl/jSbHo49NZoKwMzq58) - Museum highlighting the region's past through exhibitions of prehistoric finds, artworks & film. https://landesmuseum-bonn.lvr.de/de/startseite/startseite.html
+
 [Rheinaue Park](https://maps.app.goo.gl/AvofqScPZi3tzEeY6) - парк где просто приятно погулять и проходят маркеты http://foerderverein-freizeitpark-rheinaue.de/
 
 [Drachenfels](https://maps.app.goo.gl/KPwG4gbVzabnVqLDA) (Dragon's Rock) - http://www.drachenfels.net/
@@ -10280,6 +10346,7 @@ https://www.studierendenwerk-bonn.de/en/food-drink/
 [NOMIYA](https://maps.app.goo.gl/mhz5LUpzD1Agjipw7) - http://www.nomiya-ramen.de/
 
 (Nanking)[https://maps.app.goo.gl/piEHKzkrEkrFx2ke7] - китайская. Есть опция буфета а-ля all-you-can-eat  http://www.nanking-bonn.de/
+
 
 **beer**
 
@@ -10322,15 +10389,27 @@ Black Coffee Pharmacy (Bonner Talweg 46, B)
 
 conditory
 
+[tulip](https://maps.app.goo.gl/crsBp5uP1pWbdRyf7) (Bornheimer Str. 74, 53111 Bonn) - coffee and food https://www.tulip-cafe.de/ https://www.instagram.com/tulipcafe.bonn/
+
+Roestkurve - https://www.roestkurve.de/
+
+**tea**
+
+
 [OneZo Bonn](https://maps.app.goo.gl/jjaRceXxPBzmJsuf7) (Am Neutor 3, 53113 Bonn)- Bubble tea https://www.onezo-bubble-tea-bonn.de/
 
 [An's Tea House Bonn](https://maps.app.goo.gl/J5BCnA9gpeXvZtvw5) http://ansteahouse.de/
 
 [PAPER & TEA - Bonn](https://maps.app.goo.gl/v1CMd1AC5ajQobb1A) - https://www.paperandtea.de
 
+
+
 # Denmark
 
 www.jobindex.dk - A comprehensive job portal in Denmark for various industries.
+
+
+copenhagen coffee lab https://copenhagencoffeelab.com/
 
 **job**
 
