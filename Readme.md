@@ -9918,6 +9918,29 @@ aero fest https://www.flugplatz-dessau.de/flugbegeisterte/#fest
 
 https://www.frankfurt-coffee-festival.de/
 
+## Hodenhagen
+
+[Serengeti Park Hodenhagen](https://maps.app.goo.gl/xVjmEknuZiSEJFbp9)
+
+
+## Bremerhaven
+
+[Klimahaus Bremerhaven 8 ° Ost](https://maps.app.goo.gl/E5TaCGpVaWAwtusa7) - museum Contemporary meteorological center with interactive, kid-friendly weather & climate exhibits.
+
+
+
+
+## Winterberg
+
+Winterberg is a winter resort town in the western German state of North Rhine-Westphalia. It’s known for the ski slopes and foot and cycle trails in the surrounding mountains. Sports-training facilities include the St. Georg ski jump on Herrloh Mountain and a bobsled run in an arena in town. Exhibits at the West German Winter Sports Museum include vintage ski, bobsled and ice-skating equipment.
+
+
+## Nümbrecht
+
+Parkhotel Nümbrecht http://www.nuembrecht.com/
+
+
+
 ## Hattingen
 
 Hattingen is a town in the northern part of the Ennepe-Ruhr-Kreis district, in North Rhine-Westphalia, Germany
@@ -10401,6 +10424,14 @@ Roestkurve - https://www.roestkurve.de/
 [An's Tea House Bonn](https://maps.app.goo.gl/J5BCnA9gpeXvZtvw5) http://ansteahouse.de/
 
 [PAPER & TEA - Bonn](https://maps.app.goo.gl/v1CMd1AC5ajQobb1A) - https://www.paperandtea.de
+
+## Eifel
+
+[Mountain range](https://maps.app.goo.gl/n4NERkDGqZP3cdmp6)
+
+## Eltz
+
+[Eltz Castle](https://maps.app.goo.gl/Csv6DXrPVViiAM666)
 
 
 
