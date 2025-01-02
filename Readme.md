@@ -2553,6 +2553,8 @@ https://www.znanylekarz.pl  part of https://www.docplanner.com  поиск ча�
 
 Centrum Medyczne SUPERMED - вроде ок стоматология
 
+https://swisslaser.pl/ - вроде ок глазная клиника
+
 https://www.myheritage.pl/dna
 
 https://warsaw.ai/
@@ -7067,6 +7069,41 @@ Poké Bowl Olakino Amsterdam (Ferdinand Bolstraat 6A, 1072 LJ Amsterdam, Netherl
 
 
 
+## Zaandam/Зандам
+
+**to stay**
+
+inntelhotelsamsterdamzaandam.nl
+
+**to go**
+
+Zaanse Schans
+
+Квартал Russische Buurt и Домик Петра Первого
+
+дом с картины Клода Моне
+
+Собор Святого Бонифация
+
+Миниатюрная скульптура 
+
+Главная торговая улица и штаб-квартира Ahold Delhaize
+
+Зандайк и шоколадная фабрика Verkade zaansmuseum.nl
+
+Музей первого магазина Albert Heijn
+
+
+**app**
+
+Zaandam anno 1725 https://play.google.com/store/apps/details?id=nl.missinglink.vrowl.timeswitch&gl=NL https://apps.apple.com/nl/app/zaandam-anno-1725/id1439888992
+
+**food**
+
+dewalvis - https://www.dewalvis.nl/
+
+Bagels&Beans - есть странный грибной кофе
+
 
 ## Utrecht/Утрехт
 
@@ -8641,6 +8678,24 @@ https://www.temu.com/ - aliexpress for eu
 
 
 https://www.piercingline.com/ - piercin
+
+
+**music**
+
+
+https://www.hoert-hoert.de/
+https://www.arte-paco-musik.de/
+https://cinematique-instruments.com/
+used instruments: https://www.musikendres.de/
+http://www.christophsiewers.de/
+https://geigenbau-buennagel.com/de/kontakt/
+https://www.blaeserforum.com/
+Musicstore
+colognestreetmarket.de
+https://headphone.shop
+
+
+**app**
 
 NINA App for warnings about bomb findings, storms, fires, evacuations,...
 
