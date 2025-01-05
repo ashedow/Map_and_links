@@ -6821,6 +6821,16 @@ Toko Don Yong - огромный этаж еды, потом то ли 3 то л
 [Blin Delicatessen uit Oost-Europa](https://maps.app.goo.gl/a4wcRw4CUkSfvi266) (Plantage Kerklaan 30, 1018 TC Amsterdam) - Странные кринжовые продукты 
 
 
+**music**
+
+https://www.midiamsterdam.nl/
+
+http://www.headphoneauditions.nl/
+
+https://www.our-house.com/
+
+https://www.bax-shop.nl/
+
 **techwear**
 
 Krakatau (Nieuwe Spiegelstraat 30, 1017 DG Amsterdam, Netherlands) - https://en.krakatauwear.com/
@@ -6946,15 +6956,27 @@ O'Donnell's (Ferdinand Bolstraat 5, 1072 LA Amsterdam, Netherlands) - Irish pub 
 
 Вот эти заведения топ:
 
-1) back to black Weteringstraat 48, 1017 SP
+back to black Weteringstraat 48, 1017 SP
 
-2) monks coffee roasters
+monks coffee roasters
 
-3) lot 61
+lot 61
 
-4) scandinavian embassy - косо посмотрят если попросить молоко и сахар к кофе
+scandinavian embassy - косо посмотрят если попросить молоко и сахар к кофе https://shop.scandinavianembassy.nl/
 
-5) Coffee salon тож неплохо
+Screaming Beans - https://screamingbeans.nl/
+
+Morning Owl Coffee - http://morningowlcoffee.com/
+
+4850 coffee - http://www.4850.nl/
+
+Elevate Coffee Lab - http://elevatecoffeelab.com/
+
+Qazaq Coffee - http://www.qazaqcoffee.nl/
+
+Uncommon Cafe - http://www.uncommonams.com/
+
+Coffee salon тож неплохо
 
 Screaming Beans - Runstraat 6, 1016 GK 
 
@@ -7060,6 +7082,8 @@ Poké Bowl Olakino Amsterdam (Ferdinand Bolstraat 6A, 1072 LJ Amsterdam, Netherl
 
 [The Good Companion](https://maps.app.goo.gl/aC698dxVrd9E4Ev8A) (Westerstraat 264, 1015 MT Amsterdam, Niederlande) - За морской едой идите сюда http://www.thegoodcompanion.nl/ 
 
+
+[Mee Noodles](https://maps.app.goo.gl/rVUwH6K8sCQeGmD79) (Damstraat 1, 1012 JL Amsterdam, Netherlands) - nice chinese nuddles and dishes
 
 
 [Cafe de Luxemburg](https://maps.app.goo.gl/m1GCphQ8L76R9cyt6) Туристическое место в духе старой Европы в самом центре, с дружелюбным персоналом. Попробовать биттерболлен https://www.cafeluxembourg.amsterdam/
