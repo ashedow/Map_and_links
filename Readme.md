@@ -6315,6 +6315,12 @@ https://www.heatsupply.nl/ - Hot Sauce
 
 Umba
 
+**flower**
+
+https://fleurop.nl
+
+euroflorist.nl
+
 **coffee**
 
 https://fivewayscoffee.com/
@@ -11519,7 +11525,13 @@ https://www.service-public.fr/ – this website is for the French government’s
 
 www.pole-emploi.fr - The French public employment service offering job listings
 
+**to go**
+
+all in travel https://www.sncf-connect.com/en-en/ (inside France and from France)
+
 https://vas3k.ru/world/normandy/ - париж, руан, abbaye de Jumieges, Этрета (захайпованное место) -> Онфлёр, Мон-Сен-Мишель, Омаха Бич, Канкаль (устрицы), Сан-Мало (Прогулка по городской стене), Дорога Сидра (популярная идроварня Pierre Huet)
+https://maps.app.goo.gl/GrqAb88HscX9tbmJ9
+
 
 лавандовые поля в Валенсоль
 
@@ -11529,9 +11541,15 @@ https://vas3k.ru/world/normandy/ - париж, руан, abbaye de Jumieges, Э�
 
 Схема парижского метро Константина Коновалова http://metromap.fr
 
-le grand bain 14 rue Dénoyez Metro: Belleville - неоресторан http://www.legrandbainparis.com/fr/
 
 Музей Орсэ - офигенно красивое здание бывшего жд вокзала, в котором теперь одна из лучших коллекций картин импрессионистов в мире. Импрессионизм - топ, одно из самых интересных течений в изобразительном искусстве.
+
+
+Musée Carnavalet- большой музей, посвященный истории Парижа. Бесплатный.
+
+Овальный зал библиотеки Ришелье - очень красивый читальный зал, вход свободный. Там же есть музей и проводят воркшопы (вроде на английском тоже), но я застряла в читальном зале и ничего про остальное сказать не могу.
+
+Музей человека, антропологический музей. Тоже бесплатно. В Париже вообще много бесплатных музеев.
 
 **Bar**
 
@@ -11568,6 +11586,31 @@ BAR NOUVEAU - Bar 5 rue des Haudriettes 4PM - 1AM closed les Mardis No reservati
 Sister midnight (4 Rue Viollet-le-Duc) - Inclusive cocktail bar reviving Pigalles forgotten glam rock roots ⚡️COCKTAILS⚡️PUNK ⚡️ DISCO ⚡️DRAG ⚡️  https://www.sistermidnightparis.com/ https://www.instagram.com/sistermidnightparis
 
 CLASSIQUE - Cocktail Bar Bistrot à Cocktails top500bars www.timeout.fr/paris/que-faire/et-voici-les-grands-gagnants-des-time-out-local-awards https://www.instagram.com/classique.cafe/
+
+
+**wine**
+
+Chinaski — прикольный выбор натуральных вин и небольшое креативное сезонное меню
+
+
+**food**
+
+Sushi Shunei — https://www.sushishunei.com/
+
+Kodawari Ramen - японский ресторан, стилизованный под рыбный рынок, где готовят вкусный рамен
+
+
+Le Petit Celestin (Le Petit Célestin, 12 Quai des Célestins, 75004 Paris, France) —
+Traditional French Cuisine. boeuf bourguignon https://www.lepetitcelestin.fr/
+
+Le Louchebem — тартар. семья занимается какие-то безумные 150 лет мясом https://www.le-louchebem.fr/
+
+Le Cassenoix — сезонное меню, демократические цены, очень достойно https://www.le-cassenoix.fr/en/
+
+La Maison d’Isabelle (47ter Bd Saint-Germain, 75005 Paris) — пекарня, сайта нет, попробовать kouign amann, .
+
+le grand bain 14 rue Dénoyez Metro: Belleville - неоресторан http://www.legrandbainparis.com/fr/
+
 
 
 **store**
